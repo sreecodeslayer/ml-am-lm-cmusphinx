@@ -1,5 +1,5 @@
 അംഗവുമായ							AN G VU MA Y
-അംഗീകരിക്കലല്ലേ						AN GEE K RI KK L1A LL1AE2			
+അംഗീകരിക്കലല്ലേ						AN GEE K RI KK L1A LL1AE2
 അംഗീകരിക്കാന്‍						AN GEE K RI KKA N2
 അംഗീകരിച്ചതാണ്						AN GEE K RI CC T2A N1U1
 അകത്തേക്ക്							A K TT2AE2 KK1
@@ -18,7 +18,7 @@
 അക്കാദമി								A KKA D2 MI
 അക്കൗണ്ട്‌സ്							A KKAU N1T1 S33
 അക്കൗണ്ട്‌								A KKAU N1T1
-അങ്കിളിന്‍റെ							A NKI L2I N2TAE1 
+അങ്കിളിന്‍റെ							A NKI L2I N2TAE1
 അങ്കിളിന്								A NKI L2I N22
 അങ്കിൾ								A NKI L2
 അങ്ങകലെ							A NGNGA K L1AE1
@@ -61,13 +61,13 @@
 അഞ്ച്								A NCH1
 അഞ്ഞൂറ്								A NNJUU	R1
 അടക്കാന്‍								A T1 KKA N2
-അടക്കിയിട്ടുണ്ട്							A T1 KKI YI T11U N1T1 
+അടക്കിയിട്ടുണ്ട്							A T1 KKI YI T11U N1T1
 അടക്കിയിരിക്കുന്നത്						A T1 KKI YI R2I KKU NN2A T22
 അടക്കുന്നുണ്ട്							A T1 KKU NN2U N1T1
 അടക്കുന്നു							A T1 KKU NN2U
 അടങ്ങ്‌								A T1 NGNG
 അടച്ചിടും								A T1 CC2I T1UM
-അടച്ചിട്ടില്ലേ							A T1 CC2I T11I LL1AE2 
+അടച്ചിട്ടില്ലേ							A T1 CC2I T11I LL1AE2
 അടച്ചോ								A T1 CC2O2
 അടവുകളും							A T1 VU K L2UM
 അടവുകള്‍							A T1 VU K L2
@@ -77,7 +77,7 @@
 അടിത്തറ								A T1I TT2 R1A
 അടിപൊളി							A T1I PO1 L2I
 അടിമകളോ							A T1I M K L2O2
-അടിയന്തിര							A T1I Y N2T2I R2A 
+അടിയന്തിര							A T1I Y N2T2I R2A
 അടിയില്‍								A T1I YI L1
 അടിയുണ്ടാക്കുന്നു						A T1I YU NT1AA KKU NN2U
 അടിവസ്ത്രം							A T1I V S33 T2R1AM
@@ -134,7 +134,7 @@
 അതായത്								A T2A Y T22
 അതാരാണെന്ന്							A T2A R2AA N1AE1 NN2
 അതാരാണ്							A T2A R2AA N1U1
-അതാ								A T2A	
+അതാ								A T2A
 അതിക്രമിച്ച്							A T2I KR1 MI CC22
 അതിഗംഭീരം							A T2I GAM BHII R2M
 അതിഗംഭീര							A T2I GAM BHII R2A
@@ -149,7 +149,7 @@
 അതിനനുസരിച്ച്						A T21 N2A N2U S3 R2I CC22
 അതിനപ്പുറം							A T2I N2A PPU R1M
 അതിനര്‍ത്ഥം							A T2I N2A R2 T2T2HM
-അതിനല്ലേ								A T2I N2A LL1AE2 
+അതിനല്ലേ								A T2I N2A LL1AE2
 അതിനായി							A T2I N2AA YI
 അതിനാലാണ്							A T2I N2AA L1AA N1U1
 അതിനാൽ							A T2I N2AA L1
@@ -158,7 +158,7 @@
 അതിനുമുമ്പ്							A T2I N2U MU MP1
 അതിനുള്ളിലെ							A T2I N2U LL2I L1AE1
 അതിനുള്ളിലേക്ക്						A T2I N2U LL2I L1AE2 KK1
-അതിനുള്ള							A T2I N2U LL2A 
+അതിനുള്ള							A T2I N2U LL2A
 അതിനു൦മാത്രമുള്ള 						A T2I N2UM MA T2R1 MU LL2A
 അതിനു								A T2I N2U
 അതിനെക്കുറിച്ച്						A T2I N2AE1 KKU R1I CC22
@@ -166,9 +166,9 @@
 അതിനെയാണ്							A T2I N2AE1 YA N1U1
 അതിനെയാർക്കും						A T2I N2AE1 YA R2 KKUM
 അതിനെ								A T2I N2AE1
-അതിനേക്കാളും							A T2I N2AE2 KKA L2UM 
-അതിനൊന്നുമുള്ള						A T2I N2O1 NN2U MU LL2A 
-അതിനൊപ്പം							
+അതിനേക്കാളും							A T2I N2AE2 KKA L2UM
+അതിനൊന്നുമുള്ള						A T2I N2O1 NN2U MU LL2A
+അതിനൊപ്പം
 അതിനൊരു
 അതിനോട്
 അതിന്റെ
@@ -313,13 +313,13 @@
 അനുവാദമില്ലാ							A N2U VA D2 MI LL1AA
 അനുവാദമില്ല							A N2U VA D2 MI LL1A
 അനുവാദമുണ്ട്							A N2U VA D2 MU N1T1
-അനുസരിക്കണം						A N2U S3 R2I KK N1M	
+അനുസരിക്കണം						A N2U S3 R2I KK N1M
 അനുസരിക്കേണ്ട						A N2U S3 R2I KKAE2 N1T1A
 അനുസരിചിട്ടുണ്ട്						A N2U S3 R2I CI T11U N1T1
 അന്തരിച്ചു								A N2T2A R2I CC2U
-അന്തരീക്ഷം							A N2T2A R2II KS2M 
+അന്തരീക്ഷം							A N2T2A R2II KS2M
 അന്തരീക്ഷത്തിന്റെ						A N2T2A R2II KS2 TT2I N2TE
-അന്തരീക്ഷത്തിൽ						A N2T2A R2II KS2 TT2I L1		
+അന്തരീക്ഷത്തിൽ						A N2T2A R2II KS2 TT2I L1
 അന്തരീഷത്തിൽ						A N2T2A R2II S2 TT2I L1
 അന്തസ്സ്‌								A N2T2A SS31
 അന്ധകാരം							A N2D2H KA R2M
@@ -357,7 +357,7 @@
 അപ്പൂപ്പാ								A PPUU PPA
 അപ്പോൾ								A PPO2 L2
 അപ്പൊ								A PPO1
-അപ്പോളോ							A PPO2 L2O2								
+അപ്പോളോ							A PPO2 L2O2
 അപ്പോഴും								A PPO2 ZUM
 അപ്പോഴേയ്കും							A PPO2 ZAE2 YKUM
 അപ്പോ								A PPO2
@@ -394,7 +394,7 @@
 അമ്മയെ								A MM YAE1
 അമ്മയൊക്കെ							A MM YO1 KKAE1
 അമ്മയോടും							A MM YO2 T1UM
-അമ്മയോട്							A MM YO2 T111					
+അമ്മയോട്							A MM YO2 T111
 അമ്മാവന്‍								A MMA V N2
 അമ്മാ								A MMA
 അമ്മേ								A MMAE2
@@ -409,7 +409,7 @@
 അയച്ചതാണ്							A Y CC2 T2A N1U1
 അയച്ചത്								A Y CC2 T22
 അയച്ചാൽ								A Y CC2A L1
-അയച്ചിട്ടുണ്ടോ							A Y CC2I T11U N1T1O2 
+അയച്ചിട്ടുണ്ടോ							A Y CC2I T11U N1T1O2
 അയച്ചിട്ടുണ്ട്							A Y CC2I T11U N1T1
 അയച്ചില്ല								A Y CC2I LL1A
 അയച്ചുകൊടുത്താലും					A Y CC2U KO1 T1U TT2A L1UM
@@ -441,7 +441,7 @@
 അരികിലായി							A R2I KI L1AA YI
 അരിവാങ്ങാൻ							A R2I VA NGNGAA N2
 അരുത്								A R2U T22
-അര്‍ത്ഥം								A R2 T2T2HM								
+അര്‍ത്ഥം								A R2 T2T2HM
 അര്‍ത്ഥങ്ങളുമുണ്ട്						A R2 T2T2H NGNGA L2U MU N1T1
 അര്‍ത്ഥമില്ല							A R2 T2T2H MI LL1A
 അര്‍ത്ഥമെന്ന്							A R2 T2T2H MAE1 NN2
@@ -493,10 +493,10 @@
 അലറുന്ന								A L1A R1U NN2A
 അലിഖാൻ								A L1I KHA N2
 അലുമിനിയം							A L1U MI N2I YM
-അല്പം								A L1PM						
+അല്പം								A L1PM
 അല്പസമയം							A L1P S3 M YM
-അല്ലല്ലോ								A LL1A LL1O2								
-വിദേശ								VI D2AE2 S1					
+അല്ലല്ലോ								A LL1A LL1O2
+വിദേശ								VI D2AE2 S1
 ചൈനീസാണ്							CAI N2II S3A N1U1
 അല്ലാതെന്താണ്							A LL1AA T2AE1 N2T2AA N1U1
 അല്ലാതെന്ത്							A LL1AA T2AE1 N2T2
@@ -631,7 +631,7 @@
 അവിടെ								A VI T1AE1
 അവിടേക്ക്							A VI T1AE2 KK1
 അവ്യക്ത								A VY KT2
-അവൻ								A V N2		
+അവൻ								A V N2
 അവർക്കറിയാം							A V R2 KK R1I YAM
 അവർക്കറിയില്ലാ						A V R2 KK R1I YI LL1AA
 അവർക്കെല്ലാം							A V R2 KKAE1 LL1AAM
@@ -642,7 +642,7 @@
 അവൾ								A V L2
 അവ									A V
 അശു								A S1U
-അശ്രദ്ധമായ							A S1R1 D2D2H 
+അശ്രദ്ധമായ							A S1R1 D2D2H
 അശ്വിൻ								A S1VI N2
 അസംബന്ധംങ്ങളെക്കുറിച്ച്					A S3AM B N2D2HM NGNGA L2AE1 KKU R1I CC22
 അസംബന്ധം							A S3AM B N2D2HM
@@ -660,14 +660,14 @@
 അഹങ്കാരം							A H NKA R2M
 അഹ്								A H11
 അർഥം								A R2 T2HM
-അർഥമെന്താണ്							A R2 T2H MAE1 N2T2AA N1U1								
+അർഥമെന്താണ്							A R2 T2H MAE1 N2T2AA N1U1
 അൽപ്പം								A L1 PPM
 അ									A
 ആംസ്റ്റർഡാം							AAM S33 T R2 DAM
 ആംസ്റ്റർഡാമാണ്						AAM S33 T R2 DA MA N1U1
 ആംസ്റ്റർഡാമിലും						AAM S33 T R2 DA MI L2UM
 ആംസ്റ്റർഡാമിലെത്തിയാൽ					AAM S33 T R2 DA MI L2AE1 TT2I YA L2
-ആംസ്റ്റർഡാമിലെവിടെയാണ്				AAM S33 T R2 DA	MI L2AE1 VI T1AE1 YA N1U1 
+ആംസ്റ്റർഡാമിലെവിടെയാണ്				AAM S33 T R2 DA	MI L2AE1 VI T1AE1 YA N1U1
 ആംസ്റ്റർഡാമിലെ						AAM S33 T R2 DA	MI L2AE1
 ആംസ്റ്റർഡാമിലേക്കുള്ള					AAM S33 T R2 DA	MI L1AE2 KKU LL2A
 ആംസ്റ്റർഡാമിലേക്ക്						AAM S33 T R2 DA	MI L2AE1 KK1
@@ -679,7 +679,7 @@
 ആകട്ടെ								AA K T11AE1
 ആകണം								AA K N1M
 ആകര്‍ഷിക്കുന്നത്						AA K R2 S2I KKU NN2A T22
-ആകാംഷ								AA KAM S2						
+ആകാംഷ								AA KAM S2
 ആകാം								AA KAM
 ആകാശത്ത്							AA KA S1 T2T2
 ആകാൻ								AA KA N2
@@ -696,14 +696,14 @@
 ആക്കും								AA KKUM
 ആക്രമിക്കാന്‍							AA KR1 MI KKA N2
 ആക്രമിക്ക്							AA KR1 MI KK1
-ആക്ഷന്‍								AA KS2 N2			
-ആക്സലേറ്റർ							AA KS3 L1AE2 T R2				
+ആക്ഷന്‍								AA KS2 N2
+ആക്സലേറ്റർ							AA KS3 L1AE2 T R2
 ആഗ്രഹം								AA GR1 HM
 ആഗ്രഹമുണ്ട്							AA GR1 H MU N1T1
 ആഗ്രഹിക്കുന്നു							AA GR1 HI KKU NN2U
 ആഗ്രഹിച്ചിരുന്നത്						AA GR1 HI CC2I R2U NN2A T22
 ആഘോഷത്തിലേക്						AA GHO2 S2 TT2I L1AE2 K11
-ചിലസമയങ്ങളിൽ						CI L1A S3 M Y NGNGA L2I L1						
+ചിലസമയങ്ങളിൽ						CI L1A S3 M Y NGNGA L2I L1
 ആജ്ഞകള്‍							AA JNA K L2
 ആണന്നറിയില്ലേ						AA N1A NN2A R1I YI LL1AE2
 ആണുങ്ങളുടെ							AA N1U NGNGA L2U T1AE1
@@ -726,7 +726,7 @@
 ആദ്യതെ								AA D2Y T2AE1
 ആദ്യത്തേത്							AA D2Y TT2AE2 T22
 ആദ്യമായി								AA D2Y MA YI
-ആദ്യ								AA D2Y						
+ആദ്യ								AA D2Y
 ആനുകൂല്യങ്ങളും						AA N2U KUU L1Y NGNGA L2UM
 ആന്‍റിയെ								AA N2TI YAE1
 ആപേക്ഷികതയെ						AA PAE2 KS2I K T2 YAE1
@@ -751,7 +751,7 @@
 ആരംഭിക്കുന്നു							AA R2M BHI KKU NN2U
 ആരംഭിക്കു							AA R2M BHI KKU
 ആരംഭിച്ചത്							AA R2M BHI CC2 T22
-ആരംഭിച്ചു								AA R2M BHI CC2U							
+ആരംഭിച്ചു								AA R2M BHI CC2U
 ആരാണത്								AA R2AA N1A T22
 ആരാണീ								AA R2AA N1II
 ആരാണെന്നു							AA R2AA N1AE1 NN2U
@@ -767,11 +767,11 @@
 ആരെയും								AA R2AE1 YUM
 ആരോ								AA R2O2
 ആരോടും								AA R2O2 T1UM
-ആരോട്								AA R2O2 T111							
+ആരോട്								AA R2O2 T111
 ആര്‍ക്കും								AA R2 KKUM
 ആര്‍ക്കുമിവനെ							AA R2 KKU MI V N2AE1
 ആര്‍ജ്ജിച്ചു							AA R2 JJI CC2U
-ആര്									AA R22							
+ആര്									AA R22
 ആറു								AA R1U
 ആറ്									AA R11
 ആലോചിക്കും							AA L1O2 CI KKUM
@@ -834,7 +834,7 @@
 ആസാമികളുടെ							AA S3A MI K L2U T1AE1
 ആസുത്രണം							AA S3U T2R1 N1M
 ആസ്വദിച്ചോളു							AA S3V D2I CC2O2 L2U
-ആസ്വദിച്ചോ							AA S3V D2I CC2O2						
+ആസ്വദിച്ചോ							AA S3V D2I CC2O2
 ആഹാരം								AA HA R2M
 ആഹാരത്തിനു							AA HA R2A TT2I N2U
 അടുത്തവട്ടം							A T1U TT2A V T11M
@@ -845,7 +845,7 @@
 ആർക്കും								AA R2 KKUM
 ആർക്കൊക്കെ							AA R2 KKO1 KKAE1
 ആ									AA
-ഇംഗ്ലീഷിലെന്താണ്						EN G11 L2II S2I L1AE1 N1T1AA N1U1						
+ഇംഗ്ലീഷിലെന്താണ്						EN G11 L2II S2I L1AE1 N1T1AA N1U1
 ഇംഗ്ലീഷിൽ							EN G11 L2II S2I L1
 ഇംഗ്ലീഷ്								EN G11 L2II S22
 ഇക്കാര്യം								E KKA R2YM
@@ -903,11 +903,11 @@
 ഇതിനെന്റെ							E T2I N2AE1 N2TE
 ഇതിനെ								E T2I N2AE1
 ഇതിനൊരു							E T2I N2O1 R2U
-ഇതിന്‍റെ								E T2I N2TAE1							
+ഇതിന്‍റെ								E T2I N2TAE1
 ഇതിന്								E T2I N22
 ഇതിപ്പോ								E T2I PPO2
 ഇതിറിയാമായിരുന്നോ					E T2I R1I MA YI R2U NN2O2
-ഇതിലിടുന്നത്							E T2I L1I T1U NN2A T22 
+ഇതിലിടുന്നത്							E T2I L1I T1U NN2A T22
 ഇതിലുണ്ടാവൂ							E T2I L1U N1T1AA VUU
 ഇതിലുണ്ട്								E T2I L1U
 ഇതിലൂടെ								E T2I L1UU
@@ -936,7 +936,7 @@
 ഇതെനിക്ക്							E T2AE1 N2I KK1
 ഇതെന്താണ്							E T2AE1 N2T2AA N1U1
 ഇതെന്താ								E T2AE1 N2T2AA
-ഇതെന്‍റെ								E T2AE1 N2TAE1 
+ഇതെന്‍റെ								E T2AE1 N2TAE1
 ഇതെല്ലം								E T2AE1 LL1AM
 ഇതെല്ലാം								E T2AE1 LL1AAM
 ഇതൊക്കെ								E T2O1 KKAE1
@@ -1044,7 +1044,7 @@
 ഇറ്റാലിയനാണ്							E TA L1I Y N2AA N1U1
 ബുദ്ധിശാലി							BU D2D2HI S1A L1I
 ഇറ്റാലിയൻ								E TA L1I Y N2
-ഇലക്ട്രിക്കൽ							E L1A K11 T1R1I KK L1							
+ഇലക്ട്രിക്കൽ							E L1A K11 T1R1I KK L1
 ഇല്ലെന്നു								E LL1AE1 NN2U
 ഇല്ലല്ലോ								E LL1A LL1O2
 ഇല്ലാതാകും							E LL1AA T2A KUM
@@ -1054,7 +1054,7 @@
 ഇല്ലാതെ								E LL1AA T2AE1
 ഇല്ലായിരുന്നു							E LL1AA YI R2U NN2U
 ഇല്ലായിരുന്നെങ്കില്‍						E LL1AA YI R2U NN2AE1 NKI L1
-ഇല്ലാ									E LL1AA 
+ഇല്ലാ									E LL1AA
 ഇല്ലില്ല								E LL1I LL1A
 ഇല്ലെങ്കിലും							E LL1AE1 NKI L1UM
 ഇല്ലെന്ന്								E LL1AE1 NN2
@@ -1096,9 +1096,9 @@
 ഇവിടെയുള്ള							E VI T1AE1 YU LL2A
 ഇവിടെയെങ്ങും							E VI T1AE1 YAE1 NGNGUM
 ഇവിടെയെത്തിച്ചത്						E VI T1AE1 YAE1 TT2I CC2A T22
-ഇവിടെ								E VI T1AE1								
+ഇവിടെ								E VI T1AE1
 ഇവ									E V
-ഇഷ്ടം								E S22 T1M					
+ഇഷ്ടം								E S22 T1M
 ഇഷ്ടങ്ങള്‍								E S22 T1 NGNGA L2
 ഇഷ്ടത്തിലാണ്							E S22 T1 TT2I L1AA N1U1
 ഇഷ്ടത്തോടെ							E S22 T1 TT2O2 T1AE1
@@ -1142,104 +1142,104 @@
 ഈവനിങ്ങ്							EE V N2I NGNG
 ഈ									EE
 ഉം									UM
-ഉച്ചയ്ക്ക്
-ഉച്ഛ്വാസവായുവും
-ഉടനീളം
-ഉടനെ
-ഉണരാനുള്ള
-ഉണര്
-ഉണ്ടല്ലോ
-ഉണ്ടവിടെ
-ഉണ്ടാകില്ല
-ഉണ്ടാകുന്നൊരു
-ഉണ്ടാകുമെന്ന്
-ഉണ്ടാകുമോ
-ഉണ്ടാക്കാനും
-ഉണ്ടാക്കാൻ
-ഉണ്ടാക്കികൂടെ
-ഉണ്ടാക്കിയതാകണം
-ഉണ്ടാക്കിയതാണോ
-ഉണ്ടാക്കിയതാണ്
-ഉണ്ടാക്കിയത്
-ഉണ്ടാക്കിയപ്പോള്‍
-ഉണ്ടാക്കിയ
-ഉണ്ടാക്കി
-ഉണ്ടാക്കുക
-ഉണ്ടാക്കുന്നത്
-ഉണ്ടാക്കുന്നു
-ഉണ്ടായതല്ലേ
-ഉണ്ടായതാകണം
-ഉണ്ടായതാണ്
-ഉണ്ടായിട്ടുള്ളൂ
-ഉണ്ടായിരുന്നത്
-ഉണ്ടായിരുന്നുഅവിടെ
-ഉണ്ടായിരുന്നുഫൈസൽ
-ഉണ്ടായിരുന്നു
-ഉണ്ടായിരുന്നോ
-ഉണ്ടായിരുന്ന
-ഉണ്ടായി
-ഉണ്ടാവണമെന്നില്ല
-ഉണ്ടാവാൻ
-ഉണ്ടാവില്ലായിരിക്കും
-ഉണ്ടാവില്ല
-ഉണ്ടാവുക
-ഉണ്ടാവുമ്പോൾ
-ഉണ്ടെന്ന്‍
-ഉണ്ടെന്ന്
-ഉണ്ടോന്ന്
-ഉണ്ടോ
-ഉണ്ട്
-ഉത്തരം
-ഉത്തരവാദിത്തങ്ങൾ
-ഉത്തരവാദിത്തമുണ്ട്
-ഉത്തേജിപ്പിക്കും
-ഉത്സാഹിച്ചു
-ഉദിക്കട്ടെ
-ഉദിച്ചു
-ഉദ്ദശിച്ചത്
-ഉദ്ദേശം
-ഉദ്ദേശിക്കുന്നത്
-ഉദ്ദേശിക്കുന്നില്ല
-ഉദ്ദേശിക്കുന്നു
-ഉദ്ദേശിച്ചത്
-ഉദ്ദേശിച്ചില്ല
-ഉപകരണം
-ഉപകരണങ്ങൾ
-ഉപകരണമോ
-ഉപകാരപ്പെടില്ല
-ഉപകാരപ്പെടും
-ഉപകാരപ്രദമാണ്
-ഉപഗ്രഹങ്ങള്‍
-ഉപദേഷ്ടാവ്
-ഉപയോഗിക്കാം
-ഉപയോഗിക്കുംബോളു
-ഉപയോഗിക്കും
-ഉപയോഗിച്ച്
-ഉപയോഗം
-ഉപയോഗമുള്ളത്
-ഉപയോഗശൂന്യമായ
-ഉപയോഗിക്കട്ടേ
-ഉപയോഗിക്കാം
-ഉപയോഗിക്കാതിരുന്നത്
-ഉപയോഗിക്കാനും
-ഉപയോഗിക്കുന്നത്
-ഉപയോഗിച്ചതുപോലയായിരുന്നു
-ഉപയോഗിച്ചത്
-ഉപയോഗിച്ചാണത്
-ഉപയോഗിച്ചാണ്
-ഉപയോഗിച്ചു
-ഉപയോഗിച്ച്
-ഉപരി
-ഉപേക്ഷിക്കപ്പെട്ട
-ഉപേക്ഷിക്കാം
-ഉപേക്ഷിക്കാനാണ്
-ഉപേക്ഷിക്കാൻ
-ഉപേക്ഷിക്കുക
-ഉപേക്ഷിക്കേണ്ടി
-ഉപേക്ഷിച്ചാൽ
-ഉപേക്ഷിച്ചുപോകുമോ
-ഉപേക്ഷിച്ചു
-ഉപേക്ഷിച്ച്
+ഉച്ചയ്ക്									U CC2 YK1
+ഉച്ഛ്വാസവായുവും						U C11 CHVA S3 VA YU VUM
+ഉടനീളം								U T1 N2II L2M
+ഉടനെ								U T1 N2AE1
+ഉണരാനുള്ള							U N1A R2AA N2U LL2A
+ഉണര്								U N1A R22
+ഉണ്ടല്ലോ								U N1T1A LL1O2
+ഉണ്ടവിടെ								U N1T1A VI T1AE1
+ഉണ്ടാകില്ല								U N1T1AA KI LL1A
+ഉണ്ടാകുന്നൊരു							U N1T1AA KU NN2O2 R2U
+ഉണ്ടാകുമെന്ന്							U N1T1AA KU MAE1 NN2
+ഉണ്ടാകുമോ							U N1T1AA KU MO2
+ഉണ്ടാക്കാനും							U N1T1AA KKA N2UM
+ഉണ്ടാക്കാൻ							U N1T1AA KKA N2
+ഉണ്ടാക്കികൂടെ							U N1T1AA KKI KUU T1AE1
+ഉണ്ടാക്കിയതാകണം						U N1T1AA KKI Y T2A K N1M
+ഉണ്ടാക്കിയതാണോ						U N1T1AA KKI Y T2A N1O2
+ഉണ്ടാക്കിയതാണ്						U N1T1AA KKI Y T2A N1U1
+ഉണ്ടാക്കിയത്							U N1T1AA KKI Y T22
+ഉണ്ടാക്കിയപ്പോള്‍						U N1T1AA KKI Y PPO2 L2
+ഉണ്ടാക്കിയ							U N1T1AA KKI Y
+ഉണ്ടാക്കി								U N1T1AA KKI
+ഉണ്ടാക്കുക							U N1T1AA KKU
+ഉണ്ടാക്കുന്നത്							U N1T1AA KKU
+ഉണ്ടാക്കുന്നു							U N1T1AA KKU
+ഉണ്ടായതല്ലേ							U N1T1AA Y T2 LL1AE2
+ഉണ്ടായതാകണം							U N1T1AA Y T2A K N1M
+ഉണ്ടായതാണ്							U N1T1AA Y T2A N1U1
+ഉണ്ടായിട്ടുള്ളൂ							U N1T1AA YI T11U LL2UU
+ഉണ്ടായിരുന്നത്							U N1T1AA YI R2U
+ഉണ്ടായിരുന്നുഅവിടെ					U N1T1AA YI R2U NN2U
+ഉണ്ടായിരുന്നുഫൈസൽ					U N1T1AA YI R2U NN2U
+ഉണ്ടായിരുന്നു							U N1T1AA YI R2U NN2U
+ഉണ്ടായിരുന്നോ							U N1T1AA YI R2U NN2O2
+ഉണ്ടായിരുന്ന							U N1T1AA YI R2U NN2A
+ഉണ്ടായി								U N1T1AA YI
+ഉണ്ടാവണമെന്നില്ല						U N1T1AA V N1A MAE1 NN2I LL1A
+ഉണ്ടാവാൻ								U N1T1AA VA N2
+ഉണ്ടാവില്ലായിരിക്കും						U N1T1AA VI LL1AA YI R2I KKUM
+ഉണ്ടാവില്ല								U N1T1AA VI LL1A
+ഉണ്ടാവുക								U N1T1AA VU K
+ഉണ്ടാവുമ്പോൾ							U N1T1AA VU MPO2 L2
+ഉണ്ടെന്ന്								U N1T1AE1 NN2
+ഉണ്ടോന്ന്								U N1T1O2 NN2
+ഉണ്ടോ								U N1T1O2
+ഉണ്ട്									U N1T1
+ഉത്തരം								U TT2 R2M
+ഉത്തരവാദിത്തങ്ങൾ						U TT2 R2A VA D2I TT2 NGNGA L2
+ഉത്തരവാദിത്തമുണ്ട്						U TT2 R2A VA D2I TT2 MU N1T1
+ഉത്തേജിപ്പിക്കും							U TT2AE2 JI PPI KKUM
+ഉത്സാഹിച്ചു							U L1 HI CC2U
+ഉദിക്കട്ടെ								U D2I KK T11AE1
+ഉദിച്ചു								U D2I CC2U
+ഉദ്ദേശിച്ചത്								U DD2AE2 S1I CC2 T22
+ഉദ്ദേശം								U DD2AE2 S1M
+ഉദ്ദേശിക്കുന്നത്							U DD2AE2 S1I KKU NN2 T22
+ഉദ്ദേശിക്കുന്നില്ല							U DD2AE2 S1I KKU NN2I LL1AE1
+ഉദ്ദേശിക്കുന്നു							U DD2AE2 S1I KKU NN2U
+ഉദ്ദേശിച്ചത്								U DD2AE2 S1I CC2 T22
+ഉദ്ദേശിച്ചില്ല							U DD2AE2 S1I CC2I LL1A
+ഉപകരണം								U P K R2A N1M
+ഉപകരണങ്ങൾ							U P K R2A N1A NGNGA L2
+ഉപകരണമോ							U P K R2A N1A MO2
+ഉപകാരപ്പെടില്ല							U P KA R2A PPAE1 T1I LL1A
+ഉപകാരപ്പെടും							U P KA R2A PPAE1 T1UM
+ഉപകാരപ്രദമാണ്						U P KA R2A PR1 D2 MA N1U1
+ഉപഗ്രഹങ്ങള്‍							U P GR1 H NGNGA L2
+ഉപദേഷ്ടാവ്							U P D2AE2 S22 T1A V1
+ഉപയോഗിക്കാം							U P YO2 GI KKAAM
+ഉപയോഗിക്കുംബോളു						U P YO2 GI KKUM BO2 L2U
+ഉപയോഗിക്കും							U P YO2 GI KKUM
+ഉപയോഗിച്ച്							U P YO2 GI CC22
+ഉപയോഗം								U P YO2 GAM
+ഉപയോഗമുള്ളത്							U P YO2 G MU LL1A T22
+ഉപയോഗശൂന്യമായ						U P YO2 G S1UU N2Y MA Y
+ഉപയോഗിക്കട്ടേ							U P YO2 GI KK T11AE2
+ഉപയോഗിക്കാം							U P YO2 GI KKAAM
+ഉപയോഗിക്കാതിരുന്നത്					U P YO2 GI KKA T2I R2U NN2A T22
+ഉപയോഗിക്കാനും						U P YO2 GI KKA N2UM
+ഉപയോഗിക്കുന്നത്						U P YO2 GI KKU NN2A T22
+ഉപയോഗിച്ചതു							U P YO2 GI CC2 T2U
+പോലയായിരുന്നു						PO2 L1A YA YI R2U NN2U
+ഉപയോഗിച്ചത്							U P YO2 GI CC2 T22
+ഉപയോഗിച്ചാണത്						U P YO2 GI CC2A N1A T22
+ഉപയോഗിച്ചാണ്							U P YO2 GI CC2A N1U1
+ഉപയോഗിച്ചു							U P YO2 GI CC2U
+ഉപയോഗിച്ച്							U P YO2 GI CC22
+ഉപരി								U P R2I
+ഉപേക്ഷിക്കപ്പെട്ട						U PAE2 KS2I
+ഉപേക്ഷിക്കാം							U PAE2 KS2I KKAAM
+ഉപേക്ഷിക്കാനാണ്						U PAE2 KS2I KKA N2AA N1U1
+ഉപേക്ഷിക്കാൻ							U PAE2 KS2I KKA N2
+ഉപേക്ഷിക്കുക							U PAE2 KS2I KKU K
+ഉപേക്ഷിക്കേണ്ടി						U PAE2 KS2I KKAE2 N1T1I
+ഉപേക്ഷിച്ചാൽ							U PAE2 KS2I CC2A L1
+ഉപേക്ഷിച്ചുപോകുമോ					U PAE2 KS2I CC2U PO2 KU MO2
+ഉപേക്ഷിച്ചു							U PAE2 KS2I CC2U
+ഉപേക്ഷിച്ച്								U PAE2 KS2I CC22
 ഉപ്പിട്ട
 ഉപ്പും
 ഉപ്പ്
@@ -1509,7 +1509,7 @@
 എന്നാലും
 എന്നാല്‍
 എന്നാവേണ്ടിയിരുന്നു
-എന്നാൽ								
+എന്നാൽ
 എന്നാൽ
 എന്നാ
 എന്നിട്ടുംഇവിടെ
