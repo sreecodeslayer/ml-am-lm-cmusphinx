@@ -508,3 +508,12 @@
 ഠി		T1HI
 പി		PI
 ണ്ട്രോ	N1T1R1O2
+ണ്ണി		NN1I
+ണ്ണു		NN1U
+മ്പി		MPI
+റൂ		R1UU
+റാ		R1AA
+റാം		R1AAM
+യ്യാ		YYA
+യ്യി		YYI
+ഷം		S2M
