@@ -52,3 +52,15 @@ pocketsphinx_continuous -hmm ./ -lm samsaaram.arpa -dict samsaaram.dic -inmic ye
 >sudo apt-get update
 >sudo apt-get install osspd
 >```
+
+## To contribute 
+1. Fork this repository.
+2. Record* the sentences^
+3. Commit and make a Pull Request.
+
+####Note:
+> Record* - To record, use [Audacity](www.audacityteam.org/download/) , set Project Rate = 16000Hz, Default Sample Format as 16bit, and while saving, use WAV, PCM 16bit option
+
+> sentences^ - The sentences [file](/Further development files/hugu+interstellar+queen - sentences.txt) can be found inside the file "hugu+interstellar+queen - sentences.txt" under Further Development.
+
+> Please contact me before you start recording.
