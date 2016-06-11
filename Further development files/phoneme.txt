@@ -496,3 +496,6 @@
 ക്ഷെ		KS2AE1
 ക്കൈ	KKAI
 ണ്ണം		NN1M
+ക്സി		KS3I
+മം		MM1
+ളാം		LL2AAM
