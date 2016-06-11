@@ -492,3 +492,7 @@
 റ്റീ		TII
 ന്നാം		NN2AM
 ജെ		JAE1
+ക്ഷേ		KS2AE2
+ക്ഷെ		KS2AE1
+ക്കൈ	KKAI
+ണ്ണം		NN1M
