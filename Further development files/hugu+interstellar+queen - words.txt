@@ -2198,7 +2198,7 @@
 കിടക്ക KI T1A KK
 കിടന്നാൽ KI T1A NN2AA L1
 കിടന്നുറങ്ങിക്കോളു KI T1A NN2U R1A NGNGI KKO2 L2U
-കിടന്നുറങ്ങ് KI T1A NN2U R1A NGNG
+കിടന്നുറങ് NK I T1A NN2U R1A NGNG
 കിടപ്പു KI T1A PPU
 കിട്ടരുതേ KI T11A R2U T2AE2
 കിട്ടാതെ KI T11AA T2AE1
@@ -2301,7 +2301,7 @@
 കുരങ്ങുകളിക്കും KU R2A NGNGU K L2I KKUM
 കുരമുളകും KU R2A MU L2A KUM
 കുരയ്ക്കുന്നു KU R2A Y1 KKU NN2U
-കുര്‍ലിങ്ങ് KU R2 L1I NGNG
+കുര്‍ലിങ് KU R2 L1I NGNG
 കുറക്കണം KU R1A KK N1M
 കുറച്ചുകൂടി KU R1A KKUU T1I
 കുറച്ചുക്കൂടി KU R1A CC2U KKUU T1I
@@ -2385,13 +2385,13 @@
 കൂപ്പറിന്റേതുമല്ല KUU PP R1I N2TAE2 T2U M LL1A
 കൂപ്പ് KUU PP1
 കൂപ് KUU P1
-കൃത്യമായി KR11U T2Y MA YI
-കൃത്യസമയത്ത് KR11U T2Y S3 M Y T2T2
-കൃത്രിമമായി KR11U T2R1I M MA YI
-കൃഷിക്കാരനായിരുന്നു KR11U S2I KKA R2A N2A YI R2U NN2U
-കൃഷിക്കാര്‍ KR11U S2I KKA R2
-കൃഷിയുണ്ട് KR11U S2I YU N1T1
-കൃഷി KR11U S2I
+കൃത്യമായി KR1U T2Y MA YI
+കൃത്യസമയത്ത് KR1U T2Y S3 M Y T2T2
+കൃത്രിമമായി KR1U T2R1I M MA YI
+കൃഷിക്കാരനായിരുന്നു KR1U S2I KKA R2A N2A YI R2U NN2U
+കൃഷിക്കാര്‍ KR1U S2I KKA R2
+കൃഷിയുണ്ട് KR1U S2I YU N1T1
+കൃഷി KR1U S2I
 കെട്ടടങ്ങും KAE1 T11A T1 NGNGUM
 കെട്ടിക്കൊണ്ടായിരുന്നു KAE1 T11 KKO1 N1T1AA YI R2U NN2U
 കെട്ടിടം KAE1 T11I T1M
@@ -2519,7 +2519,7 @@
 കോണ്‍ഫറൻസ് KO2 N1 PH R1A N2 S33
 കോണ്‍വെന്‍റിലെ KO2 N1 VAE1 N2 R1I L1AE1
 കോപൈലറ്റ് KO2 PAI L1A TTT
-കോപ്പര്‍ KO2 P1 P R2
+കോപ്പര്‍ KO2 PP R2
 കോഫി KO2 PHI
 കോമാളി KO2 MA L2I
 കോമ്പസ് KO2 MP S33
@@ -2539,7 +2539,7 @@
 ക്യാമ്പും KYA MPUM
 ക്യൂ KYUU
 ക്രമീകരണം KR1 MII K R2A N1M
-ക്രാബ് KR1A B ്
+ക്രാബ് KR1A B1
 ക്രിസ്തുമസ് KR1I S33 T2U M S33
 ക്രിസ്റ്റലുകളായി KR1I S33 TA L1U K L2AA YI
 ക്രിസ്റ്റീന KR1I S33 TII N2A
@@ -2556,7 +2556,7 @@
 ക്ലോക്കുകളും KL2O2 KKU K L2UM
 ക്ലോക്കുകളുടെ KL2O2 KKU K L2U T1AE1
 ക്ലോക്കുകള്‍ KL2O2 KKU K L2
-ക്ലോക്കുണ്ടാക്കുന്നവരാണല്ലോഅല്ലേ KL2O2 KKU N1T1A KKU NN2A V R2AA N1A L1A ് L1O2 അ LL1AE2
+ക്ലോക്കുണ്ടാക്കുന്നവരാണല്ലോ KL2O2 KKU N1T1A KKU NN2A V R2AA N1A LL1O2
 ക്ലോക്ക്ഷോപ്പിലേയും KL2O2 KS2O2 PPI L1AE2 YUM
 ക്ലോക്ക് KL2O2 KK1
 ക്ലോഡിനെ KL2O2 DI N2AE1
@@ -2565,7 +2565,7 @@
 ക്ലോസ്‌ KL2O2 S33 ‌
 ക്ഷമചോദിക്കുന്നു KS2 M CO2 D2R1I KKU NN2U
 ക്ഷമയോടെ KS2 M YO2 T1AE1
-ക്ഷമിക്കണംവീട്ടുകാരായിരുന്നു KS2 MI KK N1M VII T11U KA R2AA YI R2U NN2U
+വീട്ടുകാരായിരുന്നു VII T11U KA R2AA YI R2U NN2U
 ക്ഷമിക്കണം KS2 MI KK N1M
 ക്ഷമിക്കാനിപ്പോ KS2 MI KKA N2I PPO2
 ക്ഷമിക്കുമെന്ന് KS2 MI KKU MAE1 NN2
@@ -2576,9 +2576,9 @@
 ക്ഷമ KS2 M
 ക്ഷാമം KS2A MM1
 ക്ഷീണിതയായിരിക്കുന്നു KS2II N1I T2 YA YI R2I KKU NN2U
-ക്ഷീരപഥത്തില്‍ KS2II R2A P ഥ TT2I L1
+ക്ഷീരപഥത്തില്‍ KS2II R2A P T2H TT2I L1
 കൗണ്ടറിന്‍റെ KAU N1T1A R1I N2TAE1
-കർഷകരെയാണ് K R2 S2 K R2A െ YA N1U1
+കർഷകരെയാണ് K R2 S2 K R2AE1 YA N1U1
 കർഷകൻ K R2 S2 K N2
 ഖേദിക്കുന്നുഞാന്‍ KHAE2 D2R1I KKU NN2U NJA N2
 ഖേദിക്കുന്നു KHAE2 D2R1I KKU NN2U
@@ -2594,7 +2594,7 @@
 ഗാലക്സിയിലെക്ക് GA L1A K1 S3I YI L1AE1 KK1
 ഗാലക്സിയിൽ GA L1A K1 S3I YI L1
 ഗിയര്‍ GI Y R2
-ഗിയറിലെക്കിട് GI Y R1I L1AE1 KKI  T111
+ഗിയറിലെക്കിട് GI Y R1I L1AE1 KKI T111
 ഗിയറുകള്‍ GI Y R1U K L2
 ഗുഡ്ബൈ GU D1 BAI
 ഗുഡ് GU D1
@@ -2604,19 +2604,19 @@
 ഗുരുത്വകര്ഷണം GU R2U T2V K R2A ് S2 N1M
 ഗുരുത്വബലം GU R2U T2V B L1AM
 ഗുരുത്വാകര്‍ഷണം GU R2U T2VA K R2 S2 N1M
-ഗുരുത്വാകര്‍ഷണത്തിന് GU R2U T2VA K R2 S2 N1A TT2I N2A ്
+ഗുരുത്വാകര്‍ഷണത്തിന് GU R2U T2VA K R2 S2 N1A TT2I N22 
 ഗുരുത്വാകര്‍ഷണത്തിലേയ്ക് GU R2U T2VA K R2 S2 N1A TT2I L1AE2 YK1
 ഗുരുത്വാകര്‍ഷണത്തില്‍ GU R2U T2VA K R2 S2 N1A TT2I L1
-ഗുരുത്വാകര്‍ഷണത്തെപ്പറ്റി GU R2U T2VA K R2 S2 N1A TT2AE1 P1 P TI
+ഗുരുത്വാകര്‍ഷണത്തെപ്പറ്റി GU R2U T2VA K R2 S2 N1A TT2AE1 PP TI
 ഗുരുത്വാകര്‍ഷണമാണ് GU R2U T2VA K R2 S2 N1A MA N1U1
 ഗുരുത്വാകര്‍ഷണ GU R2U T2VA K R2 S2 N1A
 ഗുരുത്വാകര്‍ഷ​ണം GU R2U T2VA K R2 S2 ​ N1M
 ഗുരുത്വാകർഷണം GU R2U T2VA K R2 S2 N1M
-ഗുരുത്വാകർഷണത്തെപ്പറ്റിയുള്ള GU R2U T2VA K R2 S2 N1A TT2AE1 P1 P TI YU LL2A
+ഗുരുത്വാകർഷണത്തെപ്പറ്റിയുള്ള GU R2U T2VA K R2 S2 N1A TT2AE1 PP TI YU LL2A
 ഗുരുത്വാകർഷണമായിരുന്നു GU R2U T2VA K R2 S2 N1A MA YI R2U NN2U
 ഗുരുത്വാകർഷണ GU R2U T2VA K R2 S2 N1A
 ഗുളികകൾ GU L2I K K L2
-ഗുസ്താവ് GU S33 T2A V ്
+ഗുസ്താവ് GU S33 T2A V1
 ഗുഹാചിത്രങ്ങളിലാണ് GU HA CI T2R1 NGNGA L2I L1AA N1U1
 ഗോഡ്ഫാദറാകുന്നതില്‍ GO2 D1 PHA D2 R1AA KU NN2A T2I L1
 ഗോതമ്പ് GO2 T2 MP1
@@ -2626,16 +2626,16 @@
 ഗോവയിലേക്കാവും GO2 V YI L1AE2 KKA VUM
 ഗോവയിൽ GO2 V YI L1
 ഗോവ GO2 V
-ഗോൽഗപ്പയെന്നാണ് GO2 L1 G P1 P YAE1 NN2AA N1U1
+ഗോൽഗപ്പയെന്നാണ് GO2 L1 G PP YAE1 NN2AA N1U1
 ഗോൽഗപ്പാ GO2 L1 G PPA
 ഗ്യാലക്സിയിലേയ്ക്ക് GYA L1A K1 S3I YI L1AE2 Y1 KK1
-ഗ്രഹം GR1 H ം
+ഗ്രഹം GR1 HM
 ഗ്രഹങ്ങളിലും GR1 H NGNGA L2I L1UM
 ഗ്രഹങ്ങൾ GR1 H NGNGA L2
 ഗ്രഹണം GR1 H N1M
-ഗ്രഹണപഥത്തിൽ GR1 H N1A P ഥ TT2I L1
+ഗ്രഹണപഥത്തിൽ GR1 H N1A P T2H TT2I L1
 ഗ്രഹത്തിനെക്കുറിച്ച് GR1 H TT2I N2AE1 KKU R1I CC22
-ഗ്രഹത്തിനെപ്പറ്റിയോര്‍ത്ത് GR1 H TT2I N2AE1 P1 P TI YO2 R2 T2T2
+ഗ്രഹത്തിനെപ്പറ്റിയോര്‍ത്ത് GR1 H TT2I N2AE1 PP TI YO2 R2 T2T2
 ഗ്രഹത്തിന്റെ GR1 H TT2I N2TE
 ഗ്രഹത്തിലെത്തിക്കും GR1 H TT2I L1AE1 TT2I KKUM
 ഗ്രഹത്തിലെ GR1 H TT2I L1AE1
@@ -2687,7 +2687,7 @@
 ചാർജാണ് CA R2 JA N1U1
 ചാർജിംഗിലല്ല CA R2 JI ം GI L1A LL1A
 ചിക്കൻ CI KK N2
-ചിത്രം CI T2R1 ം
+ചിത്രം CI T2R1AM 
 ചിത്രങ്ങളില്‍ CI T2R1 NGNGA L2I L1
 ചിത്രങ്ങളുണ്ട് CI T2R1 NGNGA L2U N1T1
 ചിത്രങ്ങൾ CI T2R1 NGNGA L2
@@ -2703,28 +2703,28 @@
 ചിന്തിക്കൂ CI N2T2I KKUU
 ചിന്തിക്കേണ്ടതാണ് CI N2T2I KKAE2 N1T1A T2A N1U1
 ചിന്തിച്ചതാണ് CI N2T2I CC2 T2A N1U1
-ചിന്തിച്ചു CI N2T2I CC2 U
+ചിന്തിച്ചു CI N2T2I CC2U
 ചിന്തിച്ചോ CI N2T2I CC2O2
 ചിന്തിച്ച് CI N2T2I CC22
 ചിന്‍റുനീ CI N2 R1U N2II
 ചിന്‍റുവിനെയും CI N2 R1U VI N2AE1 YUM
 ചിന്‍റുവിനെയൊക്കെ CI N2 R1U VI N2AE1 YO1 KKAE1
 ചിന്‍റുവിനെ CI N2 R1U VI N2AE1
-ചിന്‍റുവിന് CI N2 R1U VI N2A ്
+ചിന്‍റുവിന് CI N2 R1U VI N22
 ചിന്‍റുവും CI N2 R1U VUM
-ചിന്‍റുസുഖമല്ലേ CI N2 R1U S3U ഖ M LL1AE2
+ചിന്‍റുസുഖമല്ലേ CI N2 R1U S3U KH M LL1AE2
 ചിന്‍റു‍ CI N2 R1U ‍
 ചിന്‍റു CI N2 R1U
 ചിപ്പിയില്‍ CI PPI YI L1
 ചിരിക്കാന്‍ CI R2I KKA N2
 ചിരി CI R2I
 ചിറകുകള്‍ CI R1A KU K L2
-ചിലകാര്യങ്ങള്‍ CI L1A KA R2A ് Y NGNGA L2
+ചിലകാര്യങ്ങള്‍ CI L1A KA R2Y NGNGA L2
 ചിലതൊക്കെ CI L1A T2O1 KKAE1
 ചിലത് CI L1A T22
 ചിലപ്പോള്‍ CI L1A PPO2 L2
 ചിലപ്പോൾ CI L1A PPO2 L2
-ചിലരെയൊക്കെ CI L1A R2A െ YO1 KKAE1
+ചിലരെയൊക്കെ CI L1A R2AE1 YO1 KKAE1
 ചിലവഴിക്കുന്ന CI L1A V ZI KKU NN2A
 ചിലവാക്കണം CI L1A VA KK N1M
 ചിലവാക്കുകയെ CI L1A VA KKU K YAE1
@@ -2738,7 +2738,7 @@
 ചുംബനം CUM B N2M
 ചുംബനമാണ് CUM B N2A MA N1U1
 ചുട്ടത് CU T11A T22
-ചുണ്ടോട്ചുണ്ട് CU N1T1AO2  T111  CU N1T1
+ചുണ്ടോട്ചുണ്ട് CU N1T1AO2 T111 CU N1T1
 ചുമരില്‍ CU M R2I L1
 ചുമർകൊള്ളാം CU M R2 KO1 LL2AAM
 ചുമ CU M
@@ -2750,7 +2750,7 @@
 ചുറ്റികാണ് CU TI KA N1U1
 ചുറ്റിവരുകയാണ് CU TI V R2U K YA N1U1
 ചുറ്റിസഞ്ചരിക്കുന്നു CU TI S3 NCHA R2I KKU NN2U
-ചുറ്റും CU TU ം
+ചുറ്റും CU TUM
 ചുറ്റുമുള്ള CU TU MU LL2A
 ചുറ്റുമ്പോള്‍ CU TU MPO2 L2
 ചുറ്റുമ്പോൾ CU TU MPO2 L2
@@ -2761,11 +2761,11 @@
 ചൂടാവുന്നു CUU T1A VU NN2U
 ചൂടിലാണ് CUU T1I L1AA N1U1
 ചൂടുമൂലമോ CUU T1U MUU L1A MO2
-ചൂട് CUU  T111
+ചൂട് CUU T111
 ചെക്കാ CAE1 KKA
 ചെക്ക്‌ CAE1 KK1 ‌
 ചെക്ക് CAE1 KK1
-ചെക്കൻമാരും CAE1 KK N2 MA R2U ം
+ചെക്കൻമാരും CAE1 KK N2 MA R2UM
 ചെന്നായ CAE1 NN2AA Y
 ചെന്നെത്തിയാലോ CAE1 NN2AE1 TT2I YA L1O2
 ചെമ്മീനുകളും CAE1 MMI I N2U K L2UM
@@ -2775,7 +2775,7 @@
 ചെയുമ്പോൾ CAE1 YU MPO2 L2
 ചെയ്തത്പാവം CAE1 Y1 T2 T22 PA VM
 ചെയ്തത് CAE1 Y1 T2 T22
-ചെയ്തല്ലോ CAE1 Y1 T2 L1A ് L1O2
+ചെയ്തല്ലോ CAE1 Y1 T2 LL1O2
 ചെയ്താൽ CAE1 Y1 T2A L1
 ചെയ്തിട്ടല്ല CAE1 Y1 T2I T11A LL1A
 ചെയ്തിട്ടില്ലാ CAE1 Y1 T2I T11I LL1AA
@@ -2821,7 +2821,7 @@
 ചെയ്യാന്‍ CAE1 YYA N2
 ചെയ്യാൻ CAE1 YYA N2
 ചെയ്യിക്കുകയാണെന്നാ CAE1 YYI KKU K YA N1AE1 NN2AA
-ചെയ്യിച്ചുകൊണ്ടിരുന്നത് CAE1 YYI CC2 U KO1 N1T1AI R2U NN2A T22
+ചെയ്യിച്ചുകൊണ്ടിരുന്നത് CAE1 YYI CC2U KO1 N1T1AI R2U NN2A T22
 ചെയ്യില്ലേ CAE1 YYI LL1AE2
 ചെയ്യും CAE1 YYUM
 ചെയ്യുകയാണെന്നാണ് CAE1 YYU K YA N1AE1 NN2AA N1U1
@@ -2852,31 +2852,31 @@
 ചെറുതായിരുന്നപ്പോള്‍ CAE1 R1U T2A YI R2U NN2A PPO2 L2
 ചെറുതായിരുന്നുഞാനൊന്നും CAE1 R1U T2A YI R2U NN2U NJA N2O1 NN2UM
 ചെറുത് CAE1 R1U T22
-ചെറുപ്പക്കാരന് CAE1 R1U P1 P KKA R2A N2A ്
-ചെറുപ്പമല്ലെന്ന് CAE1 R1U P1 P M LL1A െ NN2
-ചെറുപ്പമാണ് CAE1 R1U P1 P MA N1U1
+ചെറുപ്പക്കാരന് CAE1 R1U PP KKA R2A N22
+ചെറുപ്പമല്ലെന്ന് CAE1 R1U PP M LL1IAE1 NN2
+ചെറുപ്പമാണ് CAE1 R1U PP MA N1U1
 ചെറു CAE1 R1U
 ചെറ്റേ CAE1 TA E2
 ചെലവഴിക്കാൻ CAE1 L1A V ZI KKA N2
-ചെലവാക്കുന്നതിനോട് CAE1 L1A VA KKU NN2A T2I N2O2  T111
+ചെലവാക്കുന്നതിനോട് CAE1 L1A VA KKU NN2A T2I N2O2 T111
 ചെലവാവും CAE1 L1A VA VUM
 ചെലവും CAE1 L1A VUM
 ചെലവേറിയതാണ് CAE1 L1A VAE2 R1I Y T2A N1U1
 ചെല്ലാന്‍ CAE1 LL1AA N2
 ചെല്ല് CAE1 LL1A ്
-ചൊവ്വയിലേക്ക് CO1 V ് V YI L1AE2 KK1
+ചൊവ്വയിലേക്ക് CO1 VV YI L1AE2 KK1
 ചേച്ചിഎനിക്കെന്താണ് CAE2 CC2I എ N2I KKAE1 N2T2A A N1U1
 ചേച്ചികരയുന്നത് CAE2 CC2I K R2A YU NN2A T22
 ചേച്ചിയാണ് CAE2 CC2I YA N1U1
 ചേച്ചിയുടെ CAE2 CC2I YU T1AE1
-ചേച്ചിയോട് CAE2 CC2I YO2  T111
+ചേച്ചിയോട് CAE2 CC2I YO2 T111
 ചേച്ചി CAE2 CC2I
 ചേട്ടന്‍ CAE2 T11A N2
-ചേട്ടന് CAE2 T11A N2A ്
+ചേട്ടന് CAE2 T11A N22
 ചേട്ടാ CAE2 T11AA
 ചേമ്പറില്‍ CAE2 MP R1I L1
 ചേരില്ലാ CAE2 R2I LL1AA
-ചേരും CAE2 R2U ം
+ചേരും CAE2 R2UM
 ചേരുന്നില്ലാ CAE2 R2U NN2I LL1AA
 ചേരുന്നില്ല CAE2 R2U NN2I LL1A
 ചേരുന്നുണ്ട് CAE2 R2U NN2U N1T1
@@ -2904,7 +2904,7 @@
 ചോദിക്കുകയാണെങ്കിൽ CO2 D2R1I KKU K YA N1AE1 NKI L1
 ചോദിക്കുന്നു CO2 D2R1I KKU NN2U
 ചോദിച്ചിരുന്നു CO2 D2R1I CC2I R2U NN2U
-ചോദിച്ചു CO2 D2R1I CC2 U
+ചോദിച്ചു CO2 D2R1I CC2U
 ചോദ്യങ്ങൾക്ക് CO2 D2Y NGNGA L2 KK1
 ചോയ്സ് CO2 Y1 S33
 ചോളം CO2 L2M
@@ -2917,21 +2917,21 @@
 ഛര്‍ദ്ദിക്കാൻ CH R2 DD2I KKA N2
 ജനങ്ങളുടെ J N2A NGNGA L2U T1AE1
 ജനങ്ങളെ J N2A NGNGA L2AE1
-ജനങ്ങളോട് J N2A NGNGA L2O2  T111
+ജനങ്ങളോട് J N2A NGNGA L2O2 T111
 ജനങ്ങള്‍ക്ക് J N2A NGNGA L2 KK1
 ജനങ്ങൾക്ക് J N2A NGNGA L2 KK1
 ജനത J N2A T2
 ജനപ്രീതി J N2A PR1II T2I
 ജനറേറ്ററുണ്ട് J N2A R1AE2 TA R1U N1T1
 ജനലിന്‍റെ J N2A L1I N2TAE1
-ജനസംഖ്യ J N2A S3AM ഖ് Y
+ജനസംഖ്യ J N2A S3AM KHY
 ജനാലകൾ J N2AA L1A K L2
 ജനിക്കേണ്ടവനായിരുന്നു J N2I KKAE2 N1T1A V N2AA YI R2U NN2U
 ജനിച്ചത് J N2I CC2 T22
 ജനിതക J N2I T2 K
 ജപ്പാനീസ് J PPA N2II S33
 ജപ്പാൻ J PPA N2
-ജയിച്ചു J YI CC2 U
+ജയിച്ചു J YI CC2U
 ജയിലിൽ J YI L1I L1
 ജലം J L1AM
 ജലമാണ് J L1A MA N1U1
@@ -2958,21 +2958,21 @@
 ജീവിച്ചിരിപ്പുണ്ടോ JII VI CC2I R2I PPU N1T1AO2
 ജീവിച്ചിരുന്നതിൽ JII VI CC2I R2U NN2A T2I L1
 ജീവിച്ചിരുന്നത് JII VI CC2I R2U NN2A T22
-ജീവിച്ചു JII VI CC2 U
+ജീവിച്ചു JII VI CC2U
 ജീവിതം JII VI T2AM
 ജീവിതകാലയളവിനും JII VI T2 KA L1A Y L2A VI N2UM
 ജീവിതത്തിൽ JII VI T2 TT2I L1
-ജീവിതത്തെക്കുറിച്ചുള്ള JII VI T2 TT2AE1 KKU R1I CC2 U LL2A
-ജീവിതത്തെപ്പറ്റി JII VI T2 TT2AE1 P1 P TI
+ജീവിതത്തെക്കുറിച്ചുള്ള JII VI T2 TT2AE1 KKU R1I CC2U LL2A
+ജീവിതത്തെപ്പറ്റി JII VI T2 TT2AE1 PP TI
 ജീവിതത്തെ JII VI T2 TT2AE1
 ജീവിതവും JII VI T2 VUM
 ജീവൻറിക്കി JII V N2 R1I KKI
 ജീൻസിന്‍റെയും JII N2 S3I N2TAE1 YUM
 ജൂള്‍സ് JUU L2 S33
-ജെസ്സിയും JAE1 SS3 ി YUM
-ജെസ്സിയുടെയും JAE1 SS3 ി YU T1AE1 YUM
-ജെസ്സി JAE1 SS3 ി
-ജേനിനോട് JAE2 N2I N2O2  T111
+ജെസ്സിയും JAE1 SS3I YUM
+ജെസ്സിയുടെയും JAE1 SS3I YU T1AE1 YUM
+ജെസ്സി JAE1 SS3I
+ജേനിനോട് JAE2 N2I N2O2 T111
 ജേനും JAE2 N2UM
 ജേനുമായി JAE2 N2U MA YI
 ജേന്‍ JAE2 N2
@@ -3012,7 +3012,7 @@
 ഞങ്ങളെപ്പോളും NJA NGNGA L2AE1 PPO2 L2UM
 ഞങ്ങളെല്ലാം NJA NGNGA L2AE1 LL1AAM
 ഞങ്ങളെ NJA NGNGA L2AE1
-ഞങ്ങളോട് NJA NGNGA L2O2  T111
+ഞങ്ങളോട് NJA NGNGA L2O2 T111
 ഞങ്ങള്ക്ക് NJA NGNGA L2A ് KK1
 ഞങ്ങള്‍ക്കുണ്ടായിരുന്നതെല്ലാതും NJA NGNGA L2 KKU N1T1A YI R2U NN2A T2AE1 LL1AA T2UM
 ഞങ്ങള്‍ക്കുവേണ്ടി NJA NGNGA L2 KKU VAE2 N1T1AI
@@ -3037,10 +3037,10 @@
 ഞാനത് NJA N2A T22
 ഞാനദ്ദേഹത്തെ NJA N2A DD2AE2 H TT2AE1
 ഞാനറിഞ്ഞു NJA N2A R1I NNJU
-ഞാനല്ലെന്നു NJA N2A LL1A െ NN2U
+ഞാനല്ലെന്നു NJA N2A LL1IAE1 NN2U
 ഞാനല്ല NJA N2A LL1A
 ഞാനവനെ NJA N2A V N2AE1
-ഞാനവനോട് NJA N2A V N2O2  T111
+ഞാനവനോട് NJA N2A V N2O2 T111
 ഞാനവിടുന്ന് NJA N2A VI T1U NN2
 ഞാനാണ് NJA N2AA N1U1
 ഞാനാദ്യം NJA N2AA D2Y M
@@ -3049,7 +3049,7 @@
 ഞാനാ NJA N2AA
 ഞാനിതാ NJA N2I T2A
 ഞാനിതിന്റെ NJA N2I T2I N2TE
-ഞാനിതുവരെ NJA N2I T2U V R2A െ
+ഞാനിതുവരെ NJA N2I T2U V R2AE1
 ഞാനിത് NJA N2I T22
 ഞാനിന്നു NJA N2I NN2U
 ഞാനിപ്പോള്‍ NJA N2I PPO2 L2
@@ -3098,7 +3098,7 @@
 ടയർ T1 Y R2
 ടവറാണ് T1 V R1AA N1U1
 ടവറിന്‍റെ T1 V R1I N2TAE1
-ടവറും T1 V R1U ം
+ടവറും T1 V R1UM 
 ടവർ T1 V R2
 ടാക്കഅവിടെ T1A KK അ VI T1AE1
 ടാക്കക്ക് T1A KK KK1
@@ -3111,13 +3111,13 @@
 ടാർസ് T1A R2 S33
 ടിംഫ്രാൻസിൽ T1IM PHR1A N2 S3I L1
 ടികിടാക്കയോചില്ലി T1I KI T1A KK YO2 CI LL1I
-ടിക്കറ്റും T1I KK TU ം
+ടിക്കറ്റും T1I KK TUM
 ടിക്കറ്റ്‌ T1I KK TTT ‌
 ടിന്നിൽ T1I NN2I L1
 ടിവി T1I VI
 ടിഷർട്ടാണ് T1I S2 R2 T11AA N1U1
 ടീം T1IIM
-ടീച്ചർമാരെയും T1II CC2 R2 MA R2A െ YUM
+ടീച്ചർമാരെയും T1II CC2 R2 MA R2AE1 YUM
 ടീച്ചർമാർക്കു T1II CC2 R2 MA R2 KKU
 ടീമാണ് T1II MA N1U1
 ടുഡയമൻഷനിൽ T1U D Y M N2 S2 N2I L1
@@ -3129,7 +3129,7 @@
 ടെൻഷനായോ T1AE1 N2 S2 N2AA YO2
 ടോം T1O2M
 ടൈപ്പ് T1AI P1 P1
-ടോംഡ്രൈവ് T1O2M D1R1AI V ്
+ടോംഡ്രൈവ് T1O2M D1R1AI V1
 ടോം T1O2M
 ടോപ്‌ T1O2 P1 ‌
 ടോമിനെ T1O2 MI N2AE1
@@ -3142,14 +3142,14 @@
 ട്രയിനില്‍ T1R1 YI N2I L1
 ട്രാക്കിലൊരു T1R1A KKI L1O1 R2U
 ട്രാക്കില്‍ T1R1A KKI L1
-ട്രാക്ടര്‍ T1R1A K ് T1 R2
+ട്രാക്ടര്‍ T1R1A K1 T1 R2
 ട്രാജഡിയാണിത്‌ T1R1A J DI YA N1I T2 ്‌
 ട്രാജഡിയായിപ്പോയി T1R1A J DI YA YI PPO2 YI
 ട്രാന്‍സ്മിറ്ററുകള്‍ T1R1A N2 S33 MI TA R1U K L2
 ട്രാന്‍സ്മിറ്റിര്‍ T1R1A N2 S33 MI TI R2
 ട്രാൻസ്മിഷൻ T1R1A N2 S33 MI S2 N2
 ട്രിക്ക് T1R1I KK1
-ട്രെയിനിന് T1R1AE1 YI N2I N2A ്
+ട്രെയിനിന് T1R1AE1 YI N2I N22
 ട്രെയിന്‍ T1R1AE1 YI N2
 ട്രെഷര്‍ T1R1AE1 S2 R2
 ഡഗ്ലസ് D G11 L1A S33
@@ -3166,45 +3166,44 @@
 ഡാഡ് DA D1
 ഡാറ്റാ DA TA
 ഡാറ്റ DA TA
-ഡാഷ്ഡാഷ്ഡാഷ് DA S2 ് DA S2 ് DA S2 ്
-ഡാഷ്ഡാഷ് DA S2 ് DA S2 ്
-ഡാഷ്ഡോട്ട് DA S2 ് D1O2 T11
-ഡാഷ് DA S2 ്
+ഡാഷ്ഡാഷ്ഡാഷ് DA S22 DA S22 DA S22
+ഡാഷ്ഡാഷ് DA S22 DA S22
+ഡാഷ്ഡോട്ട് DA S22 D1O2 T11
+ഡാഷ് DA S22
 ഡാൻസിന്‍റെ DA N2 S3I N2TAE1
 ഡാൻസും DA N2 S3UM
 ഡാൻസ് DA N2 S33
-ഡാർലിംഗ്ഞാനാണ് DA R2 L1I ം G11 NJA N2AA N1U1
-ഡാർലിംഗ് DA R2 L1I ം G11
+ഡാർലിംഗ് DA R2 L1IM G11
 ഡിക്കിയില്‍ DI KKI YI L1
-ഡിഗ്രിയുമുണ്ട് DI GR1 ി YU MU N1T1
-ഡിഗ്രി DI GR1 ി
+ഡിഗ്രിയുമുണ്ട് DI GRI YU MU N1T1
+ഡിഗ്രി DI GRI
 ഡിമെന്‍ഷനില്‍ DI MAE1 N2 S2 N2I L1
 ഡിമെന്‍ഷനുകള്‍ക്കപ്പുറത്തെത്താനാകും DI MAE1 N2 S2 N2U K L2 KK PPU R1A TT2AE1 TT2 A N2AA KUM
 ഡിയര്‍ DI Y R2
-ഡൊണാൾഡ് D1O1 N1A ാ L2 D1
+ഡൊണാൾഡ് D1O1 N1AA L2 D1
 ഡേവിഡ് D1AE2 VI D1
-ഡോക്ടർ D1O2 K ് T1 R2
-ഡോമാന് D1O2 MA N2A ്
+ഡോക്ടർ D1O2 K1 T1 R2
+ഡോമാന് D1O2 MA N22
 ഡോയൽ D1O2 Y L1
 ഡോറുകൾ D1O2 R1U K L2
 ഡോ D1O2
-ഡോക്ടര്‍ക്ക് D1O2 K ് T1 R2 KK1
-ഡോക്ടർ D1O2 K ് T1 R2
+ഡോക്ടര്‍ക്ക് D1O2 K1 T1 R2 KK1
+ഡോക്ടർ D1O2 K1 T1 R2
 ഡോഗ് D1O2 G11
-ഡോട്ട്ഡാഷ്ഡോട്ട്ഡോട്ട് D1O2 T11 DA S2 ് D1O2 T11 D1O2 T11
-ഡോട്ട്ഡോട്ട്ഡാഷ്ഡോട്ട് D1O2 T11 D1O2 T11 DA S2 ് D1O2 T11
+ഡോട്ട്ഡാഷ്ഡോട്ട്ഡോട്ട് D1O2 T11 DA S22 D1O2 T11 D1O2 T11
+ഡോട്ട്ഡോട്ട്ഡാഷ്ഡോട്ട് D1O2 T11 D1O2 T11 DA S22 D1O2 T11
 ഡോട്ട്ഡോട്ട് D1O2 T11 D1O2 T11
-ഡോണാള്‍ഡ് D1O2 N1A ാ L2 D1
-ഡോണാൾഡ് D1O2 N1A ാ L2 D1
-ഡോബ്രാന്റ് D1O2 BR1A N2A ് R1A ്
+ഡോണാള്‍ഡ് D1O2 N1AA L2 D1
+ഡോണാൾഡ് D1O2 N1AA L2 D1
+ഡോബ്രാന്റ് D1O2 BR1A N2 TTT
 ഡോബ്രാൻഡിനെ D1O2 BR1A N2 DI N2AE1
 ഡോബ്രാൻഡ്‌ D1O2 BR1A N2 D1
-ഡോമാനിന്റടുത്തേയ്ക് D1O2 MA N2I N2A ് R1A T1U TT2 AE2 YK1
-ഡോമാന്സിന്റെയും D1O2 MA N2A ് S3I N2TE YUM
-ഡോമാന്സിന്റെ D1O2 MA N2A ് S3I N2TE
+ഡോമാനിന്റടുത്തേയ്ക് D1O2 MA N2I N2T T1U TT2 AE2 YK1
+ഡോമാന്സിന്റെയും D1O2 MA N2 S3I N2TE YUM
+ഡോമാന്സിന്റെ D1O2 MA N2 S3I N2TE
 ഡോമാൻസിന്റെതിനെക്കളും D1O2 MA N2 S3I N2TE T2I N2AE1 KK L2UM
-ഡോയലിനോട് D1O2 Y L1I N2O2  T111
-ഡോയലിന് D1O2 Y L1I N2A ്
+ഡോയലിനോട് D1O2 Y L1I N2O2 T111
+ഡോയലിന് D1O2 Y L1I N22 
 ഡോയൽ D1O2 Y L1
 ഡോളി D1O2 L2I
 ഡോ D1O2
@@ -3212,7 +3211,7 @@
 ഡ്രാഗണിന്റെ D1R1A G N1I N2TE
 ഡ്രാമാമൈൻ D1R1A MA MAI N2
 ഡ്രൈവിങ്ങല്ല D1R1AI VI NGNGA LL1A
-ഡ്രൈവ് D1R1AI V ്
+ഡ്രൈവ് D1R1AI V1
 ഡ്രോണ്‍ D1R1O2 N1
 ഡൽഹിയിലാണ് D L1 HI YI L1AA N1U1
 ഡൽഹിയിലെ D L1 HI YI L1AE1
@@ -3242,13 +3241,13 @@
 തട്ടിന്‍പുറത്ത് T2 T11I N2 PU R1A T2T2
 തട്ടിപ്പായിരുന്നു T2 T11I PPA YI R2U NN2U
 തട്ടി T2 T11I
-തണുത്തതാണ് T2 N1A ു TT2 T2A N1U1
-തണുത്തുറഞ്ഞ T2 N1A ു TT2 U R1A NNJA
-തണുത്ത T2 N1A ു TT2
-തണുപ്പുണ്ടോ T2 N1A ു PPU N1T1AO2
-തണുപ്പൊന്നുമില്ലാ T2 N1A ു PPO1 NN2U MI LL1AA
-തണുപ്പോ T2 N1A ു PPO2
-തണുപ്പ് T2 N1A ു P1 P1
+തണുത്തതാണ് T2 N1U TT2 T2A N1U1
+തണുത്തുറഞ്ഞ T2 N1U TT2 U R1A NNJA
+തണുത്ത T2 N1U TT2
+തണുപ്പുണ്ടോ T2 N1U PPU N1T1AO2
+തണുപ്പൊന്നുമില്ലാ T2 N1U PPO1 NN2U MI LL1AA
+തണുപ്പോ T2 N1U PPO2
+തണുപ്പ് T2 N1U P1 P1
 തനിയെ T2 N2I YAE1
 തന്തുക്കള്‍ T2 N2T2A U KK L2
 തന്ത്രം T2 N2T2A R1 ം
@@ -3260,14 +3259,14 @@
 തന്നു T2 NN2U
 തന്നൂടെ T2 NN2A ൂ T1AE1
 തന്നെയല്ലേ T2 NN2AE1 Y LL1AE2
-തന്നെയാണല്ലോ T2 NN2AE1 YA N1A L1A ് L1O2
+തന്നെയാണല്ലോ T2 NN2AE1 YA N1A LL1O2
 തന്നെയാണോ T2 NN2AE1 YA N1O2
 തന്നെയാണ് T2 NN2AE1 YA N1U1
 തന്നെയാവും T2 NN2AE1 YA VUM
 തന്നെയുണ്ടാവും T2 NN2AE1 YU N1T1A VUM
 തന്നെ T2 NN2AE1
 തന്റെ T2 N2TE
-തന്റേയും T2 N2A ് R1AE2 YUM
+തന്റേയും T2 N2TAE2 YUM
 തപ്പിനോക്കിയിരുന്നു T2 PPI N2O2 KKI YI R2U NN2U
 തമാശകളറിയാം T2 MA S1 K L2A R1I YA ം
 തമാശക്കാരാണോ T2 MA S1 KKA R2AA N1O2
@@ -3293,7 +3292,7 @@
 തയ്യാറല്ലേ T2 YYA R1A LL1AE2
 തയ്യാറാകൂ T2 YYA R1AA KUU
 തയ്യാറാക്കുക T2 YYA R1AA KKU K
-തയ്യാറാക് T2 YYA R1AA K ്
+തയ്യാറാക് T2 YYA R1AA K1
 തയ്യാറാണെന്ന് T2 YYA R1AA N1AE1 NN2
 തയ്യാറാണോ T2 YYA R1AA N1O2
 തയ്യാറാണ് T2 YYA R1AA N1U1
@@ -3318,10 +3317,10 @@
 തരിക T2 R2I K
 തരില്ല T2 R2I LL1A
 തരിശാണ് T2 R2I S1A N1U1
-തരും T2 R2U ം
+തരും T2 R2UM
 തരുകയാണോ T2 R2U K YA N1O2
 തരുകയാണ്‌ T2 R2U K YA N1U1 ‌
-തരുന്നതിനെപ്പറ്റി T2 R2U NN2A T2I N2AE1 P1 P TI
+തരുന്നതിനെപ്പറ്റി T2 R2U NN2A T2I N2AE1 PP TI
 തരുന്നുണ്ട് T2 R2U NN2U N1T1
 തരുന്നു T2 R2U NN2U
 തരുന്ന T2 R2U NN2A
@@ -3331,33 +3330,33 @@
 തരൂ T2 R2UU
 തരേണ്ട് T2 R2AE2 N1T1
 തരേണ്ട T2 R2AE2 N1T1A
-തറച്ചു T2 R1A CC2 U
+തറച്ചു T2 R1A CC2U
 തറയ്ക്കുന്നത് T2 R1A Y1 KKU NN2A T22
 തലച്ചോറിലെ T2 L1A CC2O2 R1I L1AE1
 തലമാണ് T2 L1A MA N1U1
 തലമുറ T2 L1A MU R1A
 തലയണ T2 L1A Y N1A
-തലവന്മാരെയും T2 L1A V N2A ് MA R2A െ YUM
+തലവന്മാരെയും T2 L1A V N2 MA R2AE1 YUM
 തലേന്നെന്താണ് T2 L1AE2 NN2AE1 N2T2A A N1U1
 തല്‍കിയത് T2 L1 KI Y T22
 തല T2 L1A
 തളിക്കാനുണ്ട് T2 L2I KKA N2U N1T1
-തള്ളി T2 LL2A ി
-തവണയല്ലല്ലോ T2 V N1A Y LL1A L1A ് L1O2
+തള്ളി T2 LL2I
+തവണയല്ലല്ലോ T2 V N1A Y LL1A LL1O2
 തവണയാണ് T2 V N1A YA N1U1
 തവണയും T2 V N1A YUM
-തവണവരെ T2 V N1A V R2A െ
+തവണവരെ T2 V N1A V R2AE1
 തവണ T2 V N1A
 താക്കോല്‍ദ്വാരം T2A KK O2 L1 D2 ് VA R2M
 താക്കോല്‍ T2A KK O2 L1
 താക്കോൽ T2A KK O2 L1
-താങ്കളുടെ T2A ങ് K L2U T1AE1
-താങ്കളെപ്പറ്റി T2A ങ് K L2AE1 P1 P TI
-താങ്കളെ T2A ങ് K L2AE1
-താങ്കള്‍ക്ക് T2A ങ് K L2 KK1
-താങ്കള്‍ T2A ങ് K L2
-താങ്കൾ T2A ങ് K L2
-താതാപര്യമുണ്ടോ T2A T2A P R2A ് Y MU N1T1AO2
+താങ്കളുടെ T2A NK L2U T1AE1
+താങ്കളെപ്പറ്റി T2A NK L2AE1 PP TI
+താങ്കളെ T2A NK L2AE1
+താങ്കള്‍ക്ക് T2A NK L2 KK1
+താങ്കള്‍ T2A NK L2
+താങ്കൾ T2A NK L2
+താതാപര്യമുണ്ടോ T2A T2A P R2Y MU N1T1AO2
 താന്‍ T2A N2
 താപകവചമില്ല T2A P K V C MI LL1A
 താമസം T2A M S3AM
@@ -3370,27 +3369,27 @@
 താമസിക്കുന്നത് T2A M S3I KKU NN2A T22
 താമസിച്ചോളൂ T2A M S3I CC2O2 L2UU
 താരം T2A R2M
-താരതമ്യം T2A R2A T2 M ് YM
-താരതമ്യേന T2A R2A T2 M ് YAE2 N2A
-താല്പര്യമുണ്ടന്നല്ലാ T2A L1A ് P R2A ് Y MU N1T1A NN2A LL1AA
-താല്പര്യമുണ്ടായിരുന്നില്ല T2A L1A ് P R2A ് Y MU N1T1A YI R2U NN2I LL1A
-താല്‍പര്യമില്ല T2A L1 P R2A ് Y MI LL1A
-താഴെയിട്ടു T2A ഴെ YI T11U
-താഴെയെത്താൻ T2A ഴെ YAE1 TT2 A N2
-താഴെ T2A ഴെ
-താഴേക്ക്‌ T2A ഴേ KK1 ‌
-താഴേക്ക് T2A ഴേ KK1
-താഴേയ്ക് T2A ഴേ YK1
-താഴോട്ട് T2A ഴോ T11
-താഴ്ത്തിയിടണം T2A ഴ് TT2I YI T1 N1M
-താഴ്ന്ന് T2A ഴ് NN2
+താരതമ്യം T2A R2A T2 MYM 
+താരതമ്യേന T2A R2A T2 MYAE2 N2A
+താല്പര്യമുണ്ടന്നല്ലാ T2A L1 P R2Y MU N1T1A NN2A LL1AA
+താല്പര്യമുണ്ടായിരുന്നില്ല T2A L1 P R2Y MU N1T1A YI R2U NN2I LL1A
+താല്‍പര്യമില്ല T2A L1 P R2Y MI LL1A
+താഴെയിട്ടു T2A ZAE1 YI T11U
+താഴെയെത്താൻ T2A ZAE1 YAE1 TT2 A N2
+താഴെ T2A ZAE1 
+താഴേക്ക്‌ T2A ZAE2 KK1 ‌
+താഴേക്ക് T2A ZAE2 KK1
+താഴേയ്ക് T2A ZAE2 YK1
+താഴോട്ട് T2A ZO2 T11
+താഴ്ത്തിയിടണം T2A Z11 TT2I YI T1 N1M
+താഴ്ന്ന് T2A Z11 NN2
 താവളം T2A V L2M
-താൽപര്യം T2A L1 P R2A ് YM
-താൽപര്യത്തിലാണ് T2A L1 P R2A ് Y TT2I L1AA N1U1
-താൽപര്യമാണല്ലോ T2A L1 P R2A ് Y MA N1A L1A ് L1O2
-താൽപര്യമുണ്ട് T2A L1 P R2A ് Y MU N1T1
+താൽപര്യം T2A L1 P R2Y M
+താൽപര്യത്തിലാണ് T2A L1 P R2Y TT2I L1AA N1U1
+താൽപര്യമാണല്ലോ T2A L1 P R2Y MA N1A LL1O2
+താൽപര്യമുണ്ട് T2A L1 P R2Y MU N1T1
 താ T2A
-തികച്ചും T2I K C ് CUM
+തികച്ചും T2I K CC2UM
 തികഞ്ഞ T2I K NNJA
 തിട്ടയില്‍ T2I T11A YI L1
 തിന്ത T2I N2T2A
@@ -3402,18 +3401,18 @@
 തിരക്ക് T2I R2A KK1
 തിരഞ്ഞുകൊണ്ടിരിക്കുകയായിരുന്നു T2I R2A NNJU KO1 N1T1AI R2I KKU K YA YI R2U NN2U
 തിരഞ്ഞു T2I R2A NNJU
-തിരഞ്ഞെടുക്കല്‍ T2I R2A NJA ് NJAE1 T1U KK L1
-തിരഞ്ഞെടുക്കേണ്ടതുണ്ട് T2I R2A NJA ് NJAE1 T1U KKAE2 N1T1A T2U N1T1
-തിരഞ്ഞെടുത്തത് T2I R2A NJA ് NJAE1 T1U TT2 T22
-തിരഞ്ഞെടുത്തു T2I R2A NJA ് NJAE1 T1U TT2 U
-തിരഞ്ഞെടുത്തെന്നാണ് T2I R2A NJA ് NJAE1 T1U TT2AE1 NN2AA N1U1
+തിരഞ്ഞെടുക്കല്‍ T2I R2A NNJAE1 T1U KK L1
+തിരഞ്ഞെടുക്കേണ്ടതുണ്ട് T2I R2A NNJAE1 T1U KKAE2 N1T1A T2U N1T1
+തിരഞ്ഞെടുത്തത് T2I R2A NNJAE1 T1U TT2 T22
+തിരഞ്ഞെടുത്തു T2I R2A NNJAE1 T1U TT2 U
+തിരഞ്ഞെടുത്തെന്നാണ് T2I R2A NNJAE1 T1U TT2AE1 NN2AA N1U1
 തിരമാല T2I R2A MA L1A
 തിരയണമെന്ന് T2I R2A Y N1A MAE1 NN2
 തിരയയുകയായിരുന്നു T2I R2A Y YU K YA YI R2U NN2U
 തിരയുകയാണോ T2I R2A YU K YA N1O2
 തിരയുന്നുണ്ടാകും T2I R2A YU NN2U N1T1A KUM
-തിരശ്ശീലയുള്ള T2I R2A S1 ് S1II L1A YU LL2A
-തിരികെ T2I R2I K െ
+തിരശ്ശീലയുള്ള T2I R2A S11 S1II L1A YU LL2A
+തിരികെ T2I R2I KAE1
 തിരിക്കരുത് T2I R2I KK R2U T22
 തിരിക്കാന്‍ T2I R2I KKA N2
 തിരിക്കുന്നതിനുമുമ്പ് T2I R2I KKU NN2A T2I N2U MU MP1
@@ -3421,19 +3420,19 @@
 തിരിചെത്തു T2I R2I CAE1 TT2 U
 തിരിച്ചറിയുന്നു T2I R2I CC2 R1I YU NN2U
 തിരിച്ചറിയൂ T2I R2I CC2 R1I YUU
-തിരിച്ചുപോകുന്നതിനുള്ള T2I R2I CC2 U PO2 KU NN2A T2I N2U LL2A
-തിരിച്ചുപോണോ T2I R2I CC2 U PO2 N1O2
-തിരിച്ചുപോവണം T2I R2I CC2 U PO2 V N1M
-തിരിച്ചുവന്നില്ലെങ്കില്‍ T2I R2I CC2 U V NN2I LL1A െ NKI L1
-തിരിച്ചുവന്നു T2I R2I CC2 U V NN2U
-തിരിച്ചുവരാതിരിക്കുന്നതോ T2I R2I CC2 U V R2AA T2I R2I KKU NN2A T2O2
-തിരിച്ചുവരാനായി T2I R2I CC2 U V R2AA N2AA YI
-തിരിച്ചുവരാന്‍ T2I R2I CC2 U V R2AA N2
-തിരിച്ചുവരും T2I R2I CC2 U V R2U ം
-തിരിച്ചുവരുമെന്ന് T2I R2I CC2 U V R2U MAE1 NN2
-തിരിച്ചുവരുമ്പോള്‍ T2I R2I CC2 U V R2U MPO2 L2
-തിരിച്ചുവേണം T2I R2I CC2 U VAE2 N1M
-തിരിച്ചു T2I R2I CC2 U
+തിരിച്ചുപോകുന്നതിനുള്ള T2I R2I CC2U PO2 KU NN2A T2I N2U LL2A
+തിരിച്ചുപോണോ T2I R2I CC2U PO2 N1O2
+തിരിച്ചുപോവണം T2I R2I CC2U PO2 V N1M
+തിരിച്ചുവന്നില്ലെങ്കില്‍ T2I R2I CC2U V NN2I LL1IAE1 NKI L1
+തിരിച്ചുവന്നു T2I R2I CC2U V NN2U
+തിരിച്ചുവരാതിരിക്കുന്നതോ T2I R2I CC2U V R2AA T2I R2I KKU NN2A T2O2
+തിരിച്ചുവരാനായി T2I R2I CC2U V R2AA N2AA YI
+തിരിച്ചുവരാന്‍ T2I R2I CC2U V R2AA N2
+തിരിച്ചുവരും T2I R2I CC2U V R2UM
+തിരിച്ചുവരുമെന്ന് T2I R2I CC2U V R2U MAE1 NN2
+തിരിച്ചുവരുമ്പോള്‍ T2I R2I CC2U V R2U MPO2 L2
+തിരിച്ചുവേണം T2I R2I CC2U VAE2 N1M
+തിരിച്ചു T2I R2I CC2U
 തിരിച്ചെത്തുന്നത് T2I R2I CC2 AE1 TT2 U NN2A T22
 തിരിച്ചെത്തു T2I R2I CC2 AE1 TT2 U
 തിരിച്ച് T2I R2I CC22
@@ -3444,10 +3443,10 @@
 തിര T2I R2A
 തീയതി T2II Y T2I
 തീയറ്റര്‍ T2II Y TA R2
-തീയറ്ററും T2II Y TA R1U ം
+തീയറ്ററും T2II Y TA R1UM 
 തീയേറ്റര്‍ T2II YAE2 TA R2
 തീയേറ്ററില്‍ T2II YAE2 TA R1I L1
-തീരുന്നതിന് T2II R2U NN2A T2I N2A ്
+തീരുന്നതിന് T2II R2U NN2A T2I N22 
 തീരുമാനം T2II R2U MA N2M
 തീരുമാനമാകും T2II R2U MA N2A MA KUM
 തീരുമാനമായിരുന്നില്ല T2II R2U MA N2A MA YI R2U NN2I LL1A
@@ -3455,9 +3454,9 @@
 തീരുമാനിക്കാം T2II R2U MA N2I KKAAM
 തീരുമാനിക്കും T2II R2U MA N2I KKUM
 തീരുമാനിച്ചതാണ് T2II R2U MA N2I CC2 T2A N1U1
-തീരുമാനിച്ചുഇന്നുമുതൽ T2II R2U MA N2I CC2 U ഇ NN2U MU T2 L1
-തീരുമാനിച്ചു T2II R2U MA N2I CC2 U
-തീരെ T2II R2A െ
+തീരുമാനിച്ചുഇന്നുമുതൽ T2II R2U MA N2I CC2U ഇ NN2U MU T2 L1
+തീരുമാനിച്ചു T2II R2U MA N2I CC2U
+തീരെ T2II R2AE1
 തീര്ച്ചയായും T2II R2A ് CC2 YA YUM
 തീര്‍ക്കാനായിരുന്നു T2II R2 KKA N2AA YI R2U NN2U
 തീര്‍ക്കാനുണ്ടായിരുന്നു T2II R2 KKA N2U N1T1A YI R2U NN2U
@@ -3476,7 +3475,7 @@
 തുടക്കത്തില്‍ T2U T1 KK TT2I L1
 തുടങ്ങട്ടെ T2U T1 NGNGA T11AE1
 തുടങ്ങണമെന്ന് T2U T1 NGNGA N1A MAE1 NN2
-തുടങ്ങാം T2U T1 NGNGAA ം
+തുടങ്ങാം T2U T1 NGNGAAM
 തുടങ്ങാനുള്ളതാണ് T2U T1 NGNGAA N2U LL2A T2A N1U1
 തുടങ്ങിക്കോളൂ T2U T1 NGNGI KK O2 L2UU
 തുടങ്ങിക്കോ T2U T1 NGNGI KK O2
@@ -3490,9 +3489,9 @@
 തുടങ്ങിയോ T2U T1 NGNGI YO2
 തുടങ്ങി T2U T1 NGNGI
 തുടങ്ങും T2U T1 NGNGUM
-തുടങ്ങുന്നതിന് T2U T1 NGNGU NN2A T2I N2A ്
+തുടങ്ങുന്നതിന് T2U T1 NGNGU NN2A T2I N22 
 തുടങ്ങുവാൻ T2U T1 NGNGU VA N2
-തുടങ്ങൂ T2U T1 NGNGA ൂ
+തുടങ്ങൂ T2U T1 NGNGU 
 തുടങ്ങേടോ T2U T1 NGNGAE2 T1O2
 തുടങ്ങേണ്ടത് T2U T1 NGNGAE2 N1T1A T22
 തുടരാനാണ് T2U T1 R2AA N2AA N1U1
@@ -3518,10 +3517,10 @@
 തെറ്റാകാനും T2AE1 TA KA N2UM
 തെറ്റാണെന്നല്ല T2AE1 TA N1AE1 NN2A LL1A
 തെറ്റാണെന്ന് T2AE1 TA N1AE1 NN2
-തെറ്റായിരുന്നുഎന്നോട് T2AE1 TA YI R2U NN2U എ NN2O2  T111
+തെറ്റായിരുന്നുഎന്നോട് T2AE1 TA YI R2U NN2U എ NN2O2 T111
 തെറ്റായി T2AE1 TA YI
 തെറ്റായ T2AE1 TA Y
-തെറ്റിദ്ധരിച്ചു T2AE1 TI D2 ് D2H R2I CC2 U
+തെറ്റിദ്ധരിച്ചു T2AE1 TI D2D2H R2I CC2U
 തെറ്റിപ്പോയി T2AE1 TI PPO2 YI
 തെറ്റിയെങ്കില്‍ T2AE1 TI YAE1 NKI L1
 തെറ്റുകൾ T2AE1 TU K L2
@@ -3534,7 +3533,7 @@
 തെളിയിച്ചാലും T2AE1 L2I YI CC2 A L1UM
 തെളിയിച്ചിരുന്നു T2AE1 L2I YI CC2I R2U NN2U
 തെളിവുകള്‍ T2AE1 L2I VU K L2
-തൊണ്ണൂറു T2O1 N1U1 N1A ൂ R1U
+തൊണ്ണൂറു T2O1 NN1UU R1U
 തേജസ്സുള്ളതാണ് T2AE2 J SS3 ു LL2A T2A N1U1
 തേനിൽ T2AE2 N2I L1
 തോന്നുന്നില്ല T2O2 NN2U NN2I LL1A
@@ -3579,10 +3578,10 @@
 ദയവായി D2 Y VA YI
 ദയവുചെയ്ത് D2 Y VU CAE1 Y1 T22
 ദയവു D2 Y VU
-ദയവ് D2 Y V ്
+ദയവ് D2 Y V1
 ദരിദ്രനായ D2 R2I D2R1 N2AA Y
 ദശകമോ D2 S1 K MO2
-ദശാബ്ദമായി D2 S1A B ് D2 MA YI
+ദശാബ്ദമായി D2 S1A B1 D2 MA YI
 ദസ്തേ D2 S33 T2AE2
 ദാ D2A
 ദിനം D2R1I N2M
@@ -3603,9 +3602,9 @@
 ദുര്‍ബലമാണ് D2R1U R2 B L1A MA N1U1
 ദൂരം D2R1UU R2M
 ദൂരത്തിനും D2R1UU R2A TT2I N2UM
-ദൂരെനിന്നും D2R1UU R2A െ N2I NN2UM
-ദൂരെ D2R1UU R2A െ
-ദൃശ്യമാകുന്നു D2R1U S1 ് Y MA KU NN2U
+ദൂരെനിന്നും D2R1UU R2AE1 N2I NN2UM
+ദൂരെ D2R1UU R2AE1
+ദൃശ്യമാകുന്നു D2R1U S11 Y MA KU NN2U
 ദൌത്യത്തില്‍ D2AU T22 Y TT2I L1
 ദേവതകളേ D2AE2 V T2 K L2AE2
 ദേവതകള്‍ D2AE2 V T2 K L2
@@ -3620,32 +3619,32 @@
 ദൈവമേ D2AI V MAE2
 ദൌത്യം D2AU T22 YM
 ദൌത്യത്തിന്ന് D2AU T22 Y TT2I NN2
-ദൌത്യത്തിന് D2AU T22 Y TT2I N2A ്
+ദൌത്യത്തിന് D2AU T22 Y TT2I N22 
 ദ്രവിച്ച D2R1 VI CC2
-ദ്രവ്യം D2R1 V ് YM
+ദ്രവ്യം D2R1 VYM
 ദൗത്യം D2AU T22 YM
 ദൗത്യങ്ങളിലാണ് D2AU T22 Y NGNGA L2I L1AA N1U1
 ദൗത്യത്തിലൂടെ D2AU T22 Y TT2I L1UU T1AE1
 ദൗത്യമുണ്ട് D2AU T22 Y MU N1T1
-ദർശനത്തിന് D2 R2 S1 N2A TT2I N2A ്
-ധരിക്കാറില്ലെന്ന് D2H R2I KKA R1I LL1A െ NN2
+ദർശനത്തിന് D2 R2 S1 N2A TT2I N22 
+ധരിക്കാറില്ലെന്ന് D2H R2I KKA R1I LL1IAE1 NN2
 ധരിക്കുക D2H R2I KKU K
 ധരിക്കുന്നതെന്ന് D2H R2I KKU NN2A T2AE1 NN2
 ധരിക്കുമായിരുന്നു D2H R2I KKU MA YI R2U NN2U
 ധരിച്ചിരിക്കുന്നത് D2H R2I CC2I R2I KKU NN2A T22
 ധരിച്ചിരുന്നത് D2H R2I CC2I R2U NN2A T22
 ധരിച്ചിരുന്നു D2H R2I CC2I R2U NN2U
-ധരിച്ചു D2H R2I CC2 U
+ധരിച്ചു D2H R2I CC2U
 ധാരണ D2HA R2A N1A
 ധാരാളം D2HA R2AA L2M
 ധീരതയെ D2HII R2A T2 YAE1
 ധീരനായ D2HII R2A N2AA Y
-ധീരന്മാരായ D2HII R2A N2A ് MA R2AA Y
-ധൈര്യം D2HAI R2A ് YM
-ധൈര്യമായിരിക്കണം D2HAI R2A ് Y MA YI R2I KK N1M
-ധൈര്യമായിരിക്കൂ D2HAI R2A ് Y MA YI R2I KKUU
-ധൈര്യശാലിയുമാണ് D2HAI R2A ് Y S1A L1I YU MA N1U1
-നക്ഷത്രം N2A KS2 T2R1 ം
+ധീരന്മാരായ D2HII R2A N2 MA R2AA Y
+ധൈര്യം D2HAI R2Y M
+ധൈര്യമായിരിക്കണം D2HAI R2Y MA YI R2I KK N1M
+ധൈര്യമായിരിക്കൂ D2HAI R2Y MA YI R2I KKUU
+ധൈര്യശാലിയുമാണ് D2HAI R2Y S1A L1I YU MA N1U1
+നക്ഷത്രം N2A KS2 T2R1AM 
 നക്ഷത്രങ്ങളിലും N2A KS2 T2R1 NGNGA L2I L1UM
 നക്ഷത്രങ്ങളിലേക്ക് N2A KS2 T2R1 NGNGA L2I L1AE2 KK1
 നക്ഷത്രങ്ങളില്‍ N2A KS2 T2R1 NGNGA L2I L1
@@ -3659,7 +3658,7 @@
 നടക്കാണോ N2A T1 KKA N1O2
 നടക്കാറുണ്ട് N2A T1 KKA R1U N1T1
 നടക്കാൻ N2A T1 KKA N2
-നടക്കില്ലല്ലോ N2A T1 KKI LL1A L1A ് L1O2
+നടക്കില്ലല്ലോ N2A T1 KKI LL1A LL1O2
 നടക്കില്ലാ N2A T1 KKI LL1AA
 നടക്കില്ല N2A T1 KKI LL1A
 നടക്കും N2A T1 KKUM
@@ -3683,8 +3682,8 @@
 നടന്നതിൽ N2A T1 NN2A T2I L1
 നടന്നിട്ടുമില്ലേ N2A T1 NN2I T11U MI LL1AE2
 നടന്നില്ലാ N2A T1 NN2I LL1AA
-നടന്നില്ലെങ്ങിൽ N2A T1 NN2I LL1A െ NGNGI L1
-നടന്നില്ലെന്ന് N2A T1 NN2I LL1A െ NN2
+നടന്നില്ലെങ്ങിൽ N2A T1 NN2I LL1IAE1 NGNGI L1
+നടന്നില്ലെന്ന് N2A T1 NN2I LL1IAE1 NN2
 നടന്നു N2A T1 NN2U
 നടന്ന N2A T1 NN2A
 നടാമായിരുന്നു N2A T1A MA YI R2U NN2U
@@ -3717,7 +3716,7 @@
 നമുക്കറിയാവുന്ന N2A MU KK R1I YA VU NN2A
 നമുക്കാവില്ല N2A MU KKA VI LL1A
 നമുക്കിതിനുള്ള N2A MU KKI T2I N2U LL2A
-നമുക്കിതുവരെ N2A MU KKI T2U V R2A െ
+നമുക്കിതുവരെ N2A MU KKI T2U V R2AE1
 നമുക്കിത്തിരി N2A MU KKI TT2I R2I
 നമുക്കിത് N2A MU KKI T22
 നമുക്കിനിത് N2A MU KKI N2I T22
@@ -3749,7 +3748,7 @@
 നമ്മളെപ്പോലെ N2A MM L2AE1 PPO2 L1AE1
 നമ്മളെയെല്ലാം N2A MM L2AE1 YAE1 LL1AAM
 നമ്മളെ N2A MM L2AE1
-നമ്മളോട് N2A MM L2AE2 ാ  T111
+നമ്മളോട് N2A MM L2AE2 ാ T111
 നമ്മളൊന്നും N2A MM LL2O1 NN2UM
 നമ്മള്‍ക്ക് N2A MM L2 KK1
 നമ്മള്‍ N2A MM L2
@@ -3762,14 +3761,14 @@
 നമ്മുടേത്‌ N2A MM U T1 േ T2 ്‌
 നമ്മുടേത് N2A MM U T1 േ T22
 നമ്മെ N2A MMA E1
-നമ്മോട് N2A MM O2  T111
+നമ്മോട് N2A MM O2 T111
 നമ്മൾക്ക് N2A MM L2 KK1
 നമ്മൾ N2A MM L2
 നയതന്ത്രപരമായി N2A Y T2 N2T2A R1 P R2A MA YI
 നയിക്കുന്നത് N2A YI KKU NN2A T22
 നയിച്ചത് N2A YI CC2 T22
 നയിച്ചവർ N2A YI CC2 V R2
-നല്കിയിരിക്കുന്നത് N2A L1A ് KI YI R2I KKU NN2A T22
+നല്കിയിരിക്കുന്നത് N2A L1 KI YI R2I KKU NN2A T22
 നല്ലതല്ലാ N2A LL1A T2 LL1AA
 നല്ലതല്ലേ N2A LL1A T2 LL1AE2
 നല്ലതാണെങ്കിൽ N2A LL1A T2A N1AE1 NKI L1
@@ -3785,37 +3784,37 @@
 നല്ലൊരു N2A LL1A ൊ R2U
 നല്ല N2A LL1A
 നല്‍കരുത് N2A L1 K R2U T22
-നല്‍കിയതിന് N2A L1 KI Y T2I N2A ്
+നല്‍കിയതിന് N2A L1 KI Y T2I N22 
 നല്‍കി N2A L1 KI
 നല്‍കുന്നതാണ് N2A L1 KU NN2A T2A N1U1
 നല്‍കൂ N2A L1 KUU
 നശിക്കും N2A S1I KKUM
 നശിച്ചിരിക്കുന്നു N2A S1I CC2I R2I KKU NN2U
-നശിച്ചുപോയി N2A S1I CC2 U PO2 YI
-നശിച്ചു N2A S1I CC2 U
+നശിച്ചുപോയി N2A S1I CC2U PO2 YI
+നശിച്ചു N2A S1I CC2U
 നശിച്ച N2A S1I CC2
 നശിപ്പിക്കല്‍ N2A S1I PPI KK L1
 നശിപ്പിക്കാന്‍ N2A S1I PPI KKA N2
 നശിപ്പിക്കേണ്ടിവന്നു N2A S1I PPI KKAE2 N1T1AI V NN2U
 നശിപ്പിച്ചത് N2A S1I PPI CC2 T22
-നശിപ്പിച്ചു N2A S1I PPI CC2 U
+നശിപ്പിച്ചു N2A S1I PPI CC2U
 നശിപ്പിച്ച് N2A S1I PPI CC22
-നഷ്ടപ്പെടാന്‍ N2A S2 ് T1 PPAE1 T1A N2
-നഷ്ടപ്പെടുത്തി N2A S2 ് T1 PPAE1 T1U TT2I
-നഷ്ടപ്പെടുന്നു N2A S2 ് T1 PPAE1 T1U NN2U
-നഷ്ടപ്പെട്ടാല്‍ N2A S2 ് T1 PPAE1 T11AA L1
-നഷ്ടപ്പെട്ടിരുന്നു N2A S2 ് T1 PPAE1 T11I R2U NN2U
-നഷ്ടപ്പെട്ടു N2A S2 ് T1 PPAE1 T11U
-നഷ്ടമാകും N2A S2 ് T1 MA KUM
-നഷ്ടമാകുന്നു N2A S2 ് T1 MA KU NN2U
-നഷ്ടമായി N2A S2 ് T1 MA YI
-നഷ്ട്ടപ്പെട്ട N2A S2 ് T11A PPAE1 T11A
-നഷ്ട്ടമായില്ല N2A S2 ് T11A MA YI LL1A
-നഷ്ട്ടമായി N2A S2 ് T11A MA YI
-നഷ്ട്മാകും N2A S2 ്  T111  MA KUM
-നഷ്ട്മാകുന്നു N2A S2 ്  T111  MA KU NN2U
+നഷ്ടപ്പെടാന്‍ N2A S22 T1 PPAE1 T1A N2
+നഷ്ടപ്പെടുത്തി N2A S22 T1 PPAE1 T1U TT2I
+നഷ്ടപ്പെടുന്നു N2A S22 T1 PPAE1 T1U NN2U
+നഷ്ടപ്പെട്ടാല്‍ N2A S22 T1 PPAE1 T11AA L1
+നഷ്ടപ്പെട്ടിരുന്നു N2A S22 T1 PPAE1 T11I R2U NN2U
+നഷ്ടപ്പെട്ടു N2A S22 T1 PPAE1 T11U
+നഷ്ടമാകും N2A S22 T1 MA KUM
+നഷ്ടമാകുന്നു N2A S22 T1 MA KU NN2U
+നഷ്ടമായി N2A S22 T1 MA YI
+നഷ്ട്ടപ്പെട്ട N2A S22 T11A PPAE1 T11A
+നഷ്ട്ടമായില്ല N2A S22 T11A MA YI LL1A
+നഷ്ട്ടമായി N2A S22 T11A MA YI
+നഷ്ട്മാകും N2A S22 T111 MA KUM
+നഷ്ട്മാകുന്നു N2A S22 T111 MA KU NN2U
 നാം N2AAM
-നാച്ചുറല്‍ N2AA CC2 U R1A L1
+നാച്ചുറല്‍ N2AA CC2U R1A L1
 നാടകറാണി N2AA T1 K R1AA N1I
 നാട്ടില്‍ N2AA T11I L1
 നാടൻ N2AA T1 N2
@@ -3833,7 +3832,7 @@
 നാലാമതും N2AA L1AA M T2UM
 നാലാമത്തെ N2AA L1AA M TT2AE1
 നാലു N2AA L1U
-നാല് N2AA L1A ്
+നാല് N2AA L11
 നാളായി N2AA L2AA YI
 നാളുകളിലൂടെയാണ് N2AA L2U K L2I L1UU T1AE1 YA N1U1
 നാളെയെല്ലാം N2AA L2AE1 YAE1 LL1AAM
@@ -3845,7 +3844,7 @@
 നാസയിൽ N2AA S3 YI L1
 നാസയ്കുള്ള N2AA S3 Y1 KU LL2A
 നാസ N2AA S3
-നാൽപ്പത്തഞ്ചു N2AA L1 P1 P TT2 NCHA U
+നാൽപ്പത്തഞ്ചു N2AA L1 PP TT2 NCHA U
 നികുതി N2I KU T2I
 നിക്ക് N2I KK1
 നിഗമനത്തില്‍ N2I G M N2A TT2I L1
@@ -3861,7 +3860,7 @@
 നിങ്ങളിത് N2I NGNGA L2I T22
 നിങ്ങളിപ്പോള്‍ N2I NGNGA L2I PPO2 L2
 നിങ്ങളില്‍ N2I NGNGA L2I L1
-നിങ്ങളിവനോട് N2I NGNGA L2I V N2O2  T111
+നിങ്ങളിവനോട് N2I NGNGA L2I V N2O2 T111
 നിങ്ങളിവിടെ N2I NGNGA L2I VI T1AE1
 നിങ്ങളും N2I NGNGA L2UM
 നിങ്ങളുടെതാണെന്ന് N2I NGNGA L2U T1AE1 T2A N1AE1 NN2
@@ -3873,14 +3872,14 @@
 നിങ്ങളുടേതു N2I NGNGA L2U T1 േ T2U
 നിങ്ങളുമായി N2I NGNGA L2U MA YI
 നിങ്ങളു N2I NGNGA L2U
-നിങ്ങളെക്കുറിച്ചും N2I NGNGA L2AE1 KKU R1I C ് CUM
+നിങ്ങളെക്കുറിച്ചും N2I NGNGA L2AE1 KKU R1I CC2UM
 നിങ്ങളെനിക്ക് N2I NGNGA L2AE1 N2I KK1
 നിങ്ങളെന്താണിവിടെ N2I NGNGA L2AE1 N2T2A A N1I VI T1AE1
 നിങ്ങളെന്താണീ N2I NGNGA L2AE1 N2T2A A N1A ീ
 നിങ്ങളെന്താണ് N2I NGNGA L2AE1 N2T2A A N1U1
 നിങ്ങളെന്ത് N2I NGNGA L2AE1 N2T2A ്
 നിങ്ങളെന്നെ N2I NGNGA L2AE1 NN2AE1
-നിങ്ങളെപ്പറ്റി N2I NGNGA L2AE1 P1 P TI
+നിങ്ങളെപ്പറ്റി N2I NGNGA L2AE1 PP TI
 നിങ്ങളെപ്പോളാണ് N2I NGNGA L2AE1 PPO2 L2AA N1U1
 നിങ്ങളെപ്പോളും N2I NGNGA L2AE1 PPO2 L2UM
 നിങ്ങളെയാണ് N2I NGNGA L2AE1 YA N1U1
@@ -3894,7 +3893,7 @@
 നിങ്ങളൊരു N2I NGNGA LL2O1 R2U
 നിങ്ങളോടല്ല N2I NGNGA L2O2 T1 LL1A
 നിങ്ങളോടിത്തിരി N2I NGNGA L2O2 T1I TT2I R2I
-നിങ്ങളോട് N2I NGNGA L2O2  T111
+നിങ്ങളോട് N2I NGNGA L2O2 T111
 നിങ്ങള്ക്ക് N2I NGNGA L2A ് KK1
 നിങ്ങള്‍ക്കത് N2I NGNGA L2 KK T22
 നിങ്ങള്‍ക്കദ്ദേഹത്തെ N2I NGNGA L2 KK DD2AE2 H TT2AE1
@@ -3903,7 +3902,7 @@
 നിങ്ങള്‍ക്കാ N2I NGNGA L2 KKA
 നിങ്ങള്‍ക്കിങ്ങനെ N2I NGNGA L2 KKI NGNGA N2AE1
 നിങ്ങള്‍ക്കിതെവിടുന്ന് N2I NGNGA L2 KKI T2AE1 VI T1U NN2
-നിങ്ങള്‍ക്കെടുക്കേണ്ടിവരും N2I NGNGA L2 KKAE1 T1U KKAE2 N1T1AI V R2U ം
+നിങ്ങള്‍ക്കെടുക്കേണ്ടിവരും N2I NGNGA L2 KKAE1 T1U KKAE2 N1T1AI V R2UM
 നിങ്ങള്‍ക്കൊരു N2I NGNGA L2 KKO1 R2U
 നിങ്ങള്‍ക്ക് N2I NGNGA L2 KK1
 നിങ്ങള്‍പറ്റില്ല N2I NGNGA L2 P TI LL1A
@@ -3955,7 +3954,7 @@
 നിനക്കൊക്കെ N2I N2A KKO1 KKAE1
 നിനക്കൊരിക്കലും N2I N2A KKO1 R2I KK L1UM
 നിനക്കൊരു N2I N2A KKO1 R2U
-നിനക്ക്ഇഷ്ടമായി N2I N2A KK1 ഇ S2 ് T1 MA YI
+നിനക്ക്ഇഷ്ടമായി N2I N2A KK1 ഇ S22 T1 MA YI
 നിനക്ക് N2I N2A KK1
 നിനീയത് N2I N2II Y T22
 നിനെക്കെന്താ N2I N2AE1 KKAE1 N2T2A A
@@ -3963,7 +3962,7 @@
 നിന്നാണ് N2I NN2AA N1U1
 നിന്നായിരുന്നു N2I NN2AA YI R2U NN2U
 നിന്നിടത്തേക്ക് N2I NN2I T1 TT2 AE2 KK1
-നിന്നില്ലെങ്കില്‍ N2I NN2I LL1A െ NKI L1
+നിന്നില്ലെങ്കില്‍ N2I NN2I LL1IAE1 NKI L1
 നിന്നും N2I NN2UM
 നിന്നുമാണ് N2I NN2U MA N1U1
 നിന്നുമുള്ള N2I NN2U MU LL2A
@@ -3979,17 +3978,17 @@
 നിന്നേ N2I NN2AE2
 നിന്നോടു N2I NN2O2 T1U
 നിന്നോടൊന്നും N2I NN2O2 T1 ൊ NN2UM
-നിന്നോട് N2I NN2O2  T111
+നിന്നോട് N2I NN2O2 T111
 നിന്നോളൂ N2I NN2O2 L2UU
 നിന്ന്തന്നെ N2I NN2 T2 NN2AE1
 നിന്ന്‍ N2I NN2 ‍
 നിന്ന് N2I NN2
-നിന്റച്ഛന് N2I N2A ് R1A CC1 N22
+നിന്റച്ഛന് N2I N2T CC1 N22
 നിന്റെയീ N2I N2TE Y ീ
 നിന്റെ N2I N2TE
 നിന്‍റെയൊക്കെ N2I N2TAE1 YO1 KKAE1
 നിന്‍റെ N2I N2TAE1
-നിമിഷം N2I MI S2 ം
+നിമിഷം N2I MI S2M
 നിമിഷങ്ങള്‍ N2I MI S2 NGNGA L2
 നിമിഷത്തിനും N2I MI S2 TT2I N2UM
 നിമിഷത്തില്‍ N2I MI S2 TT2I L1
@@ -4000,13 +3999,13 @@
 നിയന്ത്രണത്തിലായാല്‍ N2I Y N2T2A R1 N1A TT2I L1AA YA L1
 നിയന്ത്രണ N2I Y N2T2A R1 N1A
 നിയന്ത്രിക്കാനുള്ള N2I Y N2T2A R1I KKA N2U LL2A
-നിയന്ത്രിച്ചുകൊണ്ട് N2I Y N2T2A R1I CC2 U KO1 N1T1
+നിയന്ത്രിച്ചുകൊണ്ട് N2I Y N2T2A R1I CC2U KO1 N1T1
 നിയമം N2I Y MM1
 നിയമങ്ങള്‍ N2I Y M NGNGA L2
 നിയമപരമായ N2I Y M P R2A MA Y
 നിയമമോ N2I Y M MO2
 നിയോക്സിലെ N2I YO2 K1 S3I L1AE1
-നിയോക്സ് N2I YO2 K ് S33
+നിയോക്സ് N2I YO2 K1 S33
 നിയോഗിച്ചവര്‍ N2I YO2 GI CC2 V R2
 നിരത്താൻ N2I R2A TT2 A N2
 നിരയായി N2I R2A YA YI
@@ -4020,7 +4019,7 @@
 നിരീക്ഷണത്തിൽ N2I R2II KS2 N1A TT2I L1
 നിരീക്ഷിക്കുകയും N2I R2II KS2I KKU K YUM
 നിര്‍ഗുണനാണ് N2I R2 GU N1A N2AA N1U1
-നിര്‍ണ്ണായകമായ N2I R2 N1U1 N1A ാ Y K MA Y
+നിര്‍ണ്ണായകമായ N2I R2 NN1AA A Y K MA Y
 നിര്‍ത്തരുത് N2I R2 TT2 R2U T22
 നിര്‍ത്താന്‍ N2I R2 TT2 A N2
 നിര്‍ത്തിക്കോ N2I R2 TT2I KK O2
@@ -4041,8 +4040,8 @@
 നിര്‍മ്മിക്കാന്‍ N2I R2 MMI KKA N2
 നിര്‍മ്മിച്ചതിനെ N2I R2 MMI CC2 T2I N2AE1
 നിര്‍മ്മിച്ചത് N2I R2 MMI CC2 T22
-നിര്‍മ്മിച്ചുകൊണ്ടിരിക്കുന്നു N2I R2 MMI CC2 U KO1 N1T1AI R2I KKU NN2U
-നിര്‍മ്മിച്ചു N2I R2 MMI CC2 U
+നിര്‍മ്മിച്ചുകൊണ്ടിരിക്കുന്നു N2I R2 MMI CC2U KO1 N1T1AI R2I KKU NN2U
+നിര്‍മ്മിച്ചു N2I R2 MMI CC2U
 നിര്‍മ്മിച്ച N2I R2 MMI CC2
 നിര്‍വഹിക്കാന്‍ N2I R2 V HI KKA N2
 നിറം N2I R1M
@@ -4052,14 +4051,14 @@
 നിലക്ക് N2I L1A KK1
 നിലത്ത് N2I L1A T2T2
 നിലനിര്‍ത്തിയത് N2I L1A N2I R2 TT2I Y T22
-നിലനില്ക്കുന്നു N2I L1A N2I L1A ് KKU NN2U
-നിലനില്പ്പ് N2I L1A N2I L1A ് P1 P1
+നിലനില്ക്കുന്നു N2I L1A N2I L1 KKU NN2U
+നിലനില്പ്പ് N2I L1A N2I L1 P1 P1
 നിലനില്‍ക്കാം N2I L1A N2I L1 KKAAM
 നിലനില്‍ക്കുന്നതോളം N2I L1A N2I L1 KKU NN2A T2O2 L2M
 നിലനില്‍ക്കുന്നവര്‍ N2I L1A N2I L1 KKU NN2A V R2
 നിലനില്‍പ്പിനായുള്ള N2I L1A N2I L1 PPI N2AA YU LL2A
 നിലനില്‍പ്പിനു N2I L1A N2I L1 PPI N2U
-നിലനില്‍പ്പില്ലെന്ന് N2I L1A N2I L1 PPI LL1A െ NN2
+നിലനില്‍പ്പില്ലെന്ന് N2I L1A N2I L1 PPI LL1IAE1 NN2
 നിലനില്‍പ് N2I L1A N2I L1 P1
 നിലനിർത്താൻ N2I L1A N2I R2 TT2 A N2
 നിലയിലാണ് N2I L1A YI L1AA N1U1
@@ -4067,9 +4066,9 @@
 നിലയ്കുന്നു N2I L1A Y1 KU NN2U
 നിലയ്ക്കുന്നു N2I L1A Y1 KKU NN2U
 നിലവറകളിലും N2I L1A V R1A K L2I L1UM
-നിലവിളിച്ചു N2I L1A VI L2I CC2 U
-നില്ക്കണം N2I L1A ് KK N1M
-നില്ക്കനമോ N2I L1A ് KK N2A MO2
+നിലവിളിച്ചു N2I L1A VI L2I CC2U
+നില്ക്കണം N2I L1 KK N1M
+നില്ക്കനമോ N2I L1 KK N2A MO2
 നില്‍ക്കണം N2I L1 KK N1M
 നില്‍ക്കണേ N2I L1 KK N1A േ
 നില്‍ക്കാനാവില്ല N2I L1 KKA N2AA VI LL1A
@@ -4081,10 +4080,10 @@
 നില്‍ക്ക്കരയേണ്ട N2I L1 KK1 K R2A YAE2 N1T1A
 നില്‍ക്ക് N2I L1 KK1
 നില N2I L1A
-നിശ്ചയിക്കപ്പെട്ട N2I S1 ് C YI KK PPAE1 T11A
+നിശ്ചയിക്കപ്പെട്ട N2I S11 C YI KK PPAE1 T11A
 നിഷേധിക്കുന്നു N2I S2AE2 D2HI KKU NN2U
-നിഷ്ക്രിയാവസ്ഥ N2I S2 ് KR1I YA V S3T2H
-നിഷ്‌കളങ്കരാണ് N2I S2 ്‌ K L2A ങ് K R2AA N1U1
+നിഷ്ക്രിയാവസ്ഥ N2I S22 KR1I YA V S3T2H
+നിഷ്‌കളങ്കരാണ് N2I S22 K L2A NK R2AA N1U1
 നിസ്സാരമായി N2I SS3 ാ R2A MA YI
 നിർത്താനാണ് N2I R2 TT2 A N2AA N1U1
 നിർത്തി N2I R2 TT2I
@@ -4111,9 +4110,9 @@
 നീന്താൻ N2II N2T2A A N2
 നീയത് N2II Y T22
 നീയവനെ N2II Y V N2AE1
-നീയവനോട് N2II Y V N2O2  T111
+നീയവനോട് N2II Y V N2O2 T111
 നീയവിടെ N2II Y VI T1AE1
-നീയാണു N2II YA N1A ു
+നീയാണു N2II YA N1U
 നീയാണോ N2II YA N1O2
 നീയാണ് N2II YA N1U1
 നീയാദ്യത്തെ N2II YA D2Y TT2AE1
@@ -4137,7 +4136,7 @@
 നീയെന്തിനാ N2II YAE1 N2T2I N2AA
 നീയെന്തു N2II YAE1 N2T2A U
 നീയെന്നെ N2II YAE1 NN2AE1
-നീയെന്നോട് N2II YAE1 NN2O2  T111
+നീയെന്നോട് N2II YAE1 NN2O2 T111
 നീയെന്റെ N2II YAE1 N2TE
 നീയെന്‍റെ N2II YAE1 N2TAE1
 നീയെവിടുന്ന് N2II YAE1 VI T1U NN2
@@ -4147,8 +4146,8 @@
 നീയൊരിക്കല്‍ N2II YO1 R2I KK L1
 നീയൊരു N2II YO1 R2U
 നീരാശനാകരുത് N2II R2AA S1 N2AA K R2U T22
-നീലചിത്രം N2II L1A CI T2R1 ം
-നീലച്ചിത്രം N2II L1A CC2I T2R1 ം
+നീലചിത്രം N2II L1A CI T2R1AM 
+നീലച്ചിത്രം N2II L1A CC2I T2R1AM 
 നീളം N2II L2M
 നീ N2II
 നുട്രോണ്‍ N2U T1R1O2 N1
@@ -4158,7 +4157,7 @@
 നുണയനുമാണ് N2U N1A Y N2U MA N1U1
 നുണയനെന്ന് N2U N1A Y N2AE1 NN2
 നുണ N2U N1A
-നൂറുകണക്കിനെണ്ണത്തില്‍ N2UU R1U K N1A KKI N2AE1 N1U1 N1A TT2I L1
+നൂറുകണക്കിനെണ്ണത്തില്‍ N2UU R1U K N1A KKI N2AE1 NN1 TT2I L1
 നൂറുകണക്കിന് N2UU R1U K N1A KKI N22
 നൂറുകളുടെ N2UU R1U K L2U T1AE1
 നൂറ്റാണ്ടിലെ N2UU TA N1T1AI L1AE1
@@ -4167,7 +4166,7 @@
 നെല്‍സണ്‍ N2AE1 L1 S3 N1
 നെല്‍സണ് N2AE1 L1 S3 N1U1
 നെല്‍സന്റെ N2AE1 L1 S3 N2TE
-നെവര്‍ലാന്റിനേയും N2AE1 V R2 L1AA N2A ് R1I N2AE2 YUM
+നെവര്‍ലാന്റിനേയും N2AE1 V R2 L1AA N2 TI N2AE2 YUM
 നേടിയതാണ് N2AE2 T1I Y T2A N1U1
 നേടിയതും N2AE2 T1I Y T2UM
 നേതൃത്വത്തിൽ N2AE2 T2R1U T2V TT2I L1
@@ -4179,13 +4178,13 @@
 നേരിടും N2AE2 R2I T1UM
 നേരിട്ടിരുന്നു N2AE2 R2IT11I R2U NN2U
 നേരിട്ട് N2AE2 R2I T11
-നേരെയാകില്ല N2AE2 R2A െ YA KI LL1A
-നേരെയാക്കാനുള്ള N2AE2 R2A െ YA KKA N2U LL2A
-നേരെയാക്കാന്‍ N2AE2 R2A െ YA KKA N2
-നേരെയാക്കി N2AE2 R2A െ YA KKI
-നേരെയാക്കുക N2AE2 R2A െ YA KKU K
-നേരെയാക്ക് N2AE2 R2A െ YA KK1
-നേരെ N2AE2 R2A െ
+നേരെയാകില്ല N2AE2 R2AE1 YA KI LL1A
+നേരെയാക്കാനുള്ള N2AE2 R2AE1 YA KKA N2U LL2A
+നേരെയാക്കാന്‍ N2AE2 R2AE1 YA KKA N2
+നേരെയാക്കി N2AE2 R2AE1 YA KKI
+നേരെയാക്കുക N2AE2 R2AE1 YA KKU K
+നേരെയാക്ക് N2AE2 R2AE1 YA KK1
+നേരെ N2AE2 R2AE1
 നോക്കി N2O2 KKI
 നോക്കൂ N2O2 KKUU
 നോക്ക്‌ N2O2 KK1 ‌
@@ -4220,12 +4219,12 @@
 നോക്ക് N2O2 KK1
 നോട്ട്ബുക്കല്ല N2O2 T11 BU KK LL1A
 നോട്ട്ബുക്ക് N2O2 T11 BU KK1
-നോട് N2O2  T111
+നോട് N2O2 T111
 നോണ്‍വെജ് N2O2 N1 VAE1 J1
 ന്യൂട്ടന്റെ N2YUU T11A N2TE
 ന്റെ N2TE
 ന് N22
-നർമ്മബോധം N2A R2 MM BO2 D2H ം
+നർമ്മബോധം N2A R2 MM BO2 D2 HM
 പകരം P K R2M
 പകര്‍ത്താനുള്ള P K R2 TT2 A N2U LL2A
 പകലിന്റെ P K L1I N2TE
@@ -4237,14 +4236,14 @@
 പക്ഷെ P KS2 െ
 പക്ഷേ P KS2 േ
 പകൽ P K L1
-പങ്കടുത്തുക്കൂട P ങ് K T1U TT2 U KKUU T1
+പങ്കടുത്തുക്കൂട P NK T1U TT2 U KKUU T1
 പങ്കിടാനുള്ള P NKI T1A N2U LL2A
 പങ്കിടില്ലാ P NKI T1I LL1AA
 പങ്കിടേണ്ടി P NKI T1 േ N1T1AI
 പങ്കിട്ടു P NKI T11U
 പങ്കുവെച്ചേക്കാം P NKU VAE1 CC2 AE2 KKAAM
 പങ്കു P NKU
-പങ്കെടുക്കാനായതില്‍ P ങ് K െ T1U KKA N2AA Y T2I L1
+പങ്കെടുക്കാനായതില്‍ P NK AE1 T1U KKA N2AA Y T2I L1
 പഞ്ചറായി P NCHA R1AA YI
 പഞ്ചറായ P NCHA R1AA Y
 പടയാളികളും P T1 YA L2I K L2UM
@@ -4267,18 +4266,18 @@
 പഠിക്കേണ്ടതുണ്ട് P T1H ി KKAE2 N1T1A T2U N1T1
 പഠിച്ചത് P T1H ി CC2 T22
 പഠിച്ചിട്ടുണ്ട് P T1H ി CC2I T11U N1T1
-പഠിച്ചു P T1H ി CC2 U
+പഠിച്ചു P T1H ി CC2U
 പഠിച്ചോണ്ടിരിക്കുകയാണ് P T1H ി CC2O2 N1T1AI R2I KKU K YA N1U1
 പഠിപ്പിക്കാന്‍ P T1H ി PPI KKA N2
 പഠിപ്പിക്കാൻ P T1H ി PPI KKA N2
 പഠിപ്പിച്ചതാണ് P T1H ി PPI CC2 T2A N1U1
 പഠിപ്പിച്ചത് P T1H ി PPI CC2 T22
 പഠിപ്പിച്ചിട്ടുണ്ട് P T1H ി PPI CC2I T11U N1T1
-പഠിപ്പിച്ചു P T1H ി PPI CC2 U
+പഠിപ്പിച്ചു P T1H ി PPI CC2U
 പഠിപ്പുള്ള P T1H ി PPU LL2A
 പണംകൊണ്ട് P N1M KO1 N1T1
 പണം P N1M
-പണചെലവ് P N1A CAE1 L1A V ്
+പണചെലവ് P N1A CAE1 L1A V1
 പണത്തിന്‍റെ P N1A TT2I N2TAE1
 പണമാണ് P N1A MA N1U1
 പണമെല്ലാം P N1A MAE1 LL1AAM
@@ -4305,7 +4304,7 @@
 പണ്ട് P N1T1
 പതാക P T2A K
 പതിനഞ്ചു P T2I N2A NCHA U
-പതിനാല് P T2I N2AA L1A ്
+പതിനാല് P T2I N2AA L1
 പതിപ്പാണ്‌ P T2I PPA N1U1 ‌
 പതിയെ P T2I YAE1
 പതുക്കെ P T2U KKAE1
@@ -4313,31 +4312,31 @@
 പത്തായത്തിലും P TT2 A Y TT2I L1UM
 പത്ത് P T2T2
 പത്രത്തിൽ P T2R1 TT2I L1
-പദ്ധതിയുണ്ട് P D2 ് D2H T2I YU N1T1
-പദ്ധതി P D2 ് D2H T2I
+പദ്ധതിയുണ്ട് P D2D2H T2I YU N1T1
+പദ്ധതി P D2D2H T2I
 പന്തലുപണിക്കാർ P N2T2A L1U P N1I KKA R2
 പന്തിൽ P N2T2I L1
 പന്ത്രണ്ടു P N2T2A R1 N1T1U
 പന്ത്രണ്ട് P N2T2A R1 N1T1
 പപ്പാ P PPA
-പപ്പ P P1 P
+പപ്പ P PP
 പയ്യൻ P Y1 Y N2
 പരദൂഷണമൊക്കെ P R2A D2R1UU S2 N1A MO1 KKAE1
 പരമാവധി P R2A MA V D2HI
-പരസ്പ്പരം P R2A S33 P1 P R2M
+പരസ്പ്പരം P R2A S33 PP R2M
 പരാജയം P R2AA J YM
 പരാജയപെട്ടോ P R2AA J Y PAE1 T11O2
 പരാമീറ്റർ P R2AA MII TA R2
 പരിക്കുപറ്റി P R2I KKU P TI
 പരിക്ക് P R2I KK1
 പരിചയപ്പെടുത്തുന്നു P R2I C Y PPAE1 T1U TT2 U NN2U
-പരിണാമത്തിന്റെ P R2I N1A ാ M TT2I N2TE
+പരിണാമത്തിന്റെ P R2I N1AA M TT2I N2TE
 പരിപാടിയില്‍ P R2I PA T1I YI L1
 പരിപാടിയുടെ P R2I PA T1I YU T1AE1
 പരിപാടിയുണ്ട് P R2I PA T1I YU N1T1
 പരിപാടിയുള്ളതല്ലേ P R2I PA T1I YU LL2A T2 LL1AE2
 പരിപാടി P R2I PA T1I
-പരിപൂർണ്ണമായ P R2I PUU R2 N1U1 N1A MA Y
+പരിപൂർണ്ണമായ P R2I PUU R2 NN1 MA Y
 പരിമിതികളില്ല P R2I MI T2I K L2I LL1A
 പരിവേഷകാരാണ് P R2I VAE2 S2 KA R2AA N1U1
 പരിവേഷണത്തിന് P R2I VAE2 S2 N1A TT2I N22
@@ -4359,18 +4358,18 @@
 പരീക്ഷണ P R2II KS2 N1A
 പരീക്ഷിക്കപ്പെട്ടിട്ടില്ല P R2II KS2I KK PPAE1 T11IT11I LL1A
 പരീക്ഷിക്കാനുള്ള P R2II KS2I KKA N2U LL2A
-പര്യവസാനങ്ങള്‍ P R2A ് Y V S3A N2A NGNGA L2
-പര്യവേക്ഷകർ P R2A ് Y VAE2 KS2 K R2
-പര്യവേക്ഷണം P R2A ് Y VAE2 KS2 N1M
-പര്യവേക്ഷണങ്ങള്‍ P R2A ് Y VAE2 KS2 N1A NGNGA L2
-പര്യവേഷണം P R2A ് Y VAE2 S2 N1M
-പര്യവേഷണസ്ഥലത്തേയ്ക് P R2A ് Y VAE2 S2 N1A S3T2H L1A TT2 AE2 YK1
+പര്യവസാനങ്ങള്‍ P R2Y V S3A N2A NGNGA L2
+പര്യവേക്ഷകർ P R2Y VAE2 KS2 K R2
+പര്യവേക്ഷണം P R2Y VAE2 KS2 N1M
+പര്യവേക്ഷണങ്ങള്‍ P R2Y VAE2 KS2 N1A NGNGA L2
+പര്യവേഷണം P R2Y VAE2 S2 N1M
+പര്യവേഷണസ്ഥലത്തേയ്ക് P R2Y VAE2 S2 N1A S3T2H L1A TT2 AE2 YK1
 പറക്കല്‍ P R1A KK L1
 പറക്കുന്നുവെന്നാണ് P R1A KKU NN2U VAE1 NN2AA N1U1
 പറഞത് P R1A NJA T22
 പറഞ്ഞതല്ലേ P R1A NNJA T2 LL1AE2
 പറഞ്ഞതാണ്‌ P R1A NNJA T2A N1U1 ‌
-പറഞ്ഞതുമില്ലല്ലോ P R1A NNJA T2U MI LL1A L1A ് L1O2
+പറഞ്ഞതുമില്ലല്ലോ P R1A NNJA T2U MI LL1A LL1O2
 പറഞ്ഞതെന്ന് P R1A NNJA T2AE1 NN2
 പറഞ്ഞതെല്ലാം P R1A NNJA T2AE1 LL1AAM
 പറഞ്ഞത് P R1A NNJA T22
@@ -4378,25 +4377,25 @@
 പറഞ്ഞപോലെ P R1A NNJA PO2 L1AE1
 പറഞ്ഞപ്പോള്‍ P R1A NNJA PPO2 L2
 പറഞ്ഞല്ലേ P R1A NNJA LL1AE2
-പറഞ്ഞല്ലോ P R1A NNJA L1A ് L1O2
+പറഞ്ഞല്ലോ P R1A NNJA LL1O2
 പറഞ്ഞാല്‍ P R1A NNJA L1
 പറഞ്ഞാൽ P R1A NNJA L1
-പറഞ്ഞിട്ടില്ലായിരുന്നല്ലോ P R1A NNJI T11I LL1AA YI R2U NN2A L1A ് L1O2
+പറഞ്ഞിട്ടില്ലായിരുന്നല്ലോ P R1A NNJI T11I LL1AA YI R2U NN2A LL1O2
 പറഞ്ഞിട്ടില്ലായിരുന്നു P R1A NNJI T11I LL1AA YI R2U NN2U
 പറഞ്ഞിട്ടില്ലാ P R1A NNJI T11I LL1AA
 പറഞ്ഞിട്ടില്ലേ P R1A NNJI T11I LL1AE2
 പറഞ്ഞിട്ടില്ല P R1A NNJI T11I LL1A
 പറഞ്ഞിട്ടുണ്ട് P R1A NNJI T11U N1T1
-പറഞ്ഞിട്ടേയില്ലല്ലോ P R1A NNJI T11AE2 YI LL1A L1A ് L1O2
+പറഞ്ഞിട്ടേയില്ലല്ലോ P R1A NNJI T11AE2 YI LL1A LL1O2
 പറഞ്ഞിരുന്നില്ലേ P R1A NNJI R2U NN2I LL1AE2
 പറഞ്ഞിരുന്നു P R1A NNJI R2U NN2U
 പറഞ്ഞിരുന്നെങ്കിൽ P R1A NNJI R2U NN2AE1 NKI L1
-പറഞ്ഞില്ലല്ലോ P R1A NNJI LL1A L1A ് L1O2
+പറഞ്ഞില്ലല്ലോ P R1A NNJI LL1A LL1O2
 പറഞ്ഞില്ലാ P R1A NNJI LL1AA
-പറഞ്ഞില്ലേആരും P R1A NNJI LL1AE2 ആ R2U ം
+പറഞ്ഞില്ലേആരും P R1A NNJI LL1AE2 ആ R2UM
 പറഞ്ഞില്ലേ P R1A NNJI LL1AE2
 പറഞ്ഞില്ല P R1A NNJI LL1A
-പറഞ്ഞുതരും P R1A NNJU T2 R2U ം
+പറഞ്ഞുതരും P R1A NNJU T2 R2UM
 പറഞ്ഞുതരു P R1A NNJU T2 R2U
 പറഞ്ഞു P R1A NNJU
 പറഞ്ഞോളു P R1A NNJO2 L2U
@@ -4435,7 +4434,7 @@
 പറയുന്നതെന്ന് P R1A YU NN2A T2AE1 NN2
 പറയുന്നത് P R1A YU NN2A T22
 പറയുന്നനത് P R1A YU NN2A N2A T22
-പറയുന്നില്ലെങ്കില്‍ P R1A YU NN2I LL1A െ NKI L1
+പറയുന്നില്ലെങ്കില്‍ P R1A YU NN2I LL1IAE1 NKI L1
 പറയുന്നു P R1A YU NN2U
 പറയുന്നേ P R1A YU NN2AE2
 പറയുന്ന P R1A YU NN2A
@@ -4460,18 +4459,18 @@
 പറ്റിയില്ല P TI YI LL1A
 പറ്റിയോര്‍ത്ത് P TI YO2 R2 T2T2
 പറ്റിയ P TI Y
-പറ്റില്ലഅതത്യാവശ്യമാണ് P TI LL1A അ T2 T2YA V S1 ് Y MA N1U1
-പറ്റില്ലല്ലോ P TI LL1A L1A ് L1O2
+പറ്റില്ലഅതത്യാവശ്യമാണ് P TI LL1A അ T2 T2YA V S11 Y MA N1U1
+പറ്റില്ലല്ലോ P TI LL1A LL1O2
 പറ്റില്ലാ P TI LL1AA
 പറ്റില്ലേ P TI LL1AE2
 പറ്റില്ല P TI LL1A
 പറ്റി P TI
-പറ്റും P TU ം
+പറ്റും P TUM
 പറ്റുകയെന്നറിയില്ലാ P TU K YAE1 NN2A R1I YI LL1AA
 പറ്റുന്നത് P TU NN2A T22
 പറ്റുന്നില്ല P TU NN2I LL1A
 പറ്റുമെന്ന് P TU MAE1 NN2
-പറ്റുമോയെന്നെന്നോട് P TU MO2 YAE1 NN2AE1 NN2O2  T111
+പറ്റുമോയെന്നെന്നോട് P TU MO2 YAE1 NN2AE1 NN2O2 T111
 പറ്റുമോ P TU MO2
 പറ്റൂ P R1A ് R1UU
 പറ P R1A
@@ -4520,12 +4519,12 @@
 പാത്രങ്ങള്‍ PA T2R1 NGNGA L2
 പാനിപൂരിയെന്നാണ് PA N2I PUU R2I YAE1 NN2AA N1U1
 പാനിയല്ലാറാണി PA N2I Y LL1AA R1AA N1I
-പാന്‍റ് PA N2 R1A ്
-പാപ്പരാക്കാന്‍ PA P1 P R2AA KKA N2
-പാപ്പരായതിന് PA P1 P R2AA Y T2I N22
+പാന്‍റ് PA N2TT
+പാപ്പരാക്കാന്‍ PA PP R2AA KKA N2
+പാപ്പരായതിന് PA PP R2AA Y T2I N22
 പാരടൈസോയിലാണ് PA R2A T1AI S3O2 YI L1AA N1U1
 പാരടൈസോയിലെ PA R2A T1AI S3O2 YI L1AE1
-പാരമ്പര്യമാണ് PA R2A MP R2A ് Y MA N1U1
+പാരമ്പര്യമാണ് PA R2A MP R2Y MA N1U1
 പാരിസാണ് PA R2I S3A N1U1
 പാരിസിനടുത്താണ്ട്രെയിനിൽ PA R2I S3I N2A T1U TT2 A N1T1AR1AE1 YI N2I L1
 പാരിസിലാണെന്ന്‍ PA R2I S3I L1AA N1AE1 NN2 ‍
@@ -4537,9 +4536,9 @@
 പാരിസിലേക്ക് PA R2I S3I L1AE2 KK1
 പാരിസിൽ PA R2I S3I L1
 പാരിസ് PA R2I S33
-പാര്‍ട്സുകള്‍ PA R2  T111  S3U K L2
+പാര്‍ട്സുകള്‍ PA R2 T111 S3U K L2
 പാറ PA R1A
-പാലിച്ചില്ലെങ്കിലോ PA L1I CC2I LL1A െ NKI L1O2
+പാലിച്ചില്ലെങ്കിലോ PA L1I CC2I LL1IAE1 NKI L1O2
 പാലിന്‍റെ PA L1I N2TAE1
 പാഴാക്കണം PA ഴാ KK N1M
 പാഴാക്കലുകള്‍ PA ഴാ KK L1U K L2
@@ -4559,14 +4558,14 @@
 പിംഗുകൾ PIM GU K L2
 പിങ്ക് PI NK1
 പിടിക്കല്ലേ PI T1I KK LL1AE2
-പിടിക്കാമല്ലോഅല്ലേടോ PI T1I KKA M L1A ് L1O2 അ LL1AE2 T1O2
+പിടിക്കാമല്ലോഅല്ലേടോ PI T1I KKA M LL1O2 അ LL1AE2 T1O2
 പിടിക്കിട്ടി PI T1I KKI T11I
 പിടിക്കും PI T1I KKUM
 പിടിക്കൂ PI T1I KKUU
 പിടിക്ക് PI T1I KK1
 പിടിച്ചിരിക്കു PI T1I CC2I R2I KKU
-പിടിച്ചുപറിച്ചു PI T1I CC2 U P R1I CC2 U
-പിടിച്ചു PI T1I CC2 U
+പിടിച്ചുപറിച്ചു PI T1I CC2U P R1I CC2U
+പിടിച്ചു PI T1I CC2U
 പിടിച്ച് PI T1I CC22
 പിടിച്ച PI T1I CC2
 പിടിപ്പിക്കുന്നത് PI T1I PPI KKU NN2A T22
@@ -4583,7 +4582,7 @@
 പിന്നിലേയ്ക് PI NN2I L1AE2 YK1
 പിന്നിൽ PI NN2I L1
 പിന്നീടെല്ലാം PI NN2A ീ T1AE1 LL1AAM
-പിന്നീട് PI NN2A ീ  T111
+പിന്നീട് PI NN2A ീ T111
 പിന്നെഇന്ന് PI NN2AE1 ഇ NN2
 പിന്നെന്താണ് PI NN2AE1 N2T2A A N1U1
 പിന്നെന്തിനാണ് PI NN2AE1 N2T2I N2AA N1U1
@@ -4598,7 +4597,7 @@
 പിന്നെ PI NN2AE1
 പിന്നേം PI NN2AE2 ം
 പിന്നോട്ട് PI NN2O2 T11
-പിരിച്ചു PI R2I CC2 U
+പിരിച്ചു PI R2I CC2U
 പിരിഞ്ഞു PI R2I NNJU
 പിരിമുറക്കം PI R2I MU R1A KKAM
 പിരിമുറക്കവും PI R2I MU R1A KK VUM
@@ -4614,8 +4613,8 @@
 പുതിയത് PU T2I Y T22
 പുതിയവ PU T2I Y V
 പുതിയ PU T2I Y
-പുതുക്കിപ്പണിയുകയാണ് PU T2U KKI P1 P N1I YU K YA N1U1
-പുരുഷന്മാർ PU R2U S2 N2A ് MA R2
+പുതുക്കിപ്പണിയുകയാണ് PU T2U KKI PP N1I YU K YA N1U1
+പുരുഷന്മാർ PU R2U S2 N2 MA R2
 പുറകിലെ PU R1A KI L1AE1
 പുറകില്‍ PU R1A KI L1
 പുറകേ PU R1A K േ
@@ -4636,7 +4635,7 @@
 പുറത്തേക്ക് PU R1A TT2 AE2 KK1
 പുറത്തേയ്ക് PU R1A TT2 AE2 YK1
 പുറത്ത് PU R1A T2T2
-പുലിവാല് PU L1I VA L1A ്
+പുലിവാല് PU L1I VA L1
 പുല്ലുവെട്ട് PU L L1U VAE1 T11
 പുല്ലേ PU LL1AE2
 പുല്‍തുമ്പത്തും PU L1 T2U MP TT2 UM
@@ -4652,10 +4651,10 @@
 പൂജ്യം PUU J ് YM
 പൂട്ടുക PUU T11U K
 പൂട്ട് PUU T11
-പൂര്‍ണ്ണമായും PUU R2 N1U1 N1A MA YUM
+പൂര്‍ണ്ണമായും PUU R2 NN1 MA YUM
 പൂര്‍ത്തിയാക്കാന്‍ PUU R2 TT2I YA KKA N2
 പൂര്‍ത്തിയാക്കും PUU R2 TT2I YA KKUM
-പൂര്‍ത്തിയാക്കുന്നതിനെപ്പറ്റി PUU R2 TT2I YA KKU NN2A T2I N2AE1 P1 P TI
+പൂര്‍ത്തിയാക്കുന്നതിനെപ്പറ്റി PUU R2 TT2I YA KKU NN2A T2I N2AE1 PP TI
 പൂർണമായി PUU R2 N1A MA YI
 പൂർത്തിയായി PUU R2 TT2I YA YI
 പെടാതെ PAE1 T1A T2AE1
@@ -4672,8 +4671,8 @@
 പെട്ടെന്ന് PAE1 T11AE1 NN2
 പെട്ടോ PAE1 T11O2
 പെണ്ണിനെ PAE1 N1U1 N1I N2AE1
-പെണ്ണുങ്ങളുമായി PAE1 N1U1 N1A ു NGNGA L2U MA YI
-പെണ്ണുങ്ങളെയാണോ PAE1 N1U1 N1A ു NGNGA L2AE1 YA N1O2
+പെണ്ണുങ്ങളുമായി PAE1 NN1U NGNGA L2U MA YI
+പെണ്ണുങ്ങളെയാണോ PAE1 NN1U NGNGA L2AE1 YA N1O2
 പെണ്‍കുട്ടികളുടെ PAE1 N1 KU T11I K L2U T1AE1
 പെണ്‍കുട്ടികളെല്ലാം PAE1 N1 KU T11I K L2AE1 LL1AAM
 പെണ്‍കുട്ടികൾ PAE1 N1 KU T11I K L2
@@ -4694,14 +4693,13 @@
 പേടകത്തിനടുത്തേയ്ക് PAE2 T1 K TT2I N2A T1U TT2 AE2 YK1
 പേടകത്തിന്റെ PAE2 T1 K TT2I N2TE
 പേടകത്തിന്‍റെ PAE2 T1 K TT2I N2TAE1
-പേടിക്കണ്ടഎനിക്കിപ്പോള്‍ PAE2 T1I KK N1T1A എ N2I KKI PPO2 L2
 പേടിക്കണ്ട PAE2 T1I KK N1T1A
 പേടിക്കുന്നത് PAE2 T1I KKU NN2A T22
 പേടിക്കേണ്ട PAE2 T1I KKAE2 N1T1A
-പേടിച്ചുപോയിരുന്നു PAE2 T1I CC2 U PO2 YI R2U NN2U
-പേടിച്ചുപോയി PAE2 T1I CC2 U PO2 YI
-പേടിച്ചുപ്പോയോ PAE2 T1I CC2 U PPO2 YO2
-പേടിച്ചു PAE2 T1I CC2 U
+പേടിച്ചുപോയിരുന്നു PAE2 T1I CC2U PO2 YI R2U NN2U
+പേടിച്ചുപോയി PAE2 T1I CC2U PO2 YI
+പേടിച്ചുപ്പോയോ PAE2 T1I CC2U PPO2 YO2
+പേടിച്ചു PAE2 T1I CC2U
 പേടിത്തൊണ്ടനാണ് PAE2 T1I TT2 O1 N1T1A N2AA N1U1
 പേടിപ്പിക്കും PAE2 T1I PPI KKUM
 പേടിപ്പിക്കുന്നത് PAE2 T1I PPI KKU NN2A T22
@@ -4712,19 +4710,19 @@
 പേടിയില്ലേ PAE2 T1I YI LL1AE2
 പേടിയുണ്ടായിരുന്നു PAE2 T1I YU N1T1A YI R2U NN2U
 പേടിയുണ്ട് PAE2 T1I YU N1T1
-പേപ്പര്‍ PAE2 P1 P R2
+പേപ്പര്‍ PAE2 PP R2
 പേരക്കുട്ടികൾ PAE2 R2A KKU T11I K L2
-പേരാണല്ലോ PAE2 R2AA N1A L1A ് L1O2
+പേരാണല്ലോ PAE2 R2AA N1A LL1O2
 പേരാണ് PAE2 R2AA N1U1
 പേരിന്‍റെ PAE2 R2I N2TAE1
 പേരില്‍ PAE2 R2I L1
-പേരും PAE2 R2U ം
+പേരും PAE2 R2UM
 പേരുണ്ടായിരുന്നു PAE2 R2U N1T1A YI R2U NN2U
 പേരുള്ള PAE2 R2U LL2A
-പേരെന്താണ് PAE2 R2A െ N2T2A A N1U1
-പേരെയും PAE2 R2A െ YUM
-പേരെഴുതുന്നത് PAE2 R2A െഴു T2U NN2A T22
-പേരെ PAE2 R2A െ
+പേരെന്താണ് PAE2 R2AE1 N2T2A A N1U1
+പേരെയും PAE2 R2AE1 YUM
+പേരെഴുതുന്നത് PAE2 R2AE1 ZU T2U NN2A T22
+പേരെ PAE2 R2AE1
 പേര് PAE2 R2A ്
 പോകരുത് PO2 K R2U T22
 പോകുന്നു PO2 KU NN2U
@@ -4733,7 +4731,7 @@
 പോർട്ട് PO2 R2 T11
 പേർക്കും PAE2 R2 KKUM
 പൈലറ്റിനെ PAI L1A TI N2AE1
-പൈലറ്റും PAI L1A TU ം
+പൈലറ്റും PAI L1A TUM
 പൈലറ്റ്‌ PAI L1A TTT ‌
 പൈലറ്റ് PAI L1A TTT
 പൈസ PAI S3
@@ -4750,7 +4748,7 @@
 പൊട്ടനോ PO1 T11A N2O2
 പൊട്ടിക്കാനുള്ള PO1 T11I KKA N2U LL2A
 പൊട്ടിച്ചിരി PO1 T11I CC2I R2I
-പൊട്ടിച്ചു PO1 T11I CC2 U
+പൊട്ടിച്ചു PO1 T11I CC2U
 പൊട്ടിച്ച് PO1 T11I CC22
 പൊട്ടിപോവട്ടെ PO1 T11I PO2 V T11AE1
 പൊട്ടിയ PO1 T11I Y
@@ -4797,7 +4795,7 @@
 പോകുന്നതെന്ന് PO2 KU NN2A T2AE1 NN2
 പോകുന്നത് PO2 KU NN2A T22
 പോകുന്നവരാണ് PO2 KU NN2A V R2AA N1U1
-പോകുന്നില്ലെങ്കില്‍ PO2 KU NN2I LL1A െ NKI L1
+പോകുന്നില്ലെങ്കില്‍ PO2 KU NN2I LL1IAE1 NKI L1
 പോകുന്നില്ല PO2 KU NN2I LL1A
 പോകുന്നു PO2 KU NN2U
 പോകുന്നേ PO2 KU NN2AE2
@@ -4805,7 +4803,7 @@
 പോകു൦ PO2 KU ൦
 പോകു PO2 KU
 പോകൂ PO2 KUU
-പോകേണ്ടിവരും PO2 K േ N1T1AI V R2U ം
+പോകേണ്ടിവരും PO2 K േ N1T1AI V R2UM
 പോക്കറ്റിലുള്ളതൊക്കെ PO2 KK TI L1U LL2A T2O1 KKAE1
 പോക്കറ്റിലുള്ള PO2 KK TI L1U LL2A
 പോഞാൻ PO2 NJA N2
@@ -4829,7 +4827,7 @@
 പോയതില്‍ PO2 Y T2I L1
 പോയത് PO2 Y T22
 പോയപ്പോള്‍ PO2 Y PPO2 L2
-പോയല്ലോ PO2 Y L1A ് L1O2
+പോയല്ലോ PO2 Y LL1O2
 പോയാലും PO2 YA L1UM
 പോയാലോ PO2 YA L1O2
 പോയാല്‍ PO2 YA L1
@@ -4852,12 +4850,12 @@
 പോയോ PO2 YO2
 പോയ്കോളൂ PO2 Y1 KO2 L2UU
 പോയ PO2 Y
-പോരല്ലോ PO2 R2A L1A ് L1O2
+പോരല്ലോ PO2 R2A LL1O2
 പോരാ PO2 R2AA
 പോരില്ല PO2 R2I LL1A
 പോരുന്നതിനുമുമ്പ് PO2 R2U NN2A T2I N2U MU MP1
 പോരുമ്പോള്‍ PO2 R2U MPO2 L2
-പോരെ PO2 R2A െ
+പോരെ PO2 R2AE1
 പോര PO2 R2A
 പോലത്തെ PO2 L1A TT2AE1
 പോലത്തേത് PO2 L1A TT2AE2 T22
@@ -4880,13 +4878,13 @@
 പോലെയുണ്ട് PO2 L1AE1 YU N1T1
 പോലെയൊക്കെ PO2 L1AE1 YO1 KKAE1
 പോലെ PO2 L1AE1
-പോളിടെക് PO2 L2I T1AE1 K ്
+പോളിടെക് PO2 L2I T1AE1 K1
 പോവട്ടെ PO2 V T11AE1
 പോവണം PO2 V N1M
 പോവണമായിരുന്നു PO2 V N1A MA YI R2U NN2U
 പോവണോ PO2 V N1O2
-പോവാംസിനിമക്ക് PO2 VA ം S3I N2I M KK1
-പോവാം PO2 VA ം
+പോവാംസിനിമക്ക് PO2 VAM S3I N2I M KK1
+പോവാം PO2 VAM
 പോവാണെന്ന്‍ PO2 VA N1AE1 NN2 ‍
 പോവാണ് PO2 VA N1U1
 പോവാനാണ് PO2 VA N2AA N1U1
@@ -4917,14 +4915,14 @@
 പ്രകാശത്തിന്‍റെ PR1 KA S1 TT2I N2TAE1
 പ്രകൃതിക്ക് PR1 KR1U T2I KK1
 പ്രകൃതിയുടെ PR1 KR1U T2I YU T1AE1
-പ്രക്ഷുബ്ദമാകുന്നു PR1 KS2 ു B ് D2 MA KU NN2U
-പ്രഖ്യാപിച്ചു PR1 ഖ് YA PI CC2 U
+പ്രക്ഷുബ്ദമാകുന്നു PR1 KS2 ു B1 D2 MA KU NN2U
+പ്രഖ്യാപിച്ചു PR1 ഖ് YA PI CC2U
 പ്രചോദനം PR1 CO2 D2 N2M
 പ്രണയത്തിലായി PR1 N1A Y TT2I L1AA YI
 പ്രണയമോ PR1 N1A Y MO2
 പ്രതലമില്ലേ PR1 T2 L1A MI LL1AE2
 പ്രതികരണമൊന്നുമില്ല PR1 T2I K R2A N1A MO1 NN2U MI LL1A
-പ്രതികരിച്ചുകൊണ്ടിരുന്നപ്പോഴൊന്നും PR1 T2I K R2I CC2 U KO1 N1T1AI R2U NN2A PPO2 ഴൊ NN2UM
+പ്രതികരിച്ചുകൊണ്ടിരുന്നപ്പോഴൊന്നും PR1 T2I K R2I CC2U KO1 N1T1AI R2U NN2A PPO2 ഴൊ NN2UM
 പ്രതികരി PR1 T2I K R2I
 പ്രതിച്ഛായയെ PR1 T2I CC1 ാ Y YAE1
 പ്രതിനിധാനം PR1 T2I N2I D2HA N2M
@@ -4956,7 +4954,7 @@
 പ്രദര്‍ശിപ്പിച്ചത് PR1 D2 R2 S1I PPI CC2 T22
 പ്രദര്‍ശിപ്പിച്ചില്ല PR1 D2 R2 S1I PPI CC2I LL1A
 പ്രധാനം PR1 D2HA N2M
-പ്രധാനകാര്യങ്ങള്‍ PR1 D2HA N2A KA R2A ് Y NGNGA L2
+പ്രധാനകാര്യങ്ങള്‍ PR1 D2HA N2A KA R2Y NGNGA L2
 പ്രധാനപെട്ടതൊന്നുമല്ലാ PR1 D2HA N2A PAE1 T11A T2O1 NN2U M LL1AA
 പ്രധാനപെട്ടത് PR1 D2HA N2A PAE1 T11A T22
 പ്രധാനപെട്ട PR1 D2HA N2A PAE1 T11A
@@ -4981,7 +4979,7 @@
 പ്രവര്‍ത്തിപ്പിക്കണോ PR1 V R2 TT2I PPI KK N1O2
 പ്രവര്‍ത്തിപ്പിക്കാനാവൂ PR1 V R2 TT2I PPI KKA N2AA VUU
 പ്രവര്‍ത്തിപ്പിക്കുന്നു PR1 V R2 TT2I PPI KKU NN2U
-പ്രവര്‍ത്തിപ്പിക്കേണ്ടിവരും PR1 V R2 TT2I PPI KKAE2 N1T1AI V R2U ം
+പ്രവര്‍ത്തിപ്പിക്കേണ്ടിവരും PR1 V R2 TT2I PPI KKAE2 N1T1AI V R2UM
 പ്രവേശനമില്ല PR1 VAE2 S1 N2A MI LL1A
 പ്രവേശിക്കാം PR1 VAE2 S1I KKAAM
 പ്രവേശിക്കുന്നു PR1 VAE2 S1I KKU NN2U
@@ -4993,15 +4991,15 @@
 പ്രവർത്തിക്കുന്നു PR1 V R2 TT2I KKU NN2U
 പ്രശനങ്ങള്‍ PR1 S1 N2A NGNGA L2
 പ്രശസ്തരാണ് PR1 S1 S33 T2 R2AA N1U1
-പ്രശ്നം PR1 S1 ് N2M
-പ്രശ്നങ്ങളുണ്ടായോ PR1 S1 ് N2A NGNGA L2U N1T1A YO2
-പ്രശ്നമാവും PR1 S1 ് N2A MA VUM
-പ്രശ്നമില്ല PR1 S1 ് N2A MI LL1A
-പ്രശ്നമുണ്ടാക്കരുത് PR1 S1 ് N2A MU N1T1A KK R2U T22
-പ്രശ്നമുണ്ടാക്കുന്നത് PR1 S1 ് N2A MU N1T1A KKU NN2A T22
-പ്രശ്നമുണ്ടോ PR1 S1 ് N2A MU N1T1AO2
+പ്രശ്നം PR1 S11 N2M
+പ്രശ്നങ്ങളുണ്ടായോ PR1 S11 N2A NGNGA L2U N1T1A YO2
+പ്രശ്നമാവും PR1 S11 N2A MA VUM
+പ്രശ്നമില്ല PR1 S11 N2A MI LL1A
+പ്രശ്നമുണ്ടാക്കരുത് PR1 S11 N2A MU N1T1A KK R2U T22
+പ്രശ്നമുണ്ടാക്കുന്നത് PR1 S11 N2A MU N1T1A KKU NN2A T22
+പ്രശ്നമുണ്ടോ PR1 S11 N2A MU N1T1AO2
 പ്രഷർ PR1 S2 R2
-പ്രസക്തമാണ് PR1 S3 K ് T2 MA N1U1
+പ്രസക്തമാണ് PR1 S3 K1 T2 MA N1U1
 പ്രായം PR1A YM
 പ്രായമായിരിക്കുന്നു PR1A Y MA YI R2I KKU NN2U
 പ്രായമുണ്ട് PR1A Y MU N1T1
@@ -5015,7 +5013,7 @@
 പ്രൊഫസർ PR1O1 PH S3 R2
 പ്രേതം PR1AE2 T2AM
 പ്രേതങ്ങള്‍ PR1AE2 T2 NGNGA L2
-പ്രേതത്തെപ്പറ്റി PR1AE2 T2 TT2AE1 P1 P TI
+പ്രേതത്തെപ്പറ്റി PR1AE2 T2 TT2AE1 PP TI
 പ്രേതമല്ല PR1AE2 T2 M LL1A
 പ്രേതമെന്ന് PR1AE2 T2 MAE1 NN2
 പ്രേമം PR1AE2 MM1
@@ -5024,8 +5022,8 @@
 പ്രേരണ PR1AE2 R2A N1A
 പ്രേരിപ്പിക്കില്ല PR1AE2 R2I PPI KKI LL1A
 പ്രോഗ്രാം PR1O2 GR1 ാം
-പ്രൊജക്റ്റര്‍ PR1O1 J K ് TA R2
-പ്രൊജക്റ്ററിന്റെ PR1O1 J K ് TA R1I N2TE
+പ്രൊജക്റ്റര്‍ PR1O1 J K1 TA R2
+പ്രൊജക്റ്ററിന്റെ PR1O1 J K1 TA R1I N2TE
 പ്രൊഫസര്‍ PR1O1 PH S3 R2
 പ്രൊഫസ്സര്‍ PR1O1 PH SS3 R2
 പ്രൊഫസർ PR1O1 PH S3 R2
@@ -5042,7 +5040,7 @@
 പ്ലാനെറ്റിൽ PL2A N2AE1 TI L1
 പ്ലാന്‍ PL2A N2
 പ്ലാൻ PL2A N2
-പ്ലീസ്
+പ്ലീസ് PL2II S33
 പ്ലേറ്റുകള്‍ PL2AE2 TU K L2
 പ്ലേറ്റ് PL2AE2 TTT
 പർവതമല്ല P R2 V T2 M LL1A
@@ -5050,17 +5048,17 @@
 ഫയര്‍ബാങ്ക്സിന്റെ PH Y R2 BA NK1 S3I N2TE
 ഫയര്‍ PH Y R2
 ഫയർ PH Y R2
-ഫലഭൂയിഷ്ടമായ PH L1A BHUU YI S2 ് T1 MA Y
+ഫലഭൂയിഷ്ടമായ PH L1A BHUU YI S22 T1 MA Y
 ഫലിതം PH L1I T2AM
 ഫസ്റ്റ്നൈറ്റാണ് PH S33 TTT N2AI TA N1U1
 ഫാം PHAAM
 ഫാമിലി PHA MI L1I
-ഫിലിം PHI L1I ം
+ഫിലിം PHI L1IM
 ഫിലിമില്‍ PHI L1I MI L1
 ഫിലിമുകളായിരുന്നു PHI L1I MU K L2AA YI R2U NN2U
 ഫിലിമുകളുള്ള PHI L1I MU K L2U LL2A
 ഫിസിക്കൽ PHI S3I KK L1
-ഫിസ്സി PHI SS3 ി
+ഫിസ്സി PHI SS3I
 ഫീഡുകളും PHII DU K L2UM
 ഫീല്‍ഡുമായി PHII L1 DU MA YI
 ഫെഡറൽ PHAE1 D R1A L1
@@ -5074,13 +5072,13 @@
 ഫോട്ടോസെങ്കിലും PHO2 T11O2 S3AI NKI L1UM
 ഫോട്ടോസ് PHO2 T11O2 S33
 ഫോണ്‍ PHO2 N1
-ഫോഴ്സിന്‍റെ PHO2 ഴ് S3I N2TAE1
-ഫോഴ്സ് PHO2 ഴ് S33
+ഫോഴ്സിന്‍റെ PHO2 Z11 S3I N2TAE1
+ഫോഴ്സ് PHO2 Z11 S33
 ഫ്രഞ്ച്സ്പാനിഷാണ് PHR1 NCHA ് S33 PA N2I S2A N1U1
 ഫ്രഞ്ച് PHR1 NCHA ്
 ഫ്രണ്ടാണ് PHR1 N1T1A N1U1
-ഫ്രഷ്‌ PHR1 S2 ്‌
-ഫ്രഷ് PHR1 S2 ്
+ഫ്രഷ്‌ PHR1 S22
+ഫ്രഷ് PHR1 S22
 ഫ്രാന്‍സില്‍ PHR1A N2 S3I L1
 ഫ്രാൻസിൽ PHR1A N2 S3I L1
 ഫ്രിക്കിനെ PHR1I KKI N2AE1
@@ -5106,7 +5104,7 @@
 ബന്ധുക്കളാണ് B N2D2HU KK L2AA N1U1
 ബന്ധുക്കളൊന്നുമില്ല B N2D2HU KK LL2O1 NN2U MI LL1A
 ബസിൽ B S3I L1
-ബസ്‌കണ്ടക്റ്ററിനെ B S33 ‌ K N1T1A K ് TA R1I N2AE1
+ബസ്‌കണ്ടക്റ്ററിനെ B S33 ‌ K N1T1A K1 TA R1I N2AE1
 ബഹിരാകാശസമയത്തിൽ B HI R2AA KA S1 S3 M Y TT2I L1
 ബഹിരാകാശ B HI R2AA KA S1
 ബഹുമാനപ്പെട്ട B HU MA N2A PPAE1 T11A
@@ -5119,13 +5117,13 @@
 ബാഗിൽ BA GI L1
 ബാഗ്‌ BA G11 ‌
 ബാഗ് BA G11
-ബാന്റയോട് BA N2A ് R1A YO2  T111
-ബാന്‍റയോട് BA N2 R1A YO2  T111
-ബാന്‍റ BA N2 R1A
+ബാന്റയോട് BA N2T YO2 T111
+ബാന്‍റയോട് BA N2T YO2 T111
+ബാന്‍റ BA N2T
 ബാറ്ററികൾ BA TA R1I K L2
 ബാറ്ററി BA TA R1I
 ബാസിൽ BA S3I L1
-ബാസ്കെറ്റ്ബോൾ BA S33 K െ TTT BO2 L2
+ബാസ്കെറ്റ്ബോൾ BA S33 KAE1 TTT BO2 L2
 ബിയും BI YUM
 ബിയർ BI Y R2
 ബിസ്സിനസ്സ്യാത്ര BI SS3I N2A S33 YA T2R1
@@ -5152,38 +5150,38 @@
 ബൂസ്റ്ററായി BUU S33 TA R1AA YI
 ബെന്നി BAE1 NN2I
 ബെല്ലാ BAE1 LL1AA
-ബെല്ലിസ്സിമോ BAE1 LL1I SS3 ി MO2
+ബെല്ലിസ്സിമോ BAE1 LL1I SS3I MO2
 ബെൽറ്റാണ് BAE1 L1 TA N1U1
 ബെൽറ്റ് BAE1 L1 TTT
 ബേസ്ബോൾ BAE2 S33 BO2 L2
 ബേസ് BAE2 S33
-ബോംബ് BO2M B ്
+ബോംബ് BO2M B1
 ബോർഡ് BO2 R2 D1
 ബൈനറിയാണ് BAI N2A R1I YA N1U1
 ബൈനറി BAI N2A R1I
 ബൈബൈ BAI BAI
 ബൈ BAI
 ബോംബിടാന്‍ BO2M BI T1A N2
-ബോക്സ് BO2 K ് S33
+ബോക്സ് BO2 K1 S33
 ബോട്ടിന്‍റെ BO2 T11I N2TAE1
 ബോട്ടിൽ BO2 T11I L1
 ബോട്ട് BO2 T11
-ബോധം BO2 D2H ം
+ബോധം BO2 D2 HM
 ബോധമണ്ഡലത്തിനും BO2 D2H M N1U1 D L1A TT2I N2UM
 ബോയ്‌ഫ്രണ്ടിൽ BO2 Y1 ‌ PHR1 N1T1AI L1
 ബോയ്‌ഫ്രണ്ട് BO2 Y1 ‌ PHR1 N1T1
 ബോര്‍ഡുണ്ടായിരുന്നുറാണി BO2 R2 DU N1T1A YI R2U NN2U R1AA N1I
 ബോളിവുഡ് BO2 L2I VU D1
-ബോസ്സിനോട് BO2 SS3 ി N2O2  T111
+ബോസ്സിനോട് BO2 SS3I N2O2 T111
 ബോസ്സും BO2 SS3UM
-ബ്രഷ് BR1 S2 ്
-ബ്രാന്റാണ് BR1A N2A ് R1AA N1U1
-ബ്രാന്റിന്റെ BR1A N2A ് R1I N2TE
-ബ്രാന്റ് BR1A N2A ് R1A ്
-ബ്രാന്‍റ് BR1A N2 R1A ്
+ബ്രഷ് BR1 S22
+ബ്രാന്റാണ് BR1A N2 TA N1U1
+ബ്രാന്റിന്റെ BR1A N2 TI N2TE
+ബ്രാന്റ് BR1A N2 TTT
+ബ്രാന്‍റ് BR1A N2 TTT
 ബ്രാസ് BR1A S33
 ബ്രാൻഡിന് BR1A N2 DI N22
-ബ്രാൻഡും BR1A N2 DU ം
+ബ്രാൻഡും BR1A N2 DUM
 ബ്രാൻഡ്‌ BR1A N2 D1
 ബ്രാൻഡ് BR1A N2 D1
 ബ്രാൻഡ BR1A N2 D
@@ -5219,15 +5217,14 @@
 ഭക്ഷണവും BH KS2 N1A VUM
 ഭക്ഷണ BH KS2 N1A
 ഭയം BH YM
-ഭയങ്കര BH Y ങ് K R2A
+ഭയങ്കര BH Y NK R2A
 ഭയപ്പെടുത്തും BH Y PPAE1 T1U TT2 UM
 ഭയമാണെന്നോ BH Y MA N1AE1 NN2O2
 ഭയമില്ല BH Y MI LL1A
 ഭരണകൂടം BH R2A N1A KUU T1 ം
 ഭരണ BH R2A N1A
-ഭര്‍ത്താത്തവ് BH R2 TT2 A TT2 V ്
-ഭര്‍ത്താവിനോട് BH R2 TT2 A VI N2O2  T111
-ഭര്‍ത്താവ് BH R2 TT2 A V ്
+ഭര്‍ത്താവിനോട് BH R2 TT2 A VI N2O2 T111
+ഭര്‍ത്താവ് BH R2 TT2 A V1
 ഭാഗം BHA GAM
 ഭാഗങ്ങള്‍ BHA G NGNGA L2
 ഭാഗത്തുണ്ട് BHA G TT2 U N1T1
@@ -5240,12 +5237,12 @@
 ഭാഗ്യകരമായ BHA GY K R2A MA Y
 ഭാഗ്യവാനാണ് BHA GY VA N2AA N1U1
 ഭാരം BHA R2M
-ഭാര്യക്കും BHA R2A ് Y KKUM
-ഭാര്യയായിരുന്നു BHA R2A ് Y YA YI R2U NN2U
-ഭാര്യയുടെ BHA R2A ് Y YU T1AE1
-ഭാര്യാഭര്‍ത്താക്കന്‍മാരുടെ BHA R2A ് YA BH R2 TT2 A KK N2 MA R2U T1AE1
-ഭാര്യെക്കുറിച്ചല്ല BHA R2A ് YAE1 KKU R1I CC2 LL1A
-ഭാര്യ BHA R2A ് Y
+ഭാര്യക്കും BHA R2Y KKUM
+ഭാര്യയായിരുന്നു BHA R2Y YA YI R2U NN2U
+ഭാര്യയുടെ BHA R2Y YU T1AE1
+ഭാര്യാഭര്‍ത്താക്കന്‍മാരുടെ BHA R2Y A BH R2 TT2 A KK N2 MA R2U T1AE1
+ഭാര്യെക്കുറിച്ചല്ല BHA R2Y AE1 KKU R1I CC2 LL1A
+ഭാര്യ BHA R2Y
 ഭാവിക്കാന്‍ BHA VI KKA N2
 ഭാവിയാണോ BHA VI YA N1O2
 ഭാവിയിലേക്ക് BHA VI YI L1AE2 KK1
@@ -5272,7 +5269,7 @@
 ഭൂതമാണെന്ന് BHUU T2 MA N1AE1 NN2
 ഭൂതെത്തെ BHUU T2AE1 TT2AE1
 ഭൂമിയിലാണ് BHUU MI YI L1AA N1U1
-ഭൂമിയിലെല്ലാവരും BHUU MI YI L1AE1 LL1AA V R2U ം
+ഭൂമിയിലെല്ലാവരും BHUU MI YI L1AE1 LL1AA V R2UM
 ഭൂമിയിലെ BHUU MI YI L1AE1
 ഭൂമിയിലേതിന്റെ BHUU MI YI L1AE2 T2I N2TE
 ഭൂമിയിലേയ്ക് BHUU MI YI L1AE2 YK1
@@ -5281,18 +5278,18 @@
 ഭൂമി BHUU MI
 ഭൂരിഭാഗം BHUU R2I BHA GAM
 ഭൌതികലോകത്തെയാണെന്ന് BHAU T2I K L1O2 K TT2AE1 YA N1AE1 NN2
-ഭ്രമണപഥത്തിന്റെ BHR1 M N1A P ഥ TT2I N2TE
-ഭ്രമണപഥത്തിന് BHR1 M N1A P ഥ TT2I N22
-ഭ്രമണപഥത്തിലാണ് BHR1 M N1A P ഥ TT2I L1AA N1U1
-ഭ്രമണപഥത്തിലെ BHR1 M N1A P ഥ TT2I L1AE1
-ഭ്രമണപഥത്തില്‍ BHR1 M N1A P ഥ TT2I L1
+ഭ്രമണപഥത്തിന്റെ BHR1 M N1A P T2H TT2I N2TE
+ഭ്രമണപഥത്തിന് BHR1 M N1A P T2H TT2I N22
+ഭ്രമണപഥത്തിലാണ് BHR1 M N1A P T2H TT2I L1AA N1U1
+ഭ്രമണപഥത്തിലെ BHR1 M N1A P T2H TT2I L1AE1
+ഭ്രമണപഥത്തില്‍ BHR1 M N1A P T2H TT2I L1
 ഭ്രാന്തനെപോലെ BHR1A N2T2A N2AE1 PO2 L1AE1
 ഭ്രാന്തി BHR1A N2T2I
 ഭൗതിക BHAU T2I K
 ഭർത്താവില്ലാ BH R2 TT2 A VI LL1AA
 ഭർത്താവോ BH R2 TT2 A VO2
-ഭർത്താവ് BH R2 TT2 A V ്
-മംഓഹ് MM1 O2 H ്
+ഭർത്താവ് BH R2 TT2 A V1
+മംഓഹ് MM1 O2 H11
 മം MM1
 മകനാണ്എന്‍റെ M K N2AA N1U1 എ N2TAE1
 മകനാണ് M K N2AA N1U1
@@ -5300,7 +5297,7 @@
 മകളുടെ M K L2U T1AE1
 മകളെക്കുറിച്ച് M K L2AE1 KKU R1I CC22
 മകളെ M K L2AE1
-മകളോട് M K L2O2  T111
+മകളോട് M K L2O2 T111
 മകള്‍ M K L2
 മക്കളുടെ M KK L2U T1AE1
 മക്കളുടേയും M KK L2U T1 േ YUM
@@ -5320,13 +5317,13 @@
 മണമാണ് M N1A MA N1U1
 മണികൂറുകൾ M N1I KUU R1U K L2
 മണിക്കൂര്‍ M N1I KKUU R2
-മണിക്കൂറിനുള്ളിൽ M N1I KKUU R1I N2U LL2A ി L1
+മണിക്കൂറിനുള്ളിൽ M N1I KKUU R1I N2U LL2I L1
 മണിക്കൂറില്‍ M N1I KKUU R1I L1
 മണിക്കൂറിൽ M N1I KKUU R1I L1
-മണിക്കൂറും M N1I KKUU R1U ം
+മണിക്കൂറും M N1I KKUU R1UM 
 മണിക്കൂർ M N1I KKUU R2
 മണിക്ക് M N1I KK1
-മണ്ടൂസേ M N1T1U U S3 േ
+മണ്ടൂസേ M N1T1U U S3AE2
 മണ്ണില്‍ M N1U1 N1I L1
 മതിയാകില്ല M T2I YA KI LL1A
 മതിയായിരുന്നുയെന്ന് M T2I YA YI R2U NN2U YAE1 NN2
@@ -5337,38 +5334,38 @@
 മദ്യം M D2Y M
 മദ്യപിച്ചിട്ടല്ലായിരുന്നു M D2Y PI CC2I T11A LL1AA YI R2U NN2U
 മദ്യമല്ലേ M D2Y M LL1AE2
-മധുരമൂറും M D2HU R2A MUU R1U ം
+മധുരമൂറും M D2HU R2A MUU R1UM 
 മനസിലാക്കി M N2A S3I L1AA KKI
 മനസിലായില്ലേ M N2A S3I L1AA YI LL1AE2
-മനസ്സിനെ M N2A SS3 ി N2AE1
-മനസ്സിന്‍റെ M N2A SS3 ി N2TAE1
-മനസ്സിലാകണം M N2A SS3 ി L1AA K N1M
-മനസ്സിലാകാത്ത M N2A SS3 ി L1AA KA TT2
-മനസ്സിലാകാനായി M N2A SS3 ി L1AA KA N2AA YI
-മനസ്സിലാകില്ല M N2A SS3 ി L1AA KI LL1A
-മനസ്സിലാകും M N2A SS3 ി L1AA KUM
-മനസ്സിലാകുന്നില്ല M N2A SS3 ി L1AA KU NN2I LL1A
-മനസ്സിലാകുമൊയെന്നറിയില്ല M N2A SS3 ി L1AA KU MO1 YAE1 NN2A R1I YI LL1A
-മനസ്സിലാക്കാന്‍ M N2A SS3 ി L1AA KKA N2
-മനസ്സിലാക്കാൻ M N2A SS3 ി L1AA KKA N2
-മനസ്സിലാക്കിയെടുക്കേണ്ടതുണ്ട് M N2A SS3 ി L1AA KKI YAE1 T1U KKAE2 N1T1A T2U N1T1
-മനസ്സിലാക്കിയ M N2A SS3 ി L1AA KKI Y
-മനസ്സിലാക്കി M N2A SS3 ി L1AA KKI
-മനസ്സിലാക്കുന്നുവോ M N2A SS3 ി L1AA KKU NN2U VO2
-മനസ്സിലാക്കുമ്പോള്‍ M N2A SS3 ി L1AA KKU MPO2 L2
-മനസ്സിലാക്ക് M N2A SS3 ി L1AA KK1
-മനസ്സിലായത് M N2A SS3 ി L1AA Y T22
-മനസ്സിലായപ്പോള്‍ M N2A SS3 ി L1AA Y PPO2 L2
-മനസ്സിലായിഞാനവരോട് M N2A SS3 ി L1AA YI NJA N2A V R2O2  T111
-മനസ്സിലായില്ലെങ്കില്‍ M N2A SS3 ി L1AA YI LL1A െ NKI L1
-മനസ്സിലായില്ലേ M N2A SS3 ി L1AA YI LL1AE2
-മനസ്സിലായില്ല M N2A SS3 ി L1AA YI LL1A
-മനസ്സിലായി M N2A SS3 ി L1AA YI
-മനസ്സിലായോ M N2A SS3 ി L1AA YO2
-മനസ്സിലാവും M N2A SS3 ി L1AA VUM
-മനസ്സിലാവുന്നില്ലാ M N2A SS3 ി L1AA VU NN2I LL1AA
-മനസ്സിലാവുന്നില്ല M N2A SS3 ി L1AA VU NN2I LL1A
-മനസ്സിൽ M N2A SS3 ി L1
+മനസ്സിനെ M N2A SS3I N2AE1
+മനസ്സിന്‍റെ M N2A SS3I N2TAE1
+മനസ്സിലാകണം M N2A SS3I L1AA K N1M
+മനസ്സിലാകാത്ത M N2A SS3I L1AA KA TT2
+മനസ്സിലാകാനായി M N2A SS3I L1AA KA N2AA YI
+മനസ്സിലാകില്ല M N2A SS3I L1AA KI LL1A
+മനസ്സിലാകും M N2A SS3I L1AA KUM
+മനസ്സിലാകുന്നില്ല M N2A SS3I L1AA KU NN2I LL1A
+മനസ്സിലാകുമൊയെന്നറിയില്ല M N2A SS3I L1AA KU MO1 YAE1 NN2A R1I YI LL1A
+മനസ്സിലാക്കാന്‍ M N2A SS3I L1AA KKA N2
+മനസ്സിലാക്കാൻ M N2A SS3I L1AA KKA N2
+മനസ്സിലാക്കിയെടുക്കേണ്ടതുണ്ട് M N2A SS3I L1AA KKI YAE1 T1U KKAE2 N1T1A T2U N1T1
+മനസ്സിലാക്കിയ M N2A SS3I L1AA KKI Y
+മനസ്സിലാക്കി M N2A SS3I L1AA KKI
+മനസ്സിലാക്കുന്നുവോ M N2A SS3I L1AA KKU NN2U VO2
+മനസ്സിലാക്കുമ്പോള്‍ M N2A SS3I L1AA KKU MPO2 L2
+മനസ്സിലാക്ക് M N2A SS3I L1AA KK1
+മനസ്സിലായത് M N2A SS3I L1AA Y T22
+മനസ്സിലായപ്പോള്‍ M N2A SS3I L1AA Y PPO2 L2
+മനസ്സിലായിഞാനവരോട് M N2A SS3I L1AA YI NJA N2A V R2O2 T111
+മനസ്സിലായില്ലെങ്കില്‍ M N2A SS3I L1AA YI LL1IAE1 NKI L1
+മനസ്സിലായില്ലേ M N2A SS3I L1AA YI LL1AE2
+മനസ്സിലായില്ല M N2A SS3I L1AA YI LL1A
+മനസ്സിലായി M N2A SS3I L1AA YI
+മനസ്സിലായോ M N2A SS3I L1AA YO2
+മനസ്സിലാവും M N2A SS3I L1AA VUM
+മനസ്സിലാവുന്നില്ലാ M N2A SS3I L1AA VU NN2I LL1AA
+മനസ്സിലാവുന്നില്ല M N2A SS3I L1AA VU NN2I LL1A
+മനസ്സിൽ M N2A SS3I L1
 മനസ്സുകളുടെ M N2A SS3 ു K L2U T1AE1
 മനസ്സ് M N2A SS31
 മനുഷ്യകരം M N2U S2Y K R2M
@@ -5383,8 +5380,8 @@
 മനുഷ്യന്‍ M N2U S2Y N2
 മനുഷ്യരാക്കുന്നത് M N2U S2Y R2AA KKU NN2A T22
 മനുഷ്യരാശി M N2U S2Y R2AA S1I
-മനുഷ്യരെയും M N2U S2Y R2A െ YUM
-മനുഷ്യരെ M N2U S2Y R2A െ
+മനുഷ്യരെയും M N2U S2Y R2AE1 YUM
+മനുഷ്യരെ M N2U S2Y R2AE1
 മനുഷ്യര്‍ക്ക് M N2U S2Y R2 KK1
 മനുഷ്യര്‍ M N2U S2Y R2
 മനുഷ്യവംശത്തെ M N2U S2Y VM S1 TT2AE1
@@ -5400,7 +5397,7 @@
 മനോഹരമാണ് M N2O2 H R2A MA N1U1
 മനോഹരമായിരിക്കുന്നു M N2O2 H R2A MA YI R2I KKU NN2U
 മനോഹരമായ M N2O2 H R2A MA Y
-മമ്മമമ്മഅവരോട് M MM M MM അ V R2O2  T111
+മമ്മമമ്മഅവരോട് M MM M MM അ V R2O2 T111
 മമ്മാ M MMA
 മമ്മിയും M MMI YUM
 മമ്മ M MM
@@ -5425,20 +5422,20 @@
 മരിക്കുന്നതിന് M R2I KKU NN2A T2I N22
 മരിക്കുന്നത് M R2I KKU NN2A T22
 മരിച്ചതാണോ M R2I CC2 T2A N1O2
-മരിച്ചതിനുശേഷം M R2I CC2 T2I N2U S1AE2 S2 ം
+മരിച്ചതിനുശേഷം M R2I CC2 T2I N2U S1AE2 S2M
 മരിച്ചതെന്നോ M R2I CC2 T2AE1 NN2O2
-മരിച്ചവരെയും M R2I CC2 V R2A െ YUM
+മരിച്ചവരെയും M R2I CC2 V R2AE1 YUM
 മരിച്ചിട്ടുണ്ടാകാം M R2I CC2I T11U N1T1A KA ം
 മരിച്ചിരുന്നു M R2I CC2I R2U NN2U
-മരിച്ചുകാണുമെന്ന് M R2I CC2 U KA N1A ു MAE1 NN2
-മരിച്ചുപോയി M R2I CC2 U PO2 YI
-മരിച്ചു M R2I CC2 U
+മരിച്ചുകാണുമെന്ന് M R2I CC2U KA N1U MAE1 NN2
+മരിച്ചുപോയി M R2I CC2U PO2 YI
+മരിച്ചു M R2I CC2U
 മരിച്ചെങ്കില്‍ M R2I CC2 AE1 NKI L1
 മരിച്ചെന്നാണ് M R2I CC2 AE1 NN2AA N1U1
 മരിച്ചോ M R2I CC2O2
 മരിച്ച M R2I CC2
-മര്യാദയ്ക്ക് M R2A ് YA D2 Y1 KK1
-മര്‍ഫിനെപ്പറ്റി M R2 PHI N2AE1 P1 P TI
+മര്യാദയ്ക്ക് M R2Y A D2 Y1 KK1
+മര്‍ഫിനെപ്പറ്റി M R2 PHI N2AE1 PP TI
 മര്‍ഫിനോടത് M R2 PHI N2O2 T1 T22
 മര്‍ഫിന് M R2 PHI N22
 മര്‍ഫിയുടെ M R2 PHI YU T1AE1
@@ -5454,9 +5451,9 @@
 മറക്കരുത് M R1A KK R2U T22
 മറക്കാന്‍ M R1A KKA N2
 മറക്കുന്നതിന് M R1A KKU NN2A T2I N22
-മറച്ചു M R1A CC2 U
+മറച്ചു M R1A CC2U
 മറഞ്ഞിരിക്കുന്നുചക്രവാളത്തിനുമപ്പുറം M R1A NNJI R2I KKU NN2U C KR1 VA L2A TT2I N2U M PPU R1M
-മറന്നിട്ടില്ലെന്ന് M R1A NN2I T11I LL1A െ NN2
+മറന്നിട്ടില്ലെന്ന് M R1A NN2I T11I LL1IAE1 NN2
 മറന്നുപോയത് M R1A NN2U PO2 Y T22
 മറന്നു M R1A NN2U
 മറികടക്കക്കുന്നു M R1I K T1 KK KKU NN2U
@@ -5468,13 +5465,13 @@
 മറുഭാഗത്ത്‌ M R1U BHA G T2T2 ‌
 മറ്റാരുമല്ല M TA R2U M LL1A
 മറ്റാരുമില്ലാ M TA R2U MI LL1AA
-മറ്റാരെങ്കിലും M TA R2A െ NKI L1UM
+മറ്റാരെങ്കിലും M TA R2AE1 NKI L1UM
 മറ്റാര്കൊപ്മെങ്കിലും M TA R2A ് KO1 P1 MAE1 NKI L1UM
-മറ്റും M TU ം
+മറ്റും M TUM
 മറ്റുള്ളവരുമായി M TU LL2A V R2U MA YI
-മറ്റുള്ളവരെല്ലാം M TU LL2A V R2A െ LL1AAM
-മറ്റുള്ളവരെ M TU LL2A V R2A െ
-മറ്റുള്ളവരോടപ്പമിരിക്കാനുള്ള M TU LL2A V R2O2 T1 P1 P MI R2I KKA N2U LL2A
+മറ്റുള്ളവരെല്ലാം M TU LL2A V R2AE1 LL1AAM
+മറ്റുള്ളവരെ M TU LL2A V R2AE1
+മറ്റുള്ളവരോടപ്പമിരിക്കാനുള്ള M TU LL2A V R2O2 T1 PP MI R2I KKA N2U LL2A
 മറ്റുള്ളവര്‍ക്കെന്തുപറ്റി M TU LL2A V R2 KKAE1 N2T2A U P TI
 മറ്റുള്ളവര്‍ M TU LL2A V R2
 മറ്റുള്ള M TU LL2A
@@ -5497,12 +5494,12 @@
 മഷീനുകള്‍ M S2 ീ N2U K L2
 മസാജറാണ്കണ്ടില്ലേ M S3A J R1AA N1U1 K N1T1AI LL1AE2
 മസാലയോയല്ലാ M S3A L1A YO2 Y LL1AA
-മസ്റ്റാർട് M S33 TA R2  T111
+മസ്റ്റാർട് M S33 TA R2 T111
 മസ്സാജ് M SS3 ാ J1
 മഹതികളെ M H T2I K L2AE1
 മഹാനായ M HA N2AA Y
 മഹാന്‍ M HA N2
-മഹായുദ്ധകാലത്ത് M HA YU D2 ് D2H KA L1A T2T2
+മഹായുദ്ധകാലത്ത് M HA YU D2D2H KA L1A T2T2
 മഹാ M HA
 മാം MAM
 മാക്സിമിലിയന്‍ MA K1 S3I MI L1I Y N2
@@ -5510,11 +5507,11 @@
 മാക്സിമിലിയ MA K1 S3I MI L1I Y
 മാഗിയുണ്ടാക്കാൻ MA GI YU N1T1A KKA N2
 മാച്ച് MA CC22
-മാജിക് MA JI K ്
-മാഡം MA D ം
-മാത്രംബാക്കിയുള്ളവര്‍ MA T2R1 ം BA KKI YU LL2A V R2
-മാത്രംമതി MA T2R1 ം M T2I
-മാത്രം MA T2R1 ം
+മാജിക് MA JI K1
+മാഡം MA DM 
+മാത്രംബാക്കിയുള്ളവര്‍ MA T2R1AM BA KKI YU LL2A V R2
+മാത്രംമതി MA T2R1AM M T2I
+മാത്രം MA T2R1AM 
 മാത്രമല്ലപക്ഷെ MA T2R1 M LL1A P KS2 െ
 മാത്രമല്ല MA T2R1 M LL1A
 മാത്രമാണ് MA T2R1 MA N1U1
@@ -5530,13 +5527,13 @@
 മാനവരാശിയുടെ MA N2A V R2AA S1I YU T1AE1
 മാനാണോ MA N2AA N1O2
 മാനിന്റെ MA N2I N2TE
-മാനിന്റേതിലുമുണ്ട് MA N2I N2A ് R1AE2 T2I L1U MU N1T1
-മാനിന്റേതിലുമുള്ളത് MA N2I N2A ് R1AE2 T2I L1U MU LL2A T22
+മാനിന്റേതിലുമുണ്ട് MA N2I N2TAE2 T2I L1U MU N1T1
+മാനിന്റേതിലുമുള്ളത് MA N2I N2TAE2 T2I L1U MU LL2A T22
 മാനുവൽ MA N2U V L1
 മാന്ത്രികക്കൊട്ടാരം MA N2T2A R1I K KKO1 T11AA R2M
 മാന്ത്രികക്കൊട്ടാരമായിരുന്നു MA N2T2A R1I K KKO1 T11AA R2A MA YI R2U NN2U
 മാന്ത്രികരേ MA N2T2A R1I K R2AE2
-മാന്യരെ MA N2A ് Y R2A െ
+മാന്യരെ MA N2Y R2AE1
 മാന്‍ MA N2
 മാപ്പില്‍ MA PPI L1
 മാപ്പ് MA P1 P1
@@ -5555,20 +5552,20 @@
 മാറിക്കോളും MA R1I KK O2 L2UM
 മാറിക്കോ MA R1I KK O2
 മാറിടവുംമൂടും MA R1I T1 VUM MUU T1UM
-മാറിനില്കാൻ MA R1I N2I L1A ് KA N2
+മാറിനില്കാൻ MA R1I N2I L1 KA N2
 മാറിനില്‍ക്കൂ MA R1I N2I L1 KKUU
-മാറിപോയല്ലോ MA R1I PO2 Y L1A ് L1O2
-മാറിപ്പോയിമനസ്സിലാക്കാൻ MA R1I PPO2 YI M N2A SS3 ി L1AA KKA N2
+മാറിപോയല്ലോ MA R1I PO2 Y LL1O2
+മാറിപ്പോയിമനസ്സിലാക്കാൻ MA R1I PPO2 YI M N2A SS3I L1AA KKA N2
 മാറിപ്പോയി MA R1I PPO2 YI
 മാറിയത് MA R1I Y T22
-മാറിയിട്ടില്ലല്ലോ MA R1I YI T11I LL1A L1A ് L1O2
+മാറിയിട്ടില്ലല്ലോ MA R1I YI T11I LL1A LL1O2
 മാറിയിട്ടില്ലാ MA R1I YI T11I LL1AA
 മാറിയിരിക്കുന്നു MA R1I YI R2I KKU NN2U
 മാറിയിരുന്നില്ല MA R1I YI R2U NN2I LL1A
 മാറിയിരുന്നു MA R1I YI R2U NN2U
 മാറിയേക്കാം MA R1I YAE2 KKAAM
 മാറി MA R1I
-മാറും MA R1U ം
+മാറും MA R1UM 
 മാറുന്നു MA R1U NN2U
 മാറൂ MA R1UU
 മാറെടോ MA R1AE1 T1O2
@@ -5580,7 +5577,7 @@
 മാറ്റാന്‍ MA TA N2
 മാറ്റാമെന്ന് MA TA MAE1 NN2
 മാറ്റാൻ MA TA N2
-മാറ്റിമറിച്ചു MA TI M R1I CC2 U
+മാറ്റിമറിച്ചു MA TI M R1I CC2U
 മാറ്റിയിട്ടില്ല MA TI YI T11I LL1A
 മാറ്റുന്നതാണ് MA TU NN2A T2A N1U1
 മാറ്റുന്നു MA TU NN2U
@@ -5593,12 +5590,12 @@
 മാസങ്ങളായത്രേ MA S3 NGNGA L2AA Y T2R1 േ
 മാസങ്ങൾ MA S3 NGNGA L2
 മാസത്തിലായിരിക്കണം MA S3 TT2I L1AA YI R2I KK N1M
-മാസ്ക് MA S33 K ്
+മാസ്ക് MA S33 K1
 മാൻനെ MA N2 N2AE1
 മാൻനോട്‌ MA N2 N2O2 T1 ്‌
 മാൻന്റെ MA N2 N2TE
 മാൻ MA N2
-മാർക്കുണ്ടല്ലോ MA R2 KKU N1T1A L1A ് L1O2
+മാർക്കുണ്ടല്ലോ MA R2 KKU N1T1A LL1O2
 മാർക്കു MA R2 KKU
 മാർക്ക്‌ MA R2 KK1 ‌
 മികച്ചതാണ് MI K CC2 T2A N1U1
@@ -5606,8 +5603,8 @@
 മികച്ചവനാകും MI K CC2 V N2AA KUM
 മികച്ചവരില്‍ MI K CC2 V R2I L1
 മികച്ച MI K CC2
-മിക്കവാറും MI KK VA R1U ം
-മിക്സാണ് MI K ് S3A N1U1
+മിക്കവാറും MI KK VA R1UM 
+മിക്സാണ് MI K1 S3A N1U1
 മിങ്കി MI NKI
 മിടുക്കിയായ MI T1U KKI YA Y
 മിടുക്കുണ്ട് MI T1U KKU N1T1
@@ -5617,7 +5614,7 @@
 മിഠായികൾ MI T1HA YI K L2
 മിഠായിയൊക്കെ MI T1HA YI YO1 KKAE1
 മിഠായി MI T1HA YI
-മിണ്ടല്ലെ MI N1T1A LL1A െ
+മിണ്ടല്ലെ MI N1T1A LL1IAE1
 മിണ്ടാതിരിക്കുക MI N1T1A T2I R2I KKU K
 മിണ്ടാതിരിക്ക്‌ MI N1T1A T2I R2I KK1 ‌
 മിണ്ടാതിരിക്ക് MI N1T1A T2I R2I KK1
@@ -5633,7 +5630,7 @@
 മിനുറ്റുമുതൽ MI N2U TU MU T2 L1
 മിന്നല്‍പിണരുകളും MI NN2A L1 PI N1A R2U K L2UM
 മിന്നല്‍പിണരുകള്‍ MI NN2A L1 PI N1A R2U K L2
-മിന്‍റ് MI N2 R1A ്
+മിന്‍റ് MI N2TT
 മിലിട്ടറി MI L1I T11A R1I
 മില്ലരിന്റെയും MI LL1A R2I N2TE YUM
 മില്ലറിനു MI LL1A R1I N2U
@@ -5641,17 +5638,17 @@
 മില്ലറിന്റെ MI LL1A R1I N2TE
 മില്ലറുടെ MI LL1A R1U T1AE1
 മില്ലിമീറ്ററുകൾ MI LL1I MII TA R1U K L2
-മില്ലെരിന്റെ MI LL1A െ R2I N2TE
-മില്ലെറിന്റെ MI LL1A െ R1I N2TE
-മില്ലെറുടെ MI LL1A െ R1U T1AE1
-മില്ലെർ MI LL1A െ R2
+മില്ലെരിന്റെ MI LL1IAE1 R2I N2TE
+മില്ലെറിന്റെ MI LL1IAE1 R1I N2TE
+മില്ലെറുടെ MI LL1IAE1 R1U T1AE1
+മില്ലെർ MI LL1IAE1 R2
 മിഷനുകൾ MI S2 N2U K L2
 മിഷനെക്കുറിചു MI S2 N2AE1 KKU R1I CU
 മിഷൻ MI S2 N2
 മിസിസ് MI S3I S33
 മിസ്റ്റര്‍ MI S33 TA R2
 മിസ്റ്റർ MI S33 TA R2
-മിസ്സിസ് MI SS3 ി S33
+മിസ്സിസ് MI SS3I S33
 മിസ്സ്‌ MI SS31 ‌
 മിസ്‌ MI S33 ‌
 മിസ് MI S33
@@ -5671,11 +5668,11 @@
 മുകളിൽ MU K L2I L1
 മുകള്‍ഭാഗം MU K L2 BHA GAM
 മുകള്‍ MU K L2
-മുക്കിയെടുക്കാമല്ലോ MU KKI YAE1 T1U KKA M L1A ് L1O2
+മുക്കിയെടുക്കാമല്ലോ MU KKI YAE1 T1U KKA M LL1O2
 മുക്കിയെടുത്ത MU KKI YAE1 T1U TT2
-മുഖം MU ഖം
-മുഖത്ത് MU ഖ T2T2
-മുഖ്യഭാഗത്തിലൂടെയാണ് MU ഖ് Y BHA G TT2I L1UU T1AE1 YA N1U1
+മുഖം MU KHAM
+മുഖത്ത് MU KH T2T2
+മുഖ്യഭാഗത്തിലൂടെയാണ് MU KHY BHA G TT2I L1UU T1AE1 YA N1U1
 മുടിഞ്ഞുപോവും MU T1I NNJU PO2 VUM
 മുടിയൊക്കെ MU T1I YO1 KKAE1
 മുടി MU T1I
@@ -5691,43 +5688,43 @@
 മുത്തച്ഛനായി MU TT2 CC1 N2AA YI
 മുത്തച്ഛന്‍റെ MU TT2 CC1 N2TAE1
 മുത്തച്ഛന്‍ MU TT2 CC1 N2
-മുത്തശ്ശനല്ല MU TT2 S1 ് S1 N2A LL1A
-മുത്തശ്ശനെ MU TT2 S1 ് S1 N2AE1
-മുത്തശ്ശന്‍ MU TT2 S1 ് S1 N2
-മുത്തശ്ശന് MU TT2 S1 ് S1 N22
-മുത്തശ്ശി MU TT2 S1 ് S1I
+മുത്തശ്ശനല്ല MU TT2 S11 S1 N2A LL1A
+മുത്തശ്ശനെ MU TT2 S11 S1 N2AE1
+മുത്തശ്ശന്‍ MU TT2 S11 S1 N2
+മുത്തശ്ശന് MU TT2 S11 S1 N22
+മുത്തശ്ശി MU TT2 S11 S1I
 മുത്താണ് MU TT2 A N1U1
 മുത്തുച്ചിപ്പിയാണെങ്കില്‍ MU TT2 U CC2I PPI YA N1AE1 NKI L1
 മുത്തെ MU TT2AE1
 മുത്ത് MU T2T2
 മുതൽ MU T2 L1
-മുദ്രിക MU D2R1 ി K
+മുദ്രിക MU D2RI K
 മുന്നറിയിപ്പ് MU NN2A R1I YI P1 P1
 മുന്നിലെ MU NN2I L1AE1
 മുന്നില്‍ MU NN2I L1
 മുന്നേ MU NN2AE2
 മുന്നോട്ടു MU NN2O2 T11U
 മുന്നോട്ട് MU NN2O2 T11
-മുപ്പത്തിമൂന്ന് MU P1 P TT2I MUU NN2
-മുപ്പത് MU P1 P T22
+മുപ്പത്തിമൂന്ന് MU PP TT2I MUU NN2
+മുപ്പത് MU PP T22
 മുമ്പാണ് MU MP A N1U1
 മുമ്പും MU MPUM
 മുമ്പേ MU MP AE2
 മുമ്പ്തന്നെ MU MP1 T2 NN2AE1
 മുമ്പ് MU MP1
 മുര്‍ഫ് MU R2 PH1
-മുറിച്ചുകടന്നാല്‍ MU R1I CC2 U K T1 NN2AA L1
+മുറിച്ചുകടന്നാല്‍ MU R1I CC2U K T1 NN2AA L1
 മുറിയിലുണ്ട് MU R1I YI L1U N1T1
 മുറിയില്‍ MU R1I YI L1
 മുറി MU R1I
 മുറുകും MU R1U KUM
-മുല്യമുള്ളവ MU L1A ് Y MU LL2A V
+മുല്യമുള്ളവ MU L1Y MU LL2A V
 മുളകുമെല്ലാം MU L2A KU MAE1 LL1AAM
-മുളക് MU L2A K ്
-മുഴുവനും MU ഴു V N2UM
-മുഴുവന്‍ MU ഴു V N2
-മുഴുവൻ MU ഴു V N2
-മുഴ MU ഴ
+മുളക് MU L2A K1
+മുഴുവനും MU ZU V N2UM
+മുഴുവന്‍ MU ZU V N2
+മുഴുവൻ MU ZU V N2
+മുഴ MU Z
 മുൻകരുതൽ MU N2 K R2U T2 L1
 മുൻപാണ്‌ MU N2 PA N1U1 ‌
 മുൻപിൽ MU N2 PI L1
@@ -5737,7 +5734,7 @@
 മൂക്കുകുത്തി MUU KKU KU TT2I
 മൂക്കുവലി MUU KKU V L1I
 മൂഡയായി MUU D YA YI
-മൂഢയാണെന്ന് MUU ഢ YA N1AE1 NN2
+മൂഢയാണെന്ന് MUU DDH YA N1AE1 NN2
 മൂത്രമൊഴിക്കും MUU T2R1 MO1 ZI KKUM
 മൂത്രമൊഴിക്കുമോ MUU T2R1 MO1 ZI KKU MO2
 മൂന്നാംലോകം MUU NN2AM L1O2 KM
@@ -5757,17 +5754,17 @@
 മെലിയസിന്റെ MAE1 L1I Y S3I N2TE
 മെലിയസില്‍ MAE1 L1I Y S3I L1
 മെലിയസ് MAE1 L1I Y S33
-മെല്ലെ MAE1 LL1A െ
-മെഷിനുകൾ MAE1 S2 ി N2U K L2
+മെല്ലെ MAE1 LL1IAE1
+മെഷിനുകൾ MAE1 S2I N2U K L2
 മെഷീനുണ്ട് MAE1 S2 ീ N2U N1T1
-മെസ്സേജ് MAE1 SS3 േ J1
-മെഹ്റായുടെ MAE1 H ് R1AA YU T1AE1
-മെഹ്റ MAE1 H ് R1A
+മെസ്സേജ് MAE1 S S3AE2 J1
+മെഹ്റായുടെ MAE1 H11 R1AA YU T1AE1
+മെഹ്റ MAE1 H11 R1A
 മൊഡ്യൂളുമായി MO1 D1 YUU L2U MA YI
-മേഖല MAE2 ഖ L1A
-മേഘം MAE2 GH ം
-മേടിച്ചു MAE2 T1I CC2 U
-മേഡം MAE2 D ം
+മേഖല MAE2 KH L1A
+മേഘം MAE2 G HM
+മേടിച്ചു MAE2 T1I CC2U
+മേഡം MAE2 DM 
 മേശപ്പുറത്തു MAE2 S1 PPU R1A TT2 U
 മേശയില്‍ MAE2 S1 YI L1
 മേശ MAE2 S1
@@ -5778,7 +5775,7 @@
 മൈലാഞ്ചിയിടണം MAI L1AA NCHA I YI T1 N1M
 മൊത്തം MO1 T T2AM
 മൊരിഞ്ഞ MO1 R2I NNJA
-മോഡേണായി MO2 D1AE2 N1A ാ YI
+മോഡേണായി MO2 D1AE2 N1AA YI
 മോഡ്യൂള്‍സും MO2 D1 YUU L2 S3UM
 മോണ്ടു MO2 N1T1U
 മോനെആരാണ് MO2 N2AE1 ആ R2AA N1U1
@@ -5794,17 +5791,17 @@
 മോള്‍ക്ക് MO2 L2 KK1
 മോള്‍ MO2 L2
 മോള് MO2 L2A ്
-മോഴ്സ് MO2 ഴ് S33
+മോഴ്സ് MO2 Z11 ് S33
 മോശം MO2 S1 ം
 മോശപ്പെട്ടതായിരിക്കില്ല MO2 S1 PPAE1 T11A T2A YI R2I KKI LL1A
 മോശപ്പെട്ടതാവാൻ MO2 S1 PPAE1 T11A T2A VA N2
 മോശമല്ല MO2 S1 M LL1A
 മോശമാണ് MO2 S1 MA N1U1
 മോശമൊന്നുമല്ല MO2 S1 MO1 NN2U M LL1A
-മോഷ്ടിക്കാറുണ്ടന്ന് MO2 S2 ് T1I KKA R1U N1T1A NN2
-മോഷ്ടിക്കുന്നത് MO2 S2 ് T1I KKU NN2A T22
-മോഷ്ടിച്ചതാണ് MO2 S2 ് T1I CC2 T2A N1U1
-മോഷ്ടിച്ചിട്ടില്ല MO2 S2 ് T1I CC2I T11I LL1A
+മോഷ്ടിക്കാറുണ്ടന്ന് MO2 S22 T1I KKA R1U N1T1A NN2
+മോഷ്ടിക്കുന്നത് MO2 S22 T1I KKU NN2A T22
+മോഷ്ടിച്ചതാണ് MO2 S22 T1I CC2 T2A N1U1
+മോഷ്ടിച്ചിട്ടില്ല MO2 S22 T1I CC2I T11I LL1A
 മോർണിംഗ് MO2 R2 N1I ം G11
 മോൾക്ക് MO2 L2 KK1
 മ്യൂസിക്ക് MYUU S3I KK1
@@ -5816,18 +5813,18 @@
 മ്യൂസിയത്തില്‍ MYUU S3I Y TT2I L1
 മ് M ്
 മർദ്ദം M R2 DD2M
-മർഫിനൊട് M R2 PHI N2O1  T111
+മർഫിനൊട് M R2 PHI N2O1 T111
 മർഫിന്റെ M R2 PHI N2TE
 മർഫ് M R2 PH1
 യജമാനന്‍ Y J MA N2A N2
-യഥാര്‍ത്ഥ Y ഥാ R2 T2 ്ഥ
-യഥാര്‍ഥ Y ഥാ R2 ഥ
+യഥാര്‍ത്ഥ Y ഥാ R2 T2T2H 
+യഥാര്‍ഥ Y ഥാ R2 T2H 
 യഥാസമയം Y ഥാ S3 M YM
 യഥാർതത്തില്‍ Y ഥാ R2 T2 TT2I L1
-യഥാർത്ഥ Y ഥാ R2 T2 ്ഥ
+യഥാർത്ഥ Y ഥാ R2 T2T2H 
 യന്തത്തിന് Y N2T2A TT2I N22
 യന്ത്രം Y N2T2A R1 ം
-യന്ത്രങ്ങളോടെപ്പമായിരുന്നു Y N2T2A R1 NGNGA L2O2 T1AE1 P1 P MA YI R2U NN2U
+യന്ത്രങ്ങളോടെപ്പമായിരുന്നു Y N2T2A R1 NGNGA L2O2 T1AE1 PP MA YI R2U NN2U
 യന്ത്രങ്ങള്‍ക്ക് Y N2T2A R1 NGNGA L2 KK1
 യന്ത്രങ്ങള്‍ Y N2T2A R1 NGNGA L2
 യന്ത്രത്തില്‍ Y N2T2A R1 TT2I L1
@@ -5847,13 +5844,13 @@
 യാത്ര YA T2R1
 യാഥാര്‍ഥ്യങ്ങള്‍ YA ഥാ R2 ഥ് Y NGNGA L2
 യിൽ YI L1
-യുക്തിയെ YU K ് T2I YAE1
+യുക്തിയെ YU K1 T2I YAE1
 യുദ്ദത്തില്‍ YU D2 ് D2 TT2I L1
-യുദ്ധം YU D2 ് D2H ം
-യുദ്ധത്തിന്റെ YU D2 ് D2H TT2I N2TE
-യുദ്ധത്തില്‍ YU D2 ് D2H TT2I L1
-യുദ്ധഭൂമിയില്‍ YU D2 ് D2H BHUU MI YI L1
-യുദ്ധവിമാന YU D2 ് D2H VI MA N2A
+യുദ്ധം YU D2 ് D2 HM
+യുദ്ധത്തിന്റെ YU D2D2H TT2I N2TE
+യുദ്ധത്തില്‍ YU D2D2H TT2I L1
+യുദ്ധഭൂമിയില്‍ YU D2D2H BHUU MI YI L1
+യുദ്ധവിമാന YU D2D2H VI MA N2A
 യുപിയിലും YU PI YI L1UM
 യുറേക്കാ YU R1AE2 KKA
 യുവത്വവും YU V T2V VUM
@@ -5888,12 +5885,12 @@
 രക്ഷിക്കൂ R2A KS2I KKUU
 രക്ഷിക്ക് R2A KS2I KK1
 രക്ഷിച്ചിരിക്കുന്നു R2A KS2I CC2I R2I KKU NN2U
-രക്ഷിച്ചില്ലെങ്കിൽ R2A KS2I CC2I LL1A െ NKI L1
-രക്ഷിച്ചു R2A KS2I CC2 U
+രക്ഷിച്ചില്ലെങ്കിൽ R2A KS2I CC2I LL1IAE1 NKI L1
+രക്ഷിച്ചു R2A KS2I CC2U
 രക്ഷിതാക്കളില്ലേ R2A KS2I T2A KK L2I LL1AE2
 രക്ഷിതാക്കളില്ല R2A KS2I T2A KK L2I LL1A
 രക്ഷിതാക്കളുടെ R2A KS2I T2A KK L2U T1AE1
-രക്ഷിതാക്കളോട് R2A KS2I T2A KK L2O2  T111
+രക്ഷിതാക്കളോട് R2A KS2I T2A KK L2O2 T111
 രക്ഷിതാക്കള്‍ R2A KS2I T2A KK L2
 രക്ഷിതാവാകുമ്പോൾ R2A KS2I T2A VA KU MPO2 L2
 രജോരിയിൽ R2A JO2 R2I YI L1
@@ -5904,7 +5901,7 @@
 രണ്ടാള്ക്കും R2A N1T1A L2A ് KKUM
 രണ്ടും R2A N1T1U M
 രണ്ടുതരം R2A N1T1U T2 R2M
-രണ്ടുപേരും R2A N1T1U PAE2 R2U ം
+രണ്ടുപേരും R2A N1T1U PAE2 R2UM
 രണ്ടുപേര്‍ക്കും R2A N1T1U PAE2 R2 KKUM
 രണ്ടുപേര്‍ക്കുമുള്ള R2A N1T1U PAE2 R2 KKU MU LL2A
 രണ്ടുപേർക്കും R2A N1T1U PAE2 R2 KKUM
@@ -5943,7 +5940,7 @@
 രാവിലെ R2AA VI L1AE1
 രാസവസ്തുക്കളാക്കി R2AA S3 V S33 T2U KK L2AA KKI
 രാസവസ്തുക്കള്‍ R2AA S3 V S33 T2U KK L2
-രീതികളെപ്പറ്റി R2II T2I K L2AE1 P1 P TI
+രീതികളെപ്പറ്റി R2II T2I K L2AE1 PP TI
 രീതികളെല്ലാം R2II T2I K L2AE1 LL1AAM
 രീതിയിലാണ്‌ R2II T2I YI L1AA N1U1 ‌
 രീതിയിലുള്ള R2II T2I YI L1U LL2A
@@ -5951,7 +5948,7 @@
 രീതി R2II T2I
 രുചിക്കാൻ R2U CI KKA N2
 രുചിക്കുമോ R2U CI KKU MO2
-രുചിച്ചു R2U CI CC2 U
+രുചിച്ചു R2U CI CC2U
 രുചിച്ച് R2U CI CC22
 രുചിയായിരുന്നു R2U CI YA YI R2U NN2U
 രുചിയാവും R2U CI YA VUM
@@ -5964,15 +5961,15 @@
 രൂപകല്പന R2UU P K L1A ് P N2A
 രോഗം R2O2 GAM
 റഷ്യയിൽ R1A S2Y YI L1
-റസ്റ്റോറന്‍റാണ് R1A S33 R1A ് R1O2 R1A N2 R1AA N1U1
+റസ്റ്റോറന്‍റാണ് R1A S33 TO2 R1A N2TA N1U1
 റാണിഇങ്ങോട്ട് R1AA N1I ഇ NGNGO2 T11
 റാണിഇതെന്താണ് R1AA N1I ഇ T2AE1 N2T2A A N1U1
 റാണിഇന്ത്യയിൽ R1AA N1I ഇ N2T2A ് Y YI L1
-റാണിഇവരോട് R1AA N1I ഇ V R2O2  T111
+റാണിഇവരോട് R1AA N1I ഇ V R2O2 T111
 റാണിക്ക് R1AA N1I KK1
 റാണിനീ R1AA N1I N2II
 റാണിപ്രതീക്ഷ R1AA N1I PR1 T2II KS2
-റാണിമെഹ്റായുടെ R1AA N1I MAE1 H ് R1AA YU T1AE1
+റാണിമെഹ്റായുടെ R1AA N1I MAE1 H11 R1AA YU T1AE1
 റാണിമോളെ R1AA N1I MO2 L2AE1
 റാണിയാണോറാണി R1AA N1I YA N1O2 R1AA N1I
 റാണിയാണ് R1AA N1I YA N1U1
@@ -5985,13 +5982,13 @@
 റിക്കിക്ക് R1I KKI KK1
 റിക്കി R1I KKI
 റിങ് R1I ങ്
-റിലാക്സ് R1I L1AA K ് S33
+റിലാക്സ് R1I L1AA K1 S33
 റിലേറ്റിവിറ്റിയെക്കുറിച്ച് R1I L1AE2 TI VI TI YAE1 KKU R1I CC22
 റിസെറ്റ് R1I S3AI TTT
 റിസോട്ടോഇറ്റാലിയൻ R1I S3O2 T11O2 ഇ TA L1I Y N2
 റിസർവേഷനുണ്ട് R1I S3 R2 VAE2 S2 N2U N1T1
 റിസർവേഷൻ R1I S3 R2 VAE2 S2 N2
-റുക്സാർഇവിടെ R1U K ് S3A R2 ഇ VI T1AE1
+റുക്സാർഇവിടെ R1U K1 S3A R2 ഇ VI T1AE1
 റൂം R1UUM
 റൂമാണ് R1UU MA N1U1
 റൂമിന്‍റെ R1UU MI N2TAE1
@@ -6013,7 +6010,7 @@
 റേഞ്ചറില്‍ R1AE2 NCHA R1I L1
 റേഞ്ചറുകൾ R1AE2 NCHA R1U K L2
 റേഞ്ചുള്ള R1AE2 NCHA U LL2A
-റേഞ്ചെഴ്സ് R1AE2 NCHA AE1 ഴ് S33
+റേഞ്ചെഴ്സ് R1AE2 NCHA AE1 Z11 ് S33
 റേഡിയോയില്‍ R1AE2 DI YO2 YI L1
 റേഡിയോയിൽ R1AE2 DI YO2 YI L1
 റോബോട്ട് R1O2 BO2 T11
@@ -6026,10 +6023,10 @@
 റോക്ക്ഷോയുടെ R1O2 KS2O2 YU T1AE1
 റോക്ക്ഷോ R1O2 KS2O2
 റോക്ക് R1O2 KK1
-റോക്സ്ട്ടേക്കുള്ള R1O2 K ് S33 T11AE2 KKU LL2A
-റോക്സ്ട്ടേക്ക് R1O2 K ് S33 T11AE2 KK1
-റോക്സ്ട്ടേയെ R1O2 K ് S33 T11AE2 YAE1
-റോക്സ്ട്ടേ R1O2 K ് S33 T11AE2
+റോക്സ്ട്ടേക്കുള്ള R1O2 K1 S33 T11AE2 KKU LL2A
+റോക്സ്ട്ടേക്ക് R1O2 K1 S33 T11AE2 KK1
+റോക്സ്ട്ടേയെ R1O2 K1 S33 T11AE2 YAE1
+റോക്സ്ട്ടേ R1O2 K1 S33 T11AE2
 റോഡ്‌ R1O2 D1
 റോബര്‍ട്ട് R1O2 B R2 T11
 റോബസ്റ്റ് R1O2 B S33 TTT
@@ -6063,10 +6060,10 @@
 ലഭിക്കേണ്ടതെല്ലാം L1A BHI KKAE2 N1T1A T2AE1 LL1AAM
 ലഭിച്ചതില്‍ L1A BHI CC2 T2I L1
 ലഭിച്ചത് L1A BHI CC2 T22
-ലഭിച്ചു L1A BHI CC2 U
+ലഭിച്ചു L1A BHI CC2U
 ലഭിച്ച L1A BHI CC2
 ലളിതമായി L1A L2I T2 MA YI
-ലവ് L1A V ്
+ലവ് L1A V1
 ലഹരി L1A H R2I
 ലാജ്പത് L1AA J ് P T22
 ലാണ് L1AA N1U1
@@ -6074,7 +6071,7 @@
 ലാന്‍ഡര്‍ L1AA N2 D R2
 ലാന്‍ഡറിനു L1AA N2 D R1I N2U
 ലാന്‍ഡറുമായുള്ള L1AA N2 D R1U MA YU LL2A
-ലാന്‍റിങ്ങിനെക്കുറിച്ചുള്ള L1AA N2 R1I NGNGI N2AE1 KKU R1I CC2 U LL2A
+ലാന്‍റിങ്ങിനെക്കുറിച്ചുള്ള L1AA N2 R1I NGNGI N2AE1 KKU R1I CC2U LL2A
 ലാബിനും L1AA BI N2UM
 ലാഭിക്കാൻ L1AA BHI KKA N2
 ലാഭിക്കും L1AA BHI KKUM
@@ -6083,7 +6080,7 @@
 ലാസുറസ് L1AA S3U R1A S33
 ലാൻഡിംഗ് L1AA N2 DI ം G11
 ലിസറ്റ് L1I S3 TTT
-ലൂണാർ L1UU N1A ാ R2
+ലൂണാർ L1UU N1AA R2
 ലൂമിയര്‍ L1UU MI Y R2
 ലൂയിസ് L1UU YI S33
 ലെബ്ബെയ്സ് L1AE1 BBAE1 Y1 S33
@@ -6106,14 +6103,14 @@
 ലോകത്തിലെ L1O2 K TT2I L1AE1
 ലോകത്തില്‍ L1O2 K TT2I L1
 ലോകത്തിൽ L1O2 K TT2I L1
-ലോകത്തെപ്പറ്റി L1O2 K TT2AE1 P1 P TI
+ലോകത്തെപ്പറ്റി L1O2 K TT2AE1 PP TI
 ലോകത്തെ L1O2 K TT2AE1
 ലോകത്ത് L1O2 K T2T2
 ലോകമാണ് L1O2 K MA N1U1
 ലോകവുമായി L1O2 K VU MA YI
 ലോക്കിനു L1O2 KKI N2U
 ലോക്ക് L1O2 KK1
-ലോക് L1O2 K ്
+ലോക് L1O2 K1
 ലോറാ L1O2 R1AA
 ല്‍പരം L1 P R2M
 ലൗവിലി L1AU VI L1I
@@ -6183,25 +6180,25 @@
 വയസ്സാകുന്നതില്‍ V Y SS3 ാ KU NN2A T2I L1
 വയസ്സാവുമ്പോൾ V Y SS3 ാ VU MPO2 L2
 വയസ്സുണ്ട് V Y SS3 ു N1T1
-വയസ്സേയുള്ളൂ‌ V Y SS3 േ YU LL2A ൂ‌
+വയസ്സേയുള്ളൂ‌ V Y S S3AE2 YU LL2A ൂ‌
 വയസ്സ് V Y SS31
 വയ്ക്കണം V Y1 KK N1M
 വയ്ക്കുന്നതുമായിരിക്കും V Y1 KKU NN2A T2U MA YI R2I KKUM
-വയ്യല്ലോ V Y1 Y L1A ് L1O2
+വയ്യല്ലോ V Y1 Y LL1O2
 വയ്യ V Y1 Y
 വരകളുമാണ് V R2A K L2U MA N1U1
 വരക്കും V R2A KKUM
 വരക്കുന്നത് V R2A KKU NN2A T22
 വരച്ചതാണ് V R2A CC2 T2A N1U1
 വരച്ചത് V R2A CC2 T22
-വരച്ചുകൊണ്ടിരിക്കും V R2A CC2 U KO1 N1T1AI R2I KKUM
-വരച്ചു V R2A CC2 U
+വരച്ചുകൊണ്ടിരിക്കും V R2A CC2U KO1 N1T1AI R2I KKUM
+വരച്ചു V R2A CC2U
 വരട്ടെ V R2A T11AE1
 വരണം V R2A N1M
 വരനും V R2A N2UM
 വരയ്ക്കുകയാണ് V R2A Y1 KKU K YA N1U1
 വരരുത് V R2A R2U T22
-വരവ് V R2A V ്
+വരവ് V R2A V1
 വരാം V R2AA ം
 വരാതെ V R2AA T2AE1
 വരാത്തത് V R2AA TT2 T22
@@ -6219,8 +6216,8 @@
 വരില്ലാ V R2I LL1AA
 വരില്ല V R2I LL1A
 വരി V R2I
-വരുംഞാൻ V R2U ം NJA N2
-വരും V R2U ം
+വരുംഞാൻ V R2UM NJA N2
+വരും V R2UM
 വരുകാ V R2U KA
 വരുത്തി V R2U TT2I
 വരുത്തും V R2U TT2 UM
@@ -6240,19 +6237,19 @@
 വരുമ്പോൾ V R2U MP O2 L2
 വരുമ്പോളേക്കും V R2U MPO2 L2AE2 KKUM
 വരുമ്പോള്‍ V R2U MPO2 L2
-വരുമ്പോഴേക്കും V R2U MPO2 ഴേ KKUM
+വരുമ്പോഴേക്കും V R2U MPO2 ZE2 KKUM
 വരുമ്പോൾ V R2U MPO2 L2
 വരു V R2U
 വരൂനമുക്കെല്ലാം V R2UU N2A MU KKAE1 LL1AAM
 വരൂനമുക്ക് V R2UU N2A MU KK1
 വരൂവരൂ V R2UU V R2UU
 വരൂ V R2UU
-വരെ V R2A െ
+വരെ V R2AE1
 വരേണ്ടതെന്ന് V R2AE2 N1T1A T2AE1 NN2
 വരേണ്ടി V R2AE2 N1T1AI
-വര്ഷം V R2A ് S2 ം
+വര്ഷം V R2A ് S2M
 വര്‍ക്ക് V R2 KK1
-വര്‍ഷം V R2 S2 ം
+വര്‍ഷം V R2 S2M
 വര്‍ഷങ്ങളായി V R2 S2 NGNGA L2AA YI
 വര്‍ഷങ്ങളെടുക്കും V R2 S2 NGNGA L2AE1 T1U KKUM
 വര്‍ഷങ്ങളോളം V R2 S2 NGNGA L2O2 L2M
@@ -6266,15 +6263,15 @@
 വര്‍ഷമെടുത്തു V R2 S2 MAE1 T1U TT2 U
 വറ്റിക്കണം V TI KK N1M
 വലച്ചിരിക്കുന്നു V L1A CC2I R2I KKU NN2U
-വലച്ചു V L1A CC2 U
+വലച്ചു V L1A CC2U
 വലത്തേ V L1A TT2 AE2
 വലത്തോട്ട് V L1A TT2O2 T11
 വലയ്ക്കുന്നു V L1A Y1 KKU NN2U
 വലിക്കുന്നു V L1I KKU NN2U
 വലിച്ചാല്‍ V L1I CC2 A L1
 വലിച്ചിട്ടില്ലായിരുന്നു V L1I CC2I T11I LL1AA YI R2U NN2U
-വലിച്ചുകൊണ്ടു V L1I CC2 U KO1 N1T1U
-വലിച്ചു V L1I CC2 U
+വലിച്ചുകൊണ്ടു V L1I CC2U KO1 N1T1U
+വലിച്ചു V L1I CC2U
 വലിച്ചെടുത്തോട്ടെ V L1I CC2 AE1 T1U TT2O2 T11AE1
 വലിയൊരു V L1I YO1 R2U
 വലിയ്കപ്പെടുന്നു V L1I Y1 K PPAE1 T1U NN2U
@@ -6286,12 +6283,12 @@
 വല്ലാത്തൊരു V LL1AA TT2 O1 R2U
 വല്ല്യൊരു V LL1A ് YO1 R2U
 വല്ല V LL1A
-വളച്ചു V L2A CC2 U
+വളച്ചു V L2A CC2U
 വളയത്തിനു V L2A Y TT2I N2U
 വളയധികം V L2A Y D2HI KM
-വളരെയടുത്ത V L2A R2A െ Y T1U TT2
-വളരെയധികം V L2A R2A െ Y D2HI KM
-വളരെ V L2A R2A െ
+വളരെയടുത്ത V L2A R2AE1 Y T1U TT2
+വളരെയധികം V L2A R2AE1 Y D2HI KM
+വളരെ V L2A R2AE1
 വളരേയേറെ V L2A R2AE2 YAE2 R1AE1
 വളരേ V L2A R2AE2
 വളര്‍ത്തച്ഛനാണ് V L2A R2 TT2 CC1 N2AA N1U1
@@ -6303,8 +6300,8 @@
 വളര്‍ന്ന് V L2A R2 NN2
 വളിവിട്ട് V L2I VI T11
 വളർന്നുകൊള്ളും V L2A R2 NN2U KO1 LL2A ും
-വഴക്ക് V ഴ KK1
-വഴങ്ങിയില്ല V ഴ NGNGI YI LL1A
+വഴക്ക് V Z1 KK1
+വഴങ്ങിയില്ല V Z1 NGNGI YI LL1A
 വഴികള V ZI K L2A
 വഴികാട്ടി V ZI KA T11I
 വഴിക്ക് V ZI KK1
@@ -6316,28 +6313,28 @@
 വഴി V ZI
 വസ്തുക്കൾ V S33 T2U KK L2
 വസ്തുതകള്‍ V S33 T2U T2 K L2
-വസ്തുനിഷ്ടമായിരിക്കണം V S33 T2U N2I S2 ് T1 MA YI R2I KK N1M
-വസ്തുനിഷ്ടമായി V S33 T2U N2I S2 ് T1 MA YI
+വസ്തുനിഷ്ടമായിരിക്കണം V S33 T2U N2I S22 T1 MA YI R2I KK N1M
+വസ്തുനിഷ്ടമായി V S33 T2U N2I S22 T1 MA YI
 വസ്തുവകകളൊക്കെ V S33 T2U V K K LL2O1 KKAE1
-വസ്ത്രം V S33 T2R1 ം
+വസ്ത്രം V S33 T2R1AM 
 വസ്ത്രങ്ങളും V S33 T2R1 NGNGA L2UM
 വസ്ത്രങ്ങളുടെയും V S33 T2R1 NGNGA L2U T1AE1 YUM
 വസ്‌ത്രങ്ങൾ V S33 ‌ T2R1 NGNGA L2
-വഹിച്ചില്ലേഅതും V HI CC2I LL1AE2 അ T2UM
-വഹിച്ചുകൊണ്ട് V HI CC2 U KO1 N1T1
-വാംഹോളിന് VA ം HO2 L2I N22
-വാംഹോളിൽ VA ം HO2 L2I L1
-വാംഹോൾ VA ം HO2 L2
-വാം VA ം
+വഹിച്ചില്ലേ V HI CC2I LL1AE2
+വഹിച്ചുകൊണ്ട് V HI CC2U KO1 N1T1
+വാംഹോളിന് VAM HO2 L2I N22
+വാംഹോളിൽ VAM HO2 L2I L1
+വാംഹോൾ VAM HO2 L2
+വാം VAM
 വാക്കുകൾ VA KKU K L2
 വാക്കുതന്നിരുന്നു VA KKU T2 NN2I R2U NN2U
 വാക്കുപോലും VA KKU PO2 L1UM
 വാക്ക് VA KK1
-വാക്വം VA K ് VM
+വാക്വം VA K1 VM
 വാഗ്ദാനങ്ങള്‍ VA G11 D2A N2A NGNGA L2
-വാങ്ങാം VA NGNGAA ം
+വാങ്ങാം VA NGNGAAM
 വാങ്ങാൻ VA NGNGAA N2
-വാങ്ങിയതല്ലല്ലോ VA NGNGI Y T2 LL1A L1A ് L1O2
+വാങ്ങിയതല്ലല്ലോ VA NGNGI Y T2 LL1A LL1O2
 വാങ്ങിയതല്ലേ VA NGNGI Y T2 LL1AE2
 വാങ്ങിയതാണ് VA NGNGI Y T2A N1U1
 വാങ്ങിയതിനുശേഷമാണ് VA NGNGI Y T2I N2U S1AE2 S2 MA N1U1
@@ -6349,7 +6346,7 @@
 വാടക VA T1 K
 വാടാ VA T1A
 വാതിലടക്ക് VA T2I L1A T1 KK1
-വാതിലിനുള്ളിൽ VA T2I L1I N2U LL2A ി L1
+വാതിലിനുള്ളിൽ VA T2I L1I N2U LL2I L1
 വാതിലുകൾ VA T2I L1U K L2
 വാതില്‍ VA T2I L1
 വാതിൽ VA T2I L1
@@ -6367,16 +6364,16 @@
 വായു VA YU
 വാര്‍ത്തയും VA R2 TT2 YUM
 വാര്‍ത്തയുമുണ്ട് VA R2 TT2 YU MU N1T1
-വാര്‍ദ്ധക്യം VA R2 D2 ് D2H K ് YM
+വാര്‍ദ്ധക്യം VA R2 D2D2H KYM
 വാല്‍ജീനെപ്പോലെ VA L1 JII N2AE1 PPO2 L1AE1
 വാവാ VA VA
-വാസയോഗ്യമായ VA S3 YAE2 ാ GY MA Y
+വാസയോഗ്യമായ VA S3 YO2 GY MA Y
 വാസയോഗ്യമായ VA S3 YO2 GY MA Y
 വാസ്തവത്തിൽ VA S33 T2 V TT2I L1
 വാഹനം VA H N2M
 വാഹനങ്ങള്‍ VA H N2A NGNGA L2
 വാഹനവുമായി VA H N2A VU MA YI
-വാർഷിക VA R2 S2 ി K
+വാർഷിക VA R2 S2I K
 വാ VA
 വികസിക്കാത്ത VI K S3I KKA TT2
 വികാരമാണ് VI KA R2A MA N1U1
@@ -6390,19 +6387,19 @@
 വിചാരിക്കുന്നു VI CA R2I KKU NN2U
 വിചാരിച്ചത് VI CA R2I CC2 T22
 വിചാരിച്ചില്ല VI CA R2I CC2I LL1A
-വിചാരിച്ചു VI CA R2I CC2 U
+വിചാരിച്ചു VI CA R2I CC2U
 വിചാരിച്ചോ VI CA R2I CC2O2
 വിചിത്രമാണ് VI CI T2R1 MA N1U1
 വിചിത്രമായ VI CI T2R1 MA Y
 വിചിത്രസ്വഭാവമാണ് VI CI T2R1 S33 V BHA V MA N1U1
 വിജയകരമായിരുന്നു VI J Y K R2A MA YI R2U NN2U
-വിജയചിഹ്നം VI J Y CI H ് N2M
-വിജയത്തിനരികെ VI J Y TT2I N2A R2I K െ
-വിജയലക്ഷ്മിഓഹ് VI J Y L1A KS2 ് MI O2 H ്
-വിജയലക്ഷ്മിയും VI J Y L1A KS2 ് MI YUM
-വിജയലക്ഷ്മിയുടെ VI J Y L1A KS2 ് MI YU T1AE1
-വിജയലക്ഷ്മിയെ VI J Y L1A KS2 ് MI YAE1
-വിജയലക്ഷ്മി VI J Y L1A KS2 ് MI
+വിജയചിഹ്നം VI J Y CI NN2M
+വിജയത്തിനരികെ VI J Y TT2I N2A R2I KAE1
+വിജയലക്ഷ്മിഓഹ് VI J Y L1A K1 S22 MI O2 H11
+വിജയലക്ഷ്മിയും VI J Y L1A K1 S22 MI YUM
+വിജയലക്ഷ്മിയുടെ VI J Y L1A K1 S22 MI YU T1AE1
+വിജയലക്ഷ്മിയെ VI J Y L1A K1 S22 MI YAE1
+വിജയലക്ഷ്മി VI J Y L1A K1 S22 MI
 വിജയിക്കാം VI J YI KKAAM
 വിജയിച്ചാല്‍ VI J YI CC2 A L1
 വിജയിച്ചോ VI J YI CC2O2
@@ -6410,7 +6407,7 @@
 വിജയിയാണ് VI J YI YA N1U1
 വിജയിയുടെ VI J YI YU T1AE1
 വിജയിയെ VI J YI YAE1
-വിജയിയോട് VI J YI YO2  T111
+വിജയിയോട് VI J YI YO2 T111
 വിജയുടെ VI J YU T1AE1
 വിജയ്‌അവർ VI J Y1 ‌അ V R2
 വിജയ്‌ഇത് VI J Y1 ‌ഇ T22
@@ -6418,7 +6415,7 @@
 വിജയ്‌ചന്ദാ VI J Y1 ‌ C N2D2 A
 വിജയ്‌നമ്മുക്ക് VI J Y1 ‌ N2A MM U KK1
 വിജയ്‌മോനെഇവിടെ VI J Y1 ‌ MO2 N2AE1 ഇ VI T1AE1
-വിജയ്‌ലക്ഷ്മിയാണ് VI J Y1 ‌ L1A KS2 ് MI YA N1U1
+വിജയ്‌ലക്ഷ്മിയാണ് VI J Y1 ‌ L1A K1 S22 MI YA N1U1
 വിജയ്‌വിജയ്‌ VI J Y1 ‌ VI J Y1 ‌
 വിജയ്‌വേറെയെന്തെങ്കിലും VI J Y1 ‌ VAE2 R1AE1 YAE1 N2T2A AE1 NKI L1UM
 വിടണം VI T1 N1M
@@ -6428,7 +6425,7 @@
 വിടാനാണ് VI T1A N2AA N1U1
 വിടാന്‍ VI T1A N2
 വിടാൻ VI T1A N2
-വിടുകയാണല്ലോ VI T1U K YA N1A L1A ് L1O2
+വിടുകയാണല്ലോ VI T1U K YA N1A LL1O2
 വിടുന്നുണ്ട് VI T1U NN2U N1T1
 വിടുന്നു VI T1U NN2U
 വിടുന്ന VI T1U NN2A
@@ -6446,7 +6443,7 @@
 വിട്ടൂടെ VI T11UU T1AE1
 വിട്ടെന്നാണ് VI T11AE1 NN2AA N1U1
 വിട്ട് VI T11
-വിട് VI  T111
+വിട് VI T111
 വിട VI T1
 വിഡ്ഢീ VI D1 ഢീ
 വിദേശികളെ VI D2AE2 S1I K L2AE1
@@ -6457,7 +6454,7 @@
 വിധി VI D2HI
 വിനിമയം VI N2I M YM
 വിനോദങ്ങളുള്ളത് VI N2O2 D2 NGNGA L2U LL2A T22
-വിന്യസിക്കും VI N2A ് Y S3I KKUM
+വിന്യസിക്കും VI N2Y S3I KKUM
 വിപുലമായ VI PU L1A MA Y
 വിഫലശ്രമമായി VI PH L1A S1R1 M MA YI
 വിഭജനം VI BH J N2M
@@ -6501,12 +6498,12 @@
 വിളിക്ക് VI L2I KK1
 വിളിച്ചത് VI L2I CC2 T22
 വിളിച്ചാൽ VI L2I CC2 A L1
-വിളിച്ചിട്ടില്ലല്ലോ VI L2I CC2I T11I LL1A L1A ് L1O2
+വിളിച്ചിട്ടില്ലല്ലോ VI L2I CC2I T11I LL1A LL1O2
 വിളിച്ചിട്ടുണ്ട് VI L2I CC2I T11U N1T1
 വിളിച്ചിട്ടുപോലുമില്ലാ VI L2I CC2I T11U PO2 L1U MI LL1AA
 വിളിച്ചിരുന്നു VI L2I CC2I R2U NN2U
-വിളിച്ചുപറയണം VI L2I CC2 U P R1A Y N1M
-വിളിച്ചു VI L2I CC2 U
+വിളിച്ചുപറയണം VI L2I CC2U P R1A Y N1M
+വിളിച്ചു VI L2I CC2U
 വിളിച്ചോളാം VI L2I CC2O2 L2AAM
 വിളിച്ചോ VI L2I CC2O2
 വിവരങ്ങളെല്ലാം VI V R2A NGNGA L2AE1 LL1AAM
@@ -6518,7 +6515,7 @@
 വിവരിക്കൂ VI V R2I KKUU
 വിവരിച്ചാലും VI V R2I CC2 A L1UM
 വിവര്‍ത്തനം VI V R2 TT2 N2M
-വിവാഹം VI VA H ം
+വിവാഹം VI VA HM
 വിവാഹത്തിനുള്ളയെല്ലാ VI VA H TT2I N2U LL2A YAE1 LL1AA
 വിവാഹത്തിന്‍റെയന്ന് VI VA H TT2I N2TAE1 Y NN2
 വിവാഹത്തിന്‍റെയെല്ലാം VI VA H TT2I N2TAE1 YAE1 LL1AAM
@@ -6545,7 +6542,7 @@
 വിശ്വസിക്കുന്നു VI S1V S3I KKU NN2U
 വിശ്വസിച്ചത് VI S1V S3I CC2 T22
 വിശ്വസിച്ചില്ല VI S1V S3I CC2I LL1A
-വിശ്വസിച്ചു VI S1V S3I CC2 U
+വിശ്വസിച്ചു VI S1V S3I CC2U
 വിശ്വാസമില്ലേ VI S1VA S3 MI LL1AE2
 വിശ്വാസമുണ്ട് VI S1VA S3 MU N1T1
 വിശ്വാസിക്കണമെന്നാണ് VI S1VA S3I KK N1A MAE1 NN2AA N1U1
@@ -6553,7 +6550,7 @@
 വിഷമത്തിലാണ് VI S2 M TT2I L1AA N1U1
 വിഷമമാണ് VI S2 M MA N1U1
 വിഷമമായെങ്കില്‍ VI S2 M MA YAE1 NKI L1
-വിഷമമില്ലെന്ന് VI S2 M MI LL1A െ NN2
+വിഷമമില്ലെന്ന് VI S2 M MI LL1IAE1 NN2
 വിഷമമുണ്ടായിരുന്നു VI S2 M MU N1T1A YI R2U NN2U
 വിഷമമുണ്ട് VI S2 M MU N1T1
 വിഷമിക്കേണ്ടവിഷമിക്കേണ്ട VI S2 MI KKAE2 N1T1A VI S2 MI KKAE2 N1T1A
@@ -6564,17 +6561,17 @@
 വിസ VI S3
 വിൽക്കാനുണ്ട് VI L1 KKA N2U N1T1
 വിൽക്കുകയും VI L1 KKU K YUM
-വിൽപ്പന VI L1 P1 P N2A
+വിൽപ്പന VI L1 PP N2A
 വീഞ്ഞ്‌ VII NNJA ്‌
 വീടാകും VII T1A KUM
-വീടാണ്വീട് VII T1A N1U1 VII  T111
+വീടാണ്വീട് VII T1A N1U1 VII T111
 വീടാണ് VII T1A N1U1
 വീടിലെ VII T1I L1AE1
 വീടുകളിലേക്ക് VII T1U K L2I L1AE2 KK1
 വീട്ടിനുമുമ്പിൽ VII T11I N2U MU MP I L1
 വീട്ടിലെത്താൻ VII T11I L1AE1 TT2 A N2
 വീട്ടിലെയ്ക്ക് VII T11I L1AE1 Y1 KK1
-വീട്ടിലെല്ലാവരും VII T11I L1AE1 LL1AA V R2U ം
+വീട്ടിലെല്ലാവരും VII T11I L1AE1 LL1AA V R2UM
 വീട്ടിലെ VII T11I L1AE1
 വീട്ടിലേക്കുള്ള VII T11I L1AE2 KKU LL2A
 വീട്ടിലേക്ക് VII T11I L1AE2 KK1
@@ -6584,14 +6581,14 @@
 വീട്ടുകാർക്കുംസുഹൃത്തുക്കള്‍ക്കും VII T11U KA R2 KKUM S3U HRU TT2 U KK L2 KKUM
 വീട്ടുകാർ VII T11U KA R2
 വീട്ടുക്കാർ VII T11U KKA R2
-വീട് VII  T111
+വീട് VII T111
 വീഡിയോഗെയിമും VII DI YO2 G െ YI MUM
 വീണില്ലേ VII N1I LL1AE2
-വീണു VII N1A ു
+വീണു VII N1U
 വീണ്ടും VII N1T1U M
-വീഴുന്നു VII ഴു NN2U
+വീഴുന്നു VII ZU NN2U
 വീശിയിരുന്നു VII S1I YI R2U NN2U
-വുല്ഫ് VU L1A ് PH1
+വുല്ഫ് VU L1 PH1
 വൂഹൂ VUU H ൂ
 വൃത്തം VR1U T T2AM
 വൃത്താകൃതി VR1U TT2 A KR1U T2I
@@ -6605,20 +6602,20 @@
 വെച്ചാൽ VAE1 CC2 A L1
 വെച്ചിട്ടുണ്ട് VAE1 CC2I T11U N1T1
 വെച്ചിരുന്നത് VAE1 CC2I R2U NN2A T22
-വെച്ചോളുആവശ്യം VAE1 CC2O2 L2U ആ V S1 ് YM
+വെച്ചോളുആവശ്യം VAE1 CC2O2 L2U ആ V S11 YM
 വെച്ചോ VAE1 CC2O2
 വെച്ച് VAE1 CC22
 വെടിമരുന്ന് VAE1 T1I M R2U NN2
 വെടിയുണ്ടയും VAE1 T1I YU N1T1A YUM
 വെടി VAE1 T1I
 വെഡ്സ് VAE1 D1 S33
-വെണ്ടകൃഷിയുടെ VAE1 N1T1A KR1U S2 ി YU T1AE1
+വെണ്ടകൃഷിയുടെ VAE1 N1T1A KR1U S2I YU T1AE1
 വെണ്ടയ്ക്കക്ക് VAE1 N1T1A Y1 KK KK1
 വെത്യസ്തമല്ലേ VAE1 T22 Y S33 T2 M LL1AE2
 വെത്യസ്തമാണ് VAE1 T22 Y S33 T2 MA N1U1
 വെര്‍ണെ VAE1 R2 N1AE1
 വെര്‍ണേയുടെ VAE1 R2 N1A േ YU T1AE1
-വെറും VAE1 R1U ം
+വെറും VAE1 R1UM 
 വെറുതെ VAE1 R1U T2AE1
 വെറുമൊരു VAE1 R1U MO1 R2U
 വെല്ലുവിളിയാണ് VAE1 L L1U VI L2I YA N1U1
@@ -6626,11 +6623,11 @@
 വെളിച്ചത്തിൽ VAE1 L2I CC2 TT2I L1
 വെളിച്ചമല്ലാതെ VAE1 L2I CC2 M LL1AA T2AE1
 വെളിവില്ല VAE1 L2I VI LL1A
-വെളുത്തുള്ളിയുംഇഞ്ചിയും VAE1 L2U TT2 U LL2A ി YUM ഇ NCHA I YUM
+വെളുത്തുള്ളിയുംഇഞ്ചിയും VAE1 L2U TT2 U LL2I YUM ഇ NCHA I YUM
 വെള്ളം VAE1 LL2A ം
 വെള്ളപ്പോക്കത്തിനു VAE1 LL2A PPO2 KK TT2I N2U
 വെള്ളമടിച്ചിരുന്നത് VAE1 LL2A M T1I CC2I R2U NN2A T22
-വെള്ളവുംഓർഗാനിക്സും VAE1 LL2A VUM O2 R2 GA N2I K ് S3UM
+വെള്ളവുംഓർഗാനിക്സും VAE1 LL2A VUM O2 R2 GA N2I K1 S3UM
 വെള്ള VAE1 LL2A
 വേഗംപോപോ VAE2 GAM PO2 PO2
 വേഗം VAE2 GAM
@@ -6666,11 +6663,11 @@
 വേണ്ടാ VAE2 N1T1A
 വേണ്ടിയാണ് VAE2 N1T1AI YA N1U1
 വേണ്ടിയായിരുന്നു VAE2 N1T1AI YA YI R2U NN2U
-വേണ്ടിയാരും VAE2 N1T1AI YA R2U ം
+വേണ്ടിയാരും VAE2 N1T1AI YA R2UM
 വേണ്ടിയിരുന്നു VAE2 N1T1AI YI R2U NN2U
 വേണ്ടിയും VAE2 N1T1AI YUM
 വേണ്ടിയുളള VAE2 N1T1AI YU L2A L2A
-വേണ്ടിവരും VAE2 N1T1AI V R2U ം
+വേണ്ടിവരും VAE2 N1T1AI V R2UM
 വേണ്ടി VAE2 N1T1AI
 വേണ്ടെന്നുവെക്കുന്നതിന് VAE2 N1T1A E1 NN2U VAE1 KKU NN2A T2I N22
 വേണ്ടെ VAE2 N1T1A E1
@@ -6679,10 +6676,10 @@
 വേദനിക്കുന്നുണ്ട് VAE2 D2 N2I KKU NN2U N1T1
 വേദനിക്കുന്നു VAE2 D2 N2I KKU NN2U
 വേദനിപ്പിക്കല്ലേ VAE2 D2 N2I PPI KK LL1AE2
-വേദനിപ്പിക്കില്ലല്ലോ VAE2 D2 N2I PPI KKI LL1A L1A ് L1O2
+വേദനിപ്പിക്കില്ലല്ലോ VAE2 D2 N2I PPI KKI LL1A LL1O2
 വേദനിപ്പിക്കും VAE2 D2 N2I PPI KKUM
 വേദനിപ്പിക്കുകയാണെന്നാണ് VAE2 D2 N2I PPI KKU K YA N1AE1 NN2AA N1U1
-വേരെയൊരു VAE2 R2A െ YO1 R2U
+വേരെയൊരു VAE2 R2AE1 YO1 R2U
 വേര്‍പെടാന്‍ VAE2 R2 PAE1 T1A N2
 വേര്‍പെടും VAE2 R2 PAE1 T1UM
 വേര്‍പെടുത്തൂ VAE2 R2 PAE1 T1U TT2 UU
@@ -6692,73 +6689,73 @@
 വേറെന്തോപോലത്തെ VAE2 R1AE1 N2T2A O2 PO2 L1A TT2AE1
 വേറെയാരുമില്ലാ VAE2 R1AE1 YA R2U MI LL1AA
 വേറെയാരുമില്ലേ VAE2 R1AE1 YA R2U MI LL1AE2
-വേറെയാരെയോ VAE2 R1AE1 YA R2A െ YO2
+വേറെയാരെയോ VAE2 R1AE1 YA R2AE1 YO2
 വേറെയെന്തെങ്കിലും VAE2 R1AE1 YAE1 N2T2A AE1 NKI L1UM
 വേറെയെവിടെയെങ്കിലും VAE2 R1AE1 YAE1 VI T1AE1 YAE1 NKI L1UM
 വേറെയൊരു VAE2 R1AE1 YO1 R2U
 വേറെ VAE2 R1AE1
 വേലിയുടെ VAE2 L1I YU T1AE1
 വേവലാതിപ്പെടാന്‍ VAE2 V L1AA T2I PPAE1 T1A N2
-വേശ്യ VAE2 S1 ് Y
+വേശ്യ VAE2 S11 Y
 വോൾഫ് VO2 L2 PH1
 വേർപെടുത്തുക VAE2 R2 PAE1 T1U TT2 U K
 വേർപ്പെടുത്തലിനു VAE2 R2 PPAE1 T1U TT2 L1I N2U
 വൈകാതെ VAI KA T2AE1
-വൈകിയാണല്ലോ VAI KI YA N1A L1A ് L1O2
+വൈകിയാണല്ലോ VAI KI YA N1A LL1O2
 വൈകിയോ VAI KI YO2
 വൈകില്ലാ VAI KI LL1AA
 വൈകുന്നുണ്ട് VAI KU NN2U N1T1
 വൈകുന്നേരം VAI KU NN2AE2 R2M
 വൈചിത്ര്യങ്ങള്‍ക്കുമെതിരേ VAI CI T2R1 ് Y NGNGA L2 KKU MAE1 T2I R2AE2
-വൈയക്തികമായി VAI Y K ് T2I K MA YI
+വൈയക്തികമായി VAI Y K1 T2I K MA YI
 വൈവിധ്യം VAI VI D2HY M
 വൈൻ VAI N2
-വൊവ്മിയ VO1 V ് MI Y
+വൊവ്മിയ VO1 V1 MI Y
 വോംഹോളാണോ VO2M HO2 L2AA N1O2
 വോം VO2M
 വോട്ടിനിടണം VO2 T11I N2I T1 N1M
 വോലെണ്ടയിൽ VO2 L1AE1 N1T1A YI L1
 വോള്‍ഫിനെ VO2 L2 PHI N2AE1
 വോള്‍ഫ് VO2 L2 PH1
-വോവ് VO2 V ്
-വ്യക്തമാണ്‌ V ് Y K ് T2 MA N1U1 ‌
-വ്യക്തമായി V ് Y K ് T2 MA YI
-വ്യക്തമായ V ് Y K ് T2 MA Y
-വ്യക്തമാവും V ് Y K ് T2 MA VUM
-വ്യക്തിപരമായ V ് Y K ് T2I P R2A MA Y
-വ്യക്തിയാണെന്ന് V ് Y K ് T2I YA N1AE1 NN2
-വ്യക്തിയായിരുന്നു V ് Y K ് T2I YA YI R2U NN2U
-വ്യക്തിയുടെ V ് Y K ് T2I YU T1AE1
-വ്യക്തി V ് Y K ് T2I
-വ്യതിയാനം V ് Y T2I YA N2M
-വ്യതിയാനങ്ങളെക്കുറിച്ച് V ് Y T2I YA N2A NGNGA L2AE1 KKU R1I CC22
-വ്യത്യസ്തമായിരിക്കും V ് Y T22 Y S33 T2 MA YI R2I KKUM
-വ്യത്യസ്തമായിരിക്കുമോ V ് Y T22 Y S33 T2 MA YI R2I KKU MO2
-വ്യത്യസ്തമായിരുന്നു V ് Y T22 Y S33 T2 MA YI R2U NN2U
-വ്യത്യാസം V ് Y T2YA S3AM
-വ്യത്യാസത്തിലാണ് V ് Y T2YA S3 TT2I L1AA N1U1
-വ്യാജമായിരുന്നോ V ് YA J MA YI R2U NN2O2
-വ്യാപാരി V ് YA PA R2I
-വ്യാപിക്കുകയും V ് YA PI KKU K YUM
+വോവ് VO2 V1
+വ്യക്തമാണ്‌ VY K1 T2 MA N1U1 ‌
+വ്യക്തമായി VY K1 T2 MA YI
+വ്യക്തമായ VY K1 T2 MA Y
+വ്യക്തമാവും VY K1 T2 MA VUM
+വ്യക്തിപരമായ VY K1 T2I P R2A MA Y
+വ്യക്തിയാണെന്ന് VY K1 T2I YA N1AE1 NN2
+വ്യക്തിയായിരുന്നു VY K1 T2I YA YI R2U NN2U
+വ്യക്തിയുടെ VY K1 T2I YU T1AE1
+വ്യക്തി VY K1 T2I
+വ്യതിയാനം VY T2I YA N2M
+വ്യതിയാനങ്ങളെക്കുറിച്ച് VY T2I YA N2A NGNGA L2AE1 KKU R1I CC22
+വ്യത്യസ്തമായിരിക്കും VY T22 Y S33 T2 MA YI R2I KKUM
+വ്യത്യസ്തമായിരിക്കുമോ VY T22 Y S33 T2 MA YI R2I KKU MO2
+വ്യത്യസ്തമായിരുന്നു VY T22 Y S33 T2 MA YI R2U NN2U
+വ്യത്യാസം VY T2YA S3AM
+വ്യത്യാസത്തിലാണ് VY T2YA S3 TT2I L1AA N1U1
+വ്യാജമായിരുന്നോ VYA J MA YI R2U NN2O2
+വ്യാപാരി VYA PA R2I
+വ്യാപിക്കുകയും VYA PI KKU K YUM
 വൗ V ൗ
 വർക്ക് V R2 KK1
 വർത്തമാനം V R2 TT2 MA N2M
 വർമ്മയുടെ V R2 MM YU T1AE1
 വർമ്മ V R2 MM
-വർഷം V R2 S2 ം
+വർഷം V R2 S2M
 വർഷങ്ങളെക്കുറിച്ച് V R2 S2 NGNGA L2AE1 KKU R1I CC22
 വർഷങ്ങൾ V R2 S2 NGNGA L2
-വർഷത്തിനുള്ളിൽ V R2 S2 TT2I N2U LL2A ി L1
+വർഷത്തിനുള്ളിൽ V R2 S2 TT2I N2U LL2I L1
 വർഷത്തോളം V R2 S2 TT2O2 L2M
 വർഷവും V R2 S2 VUM
 ശകുനമല്ലായെന്നാണ് S1 KU N2A M LL1AA YAE1 NN2AA N1U1
-ശക്തമാണെന്ന് S1 K ് T2 MA N1AE1 NN2
-ശക്തമാണ് S1 K ് T2 MA N1U1
-ശക്തമായ S1 K ് T2 MA Y
-ശക്തിപ്രഭാവം S1 K ് T2I PR1 BHA VM
-ശക്തിയുള്ളൊരു S1 K ് T2I YU LL2A ൊ R2U
-ശക്തിയുള്ള S1 K ് T2I YU LL2A
-ശക്തി S1 K ് T2I
+ശക്തമാണെന്ന് S1 K1 T2 MA N1AE1 NN2
+ശക്തമാണ് S1 K1 T2 MA N1U1
+ശക്തമായ S1 K1 T2 MA Y
+ശക്തിപ്രഭാവം S1 K1 T2I PR1 BHA VM
+ശക്തിയുള്ളൊരു S1 K1 T2I YU LL2A ൊ R2U
+ശക്തിയുള്ള S1 K1 T2I YU LL2A
+ശക്തി S1 K1 T2I
 ശതമാനം S1 T2 MA N2M
 ശതമാനമാക്കാം S1 T2 MA N2A MA KKAAM
 ശതമാനമാക്കിയിരിക്കുന്നു S1 T2 MA N2A MA KKI YI R2I KKU NN2U
@@ -6767,9 +6764,9 @@
 ശനിയിലേക്ക് S1 N2I YI L1AE2 KK1
 ശനിയുടെ S1 N2I YU T1AE1
 ശനിയെ S1 N2I YAE1
-ശബ്ദം S1 B ് D2 ം
-ശബ്ദങ്ങളും S1 B ് D2 NGNGA L2UM
-ശബ്ദമാണ് S1 B ് D2 MA N1U1
+ശബ്ദം S1 B1 D2 ം
+ശബ്ദങ്ങളും S1 B1 D2 NGNGA L2UM
+ശബ്ദമാണ് S1 B1 D2 MA N1U1
 ശമ്പളം S1 MP L2M
 ശരിഅപ്പോൾ S1 R2Iഅ PPO2 L2
 ശരിഇപ്പൊ S1 R2Iഇ PPO1
@@ -6777,7 +6774,7 @@
 ശരിക്കും S1 R2I KKUM
 ശരിക്ക് S1 R2I KK1
 ശരിയല്ലേ S1 R2I Y LL1AE2
-ശരിയവാം S1 R2I Y VA ം
+ശരിയവാം S1 R2I Y VAM
 ശരിയാകുമെന്ന് S1 R2I YA KU MAE1 NN2
 ശരിയാക്കാം S1 R2I YA KKAAM
 ശരിയാക്കാനാകും S1 R2I YA KKA N2AA KUM
@@ -6792,7 +6789,7 @@
 ശരിയാക്കുക S1 R2I YA KKU K
 ശരിയാക്കുന്നതിനായി S1 R2I YA KKU NN2A T2I N2AA YI
 ശരിയാക്കുന്നതിന്ന് S1 R2I YA KKU NN2A T2I NN2
-ശരിയാക് S1 R2I YA K ്
+ശരിയാക് S1 R2I YA K1
 ശരിയാണെങ്കില്‍ S1 R2I YA N1AE1 NKI L1
 ശരിയാണ് S1 R2I YA N1U1
 ശരിയായിക്കോളും S1 R2I YA YI KK O2 L2UM
@@ -6824,20 +6821,19 @@
 ശാസ്ത്രജ്ഞയാണ് S1A S33 T2R1 J ് NJA YA N1U1
 ശാസ്ത്രിയമല്ല S1A S33 T2R1I Y M LL1A
 ശാസ്ത്രീയമല്ല S1A S33 T2R1II Y M LL1A
-ശിക്ഷിക്കുകയല്ലെങ്കില്‍ S1I KS2I KKU K Y LL1A െ NKI L1
+ശിക്ഷിക്കുകയല്ലെങ്കില്‍ S1I KS2I KKU K Y LL1IAE1 NKI L1
 ശീതകാലനിദ്രക്കു S1II T2 KA L1A N2I D2R1 KKU
 ശുഭരാത്രിയിലേയ്ക് S1U BH R2AA T2R1I YI L1AE2 YK1
 ശെരിയാക്കി S1AE1 R2I YA KKI
 ശേകരിക്കനാകും S1AE2 K R2I KK N2AA KUM
 ശേകരിക്കുകയും S1AE2 K R2I KKU K YUM
-ശേഖരണങ്ങളിലും S1AE2 ഖ R2A N1A NGNGA L2I L1UM
-ശേഖരിച്ച് S1AE2 ഖ R2I CC22
-ശേഷംഅതിന് S1AE2 S2 ംഅ T2I N22
-ശേഷം S1AE2 S2 ം
+ശേഖരണങ്ങളിലും S1AE2 KH R2A N1A NGNGA L2I L1UM
+ശേഖരിച്ച് S1AE2 KH R2I CC22
+ശേഷം S1AE2 S2M
 ശേഷമേ S1AE2 S2 MAE2
 ശേഷമോ S1AE2 S2 MO2
 ശേഷവും S1AE2 S2 VUM
-ശ്രദ്ധയില്‍ S1R1 D2 ് D2H YI L1
+ശ്രദ്ധയില്‍ S1R1 D2D2H YI L1
 ശ്രദ്ധിക്കണം S1R1 D2D2HI KK N1M
 ശ്രദ്ധിക്കാറില്ല S1R1 D2D2HI KKA R1I LL1A
 ശ്രദ്ധിക്കാൻ S1R1 D2D2HI KKA N2
@@ -6845,7 +6841,7 @@
 ശ്രദ്ധിക്ക് S1R1 D2D2HI KK1
 ശ്രദ്ധിച്ചില്ലനീ S1R1 D2D2HI CC2I LL1A N2II
 ശ്രദ്ധിച്ച് S1R1 D2D2HI CC22
-ശ്രദ്ധേയനായ S1R1 D2 ് D2H േ Y N2AA Y
+ശ്രദ്ധേയനായ S1R1 D2D2HAE2 Y N2AA Y
 ശ്രമം S1R1 MM1
 ശ്രമങ്ങളുടെ S1R1 M NGNGA L2U T1AE1
 ശ്രമിക്കണോ S1R1 MI KK N1O2
@@ -6864,9 +6860,9 @@
 ശ്രമിച്ചത് S1R1 MI CC2 T22
 ശ്രമിച്ചിട്ടില്ല S1R1 MI CC2I T11I LL1A
 ശ്രമിച്ചിട്ടുണ്ട് S1R1 MI CC2I T11U N1T1
-ശ്രമിച്ചുകൊണ്ടിരുന്നത് S1R1 MI CC2 U KO1 N1T1AI R2U NN2A T22
-ശ്രമിച്ചുകൊണ്ടിരുന്നു S1R1 MI CC2 U KO1 N1T1AI R2U NN2U
-ശ്രമിച്ചു S1R1 MI CC2 U
+ശ്രമിച്ചുകൊണ്ടിരുന്നത് S1R1 MI CC2U KO1 N1T1AI R2U NN2A T22
+ശ്രമിച്ചുകൊണ്ടിരുന്നു S1R1 MI CC2U KO1 N1T1AI R2U NN2U
+ശ്രമിച്ചു S1R1 MI CC2U
 ശ്രമിച്ചോ S1R1 MI CC2O2
 ശ്വസിക്കാതിരിക്കാനായിരുന്നു S1V S3I KKA T2I R2I KKA N2AA YI R2U NN2U
 ശ്വസിക്കാതിരിക്കാന്‍ S1V S3I KKA T2I R2I KKA N2
@@ -6892,9 +6888,9 @@
 ഷോപ്പ് S2O2 P1 P1
 ഷോ S2O2
 ഷർട്ട്‌ S2 R2 T11 ‌
-സംഖ്യയാണ് S3AM ഖ് Y YA N1U1
+സംഖ്യയാണ് S3AM KHY YA N1U1
 സംഗതികളിലും S3AM G T2I K L2I L1UM
-സംബന്ധിച്ചും S3AM B N2D2HI C ് CUM
+സംബന്ധിച്ചും S3AM B N2D2HI CC2UM
 സംബോധന S3AM BO2 D2H N2A
 സംഭവം S3AM BH VM
 സംഭവങ്ങളെല്ലാം S3AM BH V NGNGA L2AE1 LL1AAM
@@ -6916,7 +6912,7 @@
 സംഭവിച്ചാല്‍ S3AM BH VI CC2 A L1
 സംഭവിച്ചിട്ടില്ല S3AM BH VI CC2I T11I LL1A
 സംഭവിച്ചിരിക്കും S3AM BH VI CC2I R2I KKUM
-സംഭവിച്ചു S3AM BH VI CC2 U
+സംഭവിച്ചു S3AM BH VI CC2U
 സംഭാഷണം S3AM BHA S2 N1M
 സംഭാഷണങ്ങള്‍ S3AM BHA S2 N1A NGNGA L2
 സംവദിക്കാനാണ് S3AM V D2R1I KKA N2AA N1U1
@@ -6926,7 +6922,7 @@
 സംശയമാണ് S3AM S1 Y MA N1U1
 സംശയമുണ്ട് S3AM S1 Y MU N1T1
 സംശയമുള്ളപോലെ S3AM S1 Y MU LL2A PO2 L1AE1
-സംശയിച്ചുപ്പോയി S3AM S1 YI CC2 U PPO2 YI
+സംശയിച്ചുപ്പോയി S3AM S1 YI CC2U PPO2 YI
 സംസാരിക്കണം S3AM S3A R2I KK N1M
 സംസാരിക്കണോ S3AM S3A R2I KK N1O2
 സംസാരിക്കണ്ട S3AM S3A R2I KK N1T1A
@@ -6949,24 +6945,24 @@
 സംസാരിക്ക് S3AM S3A R2I KK1
 സംസാരിച്ചത് S3AM S3A R2I CC2 T22
 സംസാരിച്ചിട്ടില്ല S3AM S3A R2I CC2I T11I LL1A
-സംസാരിച്ചുഞാൻ S3AM S3A R2I CC2 U NJA N2
-സംസാരിച്ചു S3AM S3A R2I CC2 U
+സംസാരിച്ചുഞാൻ S3AM S3A R2I CC2U NJA N2
+സംസാരിച്ചു S3AM S3A R2I CC2U
 സംസാരിച്ചോളാം S3AM S3A R2I CC2O2 L2AAM
 സംസാരിച്ചോളും S3AM S3A R2I CC2O2 L2UM
 സംസാരിച്ചോളു S3AM S3A R2I CC2O2 L2U
 സംസാരിച്ചോ S3AM S3A R2I CC2O2
 സംസ്ക്കാരം S3AM S33 KKA R2M
 സംസ്ക്കാരമാണ് S3AM S33 KKA R2A MA N1U1
-സങ്കടം S3 ങ് K T1 ം
-സങ്കടകരമായ S3 ങ് K T1 K R2A MA Y
-സങ്കടത്തിലാണ് S3 ങ് K T1 TT2I L1AA N1U1
-സങ്കടമല്ലാതെ S3 ങ് K T1 M LL1AA T2AE1
-സങ്കടമുണ്ടല്ലോ S3 ങ് K T1 MU N1T1A L1A ് L1O2
-സങ്കടമുണ്ടോ S3 ങ് K T1 MU N1T1AO2
-സങ്കല്‍പ്പിക്കും S3 ങ് K L1 PPI KKUM
-സങ്കീര്ർണതയോട് S3 ങ് K ീ R2A ് R2 N1A T2 YO2  T111
-സങ്കീര്‍ണ്ണമാണ് S3 ങ് K ീ R2 N1U1 N1A MA N1U1
-സങ്കീര്‍ണ്ണമായ S3 ങ് K ീ R2 N1U1 N1A MA Y
+സങ്കടം S3 NK T1 ം
+സങ്കടകരമായ S3 NK T1 K R2A MA Y
+സങ്കടത്തിലാണ് S3 NK T1 TT2I L1AA N1U1
+സങ്കടമല്ലാതെ S3 NK T1 M LL1AA T2AE1
+സങ്കടമുണ്ടല്ലോ S3 NK T1 MU N1T1A LL1O2
+സങ്കടമുണ്ടോ S3 NK T1 MU N1T1AO2
+സങ്കല്‍പ്പിക്കും S3 NK L1 PPI KKUM
+സങ്കീർണതയോട് S3 NKII R2 N1A T2 YO2 T111
+സങ്കീര്‍ണ്ണമാണ് S3 NKII R2 NN1 MA N1U1
+സങ്കീര്‍ണ്ണമായ S3 NKII R2 NN1 MA Y
 സജീവമാണ് S3 JII V MA N1U1
 സജ്ജീകരണങ്ങളുമായി S3 J1 JII K R2A N1A NGNGA L2U MA YI
 സജ്ജീകരണങ്ങള്‍ S3 J1 JII K R2A N1A NGNGA L2
@@ -6979,15 +6975,15 @@
 സത്യത്തിൽ S3 T22 Y TT2I L1
 സത്യമല്ലേ S3 T22 Y M LL1AE2
 സത്യമാണോ S3 T22 Y MA N1O2
-സത്യമാണ്മനസ്സിലാക്ക് S3 T22 Y MA N1U1 M N2A SS3 ി L1AA KK1
+സത്യമാണ്മനസ്സിലാക്ക് S3 T22 Y MA N1U1 M N2A SS3I L1AA KK1
 സത്യമാണ് S3 T22 Y MA N1U1
 സത്യമായതു S3 T22 Y MA Y T2U
 സത്യമെന്താന്നുവെച്ചാല്‍ S3 T22 Y MAE1 N2T2A A NN2U VAE1 CC2 A L1
 സത്യസന്ധത S3 T22 Y S3 N2D2H T2
 സത്യസന്ധമായിട്ട് S3 T22 Y S3 N2D2H MA YI T11
-സന്തുഷ്ടരായിരുന്നു S3 N2T2A U S2 ് T1 R2AA YI R2U NN2U
-സന്തോഷംകൊണ്ട് S3 N2T2A O2 S2 ം KO1 N1T1
-സന്തോഷം S3 N2T2A O2 S2 ം
+സന്തുഷ്ടരായിരുന്നു S3 N2T2A U S22 T1 R2AA YI R2U NN2U
+സന്തോഷംകൊണ്ട് S3 N2T2A O2 S2M KO1 N1T1
+സന്തോഷം S3 N2T2A O2 S2M
 സന്തോഷത്തിന്‍റെ S3 N2T2A O2 S2 TT2I N2TAE1
 സന്തോഷപെടുത്താൻ S3 N2T2A O2 S2 PAE1 T1U TT2 A N2
 സന്തോഷമാകും S3 N2T2A O2 S2 MA KUM
@@ -6996,9 +6992,9 @@
 സന്തോഷമായില്ലേ S3 N2T2A O2 S2 MA YI LL1AE2
 സന്തോഷമുണ്ട് S3 N2T2A O2 S2 MU N1T1
 സന്തോഷവതിയാണ് S3 N2T2A O2 S2 V T2I YA N1U1
-സന്തോഷവതിയാവുംഎനിക്കറിയാം S3 N2T2A O2 S2 V T2I YA VUM എ N2I KK R1I YA ം
+സന്തോഷവതിയാവും S3 N2T2A O2 S2 V T2I YA VUM
 സന്തോഷവാനാണെന്ന് S3 N2T2A O2 S2 VA N2AA N1AE1 NN2
-സന്തോഷിക്കുന്നു S3 N2T2A O2 S2 ി KKU NN2U
+സന്തോഷിക്കുന്നു S3 N2T2A O2 S2I KKU NN2U
 സന്തോഷ S3 N2T2A O2 S2
 സന്ദര്‍ഭമാണ് S3 N2D2 R2 BH MA N1U1
 സന്ദേശം S3 N2D2 AE2 S1 ം
@@ -7012,14 +7008,14 @@
 സന്ദേശമായി S3 N2D2 AE2 S1 MA YI
 സന്ധിവേദനക്കുള്ളതാണ് S3 N2D2HI VAE2 D2 N2A KKU LL2A T2A N1U1
 സന്ധിവേദനയുണ്ട് S3 N2D2HI VAE2 D2 N2A YU N1T1
-സബ്സ്ക്രൈബർ S3 B ് S33 KR1 ൈ B R2
+സബ്സ്ക്രൈബർ S3 B1 S33 KR1AI B R2
 സമധാനമായി S3 M D2HA N2A MA YI
 സമപ്രായക്കാരായിരിക്കുമെന്ന് S3 M PR1A Y KKA R2AA YI R2I KKU MAE1 NN2
 സമയംസമയംസമയം S3 M YM S3 M YM S3 M YM
 സമയം S3 M YM
 സമയത്തിന്റെ S3 M Y TT2I N2TE
 സമയത്തിന് S3 M Y TT2I N22
-സമയത്തെപ്പറ്റിയുള്ള S3 M Y TT2AE1 P1 P TI YU LL2A
+സമയത്തെപ്പറ്റിയുള്ള S3 M Y TT2AE1 PP TI YU LL2A
 സമയത്തെയാണ് S3 M Y TT2AE1 YA N1U1
 സമയത്തെ S3 M Y TT2AE1
 സമയത്തോ S3 M Y TT2O2
@@ -7034,11 +7030,11 @@
 സമയവും S3 M Y VUM
 സമയവുമായി S3 M Y VU MA YI
 സമയ S3 M Y
-സമര്‍ത്ഥനായിരുന്നു S3 M R2 T2 ്ഥ N2AA YI R2U NN2U
-സമര്‍ത്ഥയായ S3 M R2 T2 ്ഥ YA Y
+സമര്‍ത്ഥനായിരുന്നു S3 M R2 T2T2H N2AA YI R2U NN2U
+സമര്‍ത്ഥയായ S3 M R2 T2T2H YA Y
 സമര്‍പ്പിച്ചത് S3 M R2 PPI CC2 T22
-സമവാക്യം S3 M VA K ് YM
-സമവാക്യത്തിനായില്ല S3 M VA K ് Y TT2I N2AA YI LL1A
+സമവാക്യം S3 M VA KYM
+സമവാക്യത്തിനായില്ല S3 M VA KY TT2I N2AA YI LL1A
 സമാധാനപ്രിയയായിരുന്നു S3 MA D2HA N2A PR1I Y YA YI R2U NN2U
 സമാഹരിക്കാന് S3 MA H R2I KKA N22
 സമിതി S3 MI T2I
@@ -7051,24 +7047,24 @@
 സമ്മതിക്കില്ല S3 MM T2I KKI LL1A
 സമ്മതിക്കുന്നു S3 MM T2I KKU NN2U
 സമ്മതിക്കേണ്ട S3 MM T2I KKAE2 N1T1A
-സമ്മതിച്ചു S3 MM T2I CC2 U
+സമ്മതിച്ചു S3 MM T2I CC2U
 സമ്മതിച്ചോ S3 MM T2I CC2O2
 സമ്മര്‍ദ്ദം S3 MM R2 DD2M
 സമ്മാനങ്ങളും S3 MMA N2A NGNGA L2UM
 സമ്മാനമായിരുന്നു S3 MMA N2A MA YI R2U NN2U
 സമ്മാനമായി S3 MMA N2A MA YI
-സമർത്ഥയും S3 M R2 T2 ്ഥ YUM
-സമർഥമായി S3 M R2 ഥ MA YI
-സയന്‍സിനെപ്പറ്റി S3 Y N2 S3I N2AE1 P1 P TI
+സമർത്ഥയും S3 M R2 T2T2H YUM
+സമർഥമായി S3 M R2 T2H MA YI
+സയന്‍സിനെപ്പറ്റി S3 Y N2 S3I N2AE1 PP TI
 സയന്‍സ് S3 Y N2 S33
 സയൻസാണ് S3 Y N2 S3A N1U1
 സയൻസ് S3 Y N2 S33
 സര്‍ക്കസ് S3 R2 KK S33
-സര്‍നീങ്ങൂ S3 R2 N2II NGNGA ൂ
-സര്‍മാഡം S3 R2 MA D ം
-സര്‍വ്വകലാശാലയിലേക്കും S3 R2 V ് V K L1AA S1A L1A YI L1AE2 KKUM
+സര്‍നീങ്ങൂ S3 R2 N2II NGNGU 
+സര്‍മാഡം S3 R2 MA DM 
+സര്‍വ്വകലാശാലയിലേക്കും S3 R2 VV K L1AA S1A L1A YI L1AE2 KKUM
 സര്‍ S3 R2
-സസ്യശാസ്ത്രം S3 S33 Y S1A S33 T2R1 ം
+സസ്യശാസ്ത്രം S3 S33 Y S1A S33 T2R1AM 
 സസ്‌പെന്‍ഷന്‍ S3 S33 ‌ PAE1 N2 S2 N2
 സഹകരിക്കൂ S3 H K R2I KKUU
 സഹതാപമുണ്ട് S3 H T2A P MU N1T1
@@ -7081,14 +7077,14 @@
 സഹായിക്കുന്നത് S3 HA YI KKU NN2A T22
 സഹായിക്കൂ S3 HA YI KKUU
 സഹായിയാണ് S3 HA YI YA N1U1
-സഹിഷ്ണുത S3 HI S2 ് N1A ു T2
+സഹിഷ്ണുത S3 HI S22 N1U T2
 സഹോദരനെ S3 HO2 D2 R2A N2AE1
-സഹോദരന്മാരോട് S3 HO2 D2 R2A N2 MA R2O2  T111
+സഹോദരന്മാരോട് S3 HO2 D2 R2A N2 MA R2O2 T111
 സഹോദരന്മാര്‍ S3 HO2 D2 R2A N2 MA R2
 സഹോദരിമാരുണ്ട് S3 HO2 D2 R2I MA R2U N1T1
 സഹോദരിയാണ് S3 HO2 D2 R2I YA N1U1
 സഹോദര S3 HO2 D2 R2A
-സാങ്കല്പിക S3A ങ് K L1A ് PI K
+സാങ്കല്പിക S3A NK L1 PI K
 സാദ്യത S3A D2Y T2
 സാധനം S3A D2H N2M
 സാധനങ്ങളുമായാണ് S3A D2H N2A NGNGA L2U MA YA N1U1
@@ -7111,20 +7107,20 @@
 സാധ്യമല്ലായിരുന്നു S3A D2HY M LL1AA YI R2U NN2U
 സാധ്യമല്ല S3A D2HY M LL1A
 സാധ്യമായ S3A D2HY MA Y
-സാന്‍റബാന്‍റ S3A N2 R1A BA N2 R1A
-സാന്‍റ S3A N2 R1A
-സാമുഹ്യമായ S3A MU H ് Y MA Y
-സാമൂഹ്യനന്മയ്കു് S3A MUU H ് Y N2A N2 M Y1 KU ്
-സാമൂഹ്യനന്മ S3A MUU H ് Y N2A N2 M
-സാമൂഹ്യ S3A MUU H ് Y
+സാന്‍റബാന്‍റ S3A N2T BA N2T
+സാന്‍റ S3A N2T
+സാമുഹ്യമായ S3A MU H11 Y MA Y
+സാമൂഹ്യനന്മയ്കു S3A MUU H11 Y N2A N2 M Y1 KU
+സാമൂഹ്യനന്മ S3A MUU H11 Y N2A N2 M
+സാമൂഹ്യ S3A MUU H11 Y
 സാമ്പത്തികമാന്ദ്യമാണ് S3A MP TT2I K MA N2D2 Y MA N1U1
-സാമ്യവുമില്ലാ S3A M ് Y VU MI LL1AA
+സാമ്യവുമില്ലാ S3A MY VU MI LL1AA
 സായന്തനത്തില്‍ S3A Y N2T2A N2A TT2I L1
 സാരമില്ല S3A R2A MI LL1A
 സാരി S3A R2I
 സാറ്റ്ണ്‍ S3A TTT N1
 സാവധാനത്തിൽ S3A V D2HA N2A TT2I L1
-സാഹചര്യമാണത് S3A H C R2A ് Y MA N1A T22
+സാഹചര്യമാണത് S3A H C R2Y MA N1A T22
 സാഹസം S3A H S3AM
 സാഹസികത S3A H S3I K T2
 സാഹസികമാകുന്നത് S3A H S3I K MA KU NN2A T22
@@ -7132,8 +7128,7 @@
 സാഹസികമായ S3A H S3I K MA Y
 സാഹസികരേ S3A H S3I K R2AE2
 സാർനിങ്ങളുടെ S3A R2 N2I NGNGA L2U T1AE1
-സിംഹം S3I ം H ം
-സിക്കന്ദർഎഴുന്നേൽക്ക് S3I KK N2D2 R2 എഴു NN2AE2 L1 KK1
+സിംഹം S3IM HM
 സിക്കന്ദർ S3I KK N2D2 R2
 സിക്കന്ധറിനെ S3I KK N2D2H R1I N2AE1
 സിക്കന്ധർ S3I KK N2D2H R2
@@ -7144,24 +7139,24 @@
 സിഡിയെടുത്ത് S3I DI YAE1 T1U T2T2
 സിഡി S3I DI
 സിഡ്നി S3I D1 N2I
-സിദ്ധാന്തം S3I D2 ് D2HA N2T2M
-സിദ്ധാന്തങ്ങള്‍ S3I D2 ് D2HA N2T2A NGNGA L2
+സിദ്ധാന്തം S3I D2D2H A N2T2M
+സിദ്ധാന്തങ്ങള്‍ S3I D2D2H A N2T2A NGNGA L2
 സിനിമകളില്‍ S3I N2I M K L2I L1
 സിനിമകളും S3I N2I M K L2UM
 സിനിമകളുടെ S3I N2I M K L2U T1AE1
 സിനിമകളുണ്ട് S3I N2I M K L2U N1T1
-സിനിമകളെപ്പറ്റി S3I N2I M K L2AE1 P1 P TI
-സിനിമകളോട് S3I N2I M K L2O2  T111
+സിനിമകളെപ്പറ്റി S3I N2I M K L2AE1 PP TI
+സിനിമകളോട് S3I N2I M K L2O2 T111
 സിനിമകള്‍ S3I N2I M K L2
 സിനിമയിലഭിനയിച്ചിരുന്നപ്പോളുള്ള S3I N2I M YI L1A BHI N2A YI CC2I R2U NN2A PPO2 L2U LL2A
 സിനിമയിലെങ്കിലും S3I N2I M YI L1AE1 NKI L1UM
 സിനിമയിലെ S3I N2I M YI L1AE1
-സിനിമയിലേതാണല്ലോ S3I N2I M YI L1AE2 T2A N1A L1A ് L1O2
+സിനിമയിലേതാണല്ലോ S3I N2I M YI L1AE2 T2A N1A LL1O2
 സിനിമയിലേ S3I N2I M YI L1AE2
 സിനിമയിലോ S3I N2I M YI L1O2
 സിനിമയും S3I N2I M YUM
 സിനിമയുടെ S3I N2I M YU T1AE1
-സിനിമയെപ്പറ്റി S3I N2I M YAE1 P1 P TI
+സിനിമയെപ്പറ്റി S3I N2I M YAE1 PP TI
 സിനിമയെ S3I N2I M YAE1
 സിനിമയോ S3I N2I M YO2
 സിനിമയ്ക്ക് S3I N2I M Y1 KK1
@@ -7178,26 +7173,26 @@
 സിമുലേറ്റര്‍ S3I MU L1AE2 TA R2
 സിമ്പിൾ S3I MP I L2
 സിരിഫോർട്ട്‌ S3I R2I PHO2 R2 T11 ‌
-സിസ്റ്റം S3I S33 TA ം
-സിസ്റ്റതൊട് S3I S33 TA T2O1  T111
+സിസ്റ്റം S3I S33 TM
+സിസ്റ്റതൊട് S3I S33 TA T2O1 T111
 സിസ്റ്റത്തിന് S3I S33 TA TT2I N22
-സിസ്റ്റെം S3I S33 TA E1 ം
+സിസ്റ്റെം S3I S33 TAE1M
 സിസ് S3I S33
 സീനിന്റെ S3II N2I N2TE
 സീന്‍ S3II N2
 സീറ്റിലിരിക്കൂ S3II TI L1I R2I KKUU
 സീറ്റ്‌ S3II TTT ‌
-സുഖംതന്നെയല്ലേ S3U ഖം T2 NN2AE1 Y LL1AE2
-സുഖം S3U ഖം
-സുഖമല്ലേ S3U ഖ M LL1AE2
-സുഖമായിരിക്കുന്നു S3U ഖ MA YI R2I KKU NN2U
-സുഖമായിരിക്കുന്നെന്ന് S3U ഖ MA YI R2I KKU NN2AE1 NN2
-സുഖമായി S3U ഖ MA YI
+സുഖംതന്നെയല്ലേ S3U KHAM T2 NN2AE1 Y LL1AE2
+സുഖം S3U KHAM
+സുഖമല്ലേ S3U KH M LL1AE2
+സുഖമായിരിക്കുന്നു S3U KH MA YI R2I KKU NN2U
+സുഖമായിരിക്കുന്നെന്ന് S3U KH MA YI R2I KKU NN2AE1 NN2
+സുഖമായി S3U KH MA YI
 സുഗന്ധമുണ്ടോ S3U G N2D2H MU N1T1AO2
 സുഗമാണെന്ന് S3U G MA N1AE1 NN2
 സുനാമി S3U N2AA MI
-സുന്ദരകുട്ടപ്പമാരെയൊക്കെ S3U N2D2 R2A KU T11A P1 P MA R2A െ YO1 KKAE1
-സുന്ദരകുട്ടപ്പൻമാരുമുണ്ടാവും S3U N2D2 R2A KU T11A P1 P N2 MA R2U MU N1T1A VUM
+സുന്ദരകുട്ടപ്പമാരെയൊക്കെ S3U N2D2 R2A KU T11A PP MA R2AE1 YO1 KKAE1
+സുന്ദരകുട്ടപ്പൻമാരുമുണ്ടാവും S3U N2D2 R2A KU T11A PP N2 MA R2U MU N1T1A VUM
 സുന്ദരനാണെന്ന് S3U N2D2 R2A N2AA N1AE1 NN2
 സുന്ദരനാണ് S3U N2D2 R2A N2AA N1U1
 സുന്ദരനായിട്ടുണ്ട് S3U N2D2 R2A N2AA YI T11U N1T1
@@ -7220,12 +7215,12 @@
 സുരക്ഷിതരായിരിക്കാൻ S3U R2A KS2I T2 R2AA YI R2I KKA N2
 സുരക്ഷിതായായിരിക്കുക S3U R2A KS2I T2A YA YI R2I KKU K
 സുരക്ഷിത S3U R2A KS2I T2
-സുര്യന്‍റെ S3U R2A ് Y N2TAE1
+സുര്യന്‍റെ S3U R2Y N2TAE1
 സുഹൃത്തായത് S3U HRU TT2 A Y T22
 സുഹൃത്തിനെ S3U HRU TT2I N2AE1
 സുഹൃത്തുക്കളാണ് S3U HRU TT2 U KK L2AA N1U1
 സുഹൃത്തുക്കളായിരുന്നു S3U HRU TT2 U KK L2AA YI R2U NN2U
-സുഹൃത്തുക്കളാവാം S3U HRU TT2 U KK L2AA VA ം
+സുഹൃത്തുക്കളാവാം S3U HRU TT2 U KK L2AA VAM
 സുഹൃത്തുക്കളുടെ S3U HRU TT2 U KK L2U T1AE1
 സുഹൃത്തുക്കളൊക്കെയായോ S3U HRU TT2 U KK LL2O1 KKAE1 YA YO2
 സുഹൃത്തുക്കള്‍ക്ക് S3U HRU TT2 U KK L2 KK1
@@ -7244,33 +7239,33 @@
 സൂചന S3UU C N2A
 സൂചിയുടെ S3UU CI YU T1AE1
 സൂപ്പ് S3UU P1 P1
-സൂര്യനു S3UU R2A ് Y N2U
-സൂര്യന്‍റെ S3UU R2A ് Y N2TAE1
-സൂര്യന്‍ S3UU R2A ് Y N2
-സൃഷ്ടിക്കാൻ S3R1U S2 ് T1I KKA N2
-സെക്കണ്ടുകൾ S3AI KK N1T1U K L2
-സെക്കന്റ് S3AI KK N2A ് R1A ്
-സെക്കന്‍റ് S3AI KK N2 R1A ്
-സെക്കെന്റുകൊണ്ട് S3AI KKAE1 N2A ് R1U KO1 N1T1
-സെക്യൂരിട്ടി S3AI KYUU R2IT11I
-സെക്യൂരിറ്റിയോട് S3AI KYUU R2I TI YO2  T111
-സെക്ഷന്‍ S3AI KS2 N2
-സെക്സിൽ S3AI K1 S3I L1
-സെക്സ് S3AI K ് S33
-സെറ്റിനും S3AI TI N2UM
-സെറ്റില്‍ S3AI TI L1
-സെറ്റും S3AI TU ം
-സെറ്റ് S3AI TTT
-സെവോടോപ്പിലോ S3AI VO2 T1O2 PPI L1O2
-സെൻസ് S3AI N2 S33
-സൈനികര്‍ S3AI N2I K R2
-സൈഫ് S3AI PH1
+സൂര്യനു S3UU R2Y N2U
+സൂര്യന്‍റെ S3UU R2Y N2TAE1
+സൂര്യന്‍ S3UU R2Y N2
+സൃഷ്ടിക്കാൻ S3R1U S22 T1I KKA N2
+സെക്കണ്ടുകൾ S3AE1 KK N1T1U K L2
+സെക്കന്റ് S3AE1 KK N2 TTT
+സെക്കന്‍റ് S3AE1 KK N2TT
+സെക്കെന്റുകൊണ്ട് S3AE1 KKAE1 N2TU KO1 N1T1
+സെക്യൂരിട്ടി S3AE1 KYUU R2IT11I
+സെക്യൂരിറ്റിയോട് S3AE1 KYUU R2I TI YO2 T111
+സെക്ഷന്‍ S3AE1 KS2 N2
+സെക്സിൽ S3AE1 K1 S3I L1
+സെക്സ് S3AE1 K1 S33
+സെറ്റിനും S3AE1 TI N2UM
+സെറ്റില്‍ S3AE1 TI L1
+സെറ്റും S3AE1 TUM
+സെറ്റ് S3AE1 TTT
+സെവോടോപ്പിലോ S3AE1 VO2 T1O2 PPI L1O2
+സെൻസ് S3AE1 N2 S33
+സൈനികര്‍ S3AE1 N2I K R2
+സൈഫ് S3AE1 PH1
 സോഡയും S3O2 D YUM
-സോണാൽ S3O2 N1A ാ L1
-സോണൽഇത് S3O2 N1A L1 ഇ T22
+സോണാൽ S3O2 N1AA L1
+സോണൽ S3O2 N1A L1
 സോളാർ S3O2 L2AA R2
 സോവിയറ്റ് S3O2 VI Y TTT
-സോസേജ് S3O2 S3 േ J1
+സോസേജ് S3O2 S3AE2 J1
 സോസ് S3O2 S33
 സ്കൂളിന്‍റെ S33 KUU L2I N2TAE1
 സ്കൂളിലെ S33 KUU L2I L1AE1
@@ -7279,9 +7274,9 @@
 സ്കൂളോ S33 KUU L2O2
 സ്കൂള്‍ S33 KUU L2
 സ്ക്രബര്‍ S33 KR1 B R2
-സ്ക്രീനിലൂടെ S33 KR1 ീ N2I L1UU T1AE1
-സ്ട്രാറ്റോസ്ഫിയറിലേക്ക് S33 T1R1A R1A ് R1O2 S33 PHI Y R1I L1AE2 KK1
-സ്ട്രേറ്റ് S33 T1R1 േ TTT
+സ്ക്രീനിലൂടെ S33 KR1II N2I L1UU T1AE1
+സ്ട്രാറ്റോസ്ഫിയറിലേക്ക് S33 T1R1A TO2 S33 PHI Y R1I L1AE2 KK1
+സ്ട്രേറ്റ് S33 T1R1AE2 TTT
 സ്ത്രീകളുടെ S33 T2R1II K L2U T1AE1
 സ്ത്രീകൾക്ക് S33 T2R1II K L2 KK1
 സ്ത്രീധനത്തിൽ S33 T2R1II D2H N2A TT2I L1
@@ -7289,10 +7284,10 @@
 സ്ഥലം S3T2H L1AM
 സ്ഥലങ്ങള്‍ S3T2H L1A NGNGA L2
 സ്ഥലത്തിന്‍റെ S3T2H L1A TT2I N2TAE1
-സ്ഥലത്തെക്കുറിച്ചും S3T2H L1A TT2AE1 KKU R1I C ് CUM
+സ്ഥലത്തെക്കുറിച്ചും S3T2H L1A TT2AE1 KKU R1I CC2UM
 സ്ഥലത്തെത്തണം S3T2H L1A TT2AE1 TT2 N1M
 സ്ഥലത്തെത്തിക്കും S3T2H L1A TT2AE1 TT2I KKUM
-സ്ഥലത്തെപ്പറ്റി S3T2H L1A TT2AE1 P1 P TI
+സ്ഥലത്തെപ്പറ്റി S3T2H L1A TT2AE1 PP TI
 സ്ഥലത്ത് S3T2H L1A T2T2
 സ്ഥലമാണെന്ന് S3T2H L1A MA N1AE1 NN2
 സ്ഥലമാണ് S3T2H L1A MA N1U1
@@ -7302,25 +7297,24 @@
 സ്ഥാനം S3T2HA N2M
 സ്ഥാനത്തെക്കുറിച്ച് S3T2HA N2A TT2AE1 KKU R1I CC22
 സ്ഥാനത്ത് S3T2HA N2A T2T2
-സ്ഥാപിച്ചുകഴിഞ്ഞാല്‍ S3T2HA PI CC2 U K ZI NNJA L1
+സ്ഥാപിച്ചുകഴിഞ്ഞാല്‍ S3T2HA PI CC2U K ZI NNJA L1
 സ്ഥായിയായിരുന്നു S3T2HA YI YA YI R2U NN2U
 സ്ഥിതി S3T2HI T2I
 സ്ഥിരതയോടെ S3T2HI R2A T2 YO2 T1AE1
 സ്ഥിരമായ S3T2HI R2A MA Y
-സ്നേഹം S33 N2AE2 H ം
-സ്നേഹിക്കുന്നുണ്ട്എന്നോട് S33 N2AE2 HI KKU NN2U N1T1എ NN2O2  T111
+സ്നേഹം S33 N2AE2 HM
 സ്നേഹിക്കുന്നുണ്ട് S33 N2AE2 HI KKU NN2U N1T1
 സ്നേഹിക്കുന്നു S33 N2AE2 HI KKU NN2U
 സ്പാനറുകള്‍ S33 PA N2A R1U K L2
-സ്പാനിഷ്‌ S33 PA N2I S2 ്‌
+സ്പാനിഷ്‌ S33 PA N2I S22
 സ്പിയർ S33 PI Y R2
 സ്പിൻ S33 PI N2
 സ്പെരികൽഹോൾ S33 PAE1 R2I K L1 HO2 L2
-സ്പെെസിനെക്കളും S33 PAE1 െ S3I N2AE1 KK L2UM
-സ്പേസ്ഷിപ്പിന്‍റെ S33 PAE2 S33 S2 ി PPI N2TAE1
+സ്പേസിനേക്കാളും S33 PAE2 S3I N2AE2 KKA L2UM
+സ്പേസ്ഷിപ്പിന്‍റെ S33 PAE2 S33 S2I PPI N2TAE1
 സ്ഫടിക S33 PH T1I K
 സ്ഫോടനമുണ്ടായിട്ടുണ്ട് S33 PHO2 T1 N2A MU N1T1A YI T11U N1T1
-സ്ഫോടനല്മാകമായി S33 PHO2 T1 N2A L1A ് MA K MA YI
+സ്ഫോടനാല്മകമായി S33 PHO2 T1 N2AA L1 M K MA YI
 സ്റ്റമ്പ് S33 TA MP1
 സ്റ്റാർട്ട്‌ S33 TA R2 T11 ‌
 സ്റ്റുഡിയോയിലേക്ക് S33 TU DI YO2 YI L1AE2 KK1
@@ -7339,8 +7333,8 @@
 സ്റ്റേഷൻ S33 TA E2 S2 N2
 സ്ലീപിൽ S33 L1II PI L1
 സ്ലൈഡ് S33 L1AI D1
-സ്വകാര്യമായി S33 V KA R2A ് Y MA YI
-സ്വകാര്യ S33 V KA R2A ് Y
+സ്വകാര്യമായി S33 V KA R2Y MA YI
+സ്വകാര്യ S33 V KA R2Y
 സ്വന്തം S33 V N2T2M
 സ്വന്തമാക്കും S33 V N2T2A MA KKUM
 സ്വന്തമായി S33 V N2T2A MA YI
@@ -7356,13 +7350,13 @@
 സ്വാഭാവികമായി S33 VA BHA VI K MA YI
 സ്വിച്ച്ഓഫ് S33 VI CC22 O2 PH1
 സ്വീകരിക്കാം S33 VII K R2I KKAAM
-സ്വീകരിക്കില്ലെന്ന് S33 VII K R2I KKI LL1A െ NN2
+സ്വീകരിക്കില്ലെന്ന് S33 VII K R2I KKI LL1IAE1 NN2
 സ്വീറ്റ് S33 VII TTT
 സ്വെറ്റർ S33 VAE1 TA R2
 സ്വർണനിറത്തിൽ S33 V R2 N1A N2I R1A TT2I L1
-സൗകര്യങ്ങളും S3AU K R2A ് Y NGNGA L2UM
-സൗന്ദര്യമെന്ന് S3AU N2D2 R2A ് Y MAE1 NN2
-സൗരയുഥത്തിൽ S3AU R2A YU ഥ TT2I L1
+സൗകര്യങ്ങളും S3AU K R2Y NGNGA L2UM
+സൗന്ദര്യമെന്ന് S3AU N2D2 R2Y MAE1 NN2
+സൗരയുഥത്തിൽ S3AU R2A YU T2H TT2I L1
 സർക്കാർ S3 R2 KKA R2
 സർവകലാശാല S3 R2 V K L1AA S1A L1A
 സർവസാധാരണമാണ് S3 R2 V S3A D2HA R2A N1A MA N1U1
@@ -7377,7 +7371,7 @@
 ഹലോ H L1O2
 ഹഹ H H
 ഹാങ്ങ്‌ഓവറാണ് HA NGNG O2 V R1AA N1U1
-ഹാന്‍ലിയോട് HA N2 L1I YO2  T111
+ഹാന്‍ലിയോട് HA N2 L1I YO2 T111
 ഹാന്‍ലി HA N2 L1I
 ഹായ് HA Y1
 ഹാളിൽ HA L2I L1
@@ -7428,4 +7422,3 @@
 ഹ്യൂഗോഹ്യൂഗോ HYUU GO2 HYUU GO2
 ഹ്യൂഗോ HYUU GO2
 ഹ്യൂമറാണ് HYUU M R1AA N1U1
-PL2II S33
