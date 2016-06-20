@@ -84,6 +84,7 @@
 ഖേ KHAE2
 ഖ്യാ KHYA
 ഖ്യ KHY
+ഖ് KH1
 ഖ KH
 ഗം GAM
 ഗാ GA
@@ -130,6 +131,7 @@
 ങ്ങ്‌ NGNG
 ങ്ങ NGNGA
 ങ NG
+ങ് NG1
 ചാ CA
 ചി CI
 ചീ CII
@@ -191,6 +193,7 @@
 ഞ്ചു NCHU
 ഞ്ച് NCH1
 ഞ്ച NCH
+ഞ്ചി NCHI
 ഞ്ഞാ NNJA
 ഞ്ഞു NNJU
 ഞ്ഞൂ NNJUU
@@ -202,6 +205,7 @@
 ഞ NJ
 ടം T1M
 ടാ T1A
+ടാം T1AM
 ടിം T1IM
 ടി T1I
 ടീം T1IIM
@@ -242,6 +246,7 @@
 ഡാം DAM
 ഡാ DA
 ഡി DI
+ഡിം DIM
 ഡും DUM
 ഡു DU
 ഡൊ DO1
@@ -256,10 +261,12 @@
 ഡ D
 ഡം DM
 ഢ DDH
+ഢീ DDHI
 ണം N1M
 ണാം N1AM
 ണാ N1AA
 ണി N1I
+ണിം N1IM
 ണീ N1II
 ണും N1UM
 ണു N1U
@@ -269,16 +276,19 @@
 ണൊ N1O1
 ണോ N1O2
 ണ്ടാ  N1T1AA
+ണ്ടാം N1T1AAM
 ണ്ടി N1T1I
 ണ്ടും N1T1UM
 ണ്ടു N1T1U
 ണ്ടൂ N1T1UU
 ണ്ടെ N1T1AE1
 ണ്ടേ N1T1AE2
+ണ്ടൊ N1T1O1
 ണ്ടോ N1T1O2
 ണ്ട്രോ N1T1R1O2
 ണ്ട് N1T1
 ണ്ട N1T1A
+ണ്ടം N1T1M
 ണ്ണം NN1M
 ണ്ണാ NN1AA
 ണ്ണി NN1I
@@ -341,6 +351,7 @@
 ഥീ T2HII
 ഥ്യ T2HY
 ഥ T2H
+ഥാ T2HA
 ദം D2AM
 ദാ D2A
 ദി D2I
@@ -363,6 +374,7 @@
 ദ്ധ D2D2H
 ദ്യം D2YM
 ദ്യ D2Y
+ദ്യാ D2YA
 ദ്രി D2R1I
 ദ്ര D2R1
 ദ D2
@@ -376,6 +388,7 @@
 ധ്യ D2HY
 ധ്ര D2HR1
 ധ D2H
+ധ്വ D2HV
 നം N2AM
 നാം N2AAM
 നാ N2AA
@@ -412,14 +425,17 @@
 ന്ധി N2D2HI
 ന്ധു N2D2HU
 ന്ധ N2D2H
+ന്ധ് N2D2H1
 ന്നം NN2M
 ന്നാം NN2AM
 ന്നാ NN2AA
 ന്നി NN2I
+ന്നീ NN2II
 ന്നും NN2UM
 ന്നു NN2U
 ന്നെ NN2AE1
 ന്നേ NN2AE2
+ന്നേം NN2AE2M
 ന്നൊ NN2O1
 ന്നോ NN2O2
 ന്ന് NN2
@@ -474,6 +490,7 @@
 ഫാ PHA
 ഫി PHI
 ഫീ PHII
+ഫു OHU
 ഫും PHUM
 ഫെ PHAE1
 ഫേ PHAE2
@@ -491,6 +508,7 @@
 ബീ BII
 ബു BU
 ബൂ BUU
+ബൂം BUUM
 ബെ BAE1
 ബേ BAE2
 ബൈ BAI
@@ -502,6 +520,7 @@
 ബ്രാ BR1A
 ബ്രേ BR1AE2
 ബ്ര BR1
+ബ്രു BR1U
 ബ്ലാ BL2A
 ബ്ലേ BL2AE2
 ബ്ലൈ BL2AI
@@ -518,6 +537,7 @@
 ഭ്ര BHR1
 ഭൗ BHAU
 ഭ BH
+ഭ്യാ BHYA
 മം MM1
 മാം MAM
 മാ MA
@@ -601,7 +621,8 @@
 റം R1M
 റാം R1AAM
 റാ R1AA
-റി  R1I
+റി R1I
+റീ R1II
 റൂം R1UUM
 റും R1UM
 റൂ R1UU
@@ -613,11 +634,14 @@
 റ്റം TM
 റ്റാ TA
 റ്റി TI
+റ്റിം TIM
 റ്റീ TII
 റ്റും TUM
 റ്റു TU
+റ്റൂ TUU
 റ്റെം TAE1M
 റ്റെ TAE1
+റ്റൊ TO1
 റ്റോ TO2
 റ്റ് TTT
 റ്റ T
@@ -642,6 +666,7 @@
 ല്പം L1PM
 ല്പ L1P
 ല്യ L1Y
+ല്യാ L1YA
 ല്ലം LL1AM
 ല്ലാം LL1AAM
 ല്ലാ LL1AA
@@ -649,6 +674,7 @@
 ല്ലേ LL1AE2
 ല്ലോ LL1O2
 ല്ല LL1A
+ല്ല് LL1
 ല് L11
 ല L1A
 ളം L2M
@@ -669,12 +695,16 @@
 ള്ളീ LL2II
 ള്ളു LL2U
 ള്ളൂ LL2UU
+ള്ളും LL2UM
 ള്ളൊ LL2O1
+ള്ളം LL2M
 ള്ള LL2A
 ള L2A
+ള് L22
 ഴാം ZAAM
 ഴി ZI
 ഴും ZUM
+ഴാ ZA
 ഴെ ZAE1
 ഴേ ZAE2
 ഴോ ZO2
@@ -683,6 +713,7 @@
 വം VM
 വാം VAM
 വാ VA
+വൗ VAU
 വി VI
 വും VUM
 വു VU
@@ -723,6 +754,7 @@
 ഷാം S2AM
 ഷാ S2A
 ഷി S2I
+ഷീ S2II
 ഷൂ S2UU
 ഷെ S2AE1
 ഷോ S2O2
@@ -754,6 +786,7 @@
 സ്വ S3V
 സ്സാ SS3A
 സ്സി SS3I
+സ്സു SS3U
 സ്സും SS3UM
 സ്സോ SS3O2
 സ്സ് SS31
@@ -768,6 +801,7 @@
 ഹീ HII
 ഹും HUM
 ഹു HU
+ഹൂ HUU
 ഹൃ HRU
 ഹെ HAE1
 ഹേ HAE2
