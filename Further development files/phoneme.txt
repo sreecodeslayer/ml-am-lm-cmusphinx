@@ -80,6 +80,7 @@
 ക K
 ഖം KHAM
 ഖാ KHA
+ഖി KHI
 ഖീ KHII
 ഖേ KHAE2
 ഖ്യാ KHYA
@@ -113,6 +114,7 @@
 ഗ G
 ഘാ GHA
 ഘു GHU
+ഘ്യ GHY
 ഘോ GHO2
 ഘ GH
 ങ്കാ NKA
@@ -336,10 +338,12 @@
 ത്യാ T2YA
 ത്യ T2Y
 ത്രം T2R1AM
+ത്രാ T2R1A
 ത്രി  T2R1I
 ത്രീ T2R1II
 ത്രെ T2R1AE1
 ത്രേ T2R1AE2
+ത്രേം T2R1AE2M
 ത്ര  T2R1
 ത്വം T2VM
 ത്വാ T2VA
@@ -357,6 +361,7 @@
 ദി D2I
 ദീ D2II
 ദു D2U
+ദ്വാ D2VA
 ദൂ D2UU
 ദൃ D2R1U
 ദേ D2AE2
@@ -433,6 +438,7 @@
 ന്നീ NN2II
 ന്നും NN2UM
 ന്നു NN2U
+ന്നൂ NN2UU
 ന്നെ NN2AE1
 ന്നേ NN2AE2
 ന്നേം NN2AE2M
@@ -574,6 +580,7 @@
 യാം YAM
 യാ YA
 യി YI
+യീ YII
 യും YUM
 യു YU
 യൂ YUU
@@ -672,6 +679,7 @@
 ല്ലാ LL1AA
 ല്ലി LL1I
 ല്ലേ LL1AE2
+ല്ലൊ LL1O1
 ല്ലോ LL1O2
 ല്ല LL1A
 ല്ല് LL1
@@ -740,6 +748,7 @@
 ശു S1U
 ശൂ S1UU
 ശേ S1AE2
+ശോ S1O2
 ശ്യം S1YM
 ശ്യ S1Y
 ശ്ര S1R1
@@ -784,6 +793,7 @@
 സ്വീ S3VII
 സ്വെ S3VAE1
 സ്വ S3V
+സ്സം SS3M
 സ്സാ SS3A
 സ്സി SS3I
 സ്സു SS3U
