@@ -2603,7 +2603,6 @@
 ഗുരുതരമായി GU R2U T2 R2A MA YI
 ഗുരുത്വകര്ഷണം GU R2U T2V K R2 S2 N1M
 ഗുരുത്വബലം GU R2U T2V B L1AM
-ഗുരുത്വാകര്‍ഷണം GU R2U T2VA K R2 S2 N1M
 ഗുരുത്വാകര്‍ഷണത്തിന് GU R2U T2VA K R2 S2 N1A TT2I N22
 ഗുരുത്വാകര്‍ഷണത്തിലേയ്ക് GU R2U T2VA K R2 S2 N1A TT2I L1AE2 YK1
 ഗുരുത്വാകര്‍ഷണത്തില്‍ GU R2U T2VA K R2 S2 N1A TT2I L1
@@ -2611,7 +2610,6 @@
 ഗുരുത്വാകര്‍ഷണമാണ് GU R2U T2VA K R2 S2 N1A MA N1U1
 ഗുരുത്വാകര്‍ഷണ GU R2U T2VA K R2 S2 N1A
 ഗുരുത്വാകര്‍ഷ​ണം GU R2U T2VA K R2 S2 N1M
-ഗുരുത്വാകർഷണം GU R2U T2VA K R2 S2 N1M
 ഗുരുത്വാകർഷണത്തെപ്പറ്റിയുള്ള GU R2U T2VA K R2 S2 N1A TT2AE1 PP TI YU LL2A
 ഗുരുത്വാകർഷണമായിരുന്നു GU R2U T2VA K R2 S2 N1A MA YI R2U NN2U
 ഗുരുത്വാകർഷണ GU R2U T2VA K R2 S2 N1A
@@ -2682,10 +2680,10 @@
 ചായ്ക്കാൻ CA Y1 KKA N2
 ചായ CA Y
 ചാരവും CA R2A VUM
-ചാര്‍ജുണ്ടോ CA R2 J ു N1T1AO2
+ചാര്‍ജുണ്ടോ CA R2 JU N1T1AO2
 ചാവി CA VI
 ചാർജാണ് CA R2 JA N1U1
-ചാർജിംഗിലല്ല CA R2 JI ം GI L1A LL1A
+ചാർജിംഗിലല്ല CA R2 JIM GI L1A LL1A
 ചിക്കൻ CI KK N2
 ചിത്രം CI T2R1AM
 ചിത്രങ്ങളില്‍ CI T2R1 NGNGA L2I L1
@@ -2712,8 +2710,7 @@
 ചിന്‍റുവിനെ CI N2 R1U VI N2AE1
 ചിന്‍റുവിന് CI N2 R1U VI N22
 ചിന്‍റുവും CI N2 R1U VUM
-ചിന്‍റുസുഖമല്ലേ CI N2 R1U S3U KH M LL1AE2
-ചിന്‍റു‍ CI N2 R1U ‍
+ചിന്‍റുസുഖമല്ലേ CI N2 R1U S3U KH M LL1AE2 ‍
 ചിന്‍റു CI N2 R1U
 ചിപ്പിയില്‍ CI PPI YI L1
 ചിരിക്കാന്‍ CI R2I KKA N2
@@ -2836,7 +2833,7 @@
 ചെയ്യുവാൻ CAE1 YYU VA N2
 ചെയ്യുവാ CAE1 YYU VA
 ചെയ്യൂ CAE1 YYUU
-ചെയ്യേണ്ടതെന്നറിയില്ലഅവള്‍ CAE1 YYAE2 N1T1A T2AE1 NN2A R1I YI LL1A അ V L2
+ചെയ്യേണ്ടതെന്നറിയില്ല CAE1 YYAE2 N1T1A T2AE1 NN2A R1I YI LL1A
 ചെയ്യേണ്ടത് CAE1 YYAE2 N1T1A T22
 ചെയ്യേണ്ടി CAE1 YYAE2 N1T1AI
 ചെയ്യേണ്ട CAE1 YYAE2 N1T1A
@@ -3094,7 +3091,6 @@
 ടവറിന്‍റെ T1 V R1I N2TAE1
 ടവറും T1 V R1UM
 ടവർ T1 V R2
-ടാക്കഅവിടെ T1A KK അ VI T1AE1
 ടാക്കക്ക് T1A KK KK1
 ടാക്കജപ്പാനിൽ T1A KK J PPA N2I L1
 ടാക്ക T1A KK
@@ -3910,7 +3906,6 @@
 നിങ്ങൾക്കൊപ്പം N2I NGNGA L2 KKO1 PPM
 നിങ്ങൾക്കൊരു N2I NGNGA L2 KKO1 R2U
 നിങ്ങൾക്ക് N2I NGNGA L2 KK1
-നിങ്ങൾ N2I NGNGA L2
 നിധിയാണ്‌ N2I D2HI YA N1U1
 നിധിയായിരുന്നു N2I D2HI YA YI R2U NN2U
 നിനക്കതുകൊണ്ടെന്താണ് N2I N2A KK T2U KO1 N1T1A E1 N2T2A A N1U1
@@ -4366,7 +4361,6 @@
 പറഞ്ഞല്ലേ P R1A NNJA LL1AE2
 പറഞ്ഞല്ലോ P R1A NNJA LL1O2
 പറഞ്ഞാല്‍ P R1A NNJA L1
-പറഞ്ഞാൽ P R1A NNJA L1
 പറഞ്ഞിട്ടില്ലായിരുന്നല്ലോ P R1A NNJI T11I LL1AA YI R2U NN2A LL1O2
 പറഞ്ഞിട്ടില്ലായിരുന്നു P R1A NNJI T11I LL1AA YI R2U NN2U
 പറഞ്ഞിട്ടില്ലാ P R1A NNJI T11I LL1AA
@@ -4379,7 +4373,6 @@
 പറഞ്ഞിരുന്നെങ്കിൽ P R1A NNJI R2U NN2AE1 NKI L1
 പറഞ്ഞില്ലല്ലോ P R1A NNJI LL1A LL1O2
 പറഞ്ഞില്ലാ P R1A NNJI LL1AA
-പറഞ്ഞില്ലേആരും P R1A NNJI LL1AE2 ആ R2UM
 പറഞ്ഞില്ലേ P R1A NNJI LL1AE2
 പറഞ്ഞില്ല P R1A NNJI LL1A
 പറഞ്ഞുതരും P R1A NNJU T2 R2UM
@@ -4903,7 +4896,7 @@
 പ്രണയമോ PR1 N1A Y MO2
 പ്രതലമില്ലേ PR1 T2 L1A MI LL1AE2
 പ്രതികരണമൊന്നുമില്ല PR1 T2I K R2A N1A MO1 NN2U MI LL1A
-പ്രതികരിച്ചുകൊണ്ടിരുന്നപ്പോഴൊന്നും PR1 T2I K R2I CC2U KO1 N1T1AI R2U NN2A PPO2 ഴൊ NN2UM
+പ്രതികരിച്ചുകൊണ്ടിരുന്നപ്പോഴൊന്നും PR1 T2I K R2I CC2U KO1 N1T1AI R2U NN2A PPO2 ZO1 NN2UM
 പ്രതികരി PR1 T2I K R2I
 പ്രതിച്ഛായയെ PR1 T2I CC1A Y YAE1
 പ്രതിനിധാനം PR1 T2I N2I D2HA N2M
@@ -5096,7 +5089,6 @@
 ബാഗിലേക്ക് BA GI L1AE2 KK1
 ബാഗിൽ BA GI L1
 ബാഗ്‌ BA G11
-ബാഗ് BA G11
 ബാന്റയോട് BA N2T YO2 T111
 ബാന്‍റയോട് BA N2T YO2 T111
 ബാന്‍റ BA N2T
@@ -5171,7 +5163,6 @@
 ബ്ലാക്ക്‌ഹോളിനു BL2A KK1 HO2 L2I N2U
 ബ്ലാക്ക്‌ഹോൾ BL2A KK1 HO2 L2
 ബ്ലാക്ക്‌ BL2A KK1
-ബ്ലാക്ക് BL2A KK1
 ബ്ലേഡ് BL2AE2 D1
 ബ്ലൈറ്റിന് BL2AI TI N22
 ബ്ലൈറ്റ് BL2AI TTT
@@ -5212,7 +5203,7 @@
 ഭാഗത്തെ BHA G TT2AE1
 ഭാഗമാകണമായിരുന്നു BHA G MA K N1A MA YI R2U NN2U
 ഭാഗമാകാതിരിക്കാന്‍ BHA G MA KA T2I R2I KKA N2
-ഭാഗ്യംഅമ്മയുണ്ടായിരുന്നെങ്കിൽ BHA GYMഅ MM YU N1T1A YI R2U NN2AE1 NKI L1
+അമ്മയുണ്ടായിരുന്നെങ്കിൽ A MM YU N1T1A YI R2U NN2AE1 NKI L1
 ഭാഗ്യം BHA GYM
 ഭാഗ്യകരമായ BHA GY K R2A MA Y
 ഭാഗ്യവാനാണ് BHA GY VA N2AA N1U1
@@ -5281,8 +5272,6 @@
 മക്കളുടേയും M KK L2U T1AE2 YUM
 മക്കളെ M KK L2AE1
 മകൾക്ക് M K L2 KK1
-മകൾനമ്മുടെ M K L2 N2A MM U T1AE1
-മകൾ M K L2
 മങ്ങിയ M NGNGI Y
 മച്ചാ M CC2 A
 മജീഷ്യനായിരുന്നോ M JII S2Y N2AA YI R2U NN2O2
@@ -5762,7 +5751,6 @@
 മോര്‍സ് MO2 R2 S33
 മോര് MO2 R22
 മോളു MO2 L2U
-മോളെഎന്‍റെ MO2 L2AE1 എ N2TAE1
 മോളെ MO2 L2AE1
 മോളേ MO2 L2AE2
 മോള്‍ക്ക് MO2 L2 KK1
@@ -6468,7 +6456,6 @@
 വിവരങ്ങളെല്ലാം VI V R2A NGNGA L2AE1 LL1AAM
 വിവരങ്ങള്‍ക്ക് VI V R2A NGNGA L2 KK1
 വിവരങ്ങള്‍ VI V R2A NGNGA L2
-വിവരങ്ങൾ VI V R2A NGNGA L2
 വിവരിക്കാന്‍ VI V R2I KKA N2
 വിവരിക്കുന്നു VI V R2I KKU NN2U
 വിവരിക്കൂ VI V R2I KKUU
@@ -7048,7 +7035,6 @@
 സാധനങ്ങളൊന്നും S3A D2H N2A NGNGA LL2O1 NN2UM
 സാധനങ്ങളൊന്നുമില്ല S3A D2H N2A NGNGA LL2O1 NN2U MI LL1A
 സാധനങ്ങള്‍ S3A D2H N2A NGNGA L2
-സാധനങ്ങൾ S3A D2H N2A NGNGA L2
 സാധാമനുഷ്യന് S3A D2HA M N2U S2Y N22
 സാധിക്കില്ല S3A D2HI KKI LL1A
 സാധിച്ചിട്ടുണ്ട് S3A D2HI CC2I T11U N1T1
@@ -7373,6 +7359,5 @@
 ഹോൾനമ്മൾ HO2 L2 N2A MM L2
 ഹോൾ HO2 L2
 ഹ്യുമർ HYU M R2
-ഹ്യൂഗോഹ്യൂഗോ HYUU GO2 HYUU GO2
 ഹ്യൂഗോ HYUU GO2
 ഹ്യൂമറാണ് HYUU M R1AA N1U1
