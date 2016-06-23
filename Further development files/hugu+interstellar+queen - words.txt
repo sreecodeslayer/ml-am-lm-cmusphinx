@@ -5324,7 +5324,7 @@
 മനസ്സിലാക്ക് M N2A SS3I L1AA KK1
 മനസ്സിലായത് M N2A SS3I L1AA Y T22
 മനസ്സിലായപ്പോള്‍ M N2A SS3I L1AA Y PPO2 L2
-മനസ്സിലായിഞാനവരോട് M N2A SS3I L1AA YI NJA N2A V R2O2 T111
+ഞാനവരോട് NJA N2A V R2O2 T111
 മനസ്സിലായില്ലെങ്കില്‍ M N2A SS3I L1AA YI LL1IAE1 NKI L1
 മനസ്സിലായില്ലേ M N2A SS3I L1AA YI LL1AE2
 മനസ്സിലായില്ല M N2A SS3I L1AA YI LL1A
