@@ -1,4 +1,4 @@
-അ A
+﻿അ A
 ആം AAM
 ആ AA
 ഇം EN
@@ -498,6 +498,7 @@
 ഫീ PHII
 ഫു OHU
 ഫും PHUM
+ഫൈ PHAI
 ഫെ PHAE1
 ഫേ PHAE2
 ഫോ PHO2

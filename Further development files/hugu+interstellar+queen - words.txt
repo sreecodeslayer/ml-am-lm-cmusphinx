@@ -1,4 +1,4 @@
-അംഗവുമായ AN G VU MA Y
+﻿അംഗവുമായ AN G VU MA Y
 അംഗീകരിക്കലല്ലേ AN GEE K RI KK L1A LL1AE2
 അംഗീകരിക്കാന്‍ AN GEE K RI KKA N2
 അംഗീകരിച്ചതാണ് AN GEE K RI CC T2A N1U1
@@ -1159,7 +1159,7 @@
 ഉണ്ടായിട്ടുള്ളൂ U N1T1AA YI T11U LL2UU
 ഉണ്ടായിരുന്നത് U N1T1AA YI R2U
 ഉണ്ടായിരുന്നുഅവിടെ U N1T1AA YI R2U NN2U
-ഉണ്ടായിരുന്നുഫൈസൽ U N1T1AA YI R2U NN2U
+ഫൈസൽ PHAI S3 L1
 ഉണ്ടായിരുന്നു U N1T1AA YI R2U NN2U
 ഉണ്ടായിരുന്നോ U N1T1AA YI R2U NN2O2
 ഉണ്ടായിരുന്ന U N1T1AA YI R2U NN2A
@@ -1435,7 +1435,7 @@
 എന്താണ്
 എന്താന്നാൽ
 എന്താന്നുവച്ചാൽ
-എന്തായാലുംഇനിയെന്‍റെ
+ഇനിയെന്‍റെ
 എന്തായാലും
 എന്തായിരുന്നു
 എന്തായി
@@ -2861,7 +2861,6 @@
 ചെല്ലാന്‍ CAE1 LL1AA N2
 ചെല്ല് CAE1 LL1
 ചൊവ്വയിലേക്ക് CO1 VV YI L1AE2 KK1
-ചേച്ചികരയുന്നത് CAE2 CC2I K R2A YU NN2A T22
 ചേച്ചിയാണ് CAE2 CC2I YA N1U1
 ചേച്ചിയുടെ CAE2 CC2I YU T1AE1
 ചേച്ചിയോട് CAE2 CC2I YO2 T111
@@ -4701,6 +4700,7 @@
 പേരെഴുതുന്നത് PAE2 R2AE1 ZU T2U NN2A T22
 പേരെ PAE2 R2AE1
 പേര് PAE2 R22
+പേര്‍സെന്‍റെജ് PAE2 R2 SEAE1 N2TE J1
 പോകരുത് PO2 K R2U T22
 പോകുന്നു PO2 KU NN2U
 പോകേണ്ടതുണ്ട് PO2 KAE2 N1T1A T2U N1T1
@@ -6587,7 +6587,6 @@
 വേഗത VAE2 G T2
 വേഗമാവട്ടെ VAE2 G MA V T11AE1
 വേഗ൦ VAE2 GAM
-വേണംഞാൻ VAE2 N1M NJA N2
 വേണംപോലും VAE2 N1M PO2 L1UM
 വേണം VAE2 N1M
 വേണമായിരുന്നു VAE2 N1A MA YI R2U NN2U
