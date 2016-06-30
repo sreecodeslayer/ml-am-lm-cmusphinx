@@ -80,7 +80,6 @@
 അടിയന്തിര A T1I Y N2T2I R2A
 അടിയില്‍ A T1I YI L1
 അടിയുണ്ടാക്കുന്നു A T1I YU NT1AA KKU NN2U
-അടിവസ്ത്രം A T1I V S33 T2R1AM
 അടിവസ്ത്രമാണ് A T1I V T2R1A MA N1U1
 അടിസ്ഥാനം A T1I S3T2HA N2AM
 അടിസ്ഥാനത്തിന്റെ A T1I S3T2HA N2A TT2I N2TAE1
@@ -2286,7 +2285,7 @@
 കുട്ടിയോ KU T11I YO2
 കുട്ടി KU T11I
 കുട്ടുകാരുമായി KU T11U KA R2U MA YI
-കുണ്ടി KU N1T1I
+ചുവടുകള്‍ CU V T1U K L2
 കുത്തിമറിച്ചുകൊണ്ടിരിക്കുകയാണ് KU TT2I M R1I CC2U KO1 N1T1I R2I KKU K YA N1U1
 കുത്തുകളും KU TT2U K L2UM
 കുത്ത് KU T2T2
@@ -3551,7 +3550,7 @@
 തോന്നുന്നു T2O2 NN2U NN2U
 തോപ്പിക്കാന്‍ T2O2 PPI KKA N2
 തോമോട്രോപ്പിലോ T2O2 MO2 T1R1O2 PPI L1O2
-ത്തിൽ TT2I L1
+പത്തിൽ P TT2I L1
 ത്യാഗം T2YA GAM
 ത്യാഗമാണ് T2YA G MA N1U1
 ത്രത്തോളം T2R1 TT2O2 L2M
@@ -3614,7 +3613,6 @@
 ദൗത്യത്തിലൂടെ D2AU T22 Y TT2I L1UU T1AE1
 ദൗത്യമുണ്ട് D2AU T22 Y MU N1T1
 ദർശനത്തിന് D2 R2 S1 N2A TT2I N22
-ധരിക്കാറില്ലെന്ന് D2H R2I KKA R1I LL1IAE1 NN2
 ധരിക്കുക D2H R2I KKU K
 ധരിക്കുന്നതെന്ന് D2H R2I KKU NN2A T2AE1 NN2
 ധരിക്കുമായിരുന്നു D2H R2I KKU MA YI R2U NN2U
@@ -3705,7 +3703,6 @@
 നമുക്കിതുവരെ N2A MU KKI T2U V R2AE1
 നമുക്കിത്തിരി N2A MU KKI TT2I R2I
 നമുക്കിത് N2A MU KKI T22
-നമുക്കിനിത് N2A MU KKI N2I T22
 നമുക്കിനിയും N2A MU KKI N2I YUM
 നമുക്കിനി N2A MU KKI N2I
 നമുക്കിവനെ N2A MU KKI V N2AE1
@@ -4127,8 +4124,7 @@
 നീയൊരിക്കല്‍ N2II YO1 R2I KK L1
 നീയൊരു N2II YO1 R2U
 നീരാശനാകരുത് N2II R2AA S1 N2AA K R2U T22
-നീലചിത്രം N2II L1A CI T2R1AM
-നീലച്ചിത്രം N2II L1A CC2I T2R1AM
+ച്ചിത്രം N2II L1A CC2I T2R1AM
 നീളം N2II L2M
 നീ N2II
 നുട്രോണ്‍ N2U T1R1O2 N1
@@ -4140,7 +4136,7 @@
 നുണ N2U N1A
 നൂറുകണക്കിനെണ്ണത്തില്‍ N2UU R1U K N1A KKI N2AE1 NN1 TT2I L1
 നൂറുകണക്കിന് N2UU R1U K N1A KKI N22
-നൂറുകളുടെ N2UU R1U K L2U T1AE1
+നൂറാളുകളുടെ N2UU R1AA L2U K L2U T1AE1
 നൂറ്റാണ്ടിലെ N2UU TA N1T1AI L1AE1
 നൂറ് N2UU R11
 നൃത്തം N2RU T T2AM
@@ -4371,7 +4367,6 @@
 പറഞ്ഞിരുന്നു P R1A NNJI R2U NN2U
 പറഞ്ഞിരുന്നെങ്കിൽ P R1A NNJI R2U NN2AE1 NKI L1
 പറഞ്ഞില്ലല്ലോ P R1A NNJI LL1A LL1O2
-പറഞ്ഞില്ലാ P R1A NNJI LL1AA
 പറഞ്ഞില്ലേ P R1A NNJI LL1AE2
 പറഞ്ഞില്ല P R1A NNJI LL1A
 പറഞ്ഞുതരും P R1A NNJU T2 R2UM
@@ -4786,7 +4781,6 @@
 പോഞാൻ PO2 NJA N2
 പോട്ടിയിൽ PO2 T11I YI L1
 പോട്ടി PO2 T11I
-പോട്ടെഞാന്‍ PO2 T11AE1 NJA N2
 പോട്ടെ PO2 T11AE1
 പോട്രെയിൻ PO2 T1R1AE1 YI N2
 പോഡിലും PO2 DI L1UM
@@ -5003,7 +4997,7 @@
 പ്രൊഫ PR1O1 PH
 പ്രോഗ്രാം PR1O2 GR1AM
 പ്രോതം PR1O2 T2AM
-പ്രോത്സാഹിപ്പിക്കുന്നു PR1O2 T22 S3A HI PPI KKU NN2U
+പ്രോത്സാഹിപ്പിച്ചു PR1O2 T22 S3A HI PPI CC2U
 പ്രോഫസർ PR1O2 PH S3 R2
 പ്ലസ്‌ PL2 S33
 പ്ലാനറ്റിനു PL2A N2A TI N2U
@@ -6068,7 +6062,6 @@
 ലോക്ക് L1O2 KK1
 ലോക് L1O2 K1
 ലോറാ L1O2 R1AA
-ല്‍പരം L1 P R2M
 ലൗവിലി L1AU VI L1I
 വംശം VM S1M
 വംശമായി VM S1 MA YI
@@ -7190,7 +7183,6 @@
 സെക്യൂരിട്ടി S3AE1 KYUU R2IT11I
 സെക്യൂരിറ്റിയോട് S3AE1 KYUU R2I TI YO2 T111
 സെക്ഷന്‍ S3AE1 KS2 N2
-സെക്സിൽ S3AE1 K1 S3I L1
 സെക്സ് S3AE1 K1 S33
 സെറ്റിനും S3AE1 TI N2UM
 സെറ്റില്‍ S3AE1 TI L1
