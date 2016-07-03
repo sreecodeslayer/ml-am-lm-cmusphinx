@@ -4319,7 +4319,7 @@
 പരിശോധനകളും P R2I S1O2 D2H N2A K L2UM
 പരിശോധനകള്‍ P R2I S1O2 D2H N2A K L2
 പരിശോധിക്കും P R2I S1O2 D2HI KKUM
-പരിശോ P R2I S1O2
+പരിശോധന P R2I S1O2 D2H N2A
 പരിശ്രമവും P R2I S1R1 M VUM
 പരിഹരിക്കണോ P R2I H R2I KK N1O2
 പരിഹരിക്കാം P R2I H R2I KKAAM
