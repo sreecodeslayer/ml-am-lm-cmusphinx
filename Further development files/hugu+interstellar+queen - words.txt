@@ -80,7 +80,6 @@
 അടിയന്തിര A T1I Y N2T2I R2A
 അടിയില്‍ A T1I YI L1
 അടിയുണ്ടാക്കുന്നു A T1I YU NT1AA KKU NN2U
-അടിവസ്ത്രമാണ് A T1I V T2R1A MA N1U1
 അടിസ്ഥാനം A T1I S3T2HA N2AM
 അടിസ്ഥാനത്തിന്റെ A T1I S3T2HA N2A TT2I N2TAE1
 അടിസ്ഥാനത്തിൽ A T1I S3T2HA N2A TT2I L1
@@ -2512,7 +2511,6 @@
 കോട്ടിട്ടയാളാരാണ് KO2 T11I T11A YA L2AA R2AA N1U1
 കോഡില്‍ KO2 DI L1
 കോഡുകൾ KO2 DU K L2
-കോണ്ടം KO2 N1T1M
 കോണ്‍ഫറൻസ് KO2 N1 PH R1A N2 S33
 കോണ്‍വെന്‍റിലെ KO2 N1 VAE1 N2 R1I L1AE1
 കോപൈലറ്റ് KO2 PAI L1A TTT
@@ -2578,11 +2576,9 @@
 കർഷകരെയാണ് K R2 S2 K R2AE1 YA N1U1
 കർഷകൻ K R2 S2 K N2
 ഖേദിക്കുന്നു KHAE2 D2I KKU NN2U
-ഗംഭീരംഗംഭീരം GAM BHII R2M GAM BHII R2M
 ഗംഭീരം GAM BHII R2M
 ഗന്ധമുണ്ടോ G N2D2H MU N1T1AO2
 ഗയ്സ് G Y1 S33
-ഗര്‍ഗാന്റ്വാ G R2 GA CVA
 ഗര്‍ഗാന്റ്വ G R2 GA CVA
 ഗര്‍ഭപാത്ത്രത്തോടെ G R2 BH PA TT2R1 TT2O2 T1U
 ഗര്‍ഭിണിയായിരുന്നു G R2 BHI N1I YA YI R2U NN2U

@@ -27,6 +27,7 @@
 ക്കാം KKAAM
 ക്കാ KKA
 ക്കി KKI
+ക്കീ KKII
 ക്കും KKUM
 ക്കു KKU
 ക്കൂ KKUU
@@ -451,6 +452,7 @@
 ന്യ N2Y
 ന്ര N2R1
 ന്റെ N2TE
+ന്റേ N2TE2
 ന്വേ N2VAE2
 ന്‍റി N2TI
 ന്‍റെ N2TAE1
@@ -496,7 +498,7 @@
 ഫാ PHA
 ഫി PHI
 ഫീ PHII
-ഫു OHU
+ഫു PHU
 ഫും PHUM
 ഫൈ PHAI
 ഫെ PHAE1
