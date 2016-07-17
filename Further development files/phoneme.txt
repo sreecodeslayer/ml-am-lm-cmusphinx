@@ -134,6 +134,7 @@
 ങ്ങ്‌ NGNG
 ങ്ങ NGNGA
 ങ NG
+ങേ NGAE1
 ങ് NG1
 ചാ CA
 ചി CI
@@ -819,6 +820,7 @@
 ഹൃ HRU
 ഹെ HAE1
 ഹേ HAE2
+ഹൗ HAU
 ഹൈ HAI
 ഹോം HO2M
 ഹോ HO2
