@@ -24,88 +24,59 @@ class Linguist:
 	consonants = velar_gutteral_c.union(palatal_c,retroflex_cerebral_c,alveolar_c,dental_c,bilabal_c,labiodental_c,glottal_c)
 
 # A StackOverflow guide for next and previous item in a list
-	def previous_and_next(self,some_iterable):
+	def previous_and_next(self, some_iterable):
 		preceeding_, current_, succeeding_ = tee(some_iterable, 3)
 		preceeding_ = chain([None], preceeding_)
 		succeeding_ = chain(islice(succeeding_, 1, None), [None])
 		return izip(preceeding_, current_, succeeding_)
+
+	def rule_voicing_of_stops(self, transcription_, preceeding_, current_, succeeding_, replace_):
+		if preceeding_ in self.nasal_sonorant:
+			if succeeding_ not in self.consonants and preceeding_ not in self.consonants:
+				current_index = transcription_.index(current_)
+				transcription_[current_index] = replace_
+		elif succeeding_ in self.vowels:
+			if succeeding_ not in self.consonants and preceeding_ not in self.consonants:
+				current_index = transcription_.index(current_)
+				transcription_[current_index] = replace_
+		return transcription_
+
+	def rule_t22_special(self, transcription_, preceeding_, current_, succeeding_):
+		if current_ == 'T22':
+			if preceeding_ != current_:
+				if succeeding_ in self.consonants.difference(['M1','R1','Y1']) and succeeding_ != current_:
+					current_index = transcription_.index(current_)
+					transcription_[current_index] = "L1"
+			if preceeding_ != current_:
+				if succeeding_ == 'M1':
+					current_index = transcription_.index(current_)
+					transcription_[current_index] = "L1 M1"
+		return transcription_
 
 	def rule_applier(self, fileName):
 		with codecs.open(fileName , "r" , "utf-8") as file: # Open file
 			for each_line in file: # Read the line
 				transcription = each_line.split(" ",1)[1].encode("ascii").split() # Split by first whitespace, take second part, refer: Dictionary fle
 				for preceeding, current, succeeding in self.previous_and_next(transcription): # Get current phone and its predecessor and successor
-					# print "List : ",transcription,"\nItem is now", current, "next is", succeeding, "previous is", preceeding
 					# Voicing of stops
 					# case ക in between first and last phoneme
 					if current == 'K11':
-						print(current)
-						if preceeding in self.nasal_sonorant:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								current_index = transcription.index(current)
-								transcription[current_index] = "G11"
-						elif succeeding in self.vowels:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								current_index = transcription.index(current)
-								transcription[current_index] = "G11"
-
+						transcription = self.rule_voicing_of_stops(transcription, preceeding, current, succeeding, 'G11')
 					# case ച in between first and last phoneme
-					if current == 'C11':
-						print(current)
-						if preceeding in self.nasal_sonorant:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								print("IF:",preceeding,current,succeeding)
-								current_index = transcription.index(current)
-								transcription[current_index] = "J1"
-						elif succeeding in self.vowels:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								print("ELIF:",preceeding,current,succeeding)
-								current_index = transcription.index(current)
-								transcription[current_index] = "J1"
-					
+					elif current == 'C11':
+						transcription = self.rule_voicing_of_stops(transcription, preceeding, current, succeeding, 'J1')
+					# case ട in between first and last phoneme
+					elif current == 'T11':
+						transcription = self.rule_voicing_of_stops(transcription, preceeding, current, succeeding, 'D1')
 					# case ത in between first and last phoneme
-					if current == 'T22':
-						print(current)
-						if preceeding in self.nasal_sonorant:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								print("IF:",preceeding,current,succeeding)
-								current_index = transcription.index(current)
-								transcription[current_index] = "D2"
-						elif succeeding in self.vowels:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								print("ELIF:",preceeding,current,succeeding)
-								current_index = transcription.index(current)
-								transcription[current_index] = "D2"
+					elif current == 'T22':
+						transcription = self.rule_voicing_of_stops(transcription, preceeding, current, succeeding, 'D2')
+					# case പ in between first and last phoneme
+					elif current == 'P1':
+						transcription = self.rule_voicing_of_stops(transcription, preceeding, current, succeeding, 'B1')
 					
-					# case പ in between first and last phoneme
-					if current == 'P1':
-						print(current)
-						if preceeding in self.nasal_sonorant:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								print("IF:",preceeding,current,succeeding)
-								current_index = transcription.index(current)
-								transcription[current_index] = "B1"
-						elif succeeding in self.vowels:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								print("ELIF:",preceeding,current,succeeding)
-								current_index = transcription.index(current)
-								transcription[current_index] = "B1"
-
-					# case പ in between first and last phoneme
-					if current == 'T11':
-						print(current)
-						if preceeding in self.nasal_sonorant:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								print("IF:",preceeding,current,succeeding)
-								current_index = transcription.index(current)
-								transcription[current_index] = "D1"
-						elif succeeding in self.vowels:
-							if succeeding not in self.consonants and preceeding not in self.consonants:
-								print("ELIF:",preceeding,current,succeeding)
-								current_index = transcription.index(current)
-								transcription[current_index] = "D1"
-
-
+					# case ത followed by മ eg. ആത്മാവ് and other half /t22/ cases
+					transcription = self.rule_t22_special(transcription, preceeding, current, succeeding)
 				print(transcription)
 
 li = Linguist()
