@@ -23,7 +23,7 @@ class Linguist:
 
 	consonants = velar_gutteral_c.union(palatal_c,retroflex_cerebral_c,alveolar_c,dental_c,bilabal_c,labiodental_c,glottal_c)
 
-# A StackOverflow guide for next and previous item in a list
+	# A StackOverflow guide for next and previous item in a list
 	def previous_and_next(self, some_iterable):
 		preceeding_, current_, succeeding_ = tee(some_iterable, 3)
 		preceeding_ = chain([None], preceeding_)
@@ -33,29 +33,27 @@ class Linguist:
 	def rule_voicing_of_stops(self, transcription_, preceeding_, current_, succeeding_, replace_):
 		if preceeding_ in self.nasal_sonorant:
 			if succeeding_ not in self.consonants and preceeding_ not in self.consonants:
-				current_index = transcription_.index(current_)
-				transcription_[current_index] = replace_
+				transcription_[transcription_.index(current_)] = replace_
 		elif succeeding_ in self.vowels:
 			if succeeding_ not in self.consonants and preceeding_ not in self.consonants:
-				current_index = transcription_.index(current_)
-				transcription_[current_index] = replace_
+				transcription_[transcription_.index(current_)] = replace_
 		return transcription_
 
 	def rule_t22_special(self, transcription_, preceeding_, current_, succeeding_):
 		if current_ == 'T22':
 			if preceeding_ != current_:
 				if succeeding_ in self.consonants.difference(['M1','R1','Y1']) and succeeding_ != current_:
-					current_index = transcription_.index(current_)
-					transcription_[current_index] = "L1"
+					transcription_[transcription_.index(current_)] = "L1"
 			if preceeding_ != current_:
 				if succeeding_ == 'M1':
-					current_index = transcription_.index(current_)
-					transcription_[current_index] = "L1 M1"
+					transcription_[transcription_.index(current_)] = "L1 M1"
 		return transcription_
 
 	def rule_applier(self, fileName):
+		result_file = codecs.open("ml.dic", "a+", "utf-8")
 		with codecs.open(fileName , "r" , "utf-8") as file: # Open file
 			for each_line in file: # Read the line
+				ml_word = each_line.split(" ",1)[0] # this is for last, I can't throw this away!
 				transcription = each_line.split(" ",1)[1].encode("ascii").split() # Split by first whitespace, take second part, refer: Dictionary fle
 				for preceeding, current, succeeding in self.previous_and_next(transcription): # Get current phone and its predecessor and successor
 					# Voicing of stops
@@ -78,6 +76,8 @@ class Linguist:
 					# case ത followed by മ eg. ആത്മാവ് and other half /t22/ cases
 					transcription = self.rule_t22_special(transcription, preceeding, current, succeeding)
 				print(transcription)
+				# write the new dictionary file
+				result_file.write(ml_word+" "+" ".join(transcription)+"\n")
 
 li = Linguist()
 li.rule_applier("a.txt") # Too lazy here!
