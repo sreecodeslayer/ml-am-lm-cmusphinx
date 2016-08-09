@@ -23,6 +23,8 @@ class Linguist:
 
 	consonants = velar_gutteral_c.union(palatal_c,retroflex_cerebral_c,alveolar_c,dental_c,bilabal_c,labiodental_c,glottal_c)
 
+	non_nasal_sonorant = consonants.difference(nasal_sonorant).union(vowels)
+
 	# A StackOverflow guide for next and previous item in a list
 	def previous_and_next(self, some_iterable):
 		preceeding_, current_, succeeding_ = tee(some_iterable, 3)
@@ -31,12 +33,13 @@ class Linguist:
 		return izip(preceeding_, current_, succeeding_)
 
 	def rule_voicing_of_stops(self, transcription_, preceeding_, current_, succeeding_, replace_):
-		if preceeding_ in self.nasal_sonorant:
-			if succeeding_ not in self.consonants and preceeding_ not in self.consonants:
-				transcription_[transcription_.index(current_)] = replace_
-		elif succeeding_ in self.vowels:
-			if succeeding_ not in self.consonants and preceeding_ not in self.consonants:
-				transcription_[transcription_.index(current_)] = replace_
+		if preceeding_ != current_:
+			if preceeding_ in self.nasal_sonorant:
+				if succeeding_ not in self.consonants and preceeding_ not in self.consonants:
+					transcription_[transcription_.index(current_)] = replace_
+			elif preceeding_ in self.non_nasal_sonorant:
+				if succeeding_ in self.vowels:
+					transcription_[transcription_.index(current_)] = replace_
 		return transcription_
 
 	def rule_t22_special(self, transcription_, preceeding_, current_, succeeding_):
@@ -54,7 +57,7 @@ class Linguist:
 		with codecs.open(fileName , "r" , "utf-8") as file: # Open file
 			for each_line in file: # Read the line
 				ml_word = each_line.split(" ",1)[0] # this is for last, I can't throw this away!
-				transcription = each_line.split(" ",1)[1].encode("ascii").split() # Split by first whitespace, take second part, refer: Dictionary fle
+				transcription = each_line.split(" ",1)[1].split() # Split by first whitespace, take second part, refer: Dictionary fle
 				for preceeding, current, succeeding in self.previous_and_next(transcription): # Get current phone and its predecessor and successor
 					# Voicing of stops
 					# case ക in between first and last phoneme
