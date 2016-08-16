@@ -1,0 +1,1003 @@
+പക്ഷേ നിങ്ങള്‍ ഒരു തമോഗര്‍ത്തത്തെ ചുറ്റുമ്പോള്‍  (file_3751)
+പക്ഷേ നിങ്ങള്‍ ഒരു തമോഗര്‍ത്തത്തെ ചുറ്റുമ്പോള്‍  (file_3751)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ നിങ്ങള്‍ സുഖമായിരിക്കുന്നെന്ന് ഞാന്‍   വിചാരിക്കുന്നു  (file_3752)
+***   പക്ഷെ    അവര്‍                 സുഖമായി കണ്ടുപിടിക്കും  (file_3752)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+പക്ഷേ നിങ്ങള്‍ ഇതുവരെയും പൂർണമായി       അത്  പരിഹരിച്ചിട്ടില്ല  (file_3753)
+***   ***      പക്ഷെ     നിങ്ങൾക്കിത്രേ ഉപരി കത്തിച്ചിട്ടില്ല   (file_3753)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 4
+പക്ഷേ നീയത് നിന്റെ കള്ളത്തരത്തേക്കാള്‍  (file_3754)
+പക്ഷെ അവിടെ നിന്റെ കള്ളത്തരത്തേക്കാള്‍  (file_3754)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പക്ഷേ പപ്പ      ജോര്‍ജും മമ്മ ജേനും  (file_3755)
+പക്ഷെ പുറകോട്ട് ഉം       മമ്മ ചേരും  (file_3755)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+പക്ഷേ പിന്നീട് ലണ്ടനിലേക്ക് മാറി ***  (file_3756)
+പക്ഷെ അവിടെ    ലണ്ടനിലേക്ക് മാറി ഉം   (file_3756)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***   പക്ഷേ പ്രതികരണമൊന്നുമില്ല കൂപ്പര്‍  (file_3757)
+പക്ഷെ തരു   ലോകം                കൂപ്പര്‍  (file_3757)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പക്ഷേ പ്ലാന്‍  (file_3758)
+പക്ഷെ പാടും    (file_3758)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പക്ഷേ ശരിക്കും മനോഹരം   (file_3759)
+പക്ഷേ ***      ചേരുവകൾ  (file_3759)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+***   പക്ഷേ സംശയമുണ്ട്  (file_3760)
+പക്ഷെ സര്‍  ശരിക്കും    (file_3760)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പക്ഷേ വര്‍ഷമായി അദ്ദേഹം ഗുരുത്വാകര്‍ഷണ  (file_3761)
+പക്ഷേ വര്‍ഷമായി അദ്ദേഹം കഷ്ടടം          (file_3761)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     പകൽ  അവസാനിക്കുന്നതിനോടുള്ള ദേഷ്യം  (file_3762)
+പറഞ്ഞത് സാരി കൊള്ളാം                പക്ഷെ   (file_3762)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+പങ്കു വയ്ക്കുന്നതുമായിരിക്കും  (file_3763)
+പോകൂ  ധരിക്കുമായിരുന്നു        (file_3763)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പടയാളികളേ ***  (file_3764)
+പടയാളികളേ ഉം   (file_3764)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+പടയാളികള്‍  (file_3765)
+പടയാളികള്‍  (file_3765)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പടയാളികള്‍ ദയവു ചെയ്ത്    അനങ്ങരുത്  (file_3766)
+പടയാളികള്‍ ***  വിദേശികളെ കണ്ടു      (file_3766)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പഠിക്കാനുണ്ട് മര്‍ഫ്നമ്മളെപ്പോലെ  (file_3767)
+പഠിക്കാനുണ്ട് മര്‍ഫ്നമ്മളെപ്പോലെ  (file_3767)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പണത്തിന്‍റെ കാര്യം       ഞാന്‍     നോക്കിക്കോളാം  (file_3768)
+***         പാസ്പോർട്ട്‌ തരുകയാണ്‌ നോക്ക്         (file_3768)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പണമോ   (file_3769)
+പാടും  (file_3769)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പണിയെടുക്കും അപ്പോൾ    എല്ലാം ശരിയാവും  (file_3770)
+പഠിക്കാം     കൂടുതലാണ് ചില    ഉപ്പും    (file_3770)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+*** പണ്ടാരം  (file_3771)
+നീ  പണ്ടാരം  (file_3771)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+***   പണ്ടാരമടങ്ങാന്‍ എനിക്ക് ചെയ്യാൻ അഞ്ചുമിനുട്ടെ കിട്ടിയതൊള്ളൂ  (file_3772)
+പണ്ട് ആരുടെയെങ്കില്‍  ചേച്ചി  കുറച്ച് നിന്റെ        കിട്ടും        (file_3772)
+Words: 5 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 120.00% Accuracy = -20.00%
+Insertions: 1 Deletions: 0 Substitutions: 5
+പതിയെ പേടകത്തിനടുത്തേയ്ക് പോകാം  (file_3773)
+പതിയെ പേടകത്തിന്റെ        പോവാം  (file_3773)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പതിയെ ബ്രാൻഡ്‌  (file_3774)
+പതിയെ ബ്രാൻഡ്‌  (file_3774)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പത്തടി അകലം       (file_3775)
+ഞാന്‍  ഒരിക്കലും  (file_3775)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പത്തായത്തിലും *** കുഴിമാടങ്ങളിലും വരെ  (file_3776)
+പത്തായത്തിലും ഒരു അകലം            മതി  (file_3776)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പത്ത് വർഷം   മുമ്പ്  (file_3777)
+പക്ഷെ ഭക്ഷണം പോവും   (file_3777)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പത്ത്   വർഷം മുമ്പേ  (file_3778)
+പതിനാല് മാസം പോട്ടെ  (file_3778)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പദ്ധതി എന്നോട് ഇപ്പോൾ പറയ്‌  (file_3779)
+പദ്ധതി എന്നോട് ഇപ്പോൾ പറയും  (file_3779)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പന്ത്രണ്ടു മിനിറ്റ് കൂടി     (file_3780)
+പന്ത്രണ്ടു നിന്റെ   സ്കൂളിൽ  (file_3780)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പന്ത്രണ്ടു റേഞ്ചറുകൾ  (file_3781)
+പന്ത്രണ്ടു തരികള്‍    (file_3781)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     പപ്പാ   ജോര്‍ജസിനെപ്പോലെ  (file_3782)
+പോകല്ലേ കളിച്ചു പോലെ              (file_3782)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പപ്പാ ജോര്‍ജിന്റെ    പേരെഴുതുന്നത്  (file_3783)
+പോകാൻ റോക്സ്ട്ടേക്ക് പൈലറ്റും       (file_3783)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പപ്പാ ജോര്‍ജ് എന്‍റെ      മുത്തശ്ശനല്ല  (file_3784)
+***   പല്ലി   ഓക്സിജന്‍റെ മിസ്റ്റര്‍    (file_3784)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പപ്പ    ജോര്‍ജിന്റെ കയ്യില്‍  ഇപ്പോളും നിന്റെ പുസ്തകം ഉണ്ട്  (file_3785)
+പാടില്ല അവരുടെ      കൈയ്യില്‍ ഡോറുകൾ  എന്‍റെ പുസ്തകം കണ്ടു  (file_3785)
+Words: 7 Correct: 1 Errors: 6 Percent correct = 14.29% Error = 85.71% Accuracy = 14.29%
+Insertions: 0 Deletions: 0 Substitutions: 6
+പപ്പ   ജോര്‍ജ് സമ്മതിക്കില്ല  (file_3786)
+പറഞ്ഞോ സുഖം    സമ്മതിക്കില്ല  (file_3786)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പരദൂഷണമൊക്കെ പറയാംമാഗസിൽ വായിക്കാം  (file_3787)
+പതുക്കെ      പറയാംമാഗസിൽ കൈകളും     (file_3787)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പരമാവധി വേഗത കൈവരിച്ചിരിക്കുന്നു  (file_3788)
+പരമാവധി വേഗത ജയിച്ചു              (file_3788)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പരാജയം കാണുന്നതോ  (file_3789)
+പറയു   കണ്ടു      (file_3789)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പരിക്കുപറ്റി ഇനിയവ       നേരെയാകില്ല  (file_3790)
+***          പങ്കിടില്ലാ അറിയില്ല     (file_3790)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പരിക്ക് വല്ലതും ഉണ്ടോ  (file_3791)
+പക്ഷേ   പലതും   കണ്ടു  (file_3791)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***   പരിചയപ്പെടുത്തുന്നു  (file_3792)
+പക്ഷേ കിട്ടും              (file_3792)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പരിപൂർണ്ണമായ സത്യസന്ധത എപ്പോഴും  (file_3793)
+തരുമോ        അയച്ചത്   ചിലപ്പോൾ   (file_3793)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പരീക്ഷണ നിരീക്ഷണങ്ങളൊന്നും  (file_3794)
+പക്ഷേ   ശ്രമിച്ചു           (file_3794)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പറഞ്ഞന്നേയൊള്ളു  (file_3795)
+തരികയുള്ളൂ       (file_3795)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പറഞ്ഞില്ലല്ലോ  (file_3796)
+തവണയല്ലല്ലോ    (file_3796)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പറഞ്ഞോളു     (file_3797)
+കണ്ട്രോളുകൾ  (file_3797)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** പറയരുത്  (file_3798)
+പാറ ഏറ്റവും  (file_3798)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പറയാം ഡാഡ്  (file_3799)
+പറയാം ഡാഡ്  (file_3799)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പറയാതിനി ഹണിമൂണിന്   പോവാൻ നോക്ക്  (file_3800)
+***      പരിപാടിയുടെ പോകണം പോകു    (file_3800)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+***   പറയാനുണ്ട് പക്ഷേ  (file_3801)
+ഇന്ന് പറയട്ടെ    പക്ഷെ  (file_3801)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പറയാനുള്ളതെല്ലാം അവരോട് പറഞ്ഞോളു  (file_3802)
+പാറ              നാലാം  ആളുകളും   (file_3802)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പറയുന്നത് സത്യമായതു കൊണ്ട്  (file_3803)
+പറയട്ടെ   സത്യമായതു കണ്ടു   (file_3803)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പറയു അത്  ഉറപ്പിക്കരുത്   അതൊരു   (file_3804)
+***  പറയൂ അദ്ദേഹത്തിന്‍റെ ഉത്തരം  (file_3804)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പറയ്യുന്നത് പോലെ    ചെയ്യാൻ പറഞ്ഞു  (file_3805)
+***         പഴയപോലെ ചെയ്യാൻ വരും    (file_3805)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പറ്റില്ല അതത്യാവശ്യമാണ്  (file_3806)
+പറ്റില്ല തരിശാണ്         (file_3806)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പറ്റില്ല  (file_3807)
+പറ്റില്ല  (file_3807)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പറ്റുമെന്ന് തോന്നുന്നു      (file_3808)
+***         പെട്ടുപോകുന്നു  (file_3808)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+പറ്റുമോയെന്നെന്നോട് ചോദിച്ചിരുന്നു  (file_3809)
+ഡോട്ട്ഡോട്ട്        ചോദിച്ചു        (file_3809)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പലഹാരം  (file_3810)
+ഞാനും   (file_3810)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പല്ലി  (file_3811)
+പറയണം  (file_3811)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പല്ലീപല്ലീ       (file_3812)
+കരയുകയായിരുന്നു  (file_3812)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പല    കാരണങ്ങളുണ്ടാകാം  (file_3813)
+പലതും കാറോടിക്കാൻ       (file_3813)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പല  കാര്യങ്ങളും തെറ്റിപ്പോയി  (file_3814)
+*** പാടില്ല     യുപിയിലും     (file_3814)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പഴയകാലം മുതലുള്ള മറ്റ് ഏതു മനുഷ്യർക്കുംമുൻപേ  (file_3815)
+പഴയകാലം മുതലുള്ള മറ്റ് *** എന്തെങ്കിലുമൊക്കെ  (file_3815)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+പഴയ   കാലം ജ്വലിക്കുന്നതു  (file_3816)
+പറയാൻ കാലം അവിടുന്ന്       (file_3816)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പഴയ മിലിട്ടറി  സെക്യൂരിട്ടി സാധനം  (file_3817)
+*** കയ്യാങ്കളി തിരിച്ചു     വരും   (file_3817)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പാചകം  (file_3818)
+കാരണം  (file_3818)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പാചകകാരിയുമാണ്  (file_3819)
+പാചകകാരിയുമാണ്  (file_3819)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പാടില്ല     (file_3820)
+പാരിസിലാണ്  (file_3820)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പാടില്ല പാടില്ല  (file_3821)
+പാടില്ല പാടില്ല  (file_3821)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പാടില്ല പാടില്ല നീയെന്തിനാ  (file_3822)
+പാടില്ല പാടില്ല ബിയർ        (file_3822)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പാടില്ല പാടില്ല പാടില്ല  (file_3823)
+പാടില്ല പാടില്ല പാടില്ല  (file_3823)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പാരിസിനടുത്താണ്ട്രെയിനിൽ പോവണം  (file_3824)
+പാരിസിനടുത്താണ്ട്രെയിനിൽ പോകു   (file_3824)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പാരിസിലുള്ളതാണ്  (file_3825)
+പാരിസിലുള്ളതാണ്  (file_3825)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പാരിസിൽ അങ്ങനെയൊക്കെ നടക്കുമോ  (file_3826)
+പാരിസിൽ വളരെ         വരും      (file_3826)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പാരിസിൽ ഡാൻസ് കളിച്ചു നടക്കാണോ  (file_3827)
+പാരിസിൽ ഡാൻസ് കളിച്ചു നടക്കാണോ  (file_3827)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പാരിസ് പാരിസാണ് എന്‍റെ      ഇഷ്ടപെട്ട സ്ഥലം  (file_3828)
+***    പാരിസിൽ  പരിപാടിയുടെ കിടക്ക്‌  കാലും  (file_3828)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+പാര്‍ട്സുകള്‍ മോഷ്ടിക്കാറുണ്ടന്ന്  (file_3829)
+പാര്‍ട്സുകള്‍ മോഷ്ടിക്കാറുണ്ടന്ന്  (file_3829)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പാവം കുട്ടി       (file_3830)
+പാറ  കോക്ക്ട്ടൈൽ  (file_3830)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പാസ്പോർട്ട്‌ വിസ ***  (file_3831)
+പാസ്പോർട്ട്‌ വിസ ആണ്  (file_3831)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+പാർട്ടി  (file_3832)
+പാർട്ടി  (file_3832)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പിടിക്കിട്ടി എനിക്ക് തോന്നുന്നത് ലണ്ടനിൽ    വെച്ച്  (file_3833)
+***          പിന്നെ  പോ          അയർലണ്ടിലെ പാർസൽ   (file_3833)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+പിടിച്ചിരിക്കു  (file_3834)
+പിടിക്കും       (file_3834)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിടിച്ച് നില്‍ക്കണം      (file_3835)
+***      പാരിസിലെന്താണ്  (file_3835)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+പിന്നതാരുടേതാണ്  (file_3836)
+പടയാളികളും       (file_3836)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നിലെ മൂല ഇടതുഭാഗത്ത് മുകള്‍   ഷെല്‍ഫില്‍    (file_3837)
+പിന്നിലെ മൂല ***         കണ്ടതാണ് വര്‍ഷത്തില്‍  (file_3837)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പിന്നിലേയ്ക് പോകാം  (file_3838)
+പൈലറ്റിനെ    പോവാം  (file_3838)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നിൽ വേറെ വണ്ടിയുണ്ട്  (file_3839)
+പിന്നിൽ വേറെ വണ്ടിയുണ്ട്  (file_3839)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പിന്നീട് അവന്റെ ഊര്‍ജ്ജം    (file_3840)
+പിന്നെ   അതെ    പോസ്റ്റര്‍  (file_3840)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***    പിന്നീട് ഉപയോഗം വരുംഞാൻ ഉറപ്പുതരാം  (file_3841)
+പിന്നെ കൊള്ളാം  പുകയും ഞാന്‍   പറയാം       (file_3841)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+പിന്നീട് എന്താ  (file_3842)
+പിന്നെ   തരാം   (file_3842)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ ഇന്ന് രാത്രി       നീ      ഇവരുടെ കൂടെയാണോ  (file_3843)
+പിന്നെ ***   നിങ്ങള്‍ക്കാ ഡൽഹിയിൽ നാളെ   ഒരാള്‍    (file_3843)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 1 Substitutions: 4
+പിന്നെന്താണ്  (file_3844)
+പിറന്നാളാണ്   (file_3844)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെന്തിനാണ് ഈ   കുരമുളകും  ഉപ്പും       (file_3845)
+***            *** തിട്ടയില്‍ കൊണ്ടുപോകും  (file_3845)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+പിന്നെന്തിന് ആ      പേടകങ്ങള്‍   നിര്‍മ്മിച്ചുകൊണ്ടിരിക്കുന്നു  (file_3846)
+***          പട്ടേൽ കാണുകയാണല്ലേ പരിശോധിക്കും                   (file_3846)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പിന്നെന്തുകൊണ്ടാണ് അദ്ദേഹമത് ഉപയോഗിക്കാതിരുന്നത്  (file_3847)
+പേടിക്കണ്ട         സാധ്യത    പ്രേതങ്ങള്‍          (file_3847)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പിന്നെ ബൂം ബൂം     (file_3848)
+പിന്നെ ഡോ  മൂന്ന്  (file_3848)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെയാണ് ഞാന്‍     നിന്‍റെ മുത്തശ്ശനെ കണ്ടത്       (file_3849)
+***        തയ്യാറാണ് ബാഗ്    എനിക്ക്    സെക്കണ്ടുകൾ  (file_3849)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+പിന്നെയാരാണതിന് നിന്നെ   തടയുന്നത്  (file_3850)
+പ്രധാന          അതെന്‍റെ അവള്‍      (file_3850)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പിന്നെയിടക്ക് പാർലറിൽ പോവാംസിനിമക്ക് പോവാം  (file_3851)
+പേരെ          പാർലറിൽ പോവാംസിനിമക്ക് ആണ്    (file_3851)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെയെന്തങ്കിലും  (file_3852)
+പോയാലും             (file_3852)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെ  (file_3853)
+പക്ഷെ   (file_3853)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെ അതെ        മുകളിലെ ഷെല്‍ഫ്   (file_3854)
+പിന്നെ അകത്തേക്ക് പോലെ    ശരിക്കും  (file_3854)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പിന്നെ അത് നിങ്ങളുടെ ചര്‍മ്മപോലെ മൃദുലമാണ്    (file_3855)
+പിന്നെ *** അതിഥികളെ  ചര്‍മ്മപോലെ ബുക്ക്‌ടാണ്  (file_3855)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പിന്നെ അവരെയൊക്കെ ഇനിയെന്നാണ് കാണാൻ പറ്റുകയെന്നറിയില്ലാ  (file_3856)
+പിന്നെ കയറ്റി     എന്തിനാണ്   കാണാം പറയുകയാണ്            (file_3856)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+പിന്നെ ***  അവിടെ കുറെ         സുന്ദരകുട്ടപ്പൻമാരുമുണ്ടാവും  (file_3857)
+പിന്നെ കൂടെ കൂടെ  സ്റ്റാർട്ട്‌ മാറരുത്                       (file_3857)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+പിന്നെ അവർ രണ്ടുപേരും ഓഫീസിൽ പോവുമ്പോൾ  (file_3858)
+പിന്നെ അവർ രണ്ടുപേരും ഓഫീസിൽ പോവുമ്പോൾ  (file_3858)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പിന്നെ ആർക്കറിയാം അവിടെ ചിലപ്പോൾ നിന്‍റെ  (file_3859)
+പിന്നെ ആർക്കറിയാം അവിടെ ചിലപ്പോൾ നിന്‍റെ  (file_3859)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പിന്നെ ആ     പല്ലിയുടെ കാര്യമോ  (file_3860)
+പിന്നെ അതാണ് പല്ലിയുടെ കാര്യമോ  (file_3860)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെ ആ   ബ്ലാക്ക്‌ഹോളിനു വളരെ  (file_3861)
+പിന്നെ ആ   ബ്ലാക്ക്‌ഹോളിനു വളരെ  (file_3861)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പിന്നെ ഇതാ   സിക്കന്ദർ നിങ്ങളുടെ ബിയർ  (file_3862)
+പിന്നെ വിടാം സിക്കന്ധർ ഞങ്ങളെ    ബിയർ  (file_3862)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പിന്നെ ഇത് അദ്ദേഹത്തിന്‍റെ  (file_3863)
+പിന്നെ ഇത് അദ്ദേഹത്തിന്‍റെ  (file_3863)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പിന്നെ ഇത് നിന്‍റെ അമ്മക്കും   (file_3864)
+പിന്നെ ഇതാ നിന്‍റെ ടിക്കറ്റും  (file_3864)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ ഈ            അപരിചിതരുമായി    (file_3865)
+***    കോളേജിലേക്ക് അറിയാമായിരുന്നു  (file_3865)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പിന്നെ എഡമണ്ട്സ് അത് അതിനും     അകലെ  (file_3866)
+പിന്നെ എഡമണ്ട്സ് അത് ഏതെങ്കിലും പോലെ  (file_3866)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ എനിക്കതിന്റെ ഭാഗമാകാതിരിക്കാന്‍ കഴിഞ്ഞില്ല  (file_3867)
+പിന്നെ എനിക്കതിന്റെ ഭാഗമാകാതിരിക്കാന്‍ നല്ല        (file_3867)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെ എനിക്കായി ഉണ്ടായിരുന്ന  (file_3868)
+പിന്നെ ദൈവം      ഉണ്ടായതാണ്    (file_3868)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ എന്‍റെ       ആ   മാന്ത്രികക്കൊട്ടാരം  (file_3869)
+***    കോളേജിലേക്ക് ആണ് പകരം                 (file_3869)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പിന്നെ എയർപോർട്ടിൽ നിന്ന് ഹോട്ടലിലേക്ക്  (file_3870)
+പിന്നെ പാർലറിൽ     പലതും  പട്ടേൽ         (file_3870)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പിന്നെ എല്ലാം നന്നായി വരുന്നു  (file_3871)
+പിന്നെ അല്ല   ആയി     പറ്റും   (file_3871)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പിന്നെ എവിടെയാ നിനക്ക്   പറ്റുന്നത്   (file_3872)
+പിന്നെ ***     പറയാത്തത് എന്തുപറ്റും  (file_3872)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പിന്നെ കുറച്ച്ക്കൂടി ഉപ്പിട്ട *** പോലെയാവും  (file_3873)
+പിന്നെ കുറച്ച്ക്കൂടി ഉപ്പിട്ട ആണ് പറയാം      (file_3873)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പിന്നെ ***     ചിന്‍റുസുഖമല്ലേ ചിന്‍റു  (file_3874)
+പിന്നെ ചുറ്റും സ്ട്രേറ്റ്      ചുറ്റും  (file_3874)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പിന്നെ ഞങ്ങളുടെ അച്ഛന്‍ മരിച്ചു  (file_3875)
+പിന്നെ ഞങ്ങളെ   കുറച്ചു മരിച്ചു  (file_3875)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ ഞങ്ങൾ എന്തെങ്കിലും ചെയ്യണമെങ്കിൽ  (file_3876)
+പിന്നെ ഞങ്ങൾ എന്തെങ്കിലും ചെയറിൽ         (file_3876)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെ ഞണ്ടും  (file_3877)
+പിന്നെ ഞണ്ടും  (file_3877)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പിന്നെ ഞാന്‍   ഒരു കാര്യം പറഞ്ഞാല്‍  (file_3878)
+പിന്നെ ബ്രാൻഡ് ഒരു കാര്യം പകൽ        (file_3878)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ ഞാന്‍  ഒറ്റയ്ക്കാവില്ലെന്ന്  (file_3879)
+പിന്നെ ബാഗാണ് പറ്റാത്തതുകാരണം       (file_3879)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ ഞാന്‍ നിനക്ക് ആ    ക്ലോക്കുകള്‍  (file_3880)
+പിന്നെ ഞാന്‍ പട്ടേൽ  പാവം ഡോറുകൾ       (file_3880)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പിന്നെ നമ്മൾക്ക് സുഹൃത്തുക്കളാവാം  (file_3881)
+പിന്നെ നമ്മുടെ   ശതമാനം            (file_3881)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ നാരങ്ങയും  (file_3882)
+പട്ടേൽ കാര്യം     (file_3882)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ നിങ്ങളും പോയി നിങ്ങളുടെ പണിയെടുക്കാൻ നോക്ക്       (file_3883)
+പിന്നെ നിങ്ങളും പോയി ***       ഞങ്ങളെ       പറയാംമാഗസിൽ  (file_3883)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പിന്നെ നിങ്ങള്‍ കേടുവന്ന പോലെയാണ്  (file_3884)
+പിന്നെ ഞങ്ങൾ    കാരണമാണ് പോലെയാണ്  (file_3884)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ നിന്‍റെ     അച്ഛന്‍  (file_3885)
+***    കോളേജിന്‍റെ അച്ഛന്‍  (file_3885)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+***     പിന്നെ നീയിപ്പോൾ മോഡേണായി      മാറി  (file_3886)
+പിന്നേം പോയി   റോൾ      പോലയായിരുന്നു ഭാരം  (file_3886)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+പിന്നെ നീയെന്താണ്     അവളെ വിളിക്കുക  (file_3887)
+***    കണ്ടെത്തിയതാണ് അവളെ ഡോ         (file_3887)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പിന്നെ നീയൊരു  ധൈര്യശാലിയുമാണ്  (file_3888)
+പിന്നെ ജ്യൂസ്‌ കഥയാണ്           (file_3888)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ പണം വീട്ടിലേക്ക് അയക്കുമ്പോൾ  (file_3889)
+പിന്നെ പണം പേരെ         അയക്കുമ്പോൾ  (file_3889)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെ     പാരടൈസോയിലെ പാർട്ടിക്ക് ആം      തീയതി      (file_3890)
+പെട്ടെന്ന് പാരടൈസോയിലെ പാർട്ടിക്ക് എന്താണ് കൈയ്യില്‍  (file_3890)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പിന്നെ മാറാനുള്ള റൂം അവിടെയാണ്  (file_3891)
+പിന്നെ മാറാനുള്ള *** പോവുകയാണ്  (file_3891)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+പിന്നെ മാറ്റേണ്ടിവരില്ല  (file_3892)
+പിന്നെ മാറ്റേണ്ടിവരില്ല  (file_3892)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പിന്നെ മില്ലെർ   (file_3893)
+പിന്നെ പൈലറ്റും  (file_3893)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെ രക്ഷപ്പെടാൻ വേണ്ടി കാത്തിരിക്കുക  (file_3894)
+പിന്നെ തിരകളാണ്    വേണ്ടി കാര്യമോ        (file_3894)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നെ ***       റേഞ്ചര്‍ രണ്ടും റോക്കറ്റ്  (file_3895)
+പിന്നെ നമ്മൾക്ക് രണ്ടു    ഞാന്‍  ഗസ്റ്റ്    (file_3895)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+പിന്നെ ശക്തിയുള്ളൊരു കവണ    (file_3896)
+പിന്നെ ശക്തിയുള്ളൊരു കാണാം  (file_3896)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിന്നെ സർക്കാർ ഒരുപാട് ആനുകൂല്യങ്ങളും തരുന്നുണ്ട്  (file_3897)
+പിന്നെ സർക്കാർ ഒരുപാട് കാലം           ജാർഗണ്ടിലും  (file_3897)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പിന്നോട്ട്  (file_3898)
+ഡോറുകൾ     (file_3898)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പിഴിയാനോ  (file_3899)
+പോയാലും   (file_3899)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***  പിസോചെറി  (file_3900)
+പേര് സോഡയും    (file_3900)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പുകയും  കപ്പിയും  (file_3901)
+പോലെയും പറയുന്നു  (file_3901)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പുതിയവ കൊണ്ടു   വന്നിട്ടുണ്ട് അവിടെ  നിനക്ക്                (file_3902)
+***    പൊടിയാണ് കണ്ടോ         പട്ടേൽ കണ്ടെത്തിയിരിക്കുന്നു  (file_3902)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+പുതിയ മാജിക്      അടവുകള്‍ കണ്ടുപിടിച്ചു  (file_3903)
+***   പറയാംമാഗസിൽ അപ്പോൾ   പൊട്ടിച്ചു     (file_3903)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പുറകിലെ സീറ്റിലിരിക്കൂ  (file_3904)
+പുറകിലെ സീറ്റിലിരിക്കൂ  (file_3904)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പുറകോട്ട് മാറൂ പ്രൊഫസര്‍  (file_3905)
+പോട്ടെ    മാറൂ പ്രൊഫസര്‍  (file_3905)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പുറത്തിപ്പോൾ സാമ്പത്തികമാന്ദ്യമാണ്  (file_3906)
+പുറത്തിപ്പോൾ സാമ്പത്തികമാന്ദ്യമാണ്  (file_3906)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പുറത്തുകടക്കൂ  (file_3907)
+പോകരുത്       (file_3907)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പുറത്തേക്കിറങ്ങ് ഞാന്‍           ഓടിച്ചോളാം  (file_3908)
+***              പറ്റാത്തതുകാരണം കൊടുക്കാനോ  (file_3908)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പുറത്തേക്കു വരാൻ     എനിക്കെത്രെ ബുദ്ധിമുട്ടാണെന്നറിയോ  (file_3909)
+പ്രേതമല്ല   കിടക്കാം ബോട്ട്      അമ്മയും                (file_3909)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+പുറത്തേക്ക് ഒക്കെ     ഒന്നിറങ്ങ്  (file_3910)
+പ്രധാന      എന്നൊക്കെ പറയുന്നു    (file_3910)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പുറത്തേക്ക് പോപോവാൻ  (file_3911)
+പട്ടേൽ      പോപോവാൻ  (file_3911)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***      പുറത്തേക്ക് പോവാൻ  (file_3912)
+കൂപ്പര്‍ നേരെ        പോവാം  (file_3912)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പുറത്ത് പോകരുത്         (file_3913)
+പറ      കെട്ടുപാടുകള്‍  (file_3913)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***   പുറത്ത് പോപുറത്ത് പോ     (file_3914)
+പക്ഷെ ഇപ്പോൾ പട്ടേൽ    പോകാം  (file_3914)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+പുറത്ത് പോ    അതറിയലല്ല  നിന്റെ പണി    (file_3915)
+***     പക്ഷെ പോവുകയല്ലാ കൂടെ   പറയും  (file_3915)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+പുറത്ത് വരാനാകും പഠനങ്ങള്‍ പറയുന്നു   (file_3916)
+***     പക്ഷെ    തയാറാവു   പറഞ്ഞുതരു  (file_3916)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+***   ***  പുസ്തകങ്ങളിലേക്ക് നോക്കൂ  ഇങ്ങോട്ട് നോക്കൂ  (file_3917)
+പപ്പാ വളരെ പോകൂ              നിന്നോട് അതെ       പോകൂ     (file_3917)
+Words: 4 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+പുസ്തകങ്ങളില്‍ എല്ലാ  സമയവും  അവര്‍  കരയും     (file_3918)
+പപ്പാ          നല്‍കി ലാസറുസ് സമയവും കയറുകയും  (file_3918)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 5
+പുസ്തകങ്ങള്‍ക്ക് പുറത്ത്  അതാണ്  ശരി  (file_3919)
+പാടാകും          പറക്കല്‍ കാര്യം ശരി  (file_3919)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പുസ്തകങ്ങള്‍ ഒന്നിച്ചിരുന്ന് വായിച്ചിരുന്നു  (file_3920)
+പടയാളികള്‍   പൊട്ടനാണ്       മരിച്ചു         (file_3920)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പൂച്ച   (file_3921)
+ഒരാള്‍  (file_3921)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പൂട്ടുക  (file_3922)
+ഡോറുകൾ  (file_3922)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പൂര്‍ണ്ണമായും നശിച്ചു  (file_3923)
+പൂർണമായി      നശിച്ചു  (file_3923)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** ***   പൂര്‍ത്തിയാക്കാന്‍ ശ്രമിച്ചുകൊണ്ടിരുന്നു  (file_3924)
+പോ  കയറണം ശ്രമിച്ചോ          കിട്ടും                (file_3924)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+പെട്ടി  നിറയെ   ദ്രവിച്ച           ഫിലിമുകളായിരുന്നു  (file_3925)
+പേരില്‍ ജ്വാലയെ പ്രോത്സാഹിപ്പിച്ചു വരും               (file_3925)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+പെട്ടെന്നാവട്ടെ മര്‍ഫ്  (file_3926)
+പറയട്ടെ         മര്‍ഫ്  (file_3926)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പെട്ടെന്ന് തന്നെ ഞങ്ങൾ       മനസിലാക്കി  (file_3927)
+പറ്റാത്ത   കൂടെ  ഞങ്ങള്‍ക്ക് ബദലായി      (file_3927)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+പെണ്‍കുട്ടികൾ  (file_3928)
+പെണ്‍കുട്ടികൾ  (file_3928)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പെണ്‍കുട്ടിയെയും കോണ്‍ഫറൻസ് ഹാളിൽ എത്തിക്കൂ         (file_3929)
+***              ***        പറയുക സങ്കല്‍പ്പിക്കും  (file_3929)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+പേടകം ചൂടാവുന്നു  (file_3930)
+പേടകം ചൂടാവുന്നു  (file_3930)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പേടകം ***          സ്ട്രാറ്റോസ്ഫിയറിലേക്ക് പോകുന്നു  (file_3931)
+പേടകം ചർച്ചിലേക്ക് ഏതു                     പോകുന്നു  (file_3931)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പേടകത്തിന്റെ കറക്കം  (file_3932)
+പേടകത്തിന്റെ കറക്കം  (file_3932)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പേടകത്തിന്റെ കറക്കം അറിയൂ  (file_3933)
+പേടകത്തിന്റെ കറക്കം കയറൂ   (file_3933)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   ***    പേടിക്കണ്ട എനിക്കിപ്പോള്‍ ഒരു     കുഴപ്പവുമില്ല  (file_3934)
+എന്ത് രണ്ടാം പേര്       കേൾക്ക്        ഒരുപാട് പോവുകയാണ്      (file_3934)
+Words: 4 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+***  പേടിക്കണ്ട  (file_3935)
+പേര് രണ്ടാം      (file_3935)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***  പേടിക്കേണ്ട  (file_3936)
+പേര് രണ്ടാം       (file_3936)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പേടിച്ചുപോയിരുന്നു  (file_3937)
+പേടിച്ചുപോയിരുന്നു  (file_3937)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***    പൈസ      നാളെ തരാം ***  (file_3938)
+പിന്നെ പാരിസാണ് നാളെ തരാം ന്   (file_3938)
+Words: 3 Correct: 2 Errors: 3 Percent correct = 66.67% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+പൊടി      ശ്വസിക്കാതിരിക്കാനായിരുന്നു അത്  (file_3939)
+പോട്ടിയിൽ ചേച്ചികരയുന്നത്             ആണ്  (file_3939)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പൊട്ടനോ      ഞാനോ    (file_3940)
+ഡോട്ട്ഡോട്ട് ആരോടും  (file_3940)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***    പൊട്ടിച്ചിരി  (file_3941)
+പോട്ടെ ചെയ്തു        (file_3941)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പൊട്ടിയ  കളിപ്പാട്ടം  (file_3942)
+പൊടിയാണ് ഉപകരണം       (file_3942)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** ***    പൊതുസജ്ജീകരണങ്ങള്‍  (file_3943)
+നീ  ക്രോസ് അയാള്‍ക്ക്          (file_3943)
+Words: 1 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 300.00% Accuracy = -200.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+*** പൊയ്ക്കോളൂ  (file_3944)
+ഡോ  ഹോൾ         (file_3944)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പൊറുക്കാനാവത്തതാണ്  (file_3945)
+പൊറുക്കാനാവത്തതാണ്  (file_3945)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പോകട്ടെ      (file_3946)
+പോകരുതെന്ന്  (file_3946)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     *** പോകരുത്  (file_3947)
+ചെക്ക്‌ ഡോ  പട്ടേൽ   (file_3947)
+Words: 1 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 300.00% Accuracy = -200.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+*** പോകല്ലേ  (file_3948)
+നീ  നാളെ     (file_3948)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പോകല്ലേ   പോകല്ലേടാ വിഡ്ഢീ  (file_3949)
+പോട്ടിയിൽ പോകുകയാണ് വിഡ്ഢീ  (file_3949)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** *** ***   പോകുന്നതെന്ന് നിങ്ങള്‍ക്ക് അറിയില്ലല്ലോ  (file_3950)
+നീ  ഡോ  മാന്‍ മാത്രമേ       അദ്ദേഹം      കരയിലോ        (file_3950)
+Words: 3 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 3 Deletions: 0 Substitutions: 3
+***   പോകുന്നു എല്ലാവരും പിടിച്ചിരിക്കു  (file_3951)
+പോവണോ കാര്യം   പക്ഷേ     കൂടി            (file_3951)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+*** പോകു    (file_3952)
+ഡോ  മൂന്ന്  (file_3952)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പോകു മുന്നോട്ടു   നീങ്ങു  (file_3953)
+പോകു ഡോട്ട്ഡോട്ട് അയാള്‍  (file_3953)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** *** പോകു വേഗം    (file_3954)
+നീ  പോ  പോ   കടന്ന്  (file_3954)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+പോട്രെയിൻ പോവും  (file_3955)
+പോവുകയും  പോണം   (file_3955)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** പോപോയിരിക്ക്  (file_3956)
+പോ  പോയതില്‍      (file_3956)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പോയതാണോ എന്ന്       (file_3957)
+പോയാലോ  കുട്ടികള്‍  (file_3957)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പോയിക്കോളു  (file_3958)
+പോയിക്കോളു  (file_3958)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***  ***    പോയിരിക്ക്ഞാനിവിടെയുണ്ട്  (file_3959)
+പോയി കേടായി ലണ്ടനിൽ                   (file_3959)
+Words: 1 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 300.00% Accuracy = -200.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+പോയി കിടന്നുറങ്ങ് മോളേ  (file_3960)
+പോയി കടകളില്‍     മോളെ  (file_3960)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പോയി തുലയെടാ  (file_3961)
+പോയി പറയാം    (file_3961)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പോയി തൊലയെടാ     (file_3962)
+പോയി എന്തായാലും  (file_3962)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പോയി ശ്രമിക്ക്  (file_3963)
+പോയി പട്ടേൽ     (file_3963)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പോലിസ്  (file_3964)
+പോലീസ്  (file_3964)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***  പോലീസ് ഹെഡ്ക്വാര്‍ട്ടേഴ്സ് അല്ലേ   (file_3965)
+പോയി സ്ഫടിക ടാര്‍‌സ്            പട്ടേൽ  (file_3965)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+***   പോലെയാണ്      ഡോണാൾഡ്  (file_3966)
+ഒന്ന് പോലയായിരുന്നു കാലും    (file_3966)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പോലെയും പൊടിനിലത്തിലെ ഗോതമ്പ് *** പോലെയും  (file_3967)
+പോലെയും പൊടിനിലത്തിലെ ഗോതമ്പ് ആണ് പോലെയും  (file_3967)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** ***   പോലെ   മറ്റൊന്ന് ഗുരുത്വാകര്‍ഷണം ആണ്       (file_3968)
+ഡോ  എന്ന് മകനാണ് ഒരു       ടാര്‍‌സ്        മുൻപാണ്‌  (file_3968)
+Words: 4 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+*** പോവാമെന്ന് ഞാന്‍        സത്യം ***   ചെയ്തിട്ടുണ്ട്  (file_3969)
+പോ  ആ          പറഞ്ഞപ്പോള്‍ സത്യം ഞാന്‍ കണ്ടു           (file_3969)
+Words: 4 Correct: 1 Errors: 5 Percent correct = 25.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 2 Deletions: 0 Substitutions: 3
+*** പോവുകയാണ്  (file_3970)
+അത് പോയാലും    (file_3970)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***   ***    പോവുകയോ  (file_3971)
+എന്ത് പോട്ടേ റോൾ     (file_3971)
+Words: 1 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 300.00% Accuracy = -200.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+പോസ്റ്റര്‍     (file_3972)
+പാര്‍ട്സുകള്‍  (file_3972)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പോൾ ഡാൻസിന്‍റെ സമയമായിവരൂ ***    (file_3973)
+പോൾ ഡാൻസിന്‍റെ സമയമായിവരൂ എന്ന്  (file_3973)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** പോൾ ഡാൻസ്   (file_3974)
+നീ  നാം ഡാൻസും  (file_3974)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പോ      (file_3975)
+എപ്പോൾ  (file_3975)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പോ  ഇവിടുന്ന്  (file_3976)
+പോ  ഞങ്ങൾ      (file_3976)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പോ   ഉള്ളില്‍ കടക്ക്    (file_3977)
+പോകു പട്ടേൽ   കടകളില്‍  (file_3977)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പോ  നിങ്ങള്‍ക്ക് പോകണമെങ്കില്‍ പൊയ്ക്കോളൂ  (file_3978)
+പോ  കടന്നുപോ     അവരിൽ         കൈകളും      (file_3978)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പോ   പുറത്ത്  (file_3979)
+പോകു പട്ടേൽ   (file_3979)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***     പോ  പോ   (file_3980)
+ഇപ്പോൾ പോ  ഹോൾ  (file_3980)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പോ        പോ     പോ    (file_3981)
+കാണുന്നതോ മൂന്ന് പോകു  (file_3981)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പോ        പ്രത്ധ്വനി  (file_3982)
+താക്കോല്‍ പറയുന്നു    (file_3982)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പ്രകാശത്തിന്‍റെ വേഗതയിൽ *** യാത്ര ചെയുമ്പോൾ അല്ലെങ്കില്‍  (file_3983)
+പ്രകാശത്തിന്‍റെ വേഗതയിൽ ചില കാര്‍ ചെയ്യുമോ  ജയിലിൽ        (file_3983)
+Words: 5 Correct: 2 Errors: 4 Percent correct = 40.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+***    പ്രകൃതിക്ക് മോശപ്പെട്ടതാവാൻ കഴിയും എന്ന് നിനക്ക് അറിയില്ലേ  (file_3984)
+പട്ടേൽ പോർട്ട്    അവനെ            കാര്യം ഞങ്ങൾ പട്ടേൽ  കൈയ്യില്‍  (file_3984)
+Words: 6 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 116.67% Accuracy = -16.67%
+Insertions: 1 Deletions: 0 Substitutions: 6
+പ്രകൃതിയുടെ  നിയമങ്ങള്‍ നഗ്നമായ  (file_3985)
+ഡൽഹിയിലേക്ക് ഗിയറുകള്‍  പറയാം    (file_3985)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പ്രണയത്തിലായി   ഫോട്ടോഗ്രഫി എവിടെയാണ്  (file_3986)
+പാവാടയായിരുന്നു കൂട്ടരേ     കണ്ടാൽ     (file_3986)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***   പ്രത്യക്ഷപ്പെട്ടിട്ടുണ്ട്  (file_3987)
+പക്ഷേ കണ്ടു                      (file_3987)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പ്രത്യേകിച്ച് മര്‍ഫിന്    (file_3988)
+പഠിച്ചത്      മര്‍ഫിയുടെ  (file_3988)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പ്രധാന    എന്‍ജിനുകള്‍ പ്രവര്‍ത്തിപ്പിക്കണോ  (file_3989)
+പറഞ്ഞാല്‍ പാർട്ടിക്ക്  ടോം                  (file_3989)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പ്രധാന ***   എന്‍ജിന്‍ നിര്‍ത്തൂ  (file_3990)
+പ്രധാന ഞാന്‍ നിന്നെ    ഡോ         (file_3990)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പ്രധാന *** എന്‍ജിന്‍ പ്രവര്‍ത്തിക്കട്ടെ  (file_3991)
+പ്രധാന ആണ് ഞാനിത്    പാലിന്‍റെ           (file_3991)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പ്രധാന എന്‍ജിന്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നു മൂന്ന്  (file_3992)
+പ്രധാന എന്‍ജിന്‍ പ്രവര്‍ത്തിപ്പിക്കുന്നു ഇതും    (file_3992)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     ***     ***   പ്രധാന    എൻജിൻ        സ്റ്റാർട്ട്‌ ചെയ്യാൻ പോകുന്നു പത്ത്   (file_3993)
+എന്താണ് പ്രധാനം പക്ഷേ നില്‍ക്ക് ആര്‍ജ്ജിച്ചു യാത്ര        പോ      മോനെ      പട്ടേൽ  (file_3993)
+Words: 6 Correct: 0 Errors: 9 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 3 Deletions: 0 Substitutions: 6
+*** പ്രപഞ്ചത്തിനുമപ്പുറം ഒരു  ദശാബ്ദമായി കാണാത്ത ***  (file_3994)
+ഡോ  പറഞ്ഞോ               ലോകം ദശാബ്ദമായി കാണാത്ത ആണ്  (file_3994)
+Words: 4 Correct: 2 Errors: 4 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+***    പ്രപഞ്ചത്തിലേയ്ക് കാലെടുത്തുവെയ്കുമ്പോള്‍  (file_3995)
+പട്ടേൽ കാലത്തിന്         മോൾക്ക്                  (file_3995)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പ്രവര്‍ത്തനം നിലയ്ക്കുന്നു  (file_3996)
+പ്രധാനം      ഡോ             (file_3996)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പ്രവര്‍ത്തിക്കാന്‍  (file_3997)
+കത്തിക്കാന്‍        (file_3997)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***  പ്രശ്നം ഗുരുത്വാകര്‍ഷണം ആണ്          (file_3998)
+കഷണം എനിക്ക് നിരാശ           നിന്നെക്കാൾ  (file_3998)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+***   പ്രശ്നം ഞാന്‍ പരിഹരിച്ചിരിക്കും  (file_3999)
+എന്ത് പ്രശ്നം ഞാന്‍ പരിഹരിച്ചിരിക്കും  (file_3999)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+പ്രശ്നമില്ല  (file_4000)
+പ്രധാനം      (file_4000)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+TOTAL Words: 707 Correct: 210 Errors: 573
+TOTAL Percent correct = 29.70% Error = 81.05% Accuracy = 18.95%
+TOTAL Insertions: 76 Deletions: 39 Substitutions: 458
