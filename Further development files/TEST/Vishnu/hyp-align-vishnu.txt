@@ -1,0 +1,1003 @@
+എന്നാല്‍ അങ്ങനെ നോക്ക്   (test1)
+കണ്ടാൽ   ഞങ്ങളെ ഡോറുകൾ  (test1)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എന്നാല്‍ അടുത്ത നക്ഷത്രങ്ങൾ  (test2)
+എന്നാല്‍ അടുത്ത നക്ഷത്രങ്ങൾ  (test2)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്നാല്‍ അത്    മതിയാകില്ല  (test3)
+കണ്ടാൽ   അപ്പോൾ മതിയാകില്ല  (test3)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്നാല്‍ അത്     വളരെ അകലെയാണ് ശരിയല്ലേ  (test4)
+കണ്ടാൽ   അദ്ദേഹം വളരെ അകലെയാണ് ശരിയല്ലേ  (test4)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്നാല്‍ അവരെ     ഒരു       പെട്ടിയിലാക്കിയിങ്ങോട്ട്  (test5)
+***      കാണാനാണ് വെക്കരുത് പെട്ടിയിലാക്കിയിങ്ങോട്ട്  (test5)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+എന്നാല്‍ അവിടെ  എത്താൻ    മാസങ്ങൾ        വേണ്ടിവരും  (test6)
+***      കണ്ടാൽ അവിടെത്തെ താമസിക്കുന്നത് വേണ്ടിവരും  (test6)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+എന്നാല്‍ അവർക്ക് നമ്മോട് ഭാവിയിൽ  (test7)
+കണ്ടാൽ   അവർക്ക് നമ്മോട് ഭാവിയിൽ  (test7)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്നാല്‍ അവർ പറഞ്ഞു ഞാന്‍    എന്തായാലും  (test8)
+കണ്ടാൽ   അവർ റാണി   ഓർഗാനിക് എന്തായാലും  (test8)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എന്നാല്‍ അവൾ          എന്നോട്    വഴങ്ങിയില്ല  (test9)
+കണ്ടാൽ   അവരെന്തിനാണ് വഴങ്ങിയില്ല എന്ന്        (test9)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+എന്നാല്‍ അല്‍പം പ്രായമേറിയ ***      അല്പം ബുദ്ധിമാനായ  (test10)
+ഡൊണാൾഡ് അല്‍പം പ്രായമേറിയ എന്നാല്‍ പണം   ബുദ്ധിമാനായ  (test10)
+Words: 5 Correct: 3 Errors: 3 Percent correct = 60.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഒരു എഞ്ചിനീയറും കൂടിയാ  (test11)
+ഒരു ഇഞ്ചിയും    കൂടിയാ  (test11)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു ഓട്ടോമാറ്റണ്‍  (test12)
+ഒരു ഓട്ടോമാറ്റണ്‍  (test12)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു കടമ്പ     (test13)
+ഒരു കാരണമാണ്  (test13)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു കപ്പു കൂടെ തന്നൂടെ  (test14)
+ഒരു കപ്പു കൂടെ തന്നൂടെ  (test14)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു കാര്യം ചെയ്തോ ***  നീയെന്‍റെ ക്ലബ്ബിൽ ചേർന്നോളു  (test15)
+ഒരു കാര്യം ചെയ്തോ ബിയർ എന്‍റെ    കണ്ണില്‍ ചേർന്നോളു  (test15)
+Words: 6 Correct: 4 Errors: 3 Percent correct = 66.67% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഒരു കാര്യം നിനക്ക്  തീർച്ചയായും വ്യക്തമാവും  (test16)
+ഒരു കാര്യം കുടിക്കൽ തീർച്ചയായും വ്യക്തമാവും  (test16)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു കുട്ടിക്ക് എവിടെയും പറ്റണം  (test17)
+ഒരു കുട്ടിക്ക് എവിടെയും പറ്റണം  (test17)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു കോളനി തുടങ്ങിയാല്‍  (test18)
+ഒരു കോളനി തുടങ്ങിയാല്‍  (test18)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു ഗോളം  (test19)
+ഒരു ഗോളം  (test19)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു ചെറിയ   മുൻകരുതൽ  (test20)
+ഒരു ചെയ്യാം മുൻകരുതൽ  (test20)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു ടയര്‍  പഞ്ചറായി  (test21)
+ഒരു കാര്യം പഞ്ചറായി  (test21)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു ***  ടുഡയമൻഷൻ വൃത്താകൃതി ആയി     മാറും  (test22)
+ഒരു കൂടെ മേശ      എന്താ      അതിനായി മറ്റു  (test22)
+Words: 5 Correct: 1 Errors: 5 Percent correct = 20.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+ഒരു ***   താക്കോല്‍ദ്വാരം  (test23)
+ഒരു എന്താ കൊട്ടാരം         (test23)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഒരു താവളം ഉണ്ടാക്കുന്നു  (test24)
+ഒരു താവളം ഉണ്ടാക്കുന്നു  (test24)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു തോന്നല്‍  (test25)
+ഒരു ഡോയൽ      (test25)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു ദശകമോ അതിലധികമോ  (test26)
+ഒരു ദശകമോ അതിലധികമോ  (test26)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു ദിവസം എന്നെ ചേട്ടന്‍ സ്റ്റുഡിയോയിലേക്ക് കൊണ്ടുപോയി  (test27)
+ഒരു ദിവസം എന്നെ ചേട്ടന്‍ സ്റ്റുഡിയോയിലേക്ക് കൊണ്ടുപോയി  (test27)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു ദിവസം കൂടി കാത്തിരിക്കാൻ ***    കഴിയുന്നില്ലേ  (test28)
+ഒരു ദിവസം കൂടി കാത്തിരിക്കാൻ സ്ഥാനം കഴിയില്ല       (test28)
+Words: 5 Correct: 4 Errors: 2 Percent correct = 80.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഒരു ദിവസം സാന്‍റ ബാന്റയോട് പറഞ്ഞു    (test29)
+ഒരു ദിവസം സാന്‍റ ബാന്റയോട് കാണിക്കൂ  (test29)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു ദിവസം സാന്‍റ ബാന്‍റയോട് പറഞ്ഞു  (test30)
+ഒരു ദിവസം സാന്‍റ ബാന്റയോട്  കണ്ടു   (test30)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒരു ദിവസം തവണ   മൂത്രമൊഴിക്കുമോ  (test31)
+ഒരു ദിവസം കാണാം മൂത്രമൊഴിക്കുമോ  (test31)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു നമസ്ക്കാരം പറയാനാണ്  (test32)
+ഒരു നമസ്ക്കാരം പറയാനാണ്  (test32)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു നല്ല   ദിനം  ആശംസിക്കുന്നു  (test33)
+ഒരു കാര്യം ജേനും ആശംസിക്കുന്നു  (test33)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒരു നിമിഷം  (test34)
+ഒരു നിമിഷം  (test34)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു പക്ഷെ നിങ്ങളുടെ പേരക്കുട്ടികൾ എഞ്ചിനീയർ ആകുമായിരിക്കാം  (test35)
+ഒരു പക്ഷേ നിങ്ങളുടെ പേരക്കുട്ടികൾ നിധിയാണ്‌ ആകുമായിരിക്കാം  (test35)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒരു പക്ഷേ ചില തെളിവുകള്‍  (test36)
+ഒരു പക്ഷേ ചില തെളിവുകള്‍  (test36)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു     പാർട്ടിക്ക് പോവുകയാണ്  (test37)
+ഒരുപാട് നിന്റെ      പോവുകയാണ്  (test37)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒരു ***      പെണ്‍കുട്ടി എന്നെ അന്വേഷിച്ച് വന്നിരുന്നോ  (test38)
+ഒരു കാണികള്‍ നില്‍ക്കണേ  ഹായ്  ചേച്ചി      മണിക്കൂറും   (test38)
+Words: 5 Correct: 1 Errors: 5 Percent correct = 20.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+ഒരു പ്രബന്ധം ചെയ്തിരുന്നു  (test39)
+ഒരു പ്രബന്ധം ചെയ്തിരുന്നു  (test39)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു ***    ***   പ്രോഫസർ  (test40)
+ഒരു കുക്കർ ഫ്രഷ് ആണ്      (test40)
+Words: 2 Correct: 1 Errors: 3 Percent correct = 50.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+ഒരു ***    ബോര്‍ഡുണ്ടായിരുന്നു റാണി വെഡ്സ്  (test41)
+ഒരു ബോർഡ് ഉണ്ടായിരുന്നു       റാണി ബേസ്    (test41)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഒരു     ബ്ലാക്ക്  ഹോളിന്‍റെ അടുത്തയിരിക്കുമ്പോള്‍  (test42)
+ഒരുപാട് ഹോളിന്‍റെ അടുത്ത    ആയിരിക്കുമ്പോൾ        (test42)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഒരു ***   ഭീമൻ റോബോട്ട്  (test43)
+ഒരു ദിവസം പോ   പോ          (test43)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഒരു ഭുദ്ധിമതിയാണ്  (test44)
+ഒരു ഭുദ്ധിമതിയാണ്  (test44)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു ഭ്രമണപഥത്തിലാണ്  (test45)
+ഒരു ദേഷ്യത്തിലാണ്    (test45)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു മണിക്കൂര്‍ ***    മുമ്പ് വരെ ഞാന്‍   ജീവനോടെ   ഉണ്ടെന്ന്      പോലും  (test46)
+ഒരു മണിക്കൂര്‍ ബോംബ് ആണ്    മഴ  എന്താണ് ചെയ്യട്ടെ കൊണ്ടാണെന്നാണ് പോലും  (test46)
+Words: 8 Correct: 3 Errors: 6 Percent correct = 37.50% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 5
+ഒരു മണിക്കൂറില്‍ മിനിറ്റ് ***  (test47)
+ഒരു മണിക്കൂറില്‍ മിനിറ്റ് ആണ്  (test47)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഒരു മാജിക് ട്രിക്ക്  പോലെ ആയിരുന്നു അത്    (test48)
+ഒരു ***    കാറിന്‍റെ പോലെ ആയിരുന്നു കണ്ടു  (test48)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഒരു മാന്ത്രികക്കൊട്ടാരമായിരുന്നു  (test49)
+ഒരു മാന്ത്രികക്കൊട്ടാരമായിരുന്നു  (test49)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു മികച്ച വിദ്യാർത്ഥിനിയാണ്  (test50)
+ഒരു മികച്ച വിദ്യാർത്ഥിനിയാണ്  (test50)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു മിക്സാണ് കുറച്ച് ഇന്ത്യൻ കുറച്ച് സ്പാനിഷ്‌  (test51)
+ഒരു മിക്സാണ് കുറച്ച് ഇനിയും  കൊച്ചു  സ്പാനിഷ്‌  (test51)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒരു മിനുട്ട്  (test52)
+ഒരു ഇതിന്‍റെ  (test52)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു മൂഡയായി മാറണമോ  (test53)
+ഒരു മൂഡയായി മാറണമോ  (test53)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു ***     മ്യൂസിക്ക് ബോക്സ് പോലത്തെ  (test54)
+ഒരു ജ്യൂസ്‌ ലോകം       ബോക്സ് പോലത്തെ  (test54)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഒരു മ്യൂസിയത്തിനു   നല്‍കി   (test55)
+ഒരു മ്യൂസിയത്തിന്റെ ഡൽഹിയിൽ  (test55)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒരു മ്യൂസിയത്തിന്റെ തട്ടിന്‍പുറത്ത് ***  (test56)
+ഒരു മ്യൂസിയത്തിന്റെ തട്ടിന്‍പുറത്ത് ആണ്  (test56)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഒരു ***       യഥാര്‍ത്ഥ വെല്ലുവിളിയാണ്  (test57)
+ഒരു ജോലിക്കാർ ആ         സംഖ്യയാണ്       (test57)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഒരു യഥാര്‍ഥ    സിനിമാനടി  (test58)
+ഒരു ഒലക്സാണ്ടർ സിനിമാനടി  (test58)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു യാത്ര അവളുടെ മനസ്സ് *** ശാന്തമാക്കും  (test59)
+ഒരു യാത്ര അവളുടെ മനസ്സ് അത് ശാന്തമാക്കും  (test59)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഒരു രണ്ടുമിനുട്ട് എന്നോട് സംസാരിക്ക്   (test60)
+ഒരു ജനലിന്‍റെ     നാളെ     സംസാരിക്കാം  (test60)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഒരു രണ്ട് മിനുട്ടിന്‍റെ ജോലിയെയൊള്ളൂ  (test61)
+ഒരു കണ്ടോ മിനുട്ടിന്‍റെ ജോലിയെയൊള്ളൂ  (test61)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു രണ്ട്  മിനുട്ടിന് ശേഷം ***          അതിന്      നല്ല  രുചിയായിരുന്നു  (test62)
+ഒരു വേണ്ടെ നിന്റെ     ശേഷം വാര്‍ദ്ധക്യം ബ്രാന്റാണ് പക്ഷേ ആയിരുന്നു       (test62)
+Words: 7 Correct: 2 Errors: 6 Percent correct = 28.57% Error = 85.71% Accuracy = 14.29%
+Insertions: 1 Deletions: 0 Substitutions: 5
+ഒരു രാത്രി കടുത്ത നിരാശ കാരണം  (test63)
+ഒരു രാത്രി കടുത്ത നിരാശ കാരണം  (test63)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു രാത്രി ഞാനും           ജേനും കൂടി  (test64)
+ഒരു ***    താക്കോല്‍ദ്വാരം ജേനും കൂടി  (test64)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഒരു ലോംഗ് ഷോട്ട് അല്ലേ  (test65)
+ഒരു ലോംഗ് ഷോട്ട് അല്ലേ  (test65)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു വംശമായി ചിന്തിക്കണം  (test66)
+ഒരു വംശമായി ചിന്തിക്കണം  (test66)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു വലിയ ഫ്ലാറ്റ് ബ്ലേഡ് തരു   (test67)
+ഒരു വലിയ ഫ്ലാറ്റ് ബേസ്   തരും  (test67)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒരു വളയത്തിനു ചുറ്റുമുള്ള ബാസ്കെറ്റ്ബോൾ പോലെ  (test68)
+ഒരു വളയത്തിനു ചുറ്റുമുള്ള ബാസ്കെറ്റ്ബോൾ പോലെ  (test68)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു വാർഷിക *** അടിസ്ഥാനത്തിൽ സിമ്പിൾ ബൈനറി പിംഗുകൾ തന്നിട്ടുണ്ട്  (test69)
+ഒരു വാർഷിക ആഹ് അടിസ്ഥാനത്തിൽ സിമ്പിൾ ബൈനറി പിംഗുകൾ തന്നിട്ടുണ്ട്  (test69)
+Words: 7 Correct: 7 Errors: 1 Percent correct = 100.00% Error = 14.29% Accuracy = 85.71%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഒരു വിളക്കിന്‍റെ വെളിച്ചത്തിൽ   ഞങ്ങൾ   ആ   കൂടാരം   പങ്കിട്ടു   (test70)
+ഒരു വിളക്കിന്‍റെ മരിച്ചെങ്കില്‍ ഞങ്ങള്‍ ആഹ് കൊട്ടാരം കണ്ടെത്തും  (test70)
+Words: 7 Correct: 2 Errors: 5 Percent correct = 28.57% Error = 71.43% Accuracy = 28.57%
+Insertions: 0 Deletions: 0 Substitutions: 5
+ഒരു വിൽപ്പന മത്സരമുണ്ട്  (test71)
+ഒരു ദിവസം   മത്സരമുണ്ട്  (test71)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു വെടിയുണ്ടയും       ആകുമായിരുന്നു   (test72)
+ഒരു പേടിയുണ്ടായിരുന്നു കാണാമായിരുന്നു  (test72)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒരു വോം ഹോൾ  (test73)
+ഒരു വോം ഹോൾ  (test73)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു സങ്കടകരമായ സംഭവം നടന്നു  (test74)
+ഒരു സങ്കടകരമായ സംഭവം കാരണം   (test74)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു സങ്കീർണതയോട് കൂടെ  (test75)
+ഒരു സങ്കീർണതയോട് കൂടെ  (test75)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു സഞ്ചരിക്കുന്ന  സര്‍ക്കസ് കാണാന്‍ പോയി  (test76)
+ഒരു ശ്രമിക്കുകയാണ് സര്‍ക്കസ് കാണാന്‍ പോയി  (test76)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു സന്ദേശം അയച്ചിട്ടുണ്ട്  (test77)
+ഒരു സന്ദേശം അയച്ചിട്ടുണ്ട്  (test77)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു ***  സിനിമ പ്രദര്‍ശിപ്പിച്ചത് ***  (test78)
+ഒരു ചിരി നാം   പ്രദര്‍ശിപ്പിച്ചത് ആണ്  (test78)
+Words: 3 Correct: 2 Errors: 3 Percent correct = 66.67% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+ഒരു സിസ്റ്റം സാധ്യത കാണിക്കുന്നു  (test79)
+ഒരു സിസ്റ്റം സാധ്യത കാണിക്കുന്നു  (test79)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു സുന്ദരിയായ എറുമ്പ്    ഉണ്ടായിരുന്നു  (test80)
+ഒരു സുന്ദരിയായ നിന്നുമാണ് ഉണ്ടായിരുന്നു  (test80)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരു സ്പെരികൽഹോൾ  (test81)
+ഒരു സ്പെരികൽഹോൾ  (test81)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരു എണ്ണം ഞാനൊരു          ദിവസം തവണവരെ മൂത്രമൊഴിക്കും  (test82)
+ഒരു ***   ചെയ്യാനായേക്കും ദിവസം തവണവരെ മൂത്രമൊഴിക്കും  (test82)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഒരെണ്ണം കൂടി ഉണ്ടല്ലോ  (test83)
+ഒരെണ്ണം കൂടി ഉണ്ടല്ലോ  (test83)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരേയൊരു വഴി ഇതാണ്  (test84)
+ഒരേയൊരു വഴി ഇതാണ്  (test84)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരേയൊരു സാധനം  (test85)
+ഒരേയൊരു സാധനം  (test85)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒരേ തൊപ്പിയാണ്‌  (test86)
+ഒരേ കുട്ടിയാണ്   (test86)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒരൽപം സത്യസന്ധമായിട്ട്  (test87)
+ഒരൽപം സത്യസന്ധമായിട്ട്  (test87)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒറ്റക്കാണ് വന്നത്   (test88)
+ഒറ്റക്കാണ് ഒന്നാണ്  (test88)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒറ്റക്കൈകൊണ്ട് എല്ലാം തീര്‍ക്കാനായിരുന്നു  (test89)
+ഒറ്റക്കൈകൊണ്ട് കാര്യം നടാമായിരുന്നു        (test89)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഒറ്റക്ക്    (test90)
+അകത്തേക്ക്  (test90)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒറ്റക്ക്   ഈഫൽ  ടവർ     കാണുന്നു  (test91)
+ഒറ്റക്കാണ് കേസ് എന്താണ് കാണണം     (test91)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഒറ്റക്ക് റോഡ്‌  ക്രോസ് ചെയ്യുന്നു     (test92)
+പക്ഷേ    പോട്ടെ ക്രോസ് രുചിയുണ്ടാവും  (test92)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+*** ഒറ്റയ്ക് ക്രോസ് *** ***       (test93)
+ഒരു പേരെ     ക്രോസ് ആണ് ചെയ്യുമോ  (test93)
+Words: 2 Correct: 1 Errors: 4 Percent correct = 50.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 3 Deletions: 0 Substitutions: 1
+*** ഒറ്റയ്ക്  (test94)
+ഒരു കേടാണ്    (test94)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഒറ്റ    വാക്ക്  അത്     എന്താണെന്ന് അറിയാമോ  (test95)
+ഒരുപാട് വാതില്‍ അദ്ദേഹം എന്താണെന്ന് അറിയാമോ  (test95)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഒറ്റ ശബ്ദം പോലും പാടില്ല  (test96)
+ഒറ്റ ശബ്ദം പോലും കാര്യം   (test96)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒലക്സാണ്ടർ  (test97)
+ഒലക്സാണ്ടർ  (test97)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒലക്സാണ്ടർ ഒലക്സാണ്ടർ  (test98)
+ഒലക്സാണ്ടർ ഒലക്സാണ്ടർ  (test98)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒലക്സാണ്ടർ റഷ്യയിൽ നിന്നാണ്  (test99)
+ഒലക്സാണ്ടർ റഷ്യയിൽ നിന്നാണ്  (test99)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒഴിവാക്കി  (test100)
+ഒഴിവാക്കി  (test100)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഒഴിവുസമയങ്ങളിൽ ചായയൊക്കെകുടിക്കാം കുറച്ച്       (test101)
+ഒഴിവുസമയങ്ങളിൽ ചായയൊക്കെകുടിക്കാം പൊട്ടിച്ചിരി  (test101)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒഹ് ആ   സന്തോഷത്തിന്‍റെ കാഹളം  (test102)
+ആഹ് ആ   സന്തോഷത്തിന്‍റെ കാഹളം  (test102)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഒഹ് ഇത്    എന്‍റെ പഴയ പുസ്തകത്തിൽ ഒന്നാണ്  (test103)
+ആഹ് നിന്റെ വേണ്ടെ പഴയ പുസ്തകത്തിൽ ഒന്നാണ്  (test103)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഒഹ് ഇത്    ശരിക്കും വിലയിരുത്തണോ  (test104)
+അത് കേടാണ് ശരിക്കും വിലയിരുത്തണോ  (test104)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** ഓക്സിജെനും ഭക്ഷണവും  (test105)
+പോ  ശരിക്കും   ഭക്ഷണവും  (test105)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഒൻപത്      (test106)
+കണ്ടതില്‍  (test106)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓ   അതിക്രമം കളവ്     ചെറിയ    കളവ്        (test107)
+*** പോ       പഠിക്കണം കാരണമാണ് ചെയ്യാനാണ്  (test107)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+ഓ    അത്    പപ്പാ ***          ജോര്‍ജസ് ആണ്   (test108)
+പോകു പട്ടേൽ പപ്പാ സ്റ്റാർട്ട്‌ സെറ്റ്   നാളെ  (test108)
+Words: 5 Correct: 1 Errors: 5 Percent correct = 20.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+ഓ   ആരാ    എന്നെ  തടയാന്‍ വരിക    (test109)
+ഓഹ് കാര്യം വേണ്ടി കാര്യം  അയാള്‍  (test109)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 5
+*** ഓ   ഉറപ്പായിട്ടും നമുക്കിത്   ശരിയാക്കാം    (test110)
+പോ  ഒരു വായിക്കാം     നമുക്കിവിടെ ശരിയാക്കാന്‍  (test110)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+ഓ      എനിക്കറിയില്ല ഹ്യൂഗോ  (test111)
+തോന്നി കയ്യിലാണ്     നോക്കൂ  (test111)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓകെ     (test112)
+പോട്ടെ  (test112)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓകെ അവിടെ നില്‍ക്കൂ  (test113)
+ഓകെ അവിടെ നില്‍ക്കൂ  (test113)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓകെ ഞാന്‍  താഴോട്ട് *** വരുന്നു  (test114)
+ഓകെ ബാക്കി താഴോട്ട് ഒരു മൂന്ന്   (test114)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഓകെ   ഞാന്‍ മൂക്കുകുത്തി വീഴുന്നു  (test115)
+ഓക്കേ റാണി  മൂക്കുകുത്തി വേണോ      (test115)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓകെ   പക്ഷേ നമ്മള്‍ ചക്രവാളത്തിനുമപ്പുറം  (test116)
+ഓക്കേ പക്ഷേ നമ്മള്‍ ചക്രവാളത്തിനുമപ്പുറം  (test116)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓകെ ബാക്കി പകുതി നീയെങ്ങനെ കണ്ടുപിടിക്കും  (test117)
+ഓകെ ബാക്കി പകുതി നീയെങ്ങനെ കണ്ടുപിടിക്കും  (test117)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓകെ   വേഗം  പുറകോട്ട് പോകൂ  (test118)
+ഓക്കേ പേടകം പുറകോട്ട് പോകൂ  (test118)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഓക്കേ ഇത്    (test119)
+പക്ഷേ ഇതാണ്  (test119)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഓക്കേ  (test120)
+ഓക്കേ  (test120)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓക്കേ ഇതിലുണ്ട് ***    (test121)
+ഓക്കേ ഇതിലുണ്ട് ഉണ്ട്  (test121)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഓക്കേ ഇതും കാണാൻ പാടില്ലാ   (test122)
+ഓക്കേ ഇതും കാണാൻ പറ്റിയാണ്  (test122)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓക്കേ ഇന്ന് രാത്രി എന്‍റെ റൂമിലേക്ക് വരുന്നുണ്ടല്ലേ  (test123)
+ഓകെ   നാളെ  രാത്രി കണ്ടാൽ റൂമിലേക്ക് വരുന്നുണ്ടല്ലേ  (test123)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓക്കേ ഒരു ***  പ്ലേറ്റ്       കൂടിയെടുക്ക്  (test124)
+പക്ഷേ ഒരു പേരെ കൂടിയിട്ടുണ്ട് പോവും         (test124)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+ഓക്കേ ***   പേരെന്താണ്  (test125)
+ഓക്കേ വേണ്ട ആണ്         (test125)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഓക്കേ മോളെ നിങ്ങൾക്കെന്താണ് വേണ്ടത്  (test126)
+ഓക്കേ മോളെ നിങ്ങൾക്കെന്താണ് വേണ്ടത്  (test126)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓക്കേ ***          രാജകുമാരി  (test127)
+ഓക്കേ മാറ്റ്മാറ്റ് യിൽ        (test127)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഓക്കേ സത്യം  (test128)
+ഓക്കേ സത്യം  (test128)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓക്സിജന്‍റെ *** കുറവുകാരണം കിപ്പ് ആണ്     (test129)
+ഓക്സിജന്‍റെ ഒരു കാര്യം     പിങ്ക് കളറാണ്  (test129)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+ഓക്സിജന്‍ സ്ക്രബര്‍ വേണോ  (test130)
+പാർസൽ     സ്ക്രബര്‍ വേണം  (test130)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** ***  ഓട്ടോപൈലറ്റിന് അറിയാമല്ലോ  (test131)
+ഒരു പറയ് എന്‍റെ         അറിയാമല്ലോ  (test131)
+Words: 2 Correct: 1 Errors: 3 Percent correct = 50.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+ഓട്ടോമാറ്റണ്‍ ഉണ്ടാക്കിയപ്പോള്‍  (test132)
+ഓട്ടോമാറ്റണ്‍ ഉണ്ടാക്കിയപ്പോള്‍  (test132)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓണ്‍ ബോർഡ് ഉപകരണങ്ങൾ ഉപയോഗിച്ച്  (test133)
+പോണം ബോർഡ് ഉപകരണങ്ങൾ ഉപയോഗിച്ച്  (test133)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓയ്   (test134)
+പോയി  (test134)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** ഓരോ വ്യക്തിയുടെ ലാൻഡിംഗ് പോഡിലും  (test135)
+ഒരു ഓഹ്  വ്യക്തിയുടെ ലാൻഡിംഗ് പോഡിലും  (test135)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഓരോ ചുവരിലും വരച്ചുകൊണ്ടിരിക്കും  (test136)
+ഒരു ചുവരിലും വരച്ചുകൊണ്ടിരിക്കും  (test136)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓരോ നിമിഷവും  (test137)
+ഓരോ നിമിഷവും  (test137)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓരോ പരിശ്രമവും അതിന്റെ തന്നെ  (test138)
+*** ഒരുപാട്    സഹോദരനെ തനിയെ  (test138)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഓരോ ഫ്രെയിമിലും  (test139)
+ഓരോ ഫ്രെയിമിലും  (test139)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓരോ മണിക്കൂറും  (test140)
+ഒരു മണിക്കൂറും  (test140)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** ഓര്‍ക്കുന്നു  (test141)
+പോ  ശതമാനം        (test141)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഓര്‍ത്തോ   (test142)
+താക്കോല്‍  (test142)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓഹോ    (test143)
+പോവാം  (test143)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓഹ് അയ്യോ    (test144)
+*** പോവുകയോ  (test144)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+***        ഓഹ്നമസ്തേ  (test145)
+പോസ്റ്റര്‍ ദസ്തേ      (test145)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഓഹ്    (test146)
+കാരണം  (test146)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓഹ് ഇന്ത്യയിൽ നിന്ന്   എന്നോട് ക്ഷമിക്കണം  (test147)
+ഓഹ് ഇന്ത്യയിൽ നിന്നാണ് താങ്കളെ  ക്ഷമിക്കണം  (test147)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഓഹ്     എന്തൊരു     ട്രാജഡിയാണിത്‌  (test148)
+ജോര്‍ജ് യാത്രക്കാരേ അയാളിത്         (test148)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓഹ് എന്‍റെ      റൂമിലേക്ക് വരുന്നുണ്ടന്നോ  (test149)
+*** ജോര്‍ജിന്റെ പോയിക്കോളു കാരണമാണ്        (test149)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഓഹ്  ഒരു ചെന്നായ  (test150)
+പാവം ഒരു അതിനാൽ   (test150)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഓഹ് കഷ്ടടം നാശം  (test151)
+ഓഹ് കഷ്ടടം നാശം  (test151)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓഹ് ഞാന്‍ മറക്കുന്നതിന് മുമ്പ്  (test152)
+ഓഹ് ഇതാണ് മറക്കണ്ട      എന്നും  (test152)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓഹ് ഡിയര്‍ ഓഹ്     ഡിയര്‍  (test153)
+ഓഹ് ഡിയര്‍ ബോസ്സും ബിയർ    (test153)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഓഹ് ***     നീലചിത്രം കാണുകയാണല്ലേ  (test154)
+ഓഹ് ജയിച്ചു പണം       കാണുകയാണ്     (test154)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഓഹ് പാവം കുട്ടിപാവം കുട്ടി  (test155)
+ഓഹ് പാവം കുട്ടിപാവം കുട്ടി  (test155)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓഹ് റാണി വെള്ളം  (test156)
+ഓഹ് റാണി പറയാം   (test156)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓഹ് ശരി   (test157)
+ഓഹ് ശേഷം  (test157)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓഹ് ശരി പോവാം  (test158)
+ഓഹ് ശരി പോവാം  (test158)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓഹ് ശരി ശരി   (test159)
+ഓഹ് ശരി ശേഷം  (test159)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***          ഓർഗാനിക് ന്       നിരീക്ഷണം നടത്തുകയും  (test160)
+ജോര്‍ജസിന്റെ കൂടെ     വിഷയമാണ് അത്       ദൌത്യം      (test160)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+ഓ      (test161)
+പോകാം  (test161)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓ   അതെ      (test162)
+*** പോവട്ടെ  (test162)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഓ   അത്     നിങ്ങളുടെതാണെന്ന് ഉറപ്പല്ലേ  (test163)
+ഓഹ് അദ്ദേഹം നിങ്ങളുടേതാണെന്ന് ഉറപ്പല്ലേ  (test163)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓ   അത്     വളരെ തൃപ്തികരമാണ്  (test164)
+ഓഹ് അദ്ദേഹം വളരെ സത്യമാണ്      (test164)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓ   അവന്‍ ഒരു     അമൂല്യ  നിധിയായിരുന്നു  (test165)
+പോ  നമ്മൾ ഒരുപാട് പോയാല്‍ നിധിയായിരുന്നു  (test165)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഓ   അവള്‍ തിരിച്ചു  വന്നോ    (test166)
+പോ  താഴെ  കുടിച്ചാൽ വാങ്ങാം  (test166)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഓ   ഇതൊരു     കുഞ്ഞിനെ കൊന്നേനെ  (test167)
+ഓഹ് കരുതുന്നു യുറേക്കാ നേരെ      (test167)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഓ   ഇത്            വളരെ മികച്ചതാണ്  (test168)
+*** തോന്നിയപ്പോള്‍ വളരേ മികച്ചതാണ്  (test168)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഓ   എന്‍റെ ദൈവമേ  (test169)
+ഓഹ് കേബേജ് ദൈവമേ  (test169)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഓ   കുട്ടികളേ     (test170)
+ഓഹ് കൊടുക്കേണ്ടേ  (test170)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** ഓ     ഗുസ്താവ് ധൈര്യമായിരിക്കൂ  (test171)
+പോ  ബ്രഷ് ഗ്രഹമാണ് ധൈര്യമായിരിക്കൂ  (test171)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഓ   ഞാനങ്ങനെ പറയില്ല  (test172)
+ഓ   ഞാനങ്ങനെ പറയാം    (test172)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓ   ഞാന്‍ നിങ്ങളോടല്ല പറഞ്ഞത്  (test173)
+പോ  ഞാന്‍ നിങ്ങളെയാണ് പണിതത്   (test173)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓ   ഞാന്‍      സന്തോഷിക്കുന്നു  (test174)
+*** ബോംബിടാന്‍ സന്തോഷിക്കുന്നു  (test174)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഓ   ദൈവമേ  (test175)
+ഓഹ് ദൈവമേ  (test175)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഓ   നന്നായി നന്നായി  (test176)
+ഓ   നന്നായി നന്നായി  (test176)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓ   നല്ലത്     എനിക്ക് രഹസ്യങ്ങള്‍ ഇഷ്ടമാണ്  (test177)
+പോ  എന്തായാലും നിന്റെ  രഹസ്യങ്ങള്‍ ഇഷ്ടമാണ്  (test177)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഓ   നിങ്ങള്‍ക്കവളെ തിരിച്ചു വേണമോ  (test178)
+ഓ   നിങ്ങള്‍ക്കവളെ തിരിച്ചു വേണമോ  (test178)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓ   നിര്‍ത്തൂ  ട്രെയിന്‍ നിര്‍ത്തൂ  (test179)
+*** പോകുന്നതും കയ്യില്‍  അതോ        (test179)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഓ   പക്ഷേ ഞാനദ്ദേഹത്തെ മുന്നേ കണ്ടിട്ടുണ്ട്  (test180)
+ഓഹ് പക്ഷേ ആദ്യത്തേത്   മുന്നേ കണ്ടിട്ടുണ്ട്  (test180)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഓ   ഫ്രിക്ക് നിങ്ങളുടെ ചിപ്പിയില്‍ *** ഞാനൊരു  (test181)
+ഓ   ഫ്രിക്ക് നിങ്ങളുടെ ചിപ്പിയില്‍ ദാ  തരും    (test181)
+Words: 5 Correct: 4 Errors: 2 Percent correct = 80.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഓ   മാര്‍ച്ചിലാണോ  (test182)
+ഓ   മാര്‍ച്ചിലാണോ  (test182)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓ   മിസ്റ്റര്‍ ഫ്രിക്ക്    (test183)
+*** റോബസ്റ്റ്  ആരെങ്കിലും  (test183)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഓ   വേണം എനിക്കവളെ ഒരുപാട്  (test184)
+ഓ   വേണം എനിക്കവളെ ഒരുപാട്  (test184)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഓ   ശരി പക്ഷെ മോളെ നിനക്ക് പെട്ടന്ന്  തണുപ്പ് പിടിക്കും  (test185)
+ഓഹ് ശരി പക്ഷേ മോളേ എന്താണ് പേരെന്താണ് ചാർജാണ് പിടിക്കും  (test185)
+Words: 8 Correct: 2 Errors: 6 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 6
+ഓ   സര്‍  ഒന്ന്   നില്‍ക്കണേ  (test186)
+പോ  സാധനം ഒന്നാണ് തിട്ടയില്‍  (test186)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഓ   ഹലോ   (test187)
+പോ  ഞാനോ  (test187)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+കടകളില്‍ പണിയെടുക്കാനും ഒക്കെയാണ്  (test188)
+കടകളില്‍ പണിയെടുക്കാനും പറ്റിയാണ്  (test188)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കടക്കാറില്ല പലപ്പോഴും  (test189)
+കടക്കാറില്ല പലപ്പോഴും  (test189)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കടത്തിവിടാനാവുമെന്ന് നിനക്ക് മനസ്സിലായില്ലേ  (test190)
+കടത്തിവിടാനാവുമെന്ന് നിനക്ക് മനസ്സിലായില്ലേ  (test190)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കടന്നുപോ ഇവിടുന്ന്  (test191)
+കാരണമോ   നിന്നാണ്   (test191)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+കടന്നു   പോ    ഇവിടുന്ന്  (test192)
+കാരണമാണ് പോകും കിട്ടിയാൽ  (test192)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***   കടപ്പെട്ടിരിക്കുന്നു  (test193)
+കരുതി നിന്നും               (test193)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+കടമ്പ  കടക്കേണ്ടതുണ്ടായിരുന്നു  (test194)
+തലമാണ് കടക്കേണ്ടതുണ്ടായിരുന്നു  (test194)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കഠിനപ്രയത്നം അല്ലേ      (test195)
+കഠിനപ്രയത്നം കൈയ്യില്‍  (test195)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കഠിന ശ്രമങ്ങളുടെ കഥയാണ്  (test196)
+കഠിന ശ്രമങ്ങളുടെ കഥയാണ്  (test196)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കണികാതന്ത്രത്തിന്റെ വിവരങ്ങള്‍ നിന്റെ കയ്യിലുണ്ടോ  (test197)
+കണികാതന്ത്രത്തിന്റെ വിവരങ്ങള്‍ നിന്റെ കയ്യിലുണ്ടോ  (test197)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കണ്ടിട്ടുണ്ടായിരുന്നില്ല  (test198)
+കണ്ടിട്ടുണ്ടായിരുന്നില്ല  (test198)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കണ്ടുപിടിക്കണം എന്നത് പോലെയായിരുന്നു  (test199)
+കണ്ടുപിടിക്കണം എന്നത് പോലെയായിരുന്നു  (test199)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കണ്ടുപിടിച്ചിട്ടുണ്ട് ***  (test200)
+കണ്ടുപിടിച്ചിട്ടുണ്ട് ആണ്  (test200)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+കണ്ടുപിടുത്തക്കാർ അന്വേഷകർ  (test201)
+കണ്ടുപിടുത്തക്കാർ അന്വേഷകർ  (test201)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കണ്ടെത്തിയതാണ്  (test202)
+കണ്ടെത്തിയതാണ്  (test202)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കണ്ടെത്തിയിരുന്നു  (test203)
+കണ്ടെത്തിയിരുന്നു  (test203)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കണ്ടെത്തി  (test204)
+കണ്ടതില്‍  (test204)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കണ്ട്രോളുകൾ റിസെറ്റ് ചെയ്ത്      നോക്കൂ  (test205)
+കണ്ട്രോളുകൾ റിസെറ്റ് ചേര്‍ക്കല്‍ പോകൂ    (test205)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+കന്തികമോ അതോ മറ്റെന്തെങ്കിലുമോ  (test206)
+കന്തികമോ അതോ മറ്റെന്തെങ്കിലുമോ  (test206)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കമിഴ്തിയാണ് വെച്ചിരുന്നത് ***  (test207)
+കമിഴ്തിയാണ് വെച്ചിരുന്നത് ആണ്  (test207)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+കമ്പനിക്ക് വില്‍ക്കാന്‍ നിര്‍ബന്ധിതനായി  (test208)
+അവിടെ      വില്‍ക്കാന്‍ നിര്‍ബന്ധിതനായി  (test208)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കമ്പ്യൂട്ടറിലെത്തിക്കൂ  (test209)
+കമ്പ്യൂട്ടറിലെത്തിക്കൂ  (test209)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കമ്പ്യൂട്ടറുകള്‍ നിലയ്കുന്നു  (test210)
+കമ്പ്യൂട്ടറുകള്‍ ജേനും        (test210)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കമ്പ്യൂട്ടർ അറിയിക്കുന്നു  (test211)
+കമ്പ്യൂട്ടർ അറിയിക്കുന്നു  (test211)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കമ്പ്യൂട്ടർ ***      ***       ***  ഇൻവെർട്ടറിലാണ് പ്രവർത്തിക്കുന്നത്  (test212)
+കമ്പ്യൂട്ടർ നിങ്ങള്‍ കയ്യിലാണ് അതിൽ ഒരു            മാറ്റവും            (test212)
+Words: 3 Correct: 1 Errors: 5 Percent correct = 33.33% Error = 166.67% Accuracy = -66.67%
+Insertions: 3 Deletions: 0 Substitutions: 2
+കയറി          (test213)
+കാര്യത്തില്‍  (test213)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കയ്യിലുണ്ടായിരുന്ന സാധനങ്ങളെല്ലാം തീര്‍ന്നു  (test214)
+കയ്യിലുണ്ടായിരുന്ന സാധനങ്ങളെല്ലാം തീര്‍ന്നു  (test214)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കരഘോഷം  (test215)
+കരഘോഷം  (test215)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***       കരയുന്നത് നിർത്ത്  (test216)
+കാര്യമാണ് തല്‍കിയത് ആണ്      (test216)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+കരവിരുതുകൊണ്ടോ  (test217)
+കരവിരുതുകൊണ്ടോ  (test217)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കരുതാന്‍ ഒരു ***    കാരണവുമില്ല  (test218)
+കരുതാന്‍ ഒരു കാര്യം നോക്കിയാല്‍  (test218)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+കരുതിയത്        (test219)
+കണ്ടെത്തിയതാണ്  (test219)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കറക്കം തുടങ്ങിക്കോളൂ  (test220)
+കറക്കം തുടങ്ങിക്കോളൂ  (test220)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കലപില കലപില          (test221)
+കലപില സങ്കടത്തിലാണ്  (test221)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കലമാനിനെ    കടിച്ച് കീറുന്നു      എന്നതിനാൽ സിംഹം ഒരു ദോഷക്കരനാണോ  (test222)
+അലമാരിയില്‍ കടിച്ച് എന്തിനുവേണ്ടി ആണ്       സിംഹം ഒരു ദോഷക്കരനാണോ  (test222)
+Words: 7 Correct: 4 Errors: 3 Percent correct = 57.14% Error = 42.86% Accuracy = 57.14%
+Insertions: 0 Deletions: 0 Substitutions: 3
+കലാകാരനാണ്  (test223)
+കലാകാരനാണ്  (test223)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കല്യാണം കഴിക്കാൻ ആവില്ല  (test224)
+കല്യാണം കഴിക്കാൻ ആവില്ല  (test224)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കളര്‍ കൊടുത്തു  (test225)
+കാര്‍ കൊടുക്കൂ  (test225)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+കളവ്  ഒരു തൊഴിലല്ല കുട്ടി  (test226)
+അതാണ് ഒരു തൊഴിലല്ല നിന്ന്  (test226)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+കളികാണാന്‍ വരുമ്പോള്‍ പോപ്കോണ്‍  (test227)
+കളികാണാന്‍ വരുമ്പോള്‍ പോപ്കോണ്‍  (test227)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***     കളിക്കുക  (test228)
+കളിക്ക് ആണ്       (test228)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+കള്ളന്മാരുമായി അടിയുണ്ടാക്കുന്നു  (test229)
+കള്ളന്മാരുമായി അടിയുണ്ടാക്കുന്നു  (test229)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കഴിഞ്ഞു പോയതിനെ വൃത്തിയാക്കാന്‍ വയ്യല്ലോ  (test230)
+ആരും    പോയതിനെ വൃത്തിയാക്കാന്‍ വയ്യല്ലോ  (test230)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കഴിഞ്ഞ കാര്യങ്ങള്‍ അവർക്ക്  മലയിടുക്കാണ്  (test231)
+തനിയെ  കാര്യങ്ങള്‍ പറക്കല്‍ മലയിടുക്കാണ്  (test231)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+കഴിഞ്ഞ    തവണ     ഉറക്കത്തിലേയ്ക് പോയപ്പോള്‍  (test232)
+കയ്യിലാണ് കാണാനും ഉറക്കത്തിലേയ്ക് പോയപ്പോള്‍  (test232)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+കഴിഞ്ഞ വര്‍ഷത്തില്‍ എപ്പോഴെങ്കിലും ഉണ്ടായിരുന്നോ  (test233)
+കഴിഞ്ഞ വര്‍ഷത്തില്‍ എപ്പോഴെങ്കിലും ഉണ്ടായിരുന്നോ  (test233)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കഴിയുമെന്ന് നിനക്ക് തന്നെ            അറിയില്ല      (test234)
+***         ***     അയക്കണമായിരുന്നു കണ്ടെത്തിയത്  (test234)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+കഴുത്തിറങ്ങിയ വസ്ത്രം പക്ഷെ കാണാൻ നല്ല  ചന്തമുണ്ട്  (test235)
+കഴുത്തിറങ്ങിയ വസ്ത്രം പക്ഷെ കാണാൻ ഭാര്യ ചന്തമുണ്ട്  (test235)
+Words: 6 Correct: 5 Errors: 1 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കസിനാണ് ഹ്യൂഗോ  (test236)
+കസിനാണ് ഹ്യൂഗോ  (test236)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കാണാം മച്ചാ  (test237)
+കാണാം മച്ചാ  (test237)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കാണാനാഗ്രഹമുണ്ടോ  (test238)
+കാണാനാഗ്രഹമുണ്ടോ  (test238)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കാണാന്‍ പറ്റുമോ  (test239)
+കാണാന്‍ പറ്റുമോ  (test239)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കാണാൻനല്ല ***    ഭംഗിയുണ്ട്  (test240)
+കാണാൻനല്ല മങ്ങിയ കൂടെ        (test240)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+കാണാൻ കഴിയുന്നില്ലന്നോ അതെന്താ   (test241)
+കാണാൻ കഴിയുന്നില്ലന്നോ കാരണമാണ്  (test241)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കാണാൻ കുറച്ച് ഹിപ്പിടൈപ്പ് ആണെന്നെയൊള്ളൂ    (test242)
+കാണാൻ കുറച്ച് എന്തായി      പറഞ്ഞന്നേയൊള്ളു  (test242)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+കാണാൻ കൊള്ളാമെന്ന്  (test243)
+കാണാൻ കൊള്ളാമെന്ന്  (test243)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കാണാൻ നല്ല   രസമുണ്ട്  (test244)
+കാണാൻ അതായതു രസമുണ്ട്  (test244)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+കാണികള്‍ അലറുന്നു  (test245)
+കാണികള്‍ അലറുന്നു  (test245)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+കാണികള്‍ ഉറക്കെ നിലവിളിച്ചു  (test246)
+കാണികള്‍ ഉറക്കെ നിലവിളിച്ചു  (test246)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***  കാണിക്കരുത്  (test247)
+കാലം തരികള്‍      (test247)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+കാണിച്ചു തരൂ  (test248)
+കാണിച്ചു തരൂ  (test248)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***       കാണിപ്പിക്കണം  (test249)
+കാറിന്‍റെ തരാം           (test249)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***  കാണില്ലേ  (test250)
+റാണി വേഗം      (test250)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+TOTAL Words: 795 Correct: 464 Errors: 386
+TOTAL Percent correct = 58.36% Error = 48.55% Accuracy = 51.45%
+TOTAL Insertions: 55 Deletions: 16 Substitutions: 315
