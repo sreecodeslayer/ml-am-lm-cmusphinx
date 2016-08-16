@@ -1,0 +1,1003 @@
+എനിക്കും ഭക്ഷണമൊന്നും കഴിക്കാൻ തോന്നിയിരുന്നില്ലാ  (file_1501)
+എനിക്കും ഭക്ഷണമൊന്നും കഴിക്കാൻ തോന്നിയിരുന്നില്ലാ  (file_1501)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***   എനിക്കും വേണം  (file_1502)
+എന്തോ ഒന്ന്    വേണം  (file_1502)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്കുമറിയാം  (file_1503)
+എനിക്കറിയാം    (file_1503)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്കുമറിയാം മറ്റുള്ളവരോടപ്പമിരിക്കാനുള്ള  (file_1504)
+എനിക്കുമറിയാം മറ്റുള്ളവരോടപ്പമിരിക്കാനുള്ള  (file_1504)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***     എനിക്കുമിത് പഠിക്കണം  (file_1505)
+എനിക്ക് അവിടെ       പഠിക്കാം  (file_1505)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***    എനിക്കുറപ്പാണ് അവര്‍ തിരിച്ചു വരും  (file_1506)
+പിങ്ക് കളറാണ്         അവരെ  തിരിച്ചു വരും  (file_1506)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എനിക്കു    ഒരിക്കലും തികച്ചും മനസ്സിലാക്കാൻ പറ്റിയില്ല  (file_1507)
+ചിലപ്പോള്‍ ഒരിക്കലും തികച്ചും മനസ്സിലാക്കാൻ പറ്റിയില്ല  (file_1507)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     എനിക്കു കഴിയും പോലെ നിന്നെ ഞാന്‍       സഹായിക്കാം  (file_1508)
+നിൽക്ക് ഓഹ്     കഴിയും പോലെ ***    ഇനിയെന്താണ് സഹായിക്കാം  (file_1508)
+Words: 6 Correct: 3 Errors: 4 Percent correct = 50.00% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 1 Substitutions: 2
+എനിക്കു നിങ്ങളോട് വലിയ ബഹുമാനമാണ് സര്‍   (file_1509)
+ഇപ്പോൾ നിങ്ങളോട് വലിയ ബഹുമാനമാണ് സാധനം  (file_1509)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്കു    പോണം  (file_1510)
+ചിലപ്പോള്‍ പോണം  (file_1510)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്കു   പോണം *** കുറച്ച് കാര്യങ്ങള്‍  (file_1511)
+നില്‍ക്കൂ പോണം ഒരു ചെക്കാ  നിങ്ങള്‍     (file_1511)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എനിക്കു    മനസ്സിലായി  (file_1512)
+ചിലപ്പോള്‍ മനസ്സിലായി  (file_1512)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്കു   സമയം വളരെ ***    വ്യത്യസ്തമായിരിക്കും  (file_1513)
+നില്‍ക്കൂ സമയം വളരെ പിന്നെ രസമായിരിക്കും         (file_1513)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എനിക്കു സാധനങ്ങള്‍ ശരിയാക്കാന്‍  (file_1514)
+ഇപ്പോൾ സാധനങ്ങള്‍ ശരിയാക്കാം    (file_1514)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്കെന്താണ് ചെയ്യേണ്ടതെന്നറിയില്ല അവള്‍  (file_1515)
+എനിക്കെന്താണ് ചെയ്യേണ്ടതെന്നറിയില്ല അവള്‍  (file_1515)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എനിക്കെന്റെ അച്ഛനമ്മമാരെ അറിയുമെങ്കില്‍  (file_1516)
+നിന്‍റെ     അച്ഛനമ്മമാരെ അറിയുമെങ്കില്‍  (file_1516)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്കെന്റെ പുസ്തകം തിരിച്ചു താ     (file_1517)
+നിന്റെ      പുസ്തകം തിരിച്ചു കാണാം  (file_1517)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്കെന്റെ പുസ്തകം വേണം ***  (file_1518)
+നിന്റെ      പുസ്തകം വേണം ബി   (file_1518)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്കെന്റെ മകളോട് സംസാരിക്കണം ***  (file_1519)
+നിന്‍റെ     മകളുടെ സംസാരിക്കണം ഈ    (file_1519)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എനിക്കെന്റെ സഹോദരനെ നഷ്ടപ്പെട്ടു  (file_1520)
+നിന്‍റെ     സഹോദരനെ നഷ്ടപ്പെട്ടു  (file_1520)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്കെന്‍റെ അക്കൗണ്ട്‌   ക്ലോസ്‌ ചെയ്യണം  (file_1521)
+നിന്‍റെ      ക്ലോക്കുകള്‍ ക്രോസ്  ചെയ്യാം  (file_1521)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+എനിക്കെന്‍റെ ഫോട്ടോസ് ഫേസ്ബുക്കിൽ അപ്‌ലോഡ്‌  ചെയ്യണം  (file_1522)
+നിന്‍റെ      ഫോട്ടോസ് ഫേസ്ബുക്കിൽ കുട്ടികള്‍ ചെയ്യാം  (file_1522)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്കെപ്പോളാണ് റൂം കിട്ടുക ***   (file_1523)
+എനിക്കെപ്പോളാണ് റൂം കിട്ടുക ഹുഡ്  (file_1523)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+എനിക്കൊന്നും കേൾക്കാൻ     കഴിയുന്നില്ലാ  (file_1524)
+എനിക്കൊന്നും ചേര്‍ക്കാന്‍ കഴിയുന്നില്ല   (file_1524)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** എനിക്കൊന്നേ അറിയേണ്ടൂ  (file_1525)
+നീ  ഒന്ന്       കേട്ടു     (file_1525)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***    എനിക്കൊരു കാര്യം പറയാനുണ്ട്  (file_1526)
+പിന്നെ ഒരു       കാര്യം പറയാനുണ്ട്  (file_1526)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്കൊരു ജോലിയുണ്ട്  (file_1527)
+ഞാനൊരു    ജോലിയുണ്ട്  (file_1527)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്കൊരു ഡോബ്രാൻഡിനെ ***    അറിയാം  (file_1528)
+എനിക്കൊരു ഡോബ്രാൻഡിനെ കാര്യം ഡോ      (file_1528)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്കൊരു ബോയ്‌ഫ്രണ്ട് ഉണ്ടായിരുന്നു ഫൈസൽ  (file_1529)
+എനിക്കൊരു ബോയ്‌ഫ്രണ്ട് ഉണ്ടായിരുന്നു ഫൈസൽ  (file_1529)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എനിക്കൊരു    രണ്ടു മിനിറ്റ് സമയം തരൂ  (file_1530)
+താങ്കള്‍ക്ക് രണ്ടു ഇവിടെ    സമയം തരൂ  (file_1530)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്കൊരു    റിസർവേഷനുണ്ട്  (file_1531)
+താങ്കള്‍ക്ക് റിസർവേഷനുണ്ട്  (file_1531)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക്  (file_1532)
+നിന്‍റെ  (file_1532)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് അരമണിക്കൂറൊന്നും വേണ്ട  (file_1533)
+നിനക്ക് അരമണിക്കൂറൊന്നും വേണ്ട  (file_1533)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് അറിയില്ല   (file_1534)
+എന്‍റെ  കയ്യിലാണ്  (file_1534)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് ആവേശമാണ്  (file_1535)
+നിന്‍റെ ആവേശമാണ്  (file_1535)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ആ       പുതിയ അത്ഭുതത്തിന്റെ ഭാഗമാകണമായിരുന്നു  (file_1536)
+ഇനി     എന്താണ് പുതിയ അത്ഭുതത്തിന്റെ ഭാഗമാകണമായിരുന്നു  (file_1536)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് ആ   ഫോട്ടോസ് കാണണം  (file_1537)
+പിന്നെ  ആ   ഫോട്ടോസ് കാണണം  (file_1537)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     എനിക്ക് ഇന്ത്യയിലേക്ക് തിരിച്ചുപോവണം  (file_1538)
+നിന്‍റെ എന്ത്   ഏതെങ്കിലും     തിരിച്ചുപോവണം  (file_1538)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***     എനിക്ക്    ഇവിടെന്നൊരു കിട്ടി      (file_1539)
+നിന്‍റെ ടിക്കറ്റും പോൾ         ഡാൻസിന്‍റെ  (file_1539)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എനിക്ക് ഈ        കട    വളരെയധികം ഇഷ്ടമാണ്  (file_1540)
+നിന്‍റെ കയ്യില്‍ കാണാം വളരെയധികം ഇഷ്ടമാണ്  (file_1540)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് ഈ   ദൌത്യത്തില്‍ പങ്കെടുക്കാനായതില്‍  (file_1541)
+നിന്‍റെ നീ  ദൌത്യത്തില്‍ പങ്കെടുക്കാനായതില്‍  (file_1541)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് ഈ    ബ്രാസ് ഇഷ്ടമല്ല  (file_1542)
+നിന്‍റെ നേരെ ബ്രാസ് ഇഷ്ടമാണ്  (file_1542)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് ഈ        റൂം തരാൻ  മാത്രെമേ കഴിയുകയൊള്ളൂ  (file_1543)
+എന്‍റെ  കയ്യില്‍ റൂം കാണാം മാത്രെമേ കഴിയുകയൊള്ളൂ  (file_1543)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് എന്താണിവിടെ നടക്കുന്നതെന്ന് പറഞ്ഞുതരു    (file_1544)
+എനിക്ക് എന്താണിവിടെ പാർസലാണ്        ജാർഗണ്ടിലും  (file_1544)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് എന്‍റെ അച്ഛന്‍ എങ്ങനെയാണ്  (file_1545)
+നിന്‍റെ എന്‍റെ അച്ഛനും കണ്ടതാണ്    (file_1545)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് എന്‍റെ      പുസ്തകം എങ്ങനെ തിരികെ കിട്ടും  (file_1546)
+***     എനിക്കെന്റെ പുസ്തകം ഞാന്‍  നിന്നെ കിട്ടും  (file_1546)
+Words: 6 Correct: 2 Errors: 4 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 3
+എനിക്ക് എന്‍റെ മകളെക്കുറിച്ച് പേടിയുണ്ട്  (file_1547)
+നിന്ന്  എന്‍റെ മകളെക്കുറിച്ച് പേടിയുണ്ട്  (file_1547)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് എല്ലാവരെയും രക്ഷിക്കണം കൂപ്പര്‍  (file_1548)
+നിന്‍റെ കൈകാര്യം    രക്ഷിക്കണം കൂപ്പര്‍  (file_1548)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***     എനിക്ക് എല്ലാവർക്കുമുള്ള സമ്മാനങ്ങളും  (file_1549)
+നിന്‍റെ എന്താണ് കൊള്ളാം          സമ്മാനങ്ങളും  (file_1549)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എനിക്ക് ഏഴ്  സഹോദരിമാരുണ്ട്  (file_1550)
+നിന്‍റെ നേരെ സഹോദരിമാരുണ്ട്  (file_1550)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് ഒന്നുക്കൂടി വേണം  (file_1551)
+നിന്‍റെ ഒന്നുക്കൂടി വേണം  (file_1551)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ഒരു     പ്രൊജക്റ്ററിന്റെ ശബ്ദം  (file_1552)
+നിന്‍റെ ഒരുപാട് ചന്ദ്രന്റെ       ശബ്ദം  (file_1552)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് ഒരു     വകതിരിവു ക്രമീകരണം  ഉണ്ട്      കൂപ്പര്‍  (file_1553)
+നിന്‍റെ ഒരുപാട് അറിയുമോ  ക്ഷമിക്കണം കണ്ടെത്തുക ഗുഡ്      (file_1553)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 6
+എനിക്ക് ഒറ്റയ്ക്കൊരു റൂം വേണം ***    (file_1554)
+നിന്‍റെ ഒറ്റയ്ക്കൊരു റൂം വേണം ഞാന്‍  (file_1554)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്ക് കവിത   ഇഷ്ടമാണ് പക്ഷേ  (file_1555)
+പിന്നെ  കാര്യം ഇഷ്ടമാണ് പക്ഷേ  (file_1555)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് കവിത ഇഷ്ടമാണ് പ്രത്യേകിച്ച്  (file_1556)
+നിന്‍റെ കവിത ഇഷ്ടമാണ് പ്രത്യേകിച്ച്  (file_1556)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     *** ***   എനിക്ക് കുറച്ച്   സിഡി   വിൽക്കാനുണ്ട്  (file_1557)
+നിന്‍റെ ഒരു എച്ച് എസ്     കൈയ്യില്‍ നിന്ന് കാണണം          (file_1557)
+Words: 4 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 175.00% Accuracy = -75.00%
+Insertions: 3 Deletions: 0 Substitutions: 4
+എനിക്ക് കുഴപ്പമൊന്നുമില്ലായെന്ന് നോക്കാൻ ഓക്കേ ***  (file_1558)
+നിന്‍റെ കുഴപ്പമൊന്നുമില്ലായെന്ന് നോക്കാൻ ഓക്കേ പോ   (file_1558)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്ക് കൃഷി ഇഷ്ടമാണെന്ന് നീ       അവരോട്  പറഞ്ഞു       (file_1559)
+നിന്‍റെ കൃഷി ***          ഇഷ്ടമാണ് ജോര്‍ജ് അവരോടെല്ലാം  (file_1559)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 1 Substitutions: 4
+എനിക്ക് കൊമേഴ്സിൽ ഡിഗ്രിയുമുണ്ട് ***      (file_1560)
+നിന്‍റെ കൊമേഴ്സിൽ ഡിഗ്രിയുമുണ്ട് ജോര്‍ജ്  (file_1560)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***     എനിക്ക് ക്ലാസ്സ്‌       ഉണ്ട് ഈ   സാധനം  കുറച്ച് കാത്തിരിക്കേണ്ടി വരും  (file_1561)
+നിന്‍റെ ശ്വാസം  കണ്ടെത്തിയെന്ന് സാധനം ഒരു ചെക്കാ ഇതില്‍  തേനിൽ            വരും  (file_1561)
+Words: 8 Correct: 1 Errors: 8 Percent correct = 12.50% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 7
+എനിക്ക് ചില കാര്യങ്ങള്‍ പറഞ്ഞു തീര്‍ക്കാനുണ്ടായിരുന്നു  (file_1562)
+ന്റെ    ചില കാര്യങ്ങള്‍ പറഞ്ഞു തീര്‍ക്കാനുണ്ടായിരുന്നു  (file_1562)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ഛര്‍ദ്ദിക്കാൻ വരുന്നുണ്ട് ***    (file_1563)
+നിന്‍റെ ഛര്‍ദ്ദിക്കാൻ വരുന്നുണ്ട് ശബ്ദം  (file_1563)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്ക് ജീവിക്കണം    (file_1564)
+നിന്‍റെ ചിന്തിക്കണം  (file_1564)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് ജോലിയുണ്ട്  (file_1565)
+നിന്‍റെ ജോലിയുണ്ട്  (file_1565)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ജോലി തരുകയാണോ   (file_1566)
+നിന്‍റെ ജോലി തരുകയാണ്‌  (file_1566)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് തല    വേദനിക്കുന്നുണ്ട്  (file_1567)
+നിന്‍റെ കാണാം പേടിക്കണ്ട         (file_1567)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് തിരിച്ച് പോകണം  (file_1568)
+അദ്ദേഹം തിരിച്ച് പോകണം  (file_1568)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് തിരിച്ച് പോണം  (file_1569)
+നിന്‍റെ തിരിച്ച് പോണം  (file_1569)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് തോന്നി ഞാനങ്ങനെ തന്നെ ചെയ്തു ***  (file_1570)
+നിന്‍റെ പോണം   റാണി     റാണി  ചെയ്തു ബൂം  (file_1570)
+Words: 5 Correct: 1 Errors: 5 Percent correct = 20.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+എനിക്ക് തോന്നുന്നത്  (file_1571)
+പിന്നെ  പോകുന്നതും   (file_1571)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***     എനിക്ക് തോന്നുന്നത് അതു   (file_1572)
+നിന്‍റെ സംബോധന  കേള്‍ക്കൂ   ഗുഡ്  (file_1572)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+***     ***    എനിക്ക് തോന്നുന്നത് അത്   അവരാനെന്നു  (file_1573)
+നിന്‍റെ തോന്നി അതെ     അതെ         ആരാണീ ഗുഡ്        (file_1573)
+Words: 4 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+***     എനിക്ക് തോന്നുന്നത് നമുക്ക്   (file_1574)
+ഇപ്പോൾ പോ      നിന്റെ      നമുക്കത്  (file_1574)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എനിക്ക് നമ്മുടെ ഫാം ഇഷ്ടമാണ്  (file_1575)
+നിന്‍റെ നമ്മുടെ ഫാം ഇഷ്ടമാണ്  (file_1575)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് നിങ്ങളുടെ പണം വേണ്ട  (file_1576)
+നിന്‍റെ നിങ്ങളുടെ പണം വേണ്ട  (file_1576)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് നിങ്ങളെക്കുറിച്ചും ഒന്നുമറിയില്ല  (file_1577)
+നിന്‍റെ നിങ്ങളെക്കുറിച്ചും ഒന്നുമറിയില്ല  (file_1577)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് നിങ്ങളെ സഹായിക്കാനാകുമോ  (file_1578)
+നിന്‍റെ നിങ്ങളെ സഹായിക്കാനാകുമോ  (file_1578)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് നിങ്ങളോട് സഹതാപമുണ്ട്  (file_1579)
+പിന്നെ  നിങ്ങളുടെ സഹതാപമുണ്ട്  (file_1579)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് നിങ്ങള്‍ കാരണമാണ് പണം ലഭിച്ചത്  (file_1580)
+നിന്‍റെ നിങ്ങള്‍ കാരണമാണ് പണം തിരിച്ചു  (file_1580)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് നിനക്കും ഒന്ന് ഒപ്പിച്ചുതരാന്‍ കഴിയും  (file_1581)
+നിന്‍റെ നിനക്കും ഒന്ന് ഒപ്പിച്ചുതരാന്‍ കഴിയും  (file_1581)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് നിന്നെയൊന്ന് കാണണം  (file_1582)
+നിന്‍റെ ഇന്ത്യനാണ്   കാണാം  (file_1582)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***     എനിക്ക് നിന്നെ        ഇഷ്ടമാണ്    എല്ലായ്പോഴും നീ     കേൾക്കുന്നുണ്ടോ  (file_1583)
+നിന്‍റെ എന്‍റെ  ഇഷ്ടമാണെങ്കിൽ കാണുമ്പോള്‍ പിന്നെ       കേക്ക് കണ്ടു            (file_1583)
+Words: 6 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 116.67% Accuracy = -16.67%
+Insertions: 1 Deletions: 0 Substitutions: 6
+എനിക്ക്  നിന്നെ  ഇഷ്ടമായി ഇഷ്ടമായി  (file_1584)
+തിരിച്ച് എനിക്ക് ഇഷ്ടമാണ് ഇഷ്ടമാണ്  (file_1584)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+എനിക്ക് നിന്നെ തിരിച്ചു വേണം ഞാന്‍ നിന്നെ ശരിക്കും സ്നേഹിക്കുന്നു  (file_1585)
+നിന്‍റെ ഇനിയും തിരിച്ചു വേണം നാം   ഞങ്ങളെ ശരിക്കും സ്നേഹിക്കുന്നു  (file_1585)
+Words: 8 Correct: 4 Errors: 4 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+***     എനിക്ക് നിന്നെ രക്ഷിക്കണമെന്ന് തോന്നി  (file_1586)
+നിന്‍റെ പിന്നെ  പക്ഷെ  കാണാം           കൂടി    (file_1586)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+എനിക്ക് നിന്നോട്   കുറച്ച്  സംസാരിക്കണം  (file_1587)
+നിന്‍റെ ഇങ്ങോട്ടും തകർച്ചയെ സംസാരിക്കണം  (file_1587)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് നിന്നോട്  ചില പ്രധാനകാര്യങ്ങള്‍  (file_1588)
+ഇനി     നിങ്ങളുടെ ചില പ്രധാനകാര്യങ്ങള്‍  (file_1588)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് നിന്റെ വീട് കണ്ടൂടെ  (file_1589)
+നീ      കേബേജ് നേരെ കണ്ടൂടെ  (file_1589)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് നിയന്ത്രണം നഷ്ടമാകുന്നു  (file_1590)
+നിന്‍റെ നിയന്ത്രണം നഷ്ടമാകുന്നു  (file_1590)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***    എനിക്ക് പല         പിരിമുറക്കവും ഉണ്ടായിരുന്നു  (file_1591)
+നിന്റെ നല്ല    ഭംഗിയുണ്ട് ബോംബ്        ഉണ്ടായതാണ്     (file_1591)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+എനിക്ക് പേടിയാവുന്നുണ്ട്  (file_1592)
+നിന്‍റെ പേടിയാവുന്നുണ്ട്  (file_1592)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***    എനിക്ക്  പോകണം  (file_1593)
+നിന്നെ ചേർക്കാം പോകണം  (file_1593)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്ക് പോണം  (file_1594)
+നിന്‍റെ പോണം  (file_1594)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** ***      എനിക്ക് പ്ലസ്‌ ടുവിൽ പേര്‍സെന്‍റെജ് മാർക്കുണ്ടല്ലോ  (file_1595)
+നീ  ചേർക്കാം ഗസ്റ്റ് റൂമിൽ  ഒരു   സന്ദേശം        കാര്‍ട്ടനും     (file_1595)
+Words: 5 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 140.00% Accuracy = -40.00%
+Insertions: 2 Deletions: 0 Substitutions: 5
+എനിക്ക് ഫോട്ടോസ് കാണിച്ചു താ   (file_1596)
+നിന്‍റെ ഫോട്ടോസ് കാണിച്ചു ആണ്  (file_1596)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് ഫ്രഞ്ച് അറിയില്ല  (file_1597)
+നിന്‍റെ ഫ്രഞ്ച് കാര്യം    (file_1597)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് ബനാറസ്‌ ഇഷ്ടമാണ്  (file_1598)
+എനിക്ക് ബനാറസ്‌ ഇഷ്ടമാണ്  (file_1598)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എനിക്ക് ഭർത്താവില്ലാ      (file_1599)
+***     നില്‍ക്കാനാവില്ല  (file_1599)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+എനിക്ക്   മനസ്സിലാകുന്നില്ല നിങ്ങള്‍ എന്താണ് ഉദ്ദേശിക്കുന്നത് എന്ന്  (file_1600)
+കുടിച്ചാൽ മനസ്സിലാകുന്നില്ല നിങ്ങള്‍ എന്താണ് ഉദ്ദേശിക്കുന്നത് എന്ന്  (file_1600)
+Words: 6 Correct: 5 Errors: 1 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് മനസ്സിലായില്ല  (file_1601)
+നിന്‍റെ മനസ്സിലായില്ല  (file_1601)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് മനസ്സിലായി  (file_1602)
+നിന്‍റെ മനസ്സിലായി  (file_1602)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് മനസ്സിലാവുന്നില്ലാ  (file_1603)
+എനിക്ക് മനസ്സിലാവുന്നില്ലാ  (file_1603)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എനിക്ക് മനസ്സിലാവുന്നില്ല  (file_1604)
+എനിക്ക് മനസ്സിലാകുന്നില്ല  (file_1604)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** എനിക്ക്  മരണത്തെ ഭയമില്ല  (file_1605)
+നീ  ചേർക്കാം മരണത്തെ ഭയമില്ല  (file_1605)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എനിക്ക് മാറ്റാൻ ഒന്നുമില്ലാ  (file_1606)
+നിന്‍റെ മാറ്റാൻ ഒന്നുമില്ലാ  (file_1606)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് രക്ഷിതാക്കളില്ല  (file_1607)
+എന്‍റെ  രക്ഷിതാക്കളില്ല  (file_1607)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് രുചിച്ചു നോക്കാമോ  (file_1608)
+നിന്‍റെ തിരിച്ചു പോകണം     (file_1608)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***     എനിക്ക്  രുചിച്ച് നോക്കണം  (file_1609)
+നിന്‍റെ തിരിച്ച് എന്തോ    കാണാം    (file_1609)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+***     എനിക്ക് വട്ടാകുമോ  (file_1610)
+നിന്‍റെ ഞാന്‍   പാടും      (file_1610)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എനിക്ക് വല്ലാതെ പേടിയാവുന്നുണ്ട്  (file_1611)
+നിന്‍റെ പറയാതെ  പേടിയാവുന്നുണ്ട്  (file_1611)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് വളരെ സന്തോഷം തോന്നി  (file_1612)
+നിന്‍റെ വളരെ സന്തോഷം തോന്നി  (file_1612)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     ***   എനിക്ക് വാങ്ങിയതിനുശേഷമാണ് അത് മനസ്സിലായത്  (file_1613)
+നിന്‍റെ ഭാര്യ നശിച്ച  ആണ്                അതെ മനസ്സിലാകും  (file_1613)
+Words: 4 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+***     എനിക്ക് വിശക്കുന്നുണ്ട്  (file_1614)
+നിന്‍റെ വിദേശ   കൊണ്ടാണ്         (file_1614)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എനിക്ക് വിശ്വസിക്കാൻ കഴിയുന്നില്ല  (file_1615)
+നിന്‍റെ വിശ്വസിക്കാൻ കഴിയുന്നില്ല  (file_1615)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് വീട്ടില്‍ പോകണം  (file_1616)
+നിന്‍റെ തേനിൽ     പോകണം  (file_1616)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എനിക്ക് വീട്ടില്‍ പോകാം  (file_1617)
+നിന്‍റെ പേരില്‍   പോകണം  (file_1617)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എനിക്ക് വീട്ടുക്കാർ പറയുന്ന      വിവാഹം ചെയ്‌താൽ മതി  (file_1618)
+നിന്‍റെ കിടക്കാം    കാര്യങ്ങളാണ് വിവാഹം ചെയ്‌താൽ മതി  (file_1618)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***     എനിക്ക് വേഗത  കുറക്കണം  (file_1619)
+നിന്‍റെ പേര്    അതാണ് ഒടുക്കം   (file_1619)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എനിക്ക് വേണ്ടിവരും കൂപ്പര്‍  (file_1620)
+പിന്നെ  വേണ്ടിവരും കൂപ്പര്‍  (file_1620)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് വേണ്ടി നീ  നമ്മുടെ സ്ഥലം നോക്കണം കേട്ടോ   (file_1621)
+നിന്‍റെ തേനിൽ  നീ  നമ്മുടെ സ്ഥലം നോക്കണം കിട്ടും  (file_1621)
+Words: 7 Correct: 4 Errors: 3 Percent correct = 57.14% Error = 42.86% Accuracy = 57.14%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***     ***   എനിക്ക്   വേണ്ടി മാത്രമല്ല ഞാനിത് ചെയ്യുന്നത്  (file_1622)
+നിന്‍റെ തേനിൽ മാത്രമാണ് ബാഗ്   നിന്റെ    ചില    വരും         (file_1622)
+Words: 5 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 140.00% Accuracy = -40.00%
+Insertions: 2 Deletions: 0 Substitutions: 5
+എനിക്ക് വേദനിക്കുന്നു  (file_1623)
+നിന്‍റെ പേടിപ്പിക്കും  (file_1623)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** എനിക്ക് വേറെയൊരു    പണിയുണ്ട്  (file_1624)
+നീ  ചെക്ക്‌ വേണ്ടിയാരും പണിയുണ്ട്  (file_1624)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എനിക്ക് വൈകുന്നേരം പരിപാടിയുണ്ട്  (file_1625)
+നിന്‍റെ വൈകുന്നേരം പരിപാടിയുണ്ട്  (file_1625)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ശരിക്കും നിന്നെ വിവാഹം കഴിക്കാൻ കഴിയില്ല  (file_1626)
+നിന്‍റെ ശരിക്കും നിന്നെ വിവാഹം കഴിക്കാൻ കഴിയില്ല  (file_1626)
+Words: 6 Correct: 5 Errors: 1 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ശരിക്കും നിന്നെ വേണം  (file_1627)
+നിന്‍റെ ശരിക്കും നിന്നെ വേണം  (file_1627)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് സന്തോഷം തോന്നി  (file_1628)
+നിന്‍റെ സന്തോഷം തോന്നി  (file_1628)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് സമയത്തെയാണ് ഭയം  (file_1629)
+നിന്‍റെ സമയത്തെയാണ് ഭയം  (file_1629)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് സഹതാപമുണ്ട്  (file_1630)
+നിന്‍റെ സഹതാപമുണ്ട്  (file_1630)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് സിദ്ധാന്തം അറിയാമായിരുന്നു  (file_1631)
+നിന്‍റെ സിദ്ധാന്തം അറിയാമായിരുന്നു  (file_1631)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് സിനിമകള്‍ ഇഷ്ടമാണ്  (file_1632)
+നിന്‍റെ സിനിമകള്‍ ഇഷ്ടമാണ്  (file_1632)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് സ്വന്തമായി ഒരു തീയേറ്റര്‍ ഉണ്ടായിരുന്നു  (file_1633)
+നിന്‍റെ സ്വന്തമായി ഒരു തീയേറ്റര്‍ ഉണ്ടായിരുന്നു  (file_1633)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ഹണിമൂണിന് പോവണം  (file_1634)
+നിന്‍റെ ഹണിമൂണിന് പോവണം  (file_1634)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ഇപ്പോൾ മനസ്സിലാക്കാൻ കഴിയുന്നുണ്ട്  (file_1635)
+നിന്‍റെ ഇപ്പോൾ മനസ്സിലാക്കാൻ കഴിയുന്നുണ്ട്  (file_1635)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എനിക്ക് ഗ്രേഡ് മാത്രമേ തരികയുള്ളൂ  (file_1636)
+നിന്‍റെ ഗ്രേഡ് മാത്രമേ തരികയുള്ളൂ  (file_1636)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താണതിന്‍റെ ആവശ്യം  (file_1637)
+എന്താണിതിന്റെ ആവശ്യം  (file_1637)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   എന്താണതെന്ന് പറയൂ മര്‍ഫ്  (file_1638)
+എന്താ അതിന്റെ      പറയൂ മര്‍ഫ്  (file_1638)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***   എന്താണത്  (file_1639)
+എന്താ അതെ       (file_1639)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എന്താണത്  പറയൂ   (file_1640)
+നാലാമത്തെ പറയും  (file_1640)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്താണവിടെ നടക്കുന്നത്  (file_1641)
+എന്താണവിടെ അതെന്‍റെ     (file_1641)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താണാ കൊച്ച് ചെയ്തത്     (file_1642)
+നാലാം   ഒരു    ചേച്ചിയുടെ  (file_1642)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എന്താണിതിന്റെ അര്‍ത്ഥമെന്ന് എനിക്കറിയണം  (file_1643)
+എന്താണിതിന്റെ അര്‍ത്ഥമെന്ന് എനിക്കറിയണം  (file_1643)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്താണിത്   (file_1644)
+എന്താണിത്ര  (file_1644)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താണിവിടെ ചെയ്യുന്നത്  (file_1645)
+എന്താണിവിടെ ചെയ്യുന്നത്  (file_1645)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്താണിവിടെ നടക്കുന്നത്  (file_1646)
+എന്താണിവിടെ നടക്കുന്നത്  (file_1646)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്താണിവിടെ സംഭവിക്കുന്നത് ഇസബെല്‍  (file_1647)
+എന്താണിവിടെ സമ്മതിക്കാതെ   ഇസബെല്‍  (file_1647)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താണെന്ന് പറയൂ മര്‍ഫ്  (file_1648)
+എന്താണത്    പറയൂ മര്‍ഫ്  (file_1648)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താണ്  (file_1649)
+നാളെ     (file_1649)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താണ്   അമ്മ ഈ         പറയ്യുന്നത്  (file_1650)
+കാണാറില്ല മാം  കൈയ്യില്‍ പറയട്ടെ      (file_1650)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+എന്താണ് എന്‍റെ മോൾക്ക് ***       ***     സംഭവിച്ചത്  (file_1651)
+എന്താണ് എന്‍റെ മോൾക്ക് നെല്‍സണ്‍ കഴിച്ച് ഹുഡ്        (file_1651)
+Words: 4 Correct: 3 Errors: 3 Percent correct = 75.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+എന്താണ് കുക്കർ  (file_1652)
+എന്താണ് കുക്കർ  (file_1652)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്താണ് ടെൻഷനായോ  (file_1653)
+എന്താണ് ടെൻഷനായോ  (file_1653)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്താണ് നിങ്ങൾക്കിത്രേ സങ്കടം  (file_1654)
+എന്താണ് നിനക്കിത്രേം   സങ്കടം  (file_1654)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താണ് ***     നിങ്ങള്‍ ചെയ്യുന്നത് പാസ്പോർട്ടില്ലാതെ  (file_1655)
+എന്താണ് നിങ്ങളെ ചെയ്ത്   അതെ         പാസ്പോർട്ടില്ലാതെ  (file_1655)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എന്താണ് നീ  ***       വീട്ടില്‍ പോകുന്നതെന്ന്  (file_1656)
+എന്താണ് നീ  വേര്‍പെടൂ ഒരു       അതിന്‍റെ       (file_1656)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എന്താണ് പ്ലാൻ  (file_1657)
+നാളെ    തരാം   (file_1657)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്താണ് മാറിയത് ഞാന്‍ മാറിയിട്ടില്ലല്ലോ  (file_1658)
+എന്താണ് മാറിയത് എന്ത് ആകുമായിരിക്കാം     (file_1658)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്താണ് മോഴ്സ് കോഡുകൾ എന്ന്      എനിക്കറിയാം  (file_1659)
+കാണാൻ   മോഴ്സ് ***    കൂടിയെന്ന് എനിക്കറിയാം  (file_1659)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+എന്താണ് സംഭവിച്ചതെന്ന് ഞങ്ങളോട് പറയൂ  (file_1660)
+എന്താണ് സംഭവിച്ചതെന്ന് ഞങ്ങളോട് പറയൂ  (file_1660)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്താണ് ഹിംഗ്          (file_1661)
+***     കാണാനാണെങ്കിൽ  (file_1661)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+എന്താന്നാൽ അവൾ വളരെ വേഗത്തിലാണ്  (file_1662)
+കാണാനാണ്   അവൾ വളരെ വേഗത്തിലാണ്  (file_1662)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   എന്താന്നുവച്ചാൽ നാം അതിനു  (file_1663)
+കാണാൻ തകർച്ചയെ        നാം അതിനു  (file_1663)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***   എന്തായാലും ഇനിയെന്‍റെ കൂടെ വരൂനമുക്കെല്ലാം പരിഹരിക്കാം  (file_1664)
+പണ്ട് ആരും       നിന്റെ     കൂടെ വരൂനമുക്കെല്ലാം പരിഹരിക്കാം  (file_1664)
+Words: 5 Correct: 3 Errors: 3 Percent correct = 60.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എന്തായാലും ഞാന്‍ കാരണം ഇല്ല  (file_1665)
+എന്തായാലും ഞാന്‍ കാരണം ഇല്ല  (file_1665)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തായാലും  പോവണം  (file_1666)
+കണക്കാക്കാം പോവണം  (file_1666)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തായി  (file_1667)
+കണ്ടാൽ   (file_1667)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താ    (file_1668)
+എന്താണ്  (file_1668)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താ അവന് നിന്റെ   മുഖം തീരെ   ഇഷ്ടപ്പെടാത്തത്  (file_1669)
+***   നാം  അവനെന്റെ ലോകം കേബേജ് ശതമാനം           (file_1669)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 5
+എന്താ അവിടെയുള്ളവരെല്ലാം തമാശക്കാരാണോ  (file_1670)
+നാം   അവിടെയുള്ളവരെല്ലാം തമാശക്കാരാണോ  (file_1670)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താ അവൾ  ഉത്തരം പറയാത്തത്  (file_1671)
+നാം   അവളെ ഉത്തരം പറയാത്തത്  (file_1671)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്താ   ഉദ്ദേശിച്ചത്  (file_1672)
+എന്താണ് ഉദ്ദേശിച്ചത്  (file_1672)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്താ എന്‍റെ      താക്കോല്‍ നിന്റെ അച്ഛന്റെ  (file_1673)
+നാം   നിന്നെക്കാൾ ഒരു       നിന്റെ അച്ഛന്റെ  (file_1673)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എന്താ കുഴപ്പം  (file_1674)
+എന്താ കുഴപ്പം  (file_1674)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്താ കൂപര്‍ ഇത്      നിങ്ങള്‍ നല്ല     പഠിപ്പുള്ള ആളല്ലേ  (file_1675)
+***   രണ്ടാം കൂടുതല്‍ ഇതെന്താ  എത്രയാണ് പഠിപ്പുള്ള ആളല്ലേ  (file_1675)
+Words: 7 Correct: 2 Errors: 5 Percent correct = 28.57% Error = 71.43% Accuracy = 28.57%
+Insertions: 0 Deletions: 1 Substitutions: 4
+എന്താ ചെറുക്കാ നിന്റെ പേര്  (file_1676)
+എന്താ ചെറുക്കാ നിന്റെ പേര്  (file_1676)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്താ നിന്റെ അച്ഛന്റെ യന്ത്രം     (file_1677)
+നാം   നിന്റെ ***      ഞാനെന്താണ്  (file_1677)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+എന്താ നിന്‍റെ പ്രശ്നം  (file_1678)
+നാം   നിന്‍റെ പ്രശ്നം  (file_1678)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** ***    എന്താ നീ       വിചാരിച്ചത്  (file_1679)
+നാം പിന്നെ ഇത്   കാണിച്ച് അത്          (file_1679)
+Words: 3 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 166.67% Accuracy = -66.67%
+Insertions: 2 Deletions: 0 Substitutions: 3
+***  എന്തിനാണവൾ അവിടെ     നിൽക്കുന്നത് റാണി  (file_1680)
+നാളെ രാത്രി     എനിക്കൊരു അതെ          റാണി  (file_1680)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എന്തിനാണെന്നും പുറത്ത് പോവുന്നത്  (file_1681)
+പണിക്കാരനാണ്   പതുക്കെ പോലത്തെ    (file_1681)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***   എന്തിനാണെന്ന് പറയാതെ ഞാന്‍ തരില്ല    (file_1682)
+എന്താ നിന്‍റെ       പറയാതെ നാം   പറ്റിയത്  (file_1682)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എന്തിനാണ്   ഇത്രെയും ദൂരം പോയത്  (file_1683)
+പണിയാണെന്ന് ഇത്രെയും ദൂരം പോയത്  (file_1683)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തിനാണ് എല്ലാ ആണുങ്ങൾക്കും   വലുത്     (file_1684)
+എനിക്ക്   ആകെ   ശരിയാക്കാനാകും സ്ഥലത്ത്  (file_1684)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+***      എന്തിനാണ് ചേച്ചികരയുന്നത്  (file_1685)
+കണ്ടതാണ് ചേച്ചി    കാര്യത്തില്‍     (file_1685)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എന്തിനാണ് ടാര്‍‌സ് വേര്‍പെടുന്നത്  (file_1686)
+എനിക്ക്   ആകെ      പാസ്പോർട്ട്‌    (file_1686)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എന്തിനാണ് നിങ്ങള്‍ പതുക്കെ പറയുന്നത്     (file_1687)
+എന്തിനാണ് നിങ്ങള്‍ പതുക്കെ കാര്യത്തില്‍  (file_1687)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തിനാ  ഒരു കിലോ  ഈ               കട    തന്നെ      നിങ്ങളുടേതാണ്  (file_1688)
+കണ്ടതാണ് ഒരു ചേരും തെറ്റിയെങ്കില്‍ ആരാണ് റാണിയെന്ന് നിങ്ങളുടേതാണ്  (file_1688)
+Words: 7 Correct: 2 Errors: 5 Percent correct = 28.57% Error = 71.43% Accuracy = 28.57%
+Insertions: 0 Deletions: 0 Substitutions: 5
+എന്തിനുവേണ്ടി കൂപ്പര്‍  (file_1689)
+എന്തിനുവേണ്ടി കൂപ്പര്‍  (file_1689)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തിനു   (file_1690)
+എങ്കിലും  (file_1690)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തിന്  (file_1691)
+നിന്‍റെ  (file_1691)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തിന് അത്     വളിവിട്ട്    പാഴാക്കണം  (file_1692)
+***     നിനക്ക് എഡ്മണ്ടിന്റെ പാഴാക്കണം  (file_1692)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+എന്തിന് രഹസ്യം  (file_1693)
+പിന്നെ  രഹസ്യം  (file_1693)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തുകൊണ്ട് നിങ്ങള്‍ ഞാന്‍ പറയുന്നത് കേൾക്കുന്നില്ല  (file_1694)
+നോണ്‍വെജ്    നാളെ     തരാം  പറയണ്ട    എനിക്കറിയാം     (file_1694)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 5
+എന്തുകൊണ്ടിത് ജനങ്ങളോട് പറഞ്ഞില്ല  (file_1695)
+എന്തുകൊണ്ടിത് ജനങ്ങളോട് കാണിക്കാം  (file_1695)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തുകൊണ്ട്  (file_1696)
+ചന്ദ്രന്റെ   (file_1696)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തുകൊണ്ട് അവന്‍      ട്രെയിന്‍ സ്റ്റേഷനില്‍ ജീവിച്ചു  (file_1697)
+എന്ത്       കണ്ടെത്തണം റേഞ്ചര്‍  ശരി          ജയിച്ചു   (file_1697)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 5
+എന്തുകൊണ്ട് ഇത്    വളരെ താഴ്ന്ന് പറന്നു  (file_1698)
+നുണ         എന്‍റെ വളരെ താഴ്ന്ന് കാരണം   (file_1698)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എന്തുകൊണ്ട് നിങ്ങള്‍ ഉറങ്ങിയില്ല  (file_1699)
+നമ്മുടെ     നിങ്ങള്‍ കണ്ടില്ലേ    (file_1699)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്തുകൊണ്ട് മുന്നറിയിപ്പ് തന്നില്ല   (file_1700)
+എന്തുകൊണ്ട് എഡ്മണ്ടിന്റെ  കണ്ടില്ലേ  (file_1700)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്തുപറയുന്നു എന്‍റെ മോളു  (file_1701)
+ഞാനും         എന്‍റെ മോളു  (file_1701)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തുപറ്റി  (file_1702)
+ചന്ദ്രനിൽ   (file_1702)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തുപറ്റി   ചേച്ചി  (file_1703)
+നിഗമനത്തില്‍ ചേച്ചി  (file_1703)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തു    പറയുന്നു    (file_1704)
+എനിക്കും ആയിരിക്കും  (file_1704)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്തു    പറ്റി  (file_1705)
+എനിക്കും പറ്റി  (file_1705)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   എന്തു വേണമായിരുന്നു  (file_1706)
+എന്തോ ഇത്   വേണമായിരുന്നു  (file_1706)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+എന്തു സംഭവിച്ചാലും പപ്പാ ജോര്‍ജിനെ ഇത്      (file_1707)
+എന്തു സംഭവിച്ചാലും പപ്പാ ജോര്‍ജിനെ നിന്‍റെ  (file_1707)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തെങ്കിലും അപകടം നടക്കും      എന്നല്ലല്ലോ  (file_1708)
+എന്തെങ്കിലും അപകടം കണ്ടെത്തുന്ന ചെയ്തു       (file_1708)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്തെങ്കിലും ആവശ്യമുണ്ടോ  (file_1709)
+എന്തെങ്കിലും ആവശ്യമുണ്ടോ  (file_1709)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തെങ്കിലും ഉപേക്ഷിക്കുക എന്നുള്ളതാണ്  (file_1710)
+എന്തെങ്കിലും ഉപേക്ഷിക്കുക എന്നുള്ളതാണ്  (file_1710)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തെങ്കിലും തിരയുകയാണോ  (file_1711)
+എന്തെങ്കിലും തിരയുകയാണോ  (file_1711)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തെങ്കിലും പ്രശ്നമുണ്ടോ  (file_1712)
+എന്തെങ്കിലും പ്രശ്നമുണ്ടോ  (file_1712)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തെങ്കിലും വേണോ  (file_1713)
+എന്തെങ്കിലും വേണോ  (file_1713)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തെങ്കിലും സാധ്യത ഉണ്ടാകുമോ    (file_1714)
+എന്തെങ്കിലും സാധ്യത കണക്കാക്കാം  (file_1714)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തെങ്കിലുമാവട്ടെ അതല്ലാ   പ്രധാനപെട്ടത്  (file_1715)
+നിനക്ക്            എത്രയാണ് തടാകത്തിന്‍റെ  (file_1715)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***   ***     എന്തെങ്കിലുമൊന്ന് കഴിക്ക്  മോളെ  (file_1716)
+ഞാന്‍ നമ്മുടെ കയ്യില്‍          ഇതിന്‍റെ ഡോളി  (file_1716)
+Words: 3 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 166.67% Accuracy = -66.67%
+Insertions: 2 Deletions: 0 Substitutions: 3
+എന്തെന്നാല്‍ കൂടുതല്‍ പൊടി ശ്വസിക്കാതിരിക്കാന്‍  (file_1717)
+എന്തിനാണ്    കൂടുതല്‍ പൊടി ശ്വസിക്കാതിരിക്കാന്‍  (file_1717)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   എന്തൊരു  എരിവാണ്  (file_1718)
+ഞാന്‍ കരുതിയത് ആണ്      (file_1718)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എന്തൊരു ചാർജാണ്  (file_1719)
+എന്തൊരു ചാർജാണ്  (file_1719)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തൊരു ശബ്ദമാണ്  (file_1720)
+എന്തൊരു ശബ്ദമാണ്  (file_1720)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തോ ഒന്ന് എന്‍റെ ഫ്ലൈബൈവയർ പൊട്ടിച്ചു  (file_1721)
+എന്തോ ഒന്ന് എന്‍റെ ഫ്ലൈബൈവയർ പൊട്ടിച്ചു  (file_1721)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്തോ ഒന്ന്    വടക്കുനോക്കിയന്ത്രത്തെ തടസ്സപ്പെടുത്തി  (file_1722)
+എന്തോ കൊണ്ടാണ് വടക്കുനോക്കിയന്ത്രത്തെ തടസ്സപ്പെടുത്തി  (file_1722)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്തോ ഒന്ന് ***  (file_1723)
+എന്തോ ഒന്ന് ആണ്  (file_1723)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+എന്തോ തരം വാഹനം അതോ ഒരു ബഹിരാകാശ സ്റ്റേഷൻ   (file_1724)
+എന്തോ തരം വാഹനം അതോ ഒരു ബഹിരാകാശ സ്റ്റേഷന്  (file_1724)
+Words: 7 Correct: 6 Errors: 1 Percent correct = 85.71% Error = 14.29% Accuracy = 85.71%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്ത്  (file_1725)
+ഞാനും  (file_1725)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്ത്  അതൊന്നു ചിന്തിച്ച് ***   നോക്കിക്കേ  (file_1726)
+പിന്നെ കാണാം   ചിന്തിച്ച് എന്തോ പിന്നേം     (file_1726)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എന്ത്   അവർ നിന്നോട് സംസാരിക്കാൻ ശ്രമിച്ചോ  (file_1727)
+നിന്‍റെ അവർ നിങ്ങളെ  സംസാരിക്കാൻ ശ്രമിച്ചോ  (file_1727)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്ത്   എങ്ങനെ  (file_1728)
+നിന്‍റെ ഇങ്ങനെ  (file_1728)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്ത്   എന്തിന്  (file_1729)
+നിന്‍റെ ഇന്ന്    (file_1729)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്ത്   ചെയ്യാനാണ്  (file_1730)
+നിന്‍റെ ചെയ്യാനാണ്  (file_1730)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്ത്   തിരയണമെന്ന് ഞാനവനോട്      പറഞ്ഞിട്ടുണ്ട്  (file_1731)
+നിന്‍റെ സംഖ്യയാണ്   ഉണ്ടാക്കികൂടെ വന്നിട്ടുണ്ട്   (file_1731)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+എന്ത്  നല്ല   ബുദ്ധി  (file_1732)
+നിന്റെ കാര്യം കുട്ടി  (file_1732)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+എന്ത്   പണി   (file_1733)
+നിന്‍റെ റാണി  (file_1733)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്ത്   പ്രതീക്ഷിച്ചാണ് അവര്‍ പോകുന്നത്  (file_1734)
+നിന്‍റെ പ്രതീക്ഷിച്ചാണ് അവര്‍ ലോകത്തെ    (file_1734)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***     എന്ത്  വേണെമെങ്കിലും വിളിച്ചോ  (file_1735)
+നിന്‍റെ വേണ്ടി നിറം          മരിച്ചു   (file_1735)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എന്ത്   സഹായം  (file_1736)
+നിന്‍റെ സഹായം  (file_1736)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്നപോലെയാണ് അതിനെ അലങ്കരിച്ചിരിക്കുന്നത്  (file_1737)
+എന്നപോലെയാണ് അതിനെ അലങ്കരിച്ചിരിക്കുന്നത്  (file_1737)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***       എന്നവരോട് പറയാൻ പ്രേരിപ്പിക്കില്ല  (file_1738)
+നിങ്ങളുടെ കാര്യം    തേനിൽ ചിലത്              (file_1738)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+എന്നാണു പോവുന്നത്  (file_1739)
+നാളെ    പോലത്തേത്  (file_1739)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്നാണ്   (file_1740)
+നിന്നാണ്  (file_1740)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്നാണ് ഇത്തരം പ്രദര്‍ശനങ്ങള്‍ വളര്‍ന്ന്  (file_1741)
+എന്നാണ് ഇത്തരം പ്രദര്‍ശനങ്ങള്‍ വളര്‍ന്ന്  (file_1741)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്നാണ് എനിക്ക് തോന്നുന്നത്  (file_1742)
+നാസ     എന്‍റെ  പോലത്തെ      (file_1742)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***  എന്നാലത് അയർലണ്ടിലെ ഉരുളക്കിഴങ്ങ്  (file_1743)
+നാല് അതെ      അയർലണ്ടിലെ ഒരാളെങ്കിലും   (file_1743)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***  എന്നാലിതാര് വരച്ചു  എന്ന്  പറയ്    (file_1744)
+നാളെ രാത്രി      ജയിച്ചു പിന്നെ കാവല്‍  (file_1744)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+എന്നാലും അത് സര്‍വ്വകലാശാലയിലേക്കും അല്ല പോകുന്നത്  (file_1745)
+നാലു     അതെ സര്‍വ്വകലാശാലയിലേക്കും അല്ല പോകുന്നത്  (file_1745)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+എന്നാലും ***      ഇങ്ങനെയൊരു നുണ  (file_1746)
+എന്നാലും നേടിയതും ഡ്രോണ്‍    ആണ്  (file_1746)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+എന്നാലും മിസ്‌ കുര്‍ലിങ്ങ് ഇപ്പോഴും  (file_1747)
+എന്നാലും മിസ്‌ പൊടി        ഇപ്പോഴും  (file_1747)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+എന്നാല്‍ അവളില്‍ പിന്നീട്  (file_1748)
+എന്നാല്‍ അവളില്‍ പിന്നീട്  (file_1748)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്നാല്‍ ഇതിന് താഴെ സ്ഥലമുണ്ട്  (file_1749)
+എന്നാല്‍ ഇതിന് താഴെ സ്ഥലമുണ്ട്  (file_1749)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+എന്നാല്‍ വാ    (file_1750)
+നാളെ     തരാം  (file_1750)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+TOTAL Words: 828 Correct: 381 Errors: 515
+TOTAL Percent correct = 46.01% Error = 62.20% Accuracy = 37.80%
+TOTAL Insertions: 68 Deletions: 10 Substitutions: 437
