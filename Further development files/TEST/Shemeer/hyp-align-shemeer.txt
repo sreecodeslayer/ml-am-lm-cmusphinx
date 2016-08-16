@@ -1,0 +1,1003 @@
+നമ്മള്‍ ഒരേ നിരയായി കൂപ്പര്‍  (file_3001)
+നമ്മള്‍ ഒരേ നിരയായി കൂപ്പര്‍  (file_3001)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മള്‍ കുഴപ്പത്തില്‍ പെടും  (file_3002)
+നമ്മള്‍ കുഴപ്പത്തില്‍ പെടും  (file_3002)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മള്‍ കൃഷിക്കാര്‍ മഴ  ഇല്ലാതിരിക്കുമ്പോള്‍  (file_3003)
+നമ്മള്‍ കൃഷിക്കാര്‍ മഴ  ഇല്ലാതിരിക്കുമ്പോള്‍  (file_3003)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** നമ്മള്‍ ക്ലോക്കുണ്ടാക്കുന്നവരാണല്ലോ അല്ലേ  (file_3004)
+അവൾ പോവാണ്  നാം                         തന്നെ  (file_3004)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നമ്മള്‍ ചേര്‍ന്നു കൂപ്പര്‍  (file_3005)
+നമ്മള്‍ ചലനം      പോവാം     (file_3005)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നമ്മള്‍ തന്നത്താന്‍  വന്നതാണ്  (file_3006)
+നമ്മള്‍ കണ്ടെത്താന്‍ കാണാം     (file_3006)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നമ്മള്‍ തന്നെയാണ്  (file_3007)
+നമ്മള്‍ തന്നെയാണ്  (file_3007)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മള്‍ തമോഗര്‍ത്തത്തിന്റെ  (file_3008)
+നമ്മള്‍ തമോഗര്‍ത്തത്തിന്റെ  (file_3008)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മള്‍ തമോഗര്‍ത്തത്തിലേയ്ക് വലിയ്കപ്പെടുന്നു  (file_3009)
+അവൾ     തമോഗര്‍ത്തത്തില്‍    മരിച്ചു           (file_3009)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നമ്മള്‍ തമോഗര്‍ത്തത്തിലേയ്ക് വീഴുന്നു           കൂപ്പര്‍    (file_3010)
+നമ്മള്‍ ***                  തമോഗര്‍ത്തത്തിന്റെ പഴഞ്ചൊല്ല്  (file_3010)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+നമ്മള്‍ തുടങ്ങിയിടത്തുതന്നെ എത്തിയെന്ന്  (file_3011)
+നമ്മള്‍ തുടങ്ങിയിടത്തുതന്നെ ചെയ്യണം      (file_3011)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മള്‍ നക്ഷത്രാന്തര   യാത്രകളെ  (file_3012)
+***     കൊണ്ടുവച്ചതാണ് വല്ലതും   (file_3012)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+നമ്മള്‍ നിലവറകളിലും  (file_3013)
+നമ്മള്‍ നിലവറകളിലും  (file_3013)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മള്‍ ഭ്രമണപഥത്തിന് പുറത്തായി  (file_3014)
+മമ്മ    നമ്മുടെ       ഡോറുകൾ    (file_3014)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നമ്മള്‍ മരിക്കും  (file_3015)
+നമ്മള്‍ മരിച്ചു   (file_3015)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മള്‍ രണ്ടും സമപ്രായക്കാരായിരിക്കുമെന്ന്  (file_3016)
+നമ്മള്‍ രണ്ടും സമപ്രായക്കാരായിരിക്കുമെന്ന്  (file_3016)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മള്‍ ലാന്‍ഡര്‍ ഒന്നും  (file_3017)
+നമ്മള്‍ ലാന്‍ഡര്‍ ഒന്നും  (file_3017)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മള്‍ വൈയക്തികമായി     ചിന്തിക്കുന്നതിനു പകരം  (file_3018)
+നമ്മള്‍ അമ്മയെക്കുറിച്ച് തിരിച്ചു          വരും  (file_3018)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നമ്മള്‍ ശ്രമിക്ക​ണം  (file_3019)
+***     അനുസരിക്കണം  (file_3019)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നമ്മള്‍ സംസാരിച്ചത് അദ്ദേഹത്തോട് പറയേണ്ട                (file_3020)
+***     ***         മമ്മ         സാമ്പത്തികമാന്ദ്യമാണ്  (file_3020)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+നമ്മള്‍ സൂക്ഷിച്ച് വച്ചിട്ടുണ്ട് ***    (file_3021)
+നമ്മള്‍ സൂക്ഷിച്ച് വച്ചിട്ടുണ്ട് ഞാന്‍  (file_3021)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നമ്മിൽ ഒരാൾ മിഷനെക്കുറിചു ചിന്തിക്കുന്നു  (file_3022)
+മമ്മ   ഒരാൾ മിഷനെക്കുറിചു ചിന്തിക്കണം     (file_3022)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** നമ്മുക്കിവിടെന്ന് പോവാം  (file_3023)
+പണം കിട്ടും           പോവാം  (file_3023)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നമ്മുക്കുള്ള ഉറപ്പ്  അവിടെ   വെള്ളവുംഓർഗാനിക്സും ആണെന്നാണ്  (file_3024)
+***          നമുക്ക് മുറുകും വെള്ളവുംഓർഗാനിക്സും ആണെന്നാണ്  (file_3024)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+നമ്മുക്ക് എല്ലാമങ്ങെനെ പെട്ടന്നവസാനിപ്പിക്കാൻ കഴിയില്ലാ   (file_3025)
+നമുക്കു   അല്ലാതെ      പ്ലസ്‌                 ആരെങ്കിലും  (file_3025)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+നമ്മുക്ക് നാളെ സംസാരിക്കാം  (file_3026)
+നമുക്കു   നാളെ സംസാരിക്കാം  (file_3026)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മുക്ക് രണ്ടു ദിവസത്തിനു ശേഷം വോലെണ്ടയിൽ വിൽപ്പന ***  (file_3027)
+നമുക്ക്   വേണ്ട സ്ഥിതി     ശേഷം വോലെണ്ടയിൽ വിൽപ്പന ആണ്  (file_3027)
+Words: 6 Correct: 3 Errors: 4 Percent correct = 50.00% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നമ്മുടെത് മാത്രമല്ലപക്ഷെ ഇതാണ് നമ്മുടെ വീട്  (file_3028)
+നമ്മുടെത് മാത്രമല്ലപക്ഷെ ഇതാണ് നമ്മുടെ വേണം  (file_3028)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മുടെ അന്തസ്സ്‌ തമ്മിൽ ചേരില്ലാ  (file_3029)
+നമ്മുടെ അന്തസ്സ്‌ തമ്മിൽ ചേരില്ലാ  (file_3029)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ അവസാന പര്യവേക്ഷണം  (file_3030)
+നമ്മുടെ അവസാന പര്യവേക്ഷണം  (file_3030)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ ആദ്യ ഉപഗ്രഹങ്ങള്‍ കണ്ടെത്തിയത്  (file_3031)
+നമ്മുടെ ആദ്യ ഉപഗ്രഹങ്ങള്‍ കണ്ടെത്തിയത്  (file_3031)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ ഈ   ക്രൂ   വളരെ നല്ല മനുഷ്യതം *** പ്രകടിപ്പിക്കുന്നു  (file_3032)
+നമ്മുടെ ഈ   എന്നും വളരെ നല്ല മനുഷ്യതം ഒരു നില്‍ക്കണം          (file_3032)
+Words: 7 Correct: 5 Errors: 3 Percent correct = 71.43% Error = 42.86% Accuracy = 57.14%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നമ്മുടെ ഓക്സിജന്‍റെ *** അളവ്   കുറഞ്ഞുകൊണ്ടിരിക്കും  (file_3033)
+നമ്മുടെ ഓക്സിജന്‍റെ അവൾ ഒന്നും തിരിച്ചു              (file_3033)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നമ്മുടെ കയ്യിലില്ല  (file_3034)
+നമ്മുടെ പരിശീലനം    (file_3034)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മുടെ കുട്ടികൾക്ക് ഓർമ്മകൾ ആകുവാൻ  (file_3035)
+നമ്മുടെ കുട്ടികൾക്ക് ഓർമ്മകൾ ആകുവാൻ  (file_3035)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ ഗാലക്സിയിലെക്ക് ***  (file_3036)
+നമ്മുടെ ഗാലക്സിയിലെക്ക് ഉം   (file_3036)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നമ്മുടെ നാശത്തിന്  (file_3037)
+നമ്മുടെ നാശത്തിന്  (file_3037)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ പുതിയ ലോകത്ത്   (file_3038)
+നമ്മുടെ പുതിയ കേൾക്കും  (file_3038)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മുടെ പുതിയ സൂര്യനു താഴെ  (file_3039)
+നമ്മുടെ പുതിയ സൂര്യനു താഴെ  (file_3039)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ പ്രയത്നങ്ങള്‍ മൂലം  (file_3040)
+നമ്മുടെ പ്രയത്നങ്ങള്‍ മൂലം  (file_3040)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ ബോധമണ്ഡലത്തിനും അപ്പുറമുള്ള  (file_3041)
+നമ്മുടെ ബോധമണ്ഡലത്തിനും അപ്പുറമുള്ള  (file_3041)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ ഭൂമിയിലെ സമയവുമായി വ്യത്യാസം വരുത്തും  (file_3042)
+നമ്മുടെ ഭൂമിയിലെ സമയവുമായി എവിടെയാ   സംഭവം     (file_3042)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നമ്മുടെ ഭ്രമണപഥത്തിലെ ഏൻഡുറൻസ് എന്ന      (file_3043)
+നമ്മുടെ ഭ്രമണപഥത്തിലെ ജേനും    സംശയമാണ്  (file_3043)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നമ്മുടെ റാണി  മെഹ്റായുടെ മകൾ  (file_3044)
+മോളെ    വാതിൽ മെഹ്റായുടെ മകൾ  (file_3044)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നമ്മുടെ ലോകം തണുത്തതാണ്  (file_3045)
+നമ്മുടെ ലോകം തണുത്തതാണ്  (file_3045)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ ലോകം നമുക്ക് വിശ്വസിക്കാം  (file_3046)
+നമ്മുടെ ലോകം നാം     നശിച്ച        (file_3046)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നമ്മുടെ വിവാഹം നടക്കില്ലാ  (file_3047)
+നമ്മുടെ വിവാഹം നടക്കില്ലാ  (file_3047)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ വീട്  പണിതത്  ഒരു കാന്തിക ശക്തിയുള്ള  (file_3048)
+നമ്മളെ  ഇവിടെ പണികള്‍ ഒരു കാന്തിക ശക്തിയുള്ള  (file_3048)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നമ്മുടെ സംസ്ക്കാരം അതല്ലേ   (file_3049)
+നമ്മുടെ സംസ്ക്കാരം അവന്‍റെ  (file_3049)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** നമ്മുടെ സമീപത്തേക്ക് എത്തിച്ചിരിക്കുന്നു  (file_3050)
+ഇത് അവളെ    സമിതി        വിജയചിഹ്നം           (file_3050)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നമ്മുടെ സാധനങ്ങള്‍ സൂക്ഷിക്കാന്‍ തുടങ്ങൂ  (file_3051)
+നമ്മുടെ സാധനങ്ങള്‍ സൂക്ഷിക്കാന്‍ തുടങ്ങൂ  (file_3051)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മുടെ *** ***    ***     സ്ഥാനത്തെക്കുറിച്ച് ഓര്‍ത്ത് ദുഖിക്കുകയാണ്  (file_3052)
+നമ്മുടെ ഫാം എന്‍റെ അച്ഛന്‍ കേൾക്കും            ബുദ്ധി   ചെയ്യാം        (file_3052)
+Words: 4 Correct: 1 Errors: 6 Percent correct = 25.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 3 Deletions: 0 Substitutions: 3
+നമ്മെ ഇങ്ങോട്ട് നയിച്ചവർ    (file_3053)
+***   മെഷിനുകൾ  പഴഞ്ചൊല്ല്  (file_3053)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+നമ്മൾക്ക് രണ്ടു പേർക്കും ഇതാണ് നല്ലത്  (file_3054)
+നമ്മുടെ   രണ്ടു പേർക്കും ഇതാണ് നല്ലത്  (file_3054)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മൾ    (file_3055)
+നമ്മള്‍  (file_3055)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മൾ അവൾക്ക്‌ യൂറോയെങ്കിലും കൊടുക്കേണ്ടേ  (file_3056)
+നമ്മൾ അവൾക്ക്‌ യൂറോയെങ്കിലും കൊടുക്കേണ്ടേ  (file_3056)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മൾ ഇപ്പോൾ ഇവിടെയുണ്ട്  (file_3057)
+നമ്മൾ ഇപ്പോൾ ഇവിടെയുണ്ട്  (file_3057)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മൾ   ഇവിടെ  (file_3058)
+നമ്മള്‍ ഇവിടെ  (file_3058)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നമ്മൾ   എങ്ങോട്ടും പോവുന്നില്ലനമ്മൾക്ക് ഡൽഹിയിൽ വെച്ച് സംസാരിക്കാം  (file_3059)
+നമ്മള്‍ നോക്കാം    പോവുന്നില്ലനമ്മൾക്ക് എന്‍റെ  വെച്ച് സംസാരിക്കാം  (file_3059)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നമ്മൾ ഒരുപാട് കാലം ഒരുമിച്ചായിരുന്നു  (file_3060)
+നമ്മൾ ഒരുപാട് കാലം ഒരുമിച്ചായിരുന്നു  (file_3060)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മൾ ക്ഷമയോടെ കാത്തിരിക്കുക ***     (file_3061)
+നമ്മൾ ക്ഷമയോടെ കാത്തിരിക്കുക വെള്ളം  (file_3061)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നമ്മൾ തമ്മിൽ എപ്പോളുമൊരു ബന്ധമുണ്ടാവും  (file_3062)
+നമ്മൾ തമ്മിൽ എപ്പോളുമൊരു ബന്ധമുണ്ടാവും  (file_3062)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മൾ തെറ്റായി തിരിഞ്ഞുവെന്ന് തോന്നുന്നു  (file_3063)
+നമ്മൾ തെറ്റായി എന്തിനാണ്      പോകാം       (file_3063)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നമ്മൾ നേരെ പോവേണ്ടതായിരുന്നു  (file_3064)
+നമ്മൾ നേരെ പോവേണ്ടതായിരുന്നു  (file_3064)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നമ്മൾ സംസാരിക്കാൻ പഠിക്കേണ്ടതുണ്ട്  (file_3065)
+നമ്മൾ സംസാരിക്കാൻ പഠിക്കേണ്ടതുണ്ട്  (file_3065)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ലതാണെങ്കിൽ വിൽക്കുകയും ചെയ്യാം  (file_3066)
+നല്ലതാണെങ്കിൽ വിൽക്കുകയും ചെയ്യാം  (file_3066)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ലതും ***    *** എളുപ്പവുമാണ് ഡോയൽ നല്ലതും എളുപ്പവു    (file_3067)
+നല്ലതും കേട്ടു ഡോ  മാന്‍        ഡോയൽ നല്ലതും ചിന്‍റുവും  (file_3067)
+Words: 5 Correct: 3 Errors: 4 Percent correct = 60.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+നല്ലത്  (file_3068)
+ജ്വലനം  (file_3068)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നല്ലത് തന്നെ    (file_3069)
+നല്ല   തുടങ്ങി  (file_3069)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നല്ലൊരു തമാശ  (file_3070)
+നല്ലൊരു തമാശ  (file_3070)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ലൊരു പൈലറ്റും  (file_3071)
+നല്ലൊരു പൈലറ്റും  (file_3071)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല  (file_3072)
+നല്ല  (file_3072)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല കുട്ടി ഇതാരുടെ കുട്ടിയാണ്  (file_3073)
+നല്ല കുട്ടി ഇതാരുടെ കുട്ടിയാണ്  (file_3073)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല തണുപ്പുണ്ടോ  (file_3074)
+നല്ല തണുപ്പുണ്ടോ  (file_3074)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല താൽപര്യമാണല്ലോ  (file_3075)
+നല്ല താൽപര്യമാണല്ലോ  (file_3075)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല തിരഞ്ഞെടുക്കല്‍  (file_3076)
+നല്ല തിരഞ്ഞെടുക്കല്‍  (file_3076)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല പണവും ലഭിക്കുന്നുണ്ട്  (file_3077)
+നല്ല ***   സംഭവിച്ചു        (file_3077)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നല്ല പുസ്തകങ്ങള്‍ ലഭിക്കും  (file_3078)
+നല്ല പുസ്തകങ്ങള്‍ ലഭിക്കും  (file_3078)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല ഭംഗിയുണ്ട്  (file_3079)
+നല്ല നിന്‍റെ     (file_3079)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നല്ല മധുരമൂറും   (file_3080)
+***  നല്ലതെന്ന്  (file_3080)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നല്ല മൊരിഞ്ഞ    എരിവുള്ള   (file_3081)
+***  നല്ലതെന്ന് ഭംഗിയുള്ള  (file_3081)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+നല്ല രസമായിരിക്കും  (file_3082)
+നല്ല രസമായിരിക്കും  (file_3082)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല രസമായിരുന്നു  (file_3083)
+നല്ല രസമായിരുന്നു  (file_3083)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല രുചിയാവും  (file_3084)
+നല്ല രുചിയാവും  (file_3084)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല രുചിയുണ്ടായിരുന്നു  (file_3085)
+നല്ല കഴിയുകായെന്ന്       (file_3085)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നല്ല രുചി  (file_3086)
+നല്ല രുചി  (file_3086)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല റേഞ്ചുള്ള ട്രാന്‍സ്മിറ്റിര്‍ വേണം  (file_3087)
+നല്ല റേഞ്ചുള്ള ട്രാന്‍സ്മിറ്റിര്‍ വേണം  (file_3087)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നല്ല വാര്‍ത്തയും മോശം വാര്‍ത്തയുമുണ്ട്  (file_3088)
+നല്ല വാര്‍ത്തയും മോശം മില്ലറിന്റെ       (file_3088)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നല്ല  വീടുകളിലേക്ക്        പുസ്തകം കൊടുത്തുവിടുക  (file_3089)
+ഞാന്‍ ഇല്ലായിരുന്നെങ്കില്‍ പുസ്തകം കൊടുത്തുവിടുക  (file_3089)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നല്ല ശ്രമം  (file_3090)
+നല്ല സഹായം  (file_3090)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നല്ല സാഹസികമായ പറക്കല്‍  (file_3091)
+നല്ല സാഹസികമായ കളറാണ്    (file_3091)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നശിച്ചുപോയി  (file_3092)
+നശിച്ചുപോയി  (file_3092)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നശിച്ചു പോയി      (file_3093)
+നശിച്ചു ഇപ്പോളും  (file_3093)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   നശിപ്പിച്ചു  (file_3094)
+പക്ഷെ തികച്ചും     (file_3094)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നാം അതിനു ഒരിങ്ങിയിട്ടില്ല  (file_3095)
+നാം അതിനു ഒരിങ്ങിയിട്ടില്ല  (file_3095)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം അത്     കത്തിക്കാന്‍ പോകുന്നു    (file_3096)
+*** ലാജ്പത് നഗർ          എന്‍റെകൂടെ  (file_3096)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+നാം അത് താഴേക്ക് ഉപേക്ഷിച്ചാൽ മരണം  (file_3097)
+നാം അത് താഴേക്ക് ഉപേക്ഷിച്ചാൽ മരണം  (file_3097)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം അന്വേഷിക്കുന്ന ആ      തകർന്ന      (file_3098)
+നാം അന്വേഷിക്കുന്ന എല്ലാം കള്ളനുമാണ്  (file_3098)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നാം അവളുടെ ഡാറ്റ ഇല്ലാതെ തിരികെ പോകില്ല  (file_3099)
+നാം അവളുടെ ഡാറ്റ ഇല്ലാതെ തിരികെ പോകില്ല  (file_3099)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം അവിടെ എത്താൻ ആഗ്രഹിക്കുന്നു  (file_3100)
+നാം അവിടെ എത്താൻ അധികം           (file_3100)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നാം ആരോട് നന്ദി പറയണം  (file_3101)
+നാം ആരോട് നന്ദി പറയണം  (file_3101)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം ആ   ഗ്രഹത്തിൽ ചിലവഴിക്കുന്ന ***  (file_3102)
+നാം വാം ഗ്രഹത്തിൽ ചിലവഴിക്കുന്ന ആണ്  (file_3102)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നാം ഇവിടെ അകപ്പെട്ടു പോയിരിക്കുന്നു  (file_3103)
+നാം ഇവിടെ അകപ്പെട്ടു പോയിരിക്കുന്നു  (file_3103)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം ഇവിടെ ആരംഭിക്കുന്നു  (file_3104)
+നാം ഇവിടെ ആരംഭിക്കുന്നു  (file_3104)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം *** ഉറപ്പുവരുത്തും എന്നുള്ളതാണ്  (file_3105)
+നാം വാം ഒരു            എന്നുള്ളതാണ്  (file_3105)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നാം ഒരുപാട് സമയം ഒരുമിച്ചു ചെലവഴിക്കാൻ പോകുകയാണ്  (file_3106)
+നാം ഒരുപാട് സമയം ഒരുമിച്ചു ചെലവഴിക്കാൻ പോകുകയാണ്  (file_3106)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം ചിന്തിക്കുന്നതിലും ഉപരി     (file_3107)
+നാം സന്ദേശങ്ങള്‍       ഇസബെല്‍  (file_3107)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നാം തിരിച്ചുവന്നു അത്  പരിശോധിക്കും  (file_3108)
+നാം തിരിച്ചുവന്നു അതും പരിശോധനകള്‍   (file_3108)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നാം ***   ത്രസ്ട്ടെർസ് ഉപയോഗിച്ച് വേഗത      കുറക്കണം  (file_3109)
+നാം ദിവസം പ്ലസ്‌       ഉപയോഗിച്ച് എന്നെയല്ല വർഷം      (file_3109)
+Words: 5 Correct: 2 Errors: 4 Percent correct = 40.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നാം നമ്മുടെ ജീവിതകാലയളവിനും  (file_3110)
+നാം നമ്മുടെ ജീവിതകാലയളവിനും  (file_3110)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം പെട്ടെന്ന് താഴെയെത്താൻ ശ്രമിക്കുന്നു ശരി     അല്ലെ  (file_3111)
+നാം പെട്ടെന്ന് ***         അല്ലാതെന്താണ് ചുറ്റും ശനിയെ  (file_3111)
+Words: 6 Correct: 2 Errors: 4 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 3
+നാം ബ്ലാക്ക് ഹോളിലെക്കെത്തിയ ചില  (file_3112)
+നാം ബ്ലാക്ക് ഹോളിലെക്കെത്തിയ ചില  (file_3112)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം മുഖ്യഭാഗത്തിലൂടെയാണ് കടന്നുപോകുന്നത്  (file_3113)
+നാം മുഖ്യഭാഗത്തിലൂടെയാണ് കടന്നുപോകുന്നത്  (file_3113)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം വെള്ളപ്പോക്കത്തിനു നടുവിലാണ്  (file_3114)
+നാം വെള്ളപ്പോക്കത്തിനു നടുവിലാണ്  (file_3114)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം വർഷങ്ങളെക്കുറിച്ച് സംസാരിച്ചുഞാൻ  (file_3115)
+നാം വർഷങ്ങളെക്കുറിച്ച് സംസാരിച്ചുഞാൻ  (file_3115)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാം ശനിയുടെ രണ്ട് വർഷം കണക്കാക്കിയാൽ  (file_3116)
+നാം ശനിയുടെ രണ്ട് വർഷം കണക്കാക്കിയാൽ  (file_3116)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാച്ചുറല്‍ ആയി അഭിനയിക്ക്  (file_3117)
+നാച്ചുറല്‍ ആയി ലഭിക്കും    (file_3117)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നായകന്മാർ ഇത്     ശ്രമിച്ചിട്ടുണ്ട്  (file_3118)
+നായകന്മാർ ജിപിസും ചിന്‍റുവും         (file_3118)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***  നായ്ക്കളുടെ പ്രണയമോ  (file_3119)
+മാറി ഇവളുടെ      പറയും    (file_3119)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നായ്ക്കളുടെ സാമൂഹ്യ *** ***    ***    വത്കരണത്തെക്കുറിച്ചാണ്  (file_3120)
+നായ്ക്കളുടെ സാമൂഹ്യ അവൾ അവന്റെ വെച്ച് കാണാം                   (file_3120)
+Words: 3 Correct: 2 Errors: 4 Percent correct = 66.67% Error = 133.33% Accuracy = -33.33%
+Insertions: 3 Deletions: 0 Substitutions: 1
+നായ    (file_3121)
+വായും  (file_3121)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** നാരങ്ങയും  (file_3122)
+അത് ആരെയും     (file_3122)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നാരങ്ങ       ഇതില്‍ പിഴിയാനാണ്  (file_3123)
+മാറ്റാതെയാണ് ഇതില്‍ പിഴിയാനാണ്  (file_3123)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നാലാമതും നമുക്കത് ***   ആവര്‍ത്തിക്കാം  (file_3124)
+നാലാമതും നമുക്കത് പകുതി ഇല്ല            (file_3124)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നാലു മാസം എട്ടു ദിവസം  (file_3125)
+നാലു മാസം വെറും ദിവസം  (file_3125)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നാളെ തരാം  (file_3126)
+നാളെ തരാം  (file_3126)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാളെ രാത്രി ഏഴിന് ഞാന്‍       ടബാര്‍ഡിനെ കൂട്ടി വരാം  (file_3127)
+നാളെ രാത്രി ***   ഇനിയെന്താണ് ടബാര്‍ഡിനെ കൂട്ടി വരാം  (file_3127)
+Words: 7 Correct: 5 Errors: 2 Percent correct = 71.43% Error = 28.57% Accuracy = 71.43%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നാളെ രാത്രി ഒരു കളി ഉണ്ട്    (file_3128)
+നാളെ രാത്രി ഒരു കളി എന്താണ്  (file_3128)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നാവിഗേഷനിലൂടെ  (file_3129)
+നാവിഗേഷനിലൂടെ  (file_3129)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നാശം  (file_3130)
+മാസം  (file_3130)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നാസ   (file_3131)
+മാസം  (file_3131)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നാൽപ്പത്തഞ്ചു മിനുറ്റുമുതൽ ഒരു മണിക്കൂർ വരെ  (file_3132)
+നാൽപ്പത്തഞ്ചു മിനുറ്റുമുതൽ ഒരു മണിക്കൂർ വരെ  (file_3132)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളത് എന്‍റെതാണെന്ന് കരുതുന്നുണ്ടോ    (file_3133)
+നിങ്ങള്‍ ഇന്ത്യനാണ്     കാത്തിരുന്നോളും  (file_3133)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നിങ്ങളല്ലേ ഓടിച്ചോണ്ടിരിക്കാന്‍ പറഞ്ഞത്   (file_3134)
+നിങ്ങളുടെ  ഓടിച്ചോണ്ടിരിക്കാന്‍ വന്നതാണ്  (file_3134)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങളല്ലേ പറഞ്ഞത് ഭൂതങ്ങള്‍ *** ഇല്ലെന്ന്  (file_3135)
+നിങ്ങളുടെ  സ്വന്തം ഭൂതങ്ങള്‍ ഈ   ലോകം      (file_3135)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നിങ്ങളവനെ ചവിട്ടി  (file_3136)
+ഞങ്ങളുടെ  ഇസബെല്‍  (file_3136)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങളവളെ കാണുമ്പോള്‍  (file_3137)
+നിങ്ങളവളെ കാണുമ്പോള്‍  (file_3137)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളവിടെ നില്‍ക്ക്   (file_3138)
+നിങ്ങളെ    നില്‍ക്കണം  (file_3138)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***       നിങ്ങളാണോ റോക്സ്ട്ടേ  (file_3139)
+നിങ്ങളാണ് ബോക്സ്    ബൈ          (file_3139)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നിങ്ങളായിരുന്നു എന്‍റെ പ്രേതം  (file_3140)
+നിങ്ങൾക്ക്      എന്‍റെ പ്രേതം  (file_3140)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളിത് കേള്‍ക്കുന്നുണ്ടാവില്ല  (file_3141)
+നിങ്ങളിത് കേള്‍ക്കുന്നുണ്ടാവില്ല  (file_3141)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളിപ്പോള്‍ എന്‍റെ മോനെ കോളേജില്‍ നിന്ന്‍ *** പുറത്താക്കുകയാണോ  (file_3142)
+നിങ്ങളിപ്പോള്‍ എന്‍റെ മോനെ കോളേജില്‍ നിന്ന്‍ അവർ ഇന്ത്യൻ           (file_3142)
+Words: 6 Correct: 5 Errors: 2 Percent correct = 83.33% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങളിവനോട് ക്ഷമിക്കണം  (file_3143)
+നിങ്ങളിവനോട് ക്ഷമിക്കണം  (file_3143)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളിവിടെ  (file_3144)
+നിങ്ങളിവിടെ  (file_3144)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളിവിടെ അതിഥിയാണോ  (file_3145)
+നിങ്ങളിവിടെ അതിഥിയാണോ  (file_3145)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളും നന്നായിട്ടുണ്ട് ഈ   ഷർട്ട്‌ നമ്മൾ അന്ന് വിവാഹത്തിന് വേണ്ടി വാങ്ങിയതല്ലേ  (file_3146)
+നിങ്ങളും നന്നായിട്ടുണ്ട് ഈ   ഷർട്ട്‌ നമ്മൾ അന്ന് വിവാഹത്തിന് നാം    പെട്ടെന്ന്    (file_3146)
+Words: 9 Correct: 7 Errors: 2 Percent correct = 77.78% Error = 22.22% Accuracy = 77.78%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങളും വരണം  (file_3147)
+നിങ്ങളും വരണം  (file_3147)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ  (file_3148)
+നിങ്ങളുടെ  (file_3148)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ അച്ഛനോടും അമ്മയോടും പറഞ്ഞോ  (file_3149)
+നിങ്ങളുടെ അച്ഛനോടും അമ്മയോടും പറഞ്ഞോ  (file_3149)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ അച്ഛന്‍ ***    ഇന്ത്യക്കാരനാണോ  (file_3150)
+നിങ്ങളുടെ അച്ഛന്‍ എന്‍റെ കാണാം            (file_3150)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങളുടെ അച്ഛന്‍ പറഞ്ഞു നിങ്ങള്‍ ഹോം സയൻസാണ് പഠിക്കുന്നതെന്ന്  (file_3151)
+നിങ്ങളുടെ അച്ഛന്‍ പറഞ്ഞു നിങ്ങള്‍ ഹോം സയൻസാണ് പഠിക്കുന്നതെന്ന്  (file_3151)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ അമ്മയോട് പറഞ്ഞോളു  (file_3152)
+നിങ്ങളുടെ അമ്മയോട് വന്നു     (file_3152)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളുടെ ആസുത്രണം എന്താണ്  (file_3153)
+നിങ്ങളുടെ ആസുത്രണം എന്താണ്  (file_3153)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ ഇടുപ്പളവ്‌ എത്രയാ ആണോ    (file_3154)
+നിങ്ങളുടെ ഇടുപ്പളവ്‌ എത്രയാ കാണാം  (file_3154)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളുടെ ഓക്സിജന്‍ തീരുന്നതിന് തൊട്ടുമുമ്പാണ്  (file_3155)
+നിങ്ങളുടെ ഓക്സിജന്‍ ഇവിടെ       അദ്ദേഹമെന്താണ്  (file_3155)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങളുടെ കുട്ടിയാണോ  (file_3156)
+നിങ്ങളുടെ കുട്ടിയാണോ  (file_3156)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ കുട്ടിയുടെ ഗോഡ്ഫാദറാകുന്നതില്‍  (file_3157)
+നിങ്ങളുടെ കുട്ടിയുടെ ഗോഡ്ഫാദറാകുന്നതില്‍  (file_3157)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ ഡാൻസ് വളരെ നന്നായിരുന്നു  (file_3158)
+നിങ്ങളുടെ ഡാൻസ് വളരെ നന്നായിരുന്നു  (file_3158)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ തീരുമാനവുമായി പൊരുത്തപ്പെടണമെന്ന്  (file_3159)
+നിങ്ങളുടെ തീരുമാനവുമായി പൊരുത്തപ്പെടണമെന്ന്  (file_3159)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ ച്ചിത്രം തുടങ്ങുന്നതിന് മുമ്പ്         തന്നെ  (file_3160)
+നിങ്ങളുടെ ***      ചിത്രം         പോകുന്നതെന്നും തന്നെ  (file_3160)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+നിങ്ങളുടെ പണം കൊണ്ട് പോയിക്കോളു  (file_3161)
+നിങ്ങളുടെ പണം ***    വെറുമൊരു    (file_3161)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+***      നിങ്ങളുടെ ഭര്‍ത്താവ് ഒരു  മഹാനായ  (file_3162)
+നിങ്ങള്‍ എന്നെ     അവള്‍      വരും ബാഗാണ്  (file_3162)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+നിങ്ങളുടെ ഭാര്യയുടെ കാര്യത്തില്‍ ***    എനിക്ക് വിഷമമുണ്ട് കൂപര്‍  (file_3163)
+നിങ്ങളുടെ ഭാര്യയുടെ കാര്യത്തില്‍ നിന്റെ ശ്രമം   കേള്‍ക്കൂ  അല്ലെ   (file_3163)
+Words: 6 Correct: 3 Errors: 4 Percent correct = 50.00% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നിങ്ങളുടെ ഭാര്യയുടെ കാര്യത്തില്‍ ഖേദിക്കുന്നു  (file_3164)
+നിങ്ങളുടെ ഭാര്യയുടെ കാര്യത്തില്‍ ഖേദിക്കുന്നു  (file_3164)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ ഭർത്താവ് ഓഫീസിൽ പോയോ  (file_3165)
+നിങ്ങളുടെ എല്ലാം   ഓഫീസിൽ പോയോ  (file_3165)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളുടെ മകളുടെ പേരാണ് *** നല്കിയിരിക്കുന്നത്  (file_3166)
+നിങ്ങളുടെ മകളുടെ പേരാണ് ഈ   ഞങ്ങൾ               (file_3166)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങളുടെ മകള്‍ സുരക്ഷിതയാണ് സമര്‍ത്ഥയായ കുട്ടി  (file_3167)
+നിങ്ങളുടെ മകള്‍ സുരക്ഷിതയാണ് സമര്‍ത്ഥയായ എന്ന്   (file_3167)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളുടെ മാപ്പില്‍ ഈ   സ്ഥലത്തിന്‍റെ സ്ഥാനം  (file_3168)
+സ്നേഹം    മാപ്പില്‍ ഈ   സ്ഥലത്തിന്‍റെ സ്ഥാനം  (file_3168)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളുടെ മാപ്പ്    വഴി   (file_3169)
+നിങ്ങളുടെ മാപ്പില്‍ വേണം  (file_3169)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങളുടെ രക്ഷിതാക്കള്‍ എവിടെ  (file_3170)
+നിങ്ങളുടെ രക്ഷിതാക്കള്‍ എവിടെ  (file_3170)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളുടെ ലോകത്തെപ്പറ്റി പറയൂ    (file_3171)
+നിങ്ങളുടെ ലോകത്തെപ്പറ്റി കഴിയും  (file_3171)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളുടെ വിലയിരുത്താനുള്ള നല്ലതാണെന്ന് തോന്നുന്നു  (file_3172)
+നിങ്ങളുടെ നില്‍ക്കാനാവില്ല നല്ല         പോണം         (file_3172)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നിങ്ങളുടെ സാധനങ്ങളൊന്നും ഞാന്‍   തൊട്ടിട്ടില്ല  (file_3173)
+നിങ്ങളുടെ സാധനം          വിടാന്‍ പോകുന്നില്ല    (file_3173)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നിങ്ങളുടെ സ്വന്തം ഭക്ഷണം ഉണ്ടാക്കികൂടെ  (file_3174)
+നിങ്ങളുടെ സ്വന്തം ഭക്ഷണം ഉണ്ടാക്കികൂടെ  (file_3174)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***      നിങ്ങളുടേതാണെന്ന് ഉറപ്പല്ലേ  (file_3175)
+നിങ്ങള്‍ കേടാവും           അല്ലേ      (file_3175)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നിങ്ങളു രണ്ടു പേരും ഇത് മറക്കണം  (file_3176)
+നിങ്ങളു രണ്ടു പേരും ഇത് ഇല്ല     (file_3176)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     നിങ്ങളെന്താണിവിടെ ചെയ്യുന്നത്  (file_3177)
+നിങ്ങളെ എന്താണിവിടെ       ചെയ്യും      (file_3177)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***     നിങ്ങളെന്താണീ ചെയ്തത്  (file_3178)
+നിങ്ങളെ കാര്യം        ചെയ്തത്  (file_3178)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങളെന്താണ് എന്‍റെ ഡാഡിയുടെ ട്രക്കിൽ  (file_3179)
+നിങ്ങളെന്താണ് എന്‍റെ ഡാഡിയുടെ കളറില്‍   (file_3179)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളെന്ത്   മനുഷ്യനാണ്  (file_3180)
+നിങ്ങളെന്താണ് വിഷമമാണ്    (file_3180)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങളെന്നെ കരകയറ്റിയത്  (file_3181)
+നിങ്ങളെന്നെ കരകയറ്റിയത്  (file_3181)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളെന്നെ ***    നുണയനെന്ന് വിളിക്കും  (file_3182)
+നിങ്ങളെന്നെ മുമ്പേ നിങ്ങള്‍   വെറും      (file_3182)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നിങ്ങളെന്നെ ശിക്ഷിക്കുകയല്ലെങ്കില്‍  (file_3183)
+നിങ്ങളെന്നെ ശിക്ഷിക്കുകയല്ലെങ്കില്‍  (file_3183)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളെപ്പോളും പാസ്പോർട്ട്‌ *** കൈയ്യിൽതന്നെ  (file_3184)
+നിങ്ങളെപ്പോളും പാസ്പോർട്ട്‌ ആണ് കൈയ്യിൽതന്നെ  (file_3184)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നിങ്ങളെയാണ് തിരഞ്ഞെടുത്തത് സര്‍  (file_3185)
+നിങ്ങളെയാണ് തിരഞ്ഞെടുത്തത് സര്‍  (file_3185)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളെയും അടക്കാന്‍   (file_3186)
+നിങ്ങളെയും പഴഞ്ചൊല്ല്  (file_3186)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങളെവിടെനിന്നാണ് പാകിസ്ഥാനാണോ  (file_3187)
+നിങ്ങളെവിടെനിന്നാണ് പാകിസ്ഥാനാണോ  (file_3187)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളെ ഈ   ആഘോഷത്തിലേക് ***     (file_3188)
+നിങ്ങളെ ഈ   ആഘോഷത്തിലേക് ഇതില്‍  (file_3188)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നിങ്ങളെ കണ്ടതില്‍ സന്തോഷം  (file_3189)
+നിങ്ങളെ കണ്ടതില്‍ സന്തോഷം  (file_3189)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളെ കാണാൻ ഒരു സിക്കന്ധറിനെ പോലെയുണ്ട്  (file_3190)
+നിങ്ങളെ കാണാൻ ഒരു സിക്കന്ധറിനെ പോലെയുണ്ട്  (file_3190)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളെ പിരിച്ചു വിട്ടെന്നാണ് ഞാന്‍    കേട്ടത് സര്‍   (file_3191)
+നിങ്ങളെ പിരിച്ചു വിട്ടെന്നാണ് ബ്രാന്റ് ഏറ്റവും സാധനം  (file_3191)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നിങ്ങളെ പോലുള്ള മികച്ച കര്‍ഷകരെ  (file_3192)
+നിങ്ങളെ പോലുള്ള മികച്ച കര്‍ഷകരെ  (file_3192)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളെ വീണ്ടും    കണ്ടതില്‍ വളരെയധികം സന്തോഷം  (file_3193)
+നീ      നിങ്ങളെയും കണ്ടതില്‍ വളരെയധികം സന്തോഷം  (file_3193)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങളൊക്കെയെന്താണ് ഇരുട്ടത്ത്       ഇരിക്കുന്നത്   (file_3194)
+***                 നിങ്ങൾക്കെന്താണ് ഇവിടെനിന്നാണ്  (file_3194)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+നിങ്ങളൊക്കെ ഏമ്പക്കം            രുചിക്കുമോ  (file_3195)
+***         നിങ്ങളൊക്കെയെന്താണ് രുചിച്ചു    (file_3195)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+***      നിങ്ങളൊരിക്കലും ഇവിടെ എത്തില്ലായിരുന്നു  (file_3196)
+നിങ്ങള്‍ ജോര്‍ജിനെ       ഇത്   ഇതെല്ലാം           (file_3196)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നിങ്ങളൊരിക്കലും എന്നെപ്പോലെ പരീക്ഷിക്കപ്പെട്ടിട്ടില്ല  (file_3197)
+നിങ്ങളൊരിക്കലും എന്നെപ്പോലെ പരീക്ഷിക്കപ്പെട്ടിട്ടില്ല  (file_3197)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങളൊരു മുത്തച്ഛനായി  (file_3198)
+നിങ്ങള്‍  മികച്ചതാണ്    (file_3198)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങളൊരു സുന്ദരിയാണ്  (file_3199)
+നിങ്ങള്‍  സുന്ദരിയാണ്  (file_3199)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങള്ക്ക് ഈ         ചുറ്റൽ നിരത്താൻ പറ്റുമോ  (file_3200)
+നിങ്ങൾക്ക്  എത്തിച്ച് ഞാന്‍  ഇതെല്ലാം വെറുതെ   (file_3200)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 5
+നിങ്ങള്‍ക്കത് കത്തിക്കാന്‍ കഴിയില്ല  (file_3201)
+നിങ്ങള്‍ക്കത് കത്തിക്കാന്‍ കഴിയില്ല  (file_3201)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ക്കത് മനസ്സിലാകണം  (file_3202)
+നിങ്ങള്‍ക്കത് മനസ്സിലാകണം  (file_3202)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ക്കത് മനസ്സിലാകില്ല  (file_3203)
+നിങ്ങള്‍ക്കത് മനസ്സിലാകില്ല  (file_3203)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ക്കാ നായികയെ ഒന്നുകൂടെ കാണണോ  (file_3204)
+നിങ്ങള്‍ക്കാ നായികയെ ഒന്നൂടെ   കാണാൻ  (file_3204)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ക്കിങ്ങനെ പോകാനാവില്ല  (file_3205)
+നിങ്ങള്‍ക്കിങ്ങനെ പോകാനാവില്ല  (file_3205)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ക്കിതെവിടുന്ന് ലഭിച്ചു   (file_3206)
+നിങ്ങളെവിടെനിന്നാണ്    പേടിച്ചു  (file_3206)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***      *** നിങ്ങള്‍ക്കൊരു ഉത്തരവാദിത്തമുണ്ട്  (file_3207)
+നിങ്ങള്‍ ഒരു വല്ലാതെ        തന്നെ               (file_3207)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+***      നിങ്ങള്‍ക്ക് അറിയില്ലായിരുന്നു നിങ്ങള്‍    എവിടെയെങ്കിലും പോകുകയയിരുന്നോ ***  (file_3208)
+നിങ്ങള്‍ കളവ്         അറിയില്ലാ         ഞങ്ങള്‍ക്ക് എവിടെയെങ്കിലും പോകുകയയിരുന്നോ ആണ്  (file_3208)
+Words: 5 Correct: 2 Errors: 5 Percent correct = 40.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 3
+നിങ്ങള്‍ക്ക് എന്തെങ്കിലും ഉപേക്ഷിക്കേണ്ടി വരും  (file_3209)
+നിങ്ങള്‍ക്ക് എന്തെങ്കിലും ഉപേക്ഷിക്കേണ്ടി വരും  (file_3209)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ക്ക് ഒരു കുപ്പി മര്യാദയ്ക്ക് പിടിക്കാമല്ലോ അല്ലേടോ   (file_3210)
+നിങ്ങള്‍     ഒരു വിജയ്‌ ആര്          വിവരിച്ചാലും  തന്റേയും  (file_3210)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 0 Substitutions: 5
+നിങ്ങള്‍ക്ക് ഒരു ***   തോമോട്രോപ്പിലോ സെവോടോപ്പിലോ ഒക്കെ  (file_3211)
+നിങ്ങള്‍ക്ക് ഒരു പോവാം പോവുമ്പോൾ      സെവോടോപ്പിലോ ഒക്കെ  (file_3211)
+Words: 5 Correct: 4 Errors: 2 Percent correct = 80.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ക്ക് കൃഷി ഇഷ്ടമല്ലല്ലോ ഡാഡി   (file_3212)
+ഞങ്ങള്‍      കൃഷി ഇഷ്ടമല്ലല്ലോ കാരണം  (file_3212)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ക്ക് തീരുമാനിക്കാം കുട്ടികളെ കാണണോ അതോ      (file_3213)
+നിങ്ങള്‍ക്ക് തീരുമാനിക്കാം കുട്ടികളെ കാണണോ വല്ലതും  (file_3213)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ക്ക് തെറ്റിയെങ്കില്‍ വളരെ  (file_3214)
+നിങ്ങള്‍     തെറ്റിയെങ്കില്‍ വളരെ  (file_3214)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ക്ക് നിങ്ങളുടെ ***   ലക്ഷ്യം നഷ്ടപ്പെട്ടാല്‍  (file_3215)
+നിങ്ങള്‍     നിങ്ങളുടെ വിഷയം മര്‍ഫ്  കുറവാണ്          (file_3215)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നിങ്ങള്‍ക്ക് പണ്ട്    സിനിമയിലഭിനയിച്ചിരുന്നപ്പോളുള്ള പോലെ  (file_3216)
+നിങ്ങള്‍     ക്ലബ്ബിൽ സിനിമയിലഭിനയിച്ചിരുന്നപ്പോളുള്ള പോലെ  (file_3216)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***      നിങ്ങള്‍ക്ക് പോകണമെങ്കില്‍ *** പൊയ്കോ  (file_3217)
+നിങ്ങള്‍ നാം          പോകണമെങ്കില്‍ ഒരു വോം     (file_3217)
+Words: 3 Correct: 1 Errors: 4 Percent correct = 33.33% Error = 133.33% Accuracy = -33.33%
+Insertions: 2 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ക്ക് പോകാം  (file_3218)
+നിങ്ങള്‍     പോവാം  (file_3218)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ക്ക്  മനസ്സിലാക്കാന്‍ പറ്റാത്ത   കാര്യങ്ങളാണവ  (file_3219)
+നിങ്ങള്‍ക്കത് മനസ്സിലാകില്ല   ബ്രാന്റാണ് കാര്യങ്ങള്‍   (file_3219)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+നിങ്ങള്‍ക്ക് മെലിയസില്‍ താതാപര്യമുണ്ടോ  (file_3220)
+നിങ്ങള്‍ക്ക് മെലിയസില്‍ പറയുമ്പോള്‍     (file_3220)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ക്ക് സിനിമകളെപ്പറ്റി അറിയേണ്ടതെല്ലാം  (file_3221)
+നിങ്ങള്‍ക്ക് സിനിമകളെപ്പറ്റി അറിയേണ്ടതെല്ലാം  (file_3221)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍പറ്റില്ല  (file_3222)
+നിങ്ങള്‍പറ്റില്ല  (file_3222)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ അതിഥികളെ സ്വീകരിക്കില്ലെന്ന് വ്യക്തമാണ്‌  (file_3223)
+നിങ്ങള്‍ അതിഥികളെ സ്റ്റേജിലാണ്        യജമാനന്‍     (file_3223)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ അത്രയും സങ്കടകരമായ കാര്യങ്ങള്‍  (file_3224)
+നിങ്ങള്‍ അത്രയും സങ്കടകരമായ കാര്യങ്ങള്‍  (file_3224)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ അത്ര ചെറുപ്പമല്ലെന്ന് ഓര്‍മ്മവേണം  (file_3225)
+നിങ്ങള്‍ അത്ര ചെറുപ്പമല്ലെന്ന് ഓര്‍മ്മവേണം  (file_3225)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ അദ്ദേഹത്തിന്‍റെ സിനിമകള്‍ ഇഷ്ടത്തോടെ  (file_3226)
+നിങ്ങള്‍ അദ്ദേഹത്തിന്‍റെ സിനിമകള്‍ ഇഷ്ടത്തോടെ  (file_3226)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ അവരെ ***   എവിടേക്കാ അയച്ചത്    (file_3227)
+നിങ്ങള്‍ അവരെ ഇവിടെ ഇല്ല      അയച്ചതാണ്  (file_3227)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍   ആരാ    (file_3228)
+നിങ്ങൾക്ക് ആരാണ്  (file_3228)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ ***   ആവശ്യപ്പെടുമ്പോള്‍ വന്നോളാം  (file_3229)
+നിങ്ങള്‍ പക്ഷെ വരുമ്പോള്‍         വന്നോളാം  (file_3229)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ ഇപ്പോഴും ഒരു *** മറീന്‍പട്ടാളക്കാരന്‍  (file_3230)
+നിങ്ങള്‍ ഇപ്പോഴും ഒരു വഴി നല്ലതാണ്              (file_3230)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ ഇവിടെ നിന്നും ഇപ്പോൾ തന്നെ മാറണം  (file_3231)
+നിങ്ങള്‍ ഇവിടെ നിന്നും ഇപ്പോൾ തന്നെ മാറണം  (file_3231)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍   എത്രത്തോളം പര്യവേഷണം നടത്തിയിട്ടുണ്ട്  (file_3232)
+നിങ്ങൾക്ക് എത്രത്തോളം പര്യവേഷണം നടത്തിയിട്ടുണ്ട്  (file_3232)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍   എന്നെ  ഇവിടെ ***        മരിക്കാന്‍വിട്ടിട്ട്  (file_3233)
+നിങ്ങൾക്ക് എന്‍റെ ഇവിടെ മരിക്കാന്‍ നിന്നാണ്              (file_3233)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+നിങ്ങള്‍ ഒരു അഭിനേത്രിയായിരുന്നോ  (file_3234)
+നിങ്ങള്‍ ഒരു അഭിനേത്രിയായിരുന്നോ  (file_3234)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ ഒരു നടിയായിരുന്നു  (file_3235)
+നിങ്ങള്‍ ഒരു നടിയായിരുന്നു  (file_3235)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ കാറിനടുത്തേയ്ക് പൊയ്കോളൂ  (file_3236)
+നിങ്ങള്‍ കാലത്തിനും      പോവും     (file_3236)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ ***           കുടിച്ചിട്ടുണ്ടോ  (file_3237)
+നിങ്ങള്‍ മരിച്ചിരുന്നു ടോം              (file_3237)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ ഗുരുത്വാകര്‍ഷണത്തെപ്പറ്റി  (file_3238)
+നിങ്ങള്‍ ഗുരുത്വാകര്‍ഷണത്തെപ്പറ്റി  (file_3238)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ ചോദിക്കും  (file_3239)
+നിങ്ങള്‍ ചോദിക്കും  (file_3239)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ ഞങ്ങളെ ***   വിട്ടുപോയി  (file_3240)
+നിങ്ങള്‍ ഞങ്ങളെ ഇവിടം ടുവിൽ       (file_3240)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ തിരിച്ചുവരുമെന്ന് എനിക്കറിയാമായിരുന്നു  (file_3241)
+നിങ്ങള്‍ തിരിച്ചുവരുമെന്ന് എനിക്കറിയാമായിരുന്നു  (file_3241)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ തിരിച്ചുവരുമ്പോള്‍  (file_3242)
+നിങ്ങള്‍ തിരിച്ചുവരുമ്പോള്‍  (file_3242)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ തുടങ്ങിയത് ഞാന്‍  പൂര്‍ത്തിയാക്കും  (file_3243)
+നിങ്ങള്‍ തുടങ്ങിയത് വാംഹോൾ ത്യാഗം            (file_3243)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ പറയുന്നതെന്തും അനുസരിക്കേണ്ട റോബോട്ടാണ് ഞാന്‍  (file_3244)
+നിങ്ങള്‍ പറയുന്നതെന്തും അനുസരിക്കേണ്ട റോബോട്ടാണ് വരാം   (file_3244)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിങ്ങള്‍ പുതിയ വീട്       അന്വേഷിച്ച്  (file_3245)
+***      ***   സഹോദരിയാണ് അന്വേഷിച്ച്  (file_3245)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+നിങ്ങള്‍   പോയ്കോളൂ  (file_3246)
+നിങ്ങൾക്ക് എപ്പോഴും  (file_3246)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ പ്രതികരിച്ചുകൊണ്ടിരുന്നപ്പോഴൊന്നും  (file_3247)
+നിങ്ങള്‍ പ്രതികരിച്ചുകൊണ്ടിരുന്നപ്പോഴൊന്നും  (file_3247)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍   പ്രാര്‍ത്ഥിക്കൂ  (file_3248)
+നിങ്ങൾക്ക് ആരംഭിച്ചു        (file_3248)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നിങ്ങള്‍ ഭൂതകാലം മറക്കാന്‍ ശ്രമിച്ചു  (file_3249)
+നിങ്ങള്‍ ഭൂതകാലം മറക്കാന്‍ ശ്രമിച്ചു  (file_3249)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നിങ്ങള്‍ മരവിച്ച പോലിരിക്കുന്നു  (file_3250)
+നിങ്ങള്‍ മരവിച്ച കൂടിയെന്ന്      (file_3250)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+TOTAL Words: 823 Correct: 544 Errors: 331
+TOTAL Percent correct = 66.10% Error = 40.22% Accuracy = 59.78%
+TOTAL Insertions: 52 Deletions: 19 Substitutions: 260
