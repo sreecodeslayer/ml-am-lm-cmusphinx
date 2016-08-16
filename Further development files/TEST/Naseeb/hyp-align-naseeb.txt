@@ -1,0 +1,1003 @@
+മിസ്റ്റര്‍ ക്ലോഡ്  (file_4251)
+മിസ്റ്റര്‍ പോട്ടെ  (file_4251)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മിസ്റ്റര്‍ ക്ലോഡ് അത്     നിങ്ങളാണോ  (file_4252)
+മിസ്റ്റര്‍ ***    കേൾക്ക് നിങ്ങളാണ്  (file_4252)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+മിസ്റ്റര്‍ ക്ലോഡ്  മരിച്ചു  (file_4253)
+മിസ്റ്റര്‍ കേൾക്ക് മരിച്ചു  (file_4253)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മിസ്റ്റര്‍ ഫ്രിക്ക്  (file_4254)
+മസ്റ്റാർട് ഫ്രിക്ക്  (file_4254)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മിസ്റ്റര്‍ ലബ്ബെയ്സിനെപ്പോലെ  (file_4255)
+മിസ്റ്റര്‍ ലബ്ബെയ്സിനെപ്പോലെ  (file_4255)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മിസ്റ്റര്‍ ലബ്ബെയ്സ് അടുത്തൊരു രാത്രി        എനിക്കൊരു പുസ്തകം   തന്നു    (file_4256)
+***        ***       ***       എക്സ്മൈറ്റ്സ് അത്       രക്ഷിക്ക് ചുറ്റും  (file_4256)
+Words: 7 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 4
+മിസ്റ്റര്‍ ലബ്ബെയ്സ് എനിക്ക്  കടമായിട്ട് തരും               (file_4257)
+***        ഈ         ഡ്രസ്സ്‌ കാര്യം     ബസ്‌കണ്ടക്റ്ററിനെ  (file_4257)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+മിസ്റ്റര്‍ ലെബ്ബെയ്സ്  (file_4258)
+മിസ്റ്റര്‍ ലബ്ബെയ്സ്   (file_4258)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മിസ്റ്റർ   ആൻഡ്‌  മിസ്സിസ് ദിൻഗ്രാ  (file_4259)
+മിസ്റ്റര്‍ മിസിസ് ദിൻഗ്രാ  ആണ്      (file_4259)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+മിസ്സ്‌  യൂണിവേർസ്  (file_4260)
+ഡ്രസ്സ്‌ നിയോക്സ്   (file_4260)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+മിസ്സ്‌ ഹാന്‍ലിയോട് നന്നായി പെരുമാറണം  (file_4261)
+മിസ്സ്‌ ഹാന്‍ലിയോട് മൈഡ്    മാത്രം     (file_4261)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+മി  കൂപ്പര്‍  (file_4262)
+മി  കൂപ്പര്‍  (file_4262)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മി  കൂപ്പര്‍ കുടുംബക്കാരെല്ലാം അത്തുണ്ട്  (file_4263)
+*** ഇരിക്കൂ  പൊട്ടത്തരമാണ്     കുട്ടി     (file_4263)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+മീറ്റിംഗ്  (file_4264)
+പോകാം      (file_4264)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മുംബൈയിൽ ഇതിനെ പാനിപൂരിയെന്നാണ് പറയുക          (file_4265)
+***      ***   പ്രവേശിക്കു      കമ്പ്യൂട്ടറിൽ  (file_4265)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+മുകളിലില്ലേ നിങ്ങള്‍ പോകുമ്പോള്‍  (file_4266)
+പോട്ടെ      നിങ്ങള്‍ പോകുമ്പോള്‍  (file_4266)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മുകളിലുള്ളതിൽ ഒഴിവാണ്  (file_4267)
+മുകളിലുള്ളതിൽ ഒഴിവാണ്  (file_4267)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മുകളിലേക്ക് ബോംബിടാന്‍ വിസമ്മതിച്ചതിന്  (file_4268)
+മുകളിലേക്ക് ബോംബിടാന്‍ വിസമ്മതിച്ചതിന്  (file_4268)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മുകള്‍ഭാഗം തുറക്കാം  (file_4269)
+മുകള്‍ഭാഗം തുറക്കാം  (file_4269)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മുഖത്ത് ധരിക്കുമായിരുന്നു  (file_4270)
+മുഖത്ത് ധരിക്കുമായിരുന്നു  (file_4270)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മുടിയൊക്കെ സ്ട്രേറ്റ് ചെയ്തല്ലോ  (file_4271)
+മുടിയൊക്കെ സ്ട്രേറ്റ് ചെയ്തല്ലോ  (file_4271)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മുട്ടയുടെ വെള്ള  (file_4272)
+കൂടെ      ടയര്‍  (file_4272)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+മുട്ടി നോക്ക്      (file_4273)
+***    ബുക്കുകള്‍  (file_4273)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+മുത്തച്ഛന്‍ അങ്ങനെ  പറഞ്ഞല്ലേ     (file_4274)
+***         കുറച്ചു കൗണ്ടറിന്‍റെ  (file_4274)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+മുത്തച്ഛന്‍ അലപ്പസമയത്തിന്  (file_4275)
+ബുക്കുകള്‍  ക്ഷമിക്കണം      (file_4275)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+മുത്തച്ഛന്‍ ഇപ്പോൾ     വരും വരുമ്പോള്‍ പറയണം  (file_4276)
+നമുക്ക്     ചുറ്റുമ്പോൾ ഒരു  ഒരു        ടയര്‍  (file_4276)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 5
+മുത്തച്ഛന്‍ പറഞ്ഞല്ലോ         നിങ്ങളില്‍ പ്രേതം കൂടിയെന്ന്  (file_4277)
+***         മുറിച്ചുകടന്നാല്‍ റോമിലി     പ്രേതം കൂടിയെന്ന്  (file_4277)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+മുത്തച്ഛന്‍ പറഞ്ഞു  (file_4278)
+കുറച്ചു     പറഞ്ഞു  (file_4278)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മുത്തശ്ശി ഞാന്‍ പോവാണ് കൈയ്യില്‍ മൈലാഞ്ചിയിടണം   (file_4279)
+മുത്തശ്ശി ***   ***    വാംഹോളിൽ  കുടിച്ചിരുന്നു  (file_4279)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+മുത്ത് കണ്ടെത്തിയിരിക്കുന്നു  (file_4280)
+***    അമ്മ                   (file_4280)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+മുന്നറിയിപ്പ് പരിഹരിക്കണോ  (file_4281)
+മുന്നറിയിപ്പ് പരിഹരിക്കണോ  (file_4281)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മുന്നില്‍ പ്രതിബന്ധങ്ങള്‍  (file_4282)
+മുന്നില്‍ പ്രതിബന്ധങ്ങള്‍  (file_4282)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മുപ്പത്തിമൂന്ന്  (file_4283)
+കുപെറിനു         (file_4283)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മുമ്പ് അവനൊന്ന് ആലോചിക്കും  (file_4284)
+***    നമുക്ക്  മ്യൂസിക്ക്  (file_4284)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+മുര്‍ഫ് അപ്പൂപ്പന്‍റെ കാര്‍ അടിച്ചോണ്ട് പോയി  (file_4285)
+മോര്‍സ് അപ്പൂപ്പന്‍റെ കാര്‍ അടിച്ചോണ്ട് പോയി  (file_4285)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മുളകുമെല്ലാം ഇതിലിടുന്നത്  (file_4286)
+മോളു         മരിക്കുന്നത്  (file_4286)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+മുളക്       (file_4287)
+ഇപ്പോളാകും  (file_4287)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മുൻപേ വിജയചിഹ്നം   ഉയർത്തി  (file_4288)
+അവൻ   പേടിച്ചുപോയി കുട്ടി   (file_4288)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+മുൻപ് അവൾ ഇവിടെ   വന്നിറങ്ങി  (file_4289)
+***   *** നമുക്ക് ഒഴിവാക്കി   (file_4289)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+*** മൂന്നാം ലോകവുമായി സംവദിക്കാനാണ് നമ്മളിവിടെ എത്തിയത്  (file_4290)
+ഡോ  കണ്ടോ   ഓയ്       സംവദിക്കാനാണ് നമ്മളിവിടെ തിരികെ    (file_4290)
+Words: 5 Correct: 2 Errors: 4 Percent correct = 40.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+മൂന്നിലൊന്ന് നമുക്ക് നഷ്ടമാകും  (file_4291)
+***          നമുക്ക് നഷ്ടമാകും  (file_4291)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 0
+മൂന്നില്‍ ഇട്             (file_4292)
+***       കൂടിയിട്ടുണ്ട്  (file_4292)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+മൂന്ന്        (file_4293)
+പൂക്കള്‍ക്ക്  (file_4293)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മൂന്ന് ഡിഗ്രി വലത്തോട്ട് കൂപ്പര്‍    (file_4294)
+***    മാറി   നിക്ക്     ബുക്കുകള്‍  (file_4294)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+മൂന്ന് പ്രതേക      ചേരുവകൾ     (file_4295)
+***    തമോഗര്‍ത്തം ചേച്ചിയോട്  (file_4295)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+മൂന്ന്   രണ്ട്  (file_4296)
+വന്നോളാം കണ്ടു  (file_4296)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+മൂന്ന് രണ്ട് ഒന്ന്    (file_4297)
+ഡോ     മാന്‍ കണ്ടൂടെ  (file_4297)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+മൂന്ന് സാധ്യതയുള്ള ലോകങ്ങളുടെ ഒരു    സിസ്റ്റെം  (file_4298)
+***    ***         മോര്‍സ്     അവരോട് മാസം       (file_4298)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+മൂൾചന്ധിൽ നിന്ന് ഇടത്തോട്ട് പോയാല്‍  (file_4299)
+മോര്‍സ്   ഒരു    മുറി       അതുപോലെ  (file_4299)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+മൃദുവായി ഇതില്‍ പിടിക്കൂ  (file_4300)
+മൃദുവായി ഇതില്‍ പിടിക്കൂ  (file_4300)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മെലിയസ് ജീവിച്ചിരിക്കുന്നെന്നോ  (file_4301)
+ലൂയിസ്  വിചിത്രമാണ്             (file_4301)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+മെല്ലെ    (file_4302)
+മുന്നിലെ  (file_4302)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മെല്ലെ സൂക്ഷിച്ച് കൂപ്പര്‍  (file_4303)
+മെല്ലെ സൂക്ഷിച്ച് കൂപ്പര്‍  (file_4303)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മെഷിനുകൾ പ്രയാസമുണ്ടാക്കുംപോളാണ്  (file_4304)
+മെഷിനുകൾ പ്രയാസമുണ്ടാക്കുംപോളാണ്  (file_4304)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മെഹ്റായുടെ മകൾ      നമ്മുടെ റാണി         (file_4305)
+***        മറക്കണ്ട മുതൽ    തമോഗര്‍ത്തം  (file_4305)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+മേഡം നിങ്ങള്‍    പാരിസിൽ പോവുകയല്ലേ  (file_4306)
+***  എടുത്തിട്ട് പാരിസിൽ പോകുന്നു    (file_4306)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+മേശപ്പുറത്തു ഭക്ഷണം  (file_4307)
+മേശപ്പുറത്തു ഭക്ഷണം  (file_4307)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മേശയില്‍ കൊണ്ട് വെക്കാതെ   മര്‍ഫ്  (file_4308)
+മേശയില്‍ കൊണ്ട് അറ്റാക്ക്‌ മാസം    (file_4308)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+മേശ ഒരുക്കുന്ന സമയത്ത് ഞങ്ങള്‍ എപ്പോഴും  (file_4309)
+*** കേസ്       ഉരുക്കി സമിതി   കണ്ടോ     (file_4309)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+മോനെ ആരാണ് വന്നിരിക്കുന്നതെന്ന് നോക്ക്  (file_4310)
+***  മോളെ  കാര്യമോ              നികുതി  (file_4310)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+മോര്‍സ്   (file_4311)
+നിയോക്സ്  (file_4311)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** മോര്‍സ് സന്ദേശമയക്കാനുള്ള ഒരു രീതി       (file_4312)
+നീ  മോര്‍സ് സന്ദേശമയക്കാനുള്ള *** വിളിക്കാം  (file_4312)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 1 Substitutions: 1
+മോളെ ഞങ്ങൾ കാത്തുനിൽക്കണോ  (file_4313)
+മോളെ ഞങ്ങൾ കാത്തുനിൽക്കണോ  (file_4313)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മോളെ നിനക്കെങ്ങനെയുണ്ട്  (file_4314)
+മോളെ നില്‍ക്കണം          (file_4314)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മോളെ നീ  രാവിലെതൊട്ട് ഒന്നും      കഴിച്ചിട്ടില്ലാ  (file_4315)
+മോളെ *** ***          ക്ഷമിക്കുമോ കഴിച്ചിട്ടില്ല   (file_4315)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+മോഴ്സ്  (file_4316)
+മോഴ്സ്  (file_4316)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+മോശം     (file_4317)
+ബോസ്സും  (file_4317)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മോശപ്പെട്ടതായിരിക്കില്ല  (file_4318)
+മോശപ്പെട്ടതായിരിക്കില്ല  (file_4318)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** മ്യൂസിയത്തിലേക്കും പോവണം  (file_4319)
+നീ  മ്യൂസിയത്തിലേക്കും പോവണം  (file_4319)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+മ്യൂസിയത്തിലേയും പണികള്‍ കഴിഞ്ഞതിനു ശേഷം മാത്രം  (file_4320)
+മിസിസ്           വേണ്ടി  അത്        ശേഷം മാത്രം  (file_4320)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+മ്    ഹൃദയാകൃതിയില്‍  (file_4321)
+ഞാന്‍ ഹൃദയാകൃതിയില്‍  (file_4321)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+മർദ്ദം നമ്മെ പിറകോട്ട് തിരികെ വലിക്കുന്നു  (file_4322)
+മർദ്ദം നമ്മെ പിറകോട്ട് തിരികെ കണ്ടു        (file_4322)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***  യജമാനന്‍ പഠിപ്പിച്ചതാണ്  (file_4323)
+കേസ് മാഡം     പഠിപ്പിച്ചത്    (file_4323)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+*** യഥാര്‍ഥ ക്യാമറകളിലൊന്ന്  (file_4324)
+ഇത് യഥാര്‍ഥ ക്യാമറകളിലൊന്ന്  (file_4324)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+യന്തത്തിന്  (file_4325)
+ലണ്ടനിൽ     (file_4325)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+യന്ത്രങ്ങള്‍ക്ക് വരെ    (file_4326)
+ജനങ്ങള്‍ക്ക്     ഓക്കേ  (file_4326)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+യന്ത്രമായി എനിക്ക്    തോന്നുന്നില്ല  (file_4327)
+ഇത്        യന്ത്രമായി കോമ്പസ്        (file_4327)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***   *** യാത്രക്കാരേ സാഹസികരേ  (file_4328)
+ഞാന്‍ ഒരു കാര്യം      സാഹസികരേ  (file_4328)
+Words: 2 Correct: 1 Errors: 3 Percent correct = 50.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+യാത്രയിൽ എന്തെങ്കിലും പ്രശ്നങ്ങളുണ്ടായോ  (file_4329)
+***      ഡാർലിംഗ്     ഭക്ഷണ              (file_4329)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+യാത്ര ചെയ്യാനും  (file_4330)
+ഹലോ   അറിയരുത്   (file_4330)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+യാത്ര പറഞ്ഞു കഴിഞ്ഞോ      (file_4331)
+***   ***    ജാർഗണ്ടിലും  (file_4331)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+*** യാത്ര സൂക്ഷിക്കണം കേട്ടോ  (file_4332)
+ഈ   യാത്ര സൂക്ഷിക്കണം കേട്ടോ  (file_4332)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+യാഥാര്‍ഥ്യങ്ങള്‍ കണ്ടിരുന്നു  (file_4333)
+ലോകത്തിനു        കണ്ടിരുന്നു  (file_4333)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   യുക്തിയെ  സാധൂകരിക്കുകയായിരുന്നു  (file_4334)
+പോലും കൈയ്യില്‍ സാധൂകരിക്കുകയായിരുന്നു  (file_4334)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** യുദ്ധഭൂമിയില്‍  (file_4335)
+ഇത് യുദ്ധഭൂമിയില്‍  (file_4335)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+യുറേക്കാ       (file_4336)
+അഭിനേതാക്കള്‍  (file_4336)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+യുവത്വവും പ്രതീക്ഷകളും          അവസാനിക്കുകയായിരുന്നു  (file_4337)
+***       കള്ളുകുടിച്ചിട്ടുണ്ടോ ശ്രമിക്കുകയായിരുന്നു   (file_4337)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+യൂറോസ്  (file_4338)
+യൂറോസ്  (file_4338)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+യൂറോസ് എന്തിന്    (file_4339)
+ഡോ     സിനിമകള്‍  (file_4339)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+രജോരിയിൽ നിന്ന് ഹണിമൂണിന്  ഒറ്റക്ക് വന്നതാണ്  (file_4340)
+***      ***    ജോലിയുണ്ട് നമ്മുടെ  കോമ്പസ്   (file_4340)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+***      രജോരി  (file_4341)
+തിരിച്ചു വരും   (file_4341)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+രണ്ടാം നില    നാലാമത്തെ വരി  (file_4342)
+***    പണമാണ് നാലാമത്തെ വരി  (file_4342)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+രണ്ടാം സ്ഥാനം അത്ര         മോശമല്ല    (file_4343)
+***    ഞണ്ടും സംസാരിക്കുമോ ക്ഷമിക്ക്  (file_4343)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+രണ്ടാമത്തെ തിര വരുന്നു  (file_4344)
+രണ്ടാമത്തെ തിര വരുന്നു  (file_4344)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+രണ്ടും അതിനെ ഗ്രഹണം       ചെയ്യുന്നു  (file_4345)
+***    ദൂരം  അതിക്രമിച്ച് യു          (file_4345)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+രണ്ടും പരീക്ഷിക്കാനുള്ള ഇന്ധനം  (file_4346)
+രണ്ടും പരീക്ഷിക്കാനുള്ള കൊണ്ടു  (file_4346)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+രണ്ടുവര്‍ഷമായി അവര്‍ ഉറക്കത്തിലായിരുന്നു  (file_4347)
+രണ്ടുവര്‍ഷമായി അവര്‍ ഉറക്കത്തിലായിരുന്നു  (file_4347)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+രണ്ടു ദിവസം കഴിഞ്ഞാൽ വിവാഹമാണ്  (file_4348)
+രണ്ടു ദിവസം കഴിഞ്ഞാൽ വിവാഹമാണ്  (file_4348)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+രണ്ടു പേരെയും ഇഷ്ടമാണ്        (file_4349)
+***   നമുക്ക് എനിക്കിഷ്ടമാണ്  (file_4349)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+രണ്ടു വര്‍ഷത്തോളം ജീവിക്കാനുള്ള സാധനങ്ങള്‍ ഉണ്ടായിരുന്നു        (file_4350)
+***   കണ്ടോ       ക്ഷമിക്കണം    ചില        മത്സരമുണ്ടായിരുന്നു  (file_4350)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+രണ്ട്  (file_4351)
+കണ്ടു  (file_4351)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+രണ്ട് ദിവസത്തിനു ശേഷം വോലെണ്ടയിൽ  (file_4352)
+റാണി  ടോസ്റ്റ്‌  ശേഷം കോളനി      (file_4352)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+രണ്ട് പുരുഷന്മാർ ആ        റൂമിലുണ്ട്  (file_4353)
+രണ്ട് പക്ഷേ      മാര്‍ക്ക പോകരുത്     (file_4353)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+രണ്ട്     മൂന്ന്  (file_4354)
+ഫ്രണ്ടാണ് മൂലം    (file_4354)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***  രഹസ്യമാണോ  (file_4355)
+കുറെ രസമുണ്ട്   (file_4355)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***      രഹസ്യമായിരിക്കണം  (file_4356)
+ടാര്‍‌സ് മരിച്ചു           (file_4356)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***    രഹസ്യമായി  (file_4357)
+ടാക്സി മോളെ       (file_4357)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+രഹസ്യമായി വച്ച ഒരു കേന്ദ്രത്തിൽ ആണ്  (file_4358)
+രഹസ്യമായി വച്ച ഒരു കേന്ദ്രത്തിൽ ആണ്  (file_4358)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** ***     രാജകുമാരിനിനക്കെന്തെങ്കിലും സഹായം   വേണോ    (file_4359)
+ശരി തൊഴില്‍ ബുദ്ധിമുട്ട്                സമയമാണ് കുഞ്ഞ്  (file_4359)
+Words: 3 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 166.67% Accuracy = -66.67%
+Insertions: 2 Deletions: 0 Substitutions: 3
+രാജകുമാരിനിനക്ക് സഹായം വേണോ  (file_4360)
+രാജകുമാരിനിനക്ക് സഹായം വേണോ  (file_4360)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+രാജകുമാരിവരൂ  (file_4361)
+അതൊരു         (file_4361)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+രാജകുമാരി  (file_4362)
+രാജകുമാരി  (file_4362)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***  രാജകുമാരി സൂപ്പ്  (file_4363)
+റാണി ഒരു       സൂപ്പ്  (file_4363)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+രാത്രികള്‍  (file_4364)
+പ്രതിഭ      (file_4364)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+രാത്രിയിലെ ട്രെയിനിന് വന്നതാണ്   (file_4365)
+രാത്രിയിലെ ***        പറയുന്നത്  (file_4365)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+രാത്രിയ്ക് മുമ്പ് ആ              സ്ഥലത്തെത്തണം  (file_4366)
+***        ***    രക്ഷിക്കാനുള്ള സ്ഥലത്തെത്തണം  (file_4366)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+രാത്രി ഇവിടെ കിടക്കുന്നോ  (file_4367)
+***    അത്   കിട്ടുമോ     (file_4367)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+രാവിലെ മുതൽ അവിടെ ഇരിക്കുകയാണ്  (file_4368)
+***    ***  ആ     പോകുന്നു      (file_4368)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+റസ്റ്റോറന്‍റാണ്  (file_4369)
+റസ്റ്റോറന്‍റാണ്  (file_4369)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി ഇങ്ങോട്ട് വാവാ   (file_4370)
+റാണി നിങ്ങള്‍  പോകാം  (file_4370)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+റാണി *** ഇതെന്താണ്  (file_4371)
+റാണി ഉം  കണ്ടാൽ     (file_4371)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+റാണി ഇവരോട് പോവാൻ   പറ        (file_4372)
+റാണി ***    ഷോട്ട് കൂപ്പര്‍  (file_4372)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റാണിക്ക് വേണ്ടി ഇതാ         മിന്‍റ് ചായ   (file_4373)
+***      ***    ഡ്രാഗണിന്റെ രണ്ട്   സര്‍  (file_4373)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+റാണിനീ ഇന്ത്യയിൽ നിന്ന്    പാരിസിലേക്ക്  (file_4374)
+***    റാണി      പണിയുണ്ട് പാരിസിലേക്ക്  (file_4374)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റാണിനീ കാര്യമായിട്ടാണോ    (file_4375)
+റാണി   എനിക്കാകുമെന്നാണ്  (file_4375)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***   റാണിപ്രതീക്ഷ കൈവിടരുത്  (file_4376)
+കാണും പഠിച്ചത്     കൈയ്യില്‍  (file_4376)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+റാണിയാണോറാണി വന്നോ   (file_4377)
+അയാള്‍       കാണുമോ  (file_4377)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+റാണിയിപ്പോൾ കുറച്ച് നല്ല നാളുകളിലൂടെയാണ് പോയികൊണ്ടിരിക്കുന്നത്  (file_4378)
+***         ***     റാണി ക്ലോക്കുകളുടെ   കണ്ടുപിടിച്ചു          (file_4378)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+റാണി രാജകുമാരി   (file_4379)
+റാണി തലച്ചോറിലെ  (file_4379)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+റാണി റാണി  (file_4380)
+റാണി റാണി  (file_4380)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി     (file_4381)
+കോളേജിൽ  (file_4381)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+റാണി അതിന്‍റെ അർഥമെന്താണ്  (file_4382)
+റാണി അതിന്‍റെ അർഥമെന്താണ്  (file_4382)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി ആംസ്റ്റർഡാമിലെവിടെയാണ് താമസിക്കുന്നത്  (file_4383)
+***  കളിക്കാം               ചുണ്ടോട്ചുണ്ട്  (file_4383)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റാണി എനിക്കറിയാം എല്ലാം എന്‍റെ തെറ്റായിരുന്നു എന്നോട് ക്ഷമിക്കണം  (file_4384)
+***  ***         പണം    പുകയും രണ്ടുപേരും     എന്നോട് ക്ഷമിക്കണം  (file_4384)
+Words: 7 Correct: 2 Errors: 5 Percent correct = 28.57% Error = 71.43% Accuracy = 28.57%
+Insertions: 0 Deletions: 2 Substitutions: 3
+റാണി എനിക്ക് നിന്നെ   വിവാഹം ചെയ്യാൻ കഴിയില്ല  (file_4385)
+റാണി ***     നിന്നോട് ലോകം   ചില     കഴിയില്ല  (file_4385)
+Words: 6 Correct: 2 Errors: 4 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 3
+റാണി ഐ   ലവ്       (file_4386)
+റാണി *** എങ്കിലും  (file_4386)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+റാണി ഒരു മിനുട്ട്  (file_4387)
+റാണി ഒരു മിനുട്ട്  (file_4387)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി ചേച്ചിയുടെ അഡ്രെസ്സ് വേണംപോലും  (file_4388)
+റാണി ചേച്ചിയുടെ അഡ്രെസ്സ് വേണംപോലും  (file_4388)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി ഞാന്‍ നിന്നെ വളരെ മിസ്സ്‌ ചെയ്തു  (file_4389)
+റാണി ഞാന്‍ നിന്നെ വളരെ മിസ്സ്‌ ചെയ്തു  (file_4389)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി ഞാന്‍ നിന്നെ ശരിക്കും സ്നേഹിക്കുന്നുണ്ട് എന്നോട്           ക്ഷമിക്ക്  (file_4390)
+റാണി ***   ***    ***      നശിച്ചു            സുഹൃത്തുക്കള്‍ക്ക് സൂക്ഷിച്ച  (file_4390)
+Words: 7 Correct: 1 Errors: 6 Percent correct = 14.29% Error = 85.71% Accuracy = 14.29%
+Insertions: 0 Deletions: 3 Substitutions: 3
+റാണി നിൽക്ക്നിൽക്ക് നീയെവിടെയാണ്  (file_4391)
+റാണി നിൽക്ക്നിൽക്ക് നീയെവിടെയാണ്  (file_4391)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി നീ  നിന്‍റെ മാറിടവുംമൂടും നോക്ക്  (file_4392)
+റാണി *** നിന്‍റെ മാറിടവുംമൂടും നോക്ക്  (file_4392)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 1 Substitutions: 0
+*** റാണി     നോക്ക്   (file_4393)
+ഈ   ഡ്രസ്സ്‌ നോക്കാം  (file_4393)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+റാണി പോയോ  (file_4394)
+റാണി പോയോ  (file_4394)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി ***     മരിച്ചുപോയി  (file_4395)
+റാണി മരിച്ചു പോവും        (file_4395)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+റാണി മെഹ്റ  (file_4396)
+റാണി മെഹ്റ  (file_4396)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി മോളെ വാതിൽ തുറക്ക്  (file_4397)
+റാണി മോളെ വാതിൽ തുറക്ക്  (file_4397)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി റാണി    ആഹ്  (file_4398)
+റാണി ഇപ്പോൾ പോ   (file_4398)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+റാണി വാതിൽ തുറക്ക്  (file_4399)
+റാണി വാതിൽ തുറക്ക്  (file_4399)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി വാതിൽ തുറക്ക് മോളെ  (file_4400)
+റാണി വാതിൽ തുറക്ക് മോളെ  (file_4400)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റാണി വാനമുക്ക് പോവണം  (file_4401)
+റാണി വാനമുക്ക് പോ     (file_4401)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+റിക്കിക്ക് വയസ്സാവുമ്പോൾ ഇന്ത്യയിലേക്ക്  (file_4402)
+റിക്കിക്ക് പാസ്പോർട്ടും  സ്നേഹം          (file_4402)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+റിക്കി എന്‍റെ  ബോയ്‌ഫ്രണ്ടിൽ ഉണ്ടായതാണ്     (file_4403)
+***    നിന്‍റെ ബോയ്‌ഫ്രണ്ട്  ഉണ്ടായിരുന്നു  (file_4403)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+റിങ് മൊഡ്യൂളുമായി വിനിമയം  സജീവമാണ്  (file_4404)
+റിങ് മൊഡ്യൂളുമായി തിരിച്ചു ആണ്       (file_4404)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+റൂം തയ്യാറായാൽ ഞാന്‍       പറയാം  (file_4405)
+*** ***        പൂർത്തിയായി പറയാം  (file_4405)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+റൂം പങ്കിടേണ്ടി വരും       (file_4406)
+*** ഹോൾ         വിളിക്കാം  (file_4406)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റെഞ്ചറിന് വിട        (file_4407)
+റേഞ്ചര്‍  കൂട്ടല്ലേ  (file_4407)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+റേഞ്ചര്‍ എന്‍ജിന്‍സ് ഞാന്‍      പറയുമ്പോള്‍  (file_4408)
+***      റാണി        മിസ്റ്റര്‍ പറയുമ്പോള്‍  (file_4408)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റേഞ്ചര്‍ വേര്‍പെടാന്‍ തയ്യാറാകൂ  (file_4409)
+കീറുന്നു വേര്‍പെടാന്‍ തയ്യാറാകൂ  (file_4409)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***  റേഞ്ചെഴ്സ്  (file_4410)
+റാണി വെഡ്സ്      (file_4410)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+റേഡിയോയിൽ കൂപര്‍  (file_4411)
+റേഡിയോയിൽ കൂപര്‍  (file_4411)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റോൾ പ്രോഗ്രാം തുടങ്ങുവാൻ പോകുന്നു  (file_4412)
+റോൾ പ്രോഗ്രാം തുടങ്ങുവാൻ കൂടി      (file_4412)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+റോം ഞനിതിൽനിന്നും പുറത്തിറങ്ങാതെ  (file_4413)
+പോ  ഞനിതിൽനിന്നും കുറെയധികം       (file_4413)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+റോം നമ്മൾ  പരിവേഷകാരാണ്  (file_4414)
+*** പ്രോതം പരിവേഷകാരാണ്  (file_4414)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+റോക്കറ്റുകള്‍ കത്തിക്കാന്‍ തയ്യാറെടുക്കുന്നു  (file_4415)
+പോകരുതെന്ന്   കയര്‍        ഒന്നു              (file_4415)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+റോക്ക്ഷോ കാണാൻ പോവുകയാണോ  (file_4416)
+റോക്ക്ഷോ കാണാൻ കൂടെയാണ്   (file_4416)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+റോക്ക് ഷോ  ഇതാ      നാല്      ടിക്കറ്റ്‌  (file_4417)
+***    *** റോക്ക്ഷോ പിറകോട്ട് തിരികെ      (file_4417)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+റോക്ക് ഷോ       കാണാൻ   (file_4418)
+***    റോക്ക്ഷോ കാവല്‍  (file_4418)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റോക്സ്ട്ടേക്കുള്ള പാർസലാണ്  (file_4419)
+റോക്സ്ട്ടേക്കുള്ള പാർസലാണ്  (file_4419)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+റോക്സ്ട്ടേയെ ഒന്ന്      വിളിക്കാമോ  (file_4420)
+***          റോക്സ്ട്ടേ ടോമിന്‍റെ   (file_4420)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റോഡ്‌    അവസാനിച്ചെന്നു തോന്നുന്നു  (file_4421)
+ഫോട്ടോസ് കാണിച്ചു       തോന്നി      (file_4421)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+റോബസ്റ്റ്  (file_4422)
+റോസറ്റി   (file_4422)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+റോമിലിക്ക് മരിച്ചു  (file_4423)
+റോമിലിക്ക് മരിച്ചു  (file_4423)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** റോമിലി    (file_4424)
+പോ  ഉള്ളില്‍  (file_4424)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+റോമിലി ഇത് സത്യമാണോ  (file_4425)
+റോമിലി *** സത്യം     (file_4425)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+റോമിലി നീ  ഈ   ഫോഴ്സ് മനസ്സിലാക്കുന്നുവോ  (file_4426)
+റോമിലി *** *** ഫോഴ്സ് മനസ്സിലാക്കുന്നുവോ  (file_4426)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 2 Substitutions: 0
+റോമിലി ഉം          (file_4427)
+അപ്പോ  നില്‍ക്കണം  (file_4427)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+റോമിലി ഹേയ് നിങ്ങള് ഓകെയല്ലേ  (file_4428)
+റോമിലി ***  നിങ്ങള് ഓകെയല്ലേ  (file_4428)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 1 Substitutions: 0
+റോമിലീ  (file_4429)
+റോമിലി  (file_4429)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+റോമിലീ നിനക്ക് കേള്‍ക്കാമോ  (file_4430)
+***    റോമിലി  എനിക്കറിയണം  (file_4430)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റോമിലീ നീ     കേള്‍ക്കുന്നുണ്ടോ  (file_4431)
+***    റോമിലി വന്നിട്ടുണ്ടോ      (file_4431)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+റോമിലീ റോമിലീ നിനക്ക് കേള്‍ക്കാമോ  (file_4432)
+റോമിലീ റോമിലീ നിനക്ക് കേള്‍ക്കാമോ  (file_4432)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** റോസറ്റി    (file_4433)
+പോ  സെറ്റില്‍  (file_4433)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+റ്റർസ് അത്      ആരംഭമാണ്    (file_4434)
+***    ടാര്‍‌സ് വരുമ്പോള്‍  (file_4434)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+***   ലക്ഷക്കണക്കിന്‌   മറ്റു    കുടുംബങ്ങളെക്കുറിച്ചുമാണ് ഓക്കേ  (file_4435)
+പക്ഷെ കണ്ടുമുട്ടുമെന്ന് കുറിച്ച് മോള്                      ഓക്കേ  (file_4435)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+ലക്ഷ്യം ലോക് ചെയ്തിരിക്കുന്നു  (file_4436)
+വർഷം    ലോക് ചെയ്തിരിക്കുന്നു  (file_4436)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ലക്ഷ്യബോധമില്ലായ്മയിലേക്കാണ്  (file_4437)
+ലക്ഷ്യബോധമില്ലായ്മയിലേക്കാണ്  (file_4437)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ലക്ഷ്യമുണ്ട്  (file_4438)
+നക്ഷത്രങ്ങൾ   (file_4438)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ലഡ്ഡു ബർഫിയിൽ നിന്നുള്ള പാലിന്‍റെ മുകളിൽ ചേർക്കണം  (file_4439)
+ലഡ്ഡു ബർഫിയിൽ നിന്നുള്ള പാലിന്‍റെ മുകളിൽ ചേർക്കണം  (file_4439)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ലണ്ടനിൽ തന്നെയല്ലേ  (file_4440)
+കണ്ടത്  അങ്ങനെ      (file_4440)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ലണ്ടനിൽ നിന്ന് വന്നിട്ടുണ്ട്  (file_4441)
+***     ***    കണ്ടിട്ടുണ്ട്  (file_4441)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ലാജ്പത് നഗർ     (file_4442)
+ലാജ്പത് മാത്രം  (file_4442)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ലാജ്പത് നഗർ ഡൽഹിയിലാണ്        (file_4443)
+***     *** പാചകക്കാരിയിലാണ്  (file_4443)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ലാന്‍ഡര്‍ എന്‍ജിന്‍ ഞാന്‍ പറയുമ്പോള്‍  (file_4444)
+***       പറഞ്ഞു    ഞാന്‍ പറയുമ്പോള്‍  (file_4444)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ലാന്‍ഡര്‍ ഞാന്‍ പറയുമ്പോള്‍ വേര്‍പെടും   (file_4445)
+ലാന്‍ഡര്‍ ***   ***         കമ്പ്യൂട്ടർ  (file_4445)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ലാന്‍ഡറിനു ശേഷം  (file_4446)
+റാണി       ശേഷം  (file_4446)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ലാന്‍ഡറുമായുള്ള ബന്ധങ്ങളെല്ലാം     നശിച്ചിരിക്കുന്നു  (file_4447)
+രണ്ടും          അര്‍ത്ഥങ്ങളുമുണ്ട് ശരിക്കും           (file_4447)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ലാസറുസ് മരണത്തിൽ നിന്നും വന്നു  (file_4448)
+ലാസറുസ് മരണത്തിൽ നിന്നും വന്നു  (file_4448)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ലൂണാർ ലാന്‍റിങ്ങിനെക്കുറിച്ചുള്ള ഈ   പുസ്തകം ഇവിടെ                  കൊണ്ടുവന്നു  (file_4449)
+***   ***                        *** ഒരു     അലങ്കരിച്ചിരിക്കുന്നത് കൊണ്ടു       (file_4449)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 3
+ലൂമിയര്‍ സഹോദരന്മാര്‍ സിനിമ ***  (file_4450)
+ലൂമിയര്‍ സഹോദരന്മാര്‍ സിനിമ ഓ    (file_4450)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ലൂയിസ്  (file_4451)
+മോഴ്സ്  (file_4451)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ലൂയിസ് എനിക്കൊരു സുഹൃത്തുണ്ട്  (file_4452)
+പോയി   ശ്രമിക്ക് സുഹൃത്തുണ്ട്  (file_4452)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ലൂയിസ് എന്നാണ് പേര് അവള്‍    ഇതാ     ഇവിടെയുണ്ട്  (file_4453)
+ലൂയിസ് ***     ***  കരുതിയത് കഴിക്ക് ആയിട്ടുണ്ട്  (file_4453)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 2 Substitutions: 3
+ലൂയിസ് എന്നോട് പറഞ്ഞു   (file_4454)
+ലൂയിസ് ***      കണ്ണുകൾ  (file_4454)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ലോഞ്ച് ചേമ്പറില്‍ എന്തെങ്കിലും അപരിചിതമായി ശ്രദ്ധയില്‍ പെട്ടോ  (file_4455)
+ലോഞ്ച് ചേമ്പറില്‍ ***          കുടിമുടി    തമാശ        കേട്ടോ  (file_4455)
+Words: 6 Correct: 2 Errors: 4 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ലോറയാണ് നമ്മുടെ ജീവശാസ്ത്ര പരിപാടി ആരംഭിച്ചത്  (file_4456)
+ലോറയാണ് മറ്റൊരു ഷർട്ട്‌    വളരെ    മരിച്ചു     (file_4456)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ലോകത്തിനു ആവശ്യം   കർഷകരെയാണ്    (file_4457)
+***       കുട്ടിയോ സുരക്ഷിതയാണ്  (file_4457)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ലോകത്തിന് മാജിക് കാണാനും        (file_4458)
+***       ***    റോക്കറ്റുകള്‍  (file_4458)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ലോകത്തിലെ ഏറ്റവും മനോഹരമായ പട്ടണമാണന്ന്  (file_4459)
+ലോകത്തിലെ ഏറ്റവും മനോഹരമായ പട്ടണമാണന്ന്  (file_4459)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ലോകത്തിലെ ഒരു         സാധാമനുഷ്യന്  (file_4460)
+***       പുറത്തേക്ക് സമ്മതിച്ചു    (file_4460)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ലോകത്തെ രക്ഷിക്കാനുള്ള നിങ്ങളുടെ      (file_4461)
+ഡോ      തിരിച്ച്       രണ്ടുമിനുട്ട്  (file_4461)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ലോകത്തെ രക്ഷിക്കാന്‍  (file_4462)
+പോ      ഉപേക്ഷിക്കാൻ  (file_4462)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ലോക്ക് ചെയ്തു     (file_4463)
+***    കുറിച്ചും  (file_4463)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ലോറാ      മില്ലെറുടെ ഗ്രഹമാണ് ആദ്യത്തേത്  (file_4464)
+ലോകത്തിലെ തുറക്ക്    മോളെ     വാതിൽ       (file_4464)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+*** സിനിമകളുണ്ട്  (file_4465)
+ഈ   സുഖം          (file_4465)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+വടക്കുള്ള ആ              കോളേജിലാണോ  (file_4466)
+***       നോട്ട്ബുക്കല്ല ഓടിച്ചോളാം  (file_4466)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വട്ടാണ്  (file_4467)
+ഡോറുകൾ  (file_4467)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വണ്ടിയിൽ കേറ്  (file_4468)
+വണ്ടിയിൽ കേറ്  (file_4468)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വണ്ടിയിൽ കേറ് നമുക്ക് പോകാം        (file_4469)
+***      ***  ***     കൊണ്ടുപോവാം  (file_4469)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 1
+വധുവും കാണുന്നത് നല്ല           ശകുനമല്ലായെന്നാണ്  (file_4470)
+***    ഒരു       കണ്ടതില്‍വച്ച് കടമയാണ്            (file_4470)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വന്നപ്പോള്‍ മുതല്‍ അദ്ദേഹം   നിങ്ങളെ അന്വേഷിക്കുകയാണ്  (file_4471)
+***         ***    പണംകൊണ്ട് അടുത്ത  നക്ഷത്രങ്ങൾ       (file_4471)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+വന്നുപോയിവന്നുപോയി  (file_4472)
+വന്നുപോയിവന്നുപോയി  (file_4472)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വന്നുവന്നു  (file_4473)
+തോന്നുന്നു  (file_4473)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വയറിന്റെ അടിയില്‍ കേട്ടോ             (file_4474)
+***      ***      പരിഹരിച്ചിരിക്കും  (file_4474)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+വയസ്സാകുന്നതില്‍ നിനക്ക്  (file_4475)
+വയസ്സാകുന്നതില്‍ ***      (file_4475)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 0
+വയസ്സ് മുതൽ എന്‍റെ സ്വപ്നമാണ് ഇഷ്ടപെട്ട    (file_4476)
+***    ***  ***    വയസ്സുണ്ട് സ്കൂളിന്‍റെ  (file_4476)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 2
+വരയ്ക്കുകയാണ്  (file_4477)
+വരികയാണ്       (file_4477)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വരുന്നത് എങ്കില്‍  (file_4478)
+ഒരു      തേനിൽ     (file_4478)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വരുന്നുണ്ട്  (file_4479)
+ഒരുവളുടെ     (file_4479)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വരു  (file_4480)
+ഒരു  (file_4480)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വരു കേസ് അവളെ എടുക്കു   (file_4481)
+ഒരു കേസ് ***  അവയ്ക്കു  (file_4481)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വരു വരു   (file_4482)
+ഒരു വരും  (file_4482)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വരൂനമുക്ക് സ്വപ്നം കാണാം            (file_4483)
+ഒരു        നമുക്ക് സുഹൃത്തുക്കളാണ്  (file_4483)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വരൂ  (file_4484)
+ഒരു  (file_4484)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വരൂ നമുക്ക് പോവാം    (file_4485)
+*** ഒരു     തണുപ്പോ  (file_4485)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വരൂ നിങ്ങളുടെ ബാഗ്   ഇങ്ങുതരൂ      (file_4486)
+*** ഒരു       കുട്ടാ നിങ്ങൾക്കൊരു  (file_4486)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വരെ ഞാന്‍           (file_4487)
+*** പണിയെടുക്കാനും  (file_4487)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വര്‍ഷം വൈകിയോ അല്ലെങ്കില്‍  (file_4488)
+വര്‍ഷം വൈകിയോ കണ്ണില്‍      (file_4488)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വര്‍ഷങ്ങളായി നമ്മള്‍ നഷ്ടപ്പെട്ടിരുന്നു എന്ന് കരുതിയ  (file_4489)
+വര്‍ഷങ്ങളായി നമ്മള്‍ നഷ്ടപ്പെട്ടിരുന്നു ***   കിട്ടി  (file_4489)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വര്‍ഷങ്ങളോളം ഞാന്‍ അതു     ചെയ്തില്ല         (file_4490)
+***          ***   ഭക്ഷണമോ കത്തിച്ചിട്ടില്ല  (file_4490)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+വര്‍ഷങ്ങളോളമുള്ള സന്ദേശങ്ങള്‍  (file_4491)
+വര്‍ഷങ്ങളോളമുള്ള സന്ദേശങ്ങള്‍  (file_4491)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വര്‍ഷങ്ങള്‍ക്ക് മുമ്പ് മുതലേ നമ്മള്‍ ഗുരുത്വാകര്‍ഷണ  (file_4492)
+വര്‍ഷങ്ങള്‍ക്കു മുമ്പ് ***   നമുക്ക് പക്ഷെ           (file_4492)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വലത്തേ തിട്ടയില്‍  (file_4493)
+വലത്തേ തിട്ടയില്‍  (file_4493)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വലിയൊരു ത്യാഗമാണ് അദ്ദേഹം    ചെയ്തത്    (file_4494)
+***     ***       പോയിക്കോളു അതെനിക്ക്  (file_4494)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+വലിയ അഭിമാനമുണ്ട് ഡോ            മാന്‍     (file_4495)
+***  ഹേയ്         ആസന്നമാവുന്നു കേൾക്കും  (file_4495)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വലിയ ത്യാഗം ചെയ്യുന്നത് അവിടെ           (file_4496)
+***  ***    ഞങ്ങള്‍     കാണിച്ചുതരട്ടെ  (file_4496)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+വല്ലാതെ തിന്ത    വരില്ലായിരുന്നു  (file_4497)
+***     ഡൊണാൾഡ് നന്നായിരുന്നു    (file_4497)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+*** ***   വല്ലാത്തൊരു ട്രാജഡിയായിപ്പോയി  (file_4498)
+ഒരു അതിന് പറ്റിയ      എവിടെ              (file_4498)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+വല്ല്യൊരു പാടത്തിലേക്ക് അതിന്‍റെ ഒരു ബാറ്ററി മതി  (file_4499)
+***       പരിപാടിയില്‍  അതിന്‍റെ ഒരു ബാറ്ററി മതി  (file_4499)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വളയധികം ക്ഷമിക്കണം  (file_4500)
+വളയധികം ക്ഷമിക്കണം  (file_4500)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+TOTAL Words: 736 Correct: 251 Errors: 514
+TOTAL Percent correct = 34.10% Error = 69.84% Accuracy = 30.16%
+TOTAL Insertions: 29 Deletions: 126 Substitutions: 359
