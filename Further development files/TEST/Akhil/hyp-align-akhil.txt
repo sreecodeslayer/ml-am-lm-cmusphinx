@@ -1,0 +1,1003 @@
+അംഗവുമായ ജോര്‍ജ് മെലിയസ്  (file_1)
+കണ്ടു    അയച്ചോ  ചോയ്സ്   (file_1)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+അകത്തേക്ക് കയറി  (file_2)
+അകത്തേക്ക് കയറി  (file_2)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അകത്തേക്ക് പോയി നോക്ക്    (file_3)
+അകത്തേക്ക് പോയി പോകുന്നു  (file_3)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അകത്തേക്ക് പോ   (file_4)
+അകത്തേക്ക് പോ   (file_4)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അകത്ത് കിടന്നുറങ്ങിക്കോളു  (file_5)
+അകത്ത് കിടന്നുറങ്ങിക്കോളു  (file_5)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അകത്ത് തണുപ്പൊന്നുമില്ലാ  (file_6)
+അകത്ത് തണുപ്പൊന്നുമില്ലാ  (file_6)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അകിടുള്ള പശുക്കള്‍  (file_7)
+അകിടുള്ള പശുക്കള്‍  (file_7)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അക്കൗണ്ട്‌ ക്ലോസ്‌    ചെയ്യണോ  (file_8)
+***        പന്ത്രണ്ടു സത്യം    (file_8)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അങ്ങകലെ ഒരു തമോഗര്‍ത്തം  (file_9)
+അങ്ങകലെ ഒരു തമോഗര്‍ത്തം  (file_9)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***  അങ്ങനെതന്നെ  (file_10)
+ഹേയ് ലണ്ടനിൽ      (file_10)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അങ്ങനെയായിരുന്നെങ്കില്‍ എനിക്ക് പകരം        (file_11)
+അങ്ങനെയായിരുന്നെങ്കില്‍ ***     ക്ഷമിക്കണം  (file_11)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അങ്ങനെയൊന്നും നടക്കില്ലാ  (file_12)
+ഹേയ്          നടക്കില്ലാ  (file_12)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അങ്ങനെയൊന്നുമല്ലാ റാണി          (file_13)
+***               കാര്യങ്ങളാണ്  (file_13)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അങ്ങനെയൊന്നുമില്ലാ  (file_14)
+കഴിയുന്നില്ല        (file_14)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***    അങ്ങനെയൊന്നുമില്ല  (file_15)
+മങ്ങിയ കണ്ടില്ലേ          (file_15)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***    അങ്ങനെയൊന്ന് അതിനുമുമ്പ് ആരും   (file_16)
+അമേലിയ നാം          അതിനു       പോവാം  (file_16)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+അങ്ങനെ  (file_17)
+ഞങ്ങളെ  (file_17)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അങ്ങനെ അല്ല എന്നും        അല്ലേ  (file_18)
+***    ***  പാനിയല്ലാറാണി പോലെ   (file_18)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+അങ്ങനെ അവര്‍ ഉണ്ടാക്കിയ ഒരു  (file_19)
+അങ്ങനെ അവര്‍ ഉണ്ടാക്കിയ ഒരു  (file_19)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അങ്ങനെ ആകാൻ ശ്രമിക്കരുത് പ്ലീസ്   (file_20)
+അങ്ങനെ ആകാൻ ശ്രമിക്കരുത് മിസ്സ്‌  (file_20)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അങ്ങനെ ആ   കാത്തു   സൂക്ഷിച്ച  സംഭവങ്ങളെല്ലാം പോവാൻ പോവുകയാണ്  (file_21)
+***    *** അന്വേഷകർ സൂക്ഷിച്ച് മോളു           പോവാൻ കൂടെയാണ്   (file_21)
+Words: 7 Correct: 1 Errors: 6 Percent correct = 14.29% Error = 85.71% Accuracy = 14.29%
+Insertions: 0 Deletions: 2 Substitutions: 4
+അങ്ങനെ ചെയ്യരുത്    വളരെ മോശമാണ്  (file_22)
+***    സന്ദേശങ്ങള്‍ വളരെ മോശമാണ്  (file_22)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അങ്ങനെ ചെയ്യല്ലേ  (file_23)
+അങ്ങനെ ചെയ്യല്ലേ  (file_23)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അങ്ങനെ ഞങ്ങളാ സാഹസം ആരംഭിച്ചു  (file_24)
+അവിടെ  തവണ    സാഹസം ആരംഭിച്ചു  (file_24)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അങ്ങനെ ഞങ്ങള്‍      സ്വന്തം സ്റ്റുഡിയോ  (file_25)
+***    സന്ദേശങ്ങള്‍ സാന്‍റ  സത്യം       (file_25)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+അങ്ങനെ ഞാന്‍ ഒരു         തിയറി ഉണ്ടാക്കാൻ തുടങ്ങി  (file_26)
+***    ആ     വേണ്ടിയാരും തിയറി ഉണ്ടാക്കാൻ തുടങ്ങി  (file_26)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അങ്ങനെ നമുക്ക് നല്ല ഒരു ആശയം ലഭിച്ചു  (file_27)
+അങ്ങനെ നമുക്ക് നല്ല ഒരു ആശയം ലഭിച്ചു  (file_27)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അങ്ങനെ നമ്മൾ ഒരു വീട്         കണ്ടെത്തുകയാണെങ്കിൽ  (file_28)
+***    ***   *** സന്ദേശങ്ങള്‍ കിട്ടുകയാണെങ്കിൽ     (file_28)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 2
+അങ്ങനെ നഷ്ട്ടപ്പെട്ട ആശയവിനിമയം തിരിച്ചു കിട്ടി  (file_29)
+അങ്ങനെ നഷ്ട്ടപ്പെട്ട ആശയവിനിമയം തിരിച്ചു കിട്ടി  (file_29)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അങ്ങേരത് കത്തിച്ചിട്ടില്ല  (file_30)
+അങ്ങേരത് കത്തിച്ചിട്ടില്ല  (file_30)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അങ്ങോട്ട്‌ ആള്‍ക്കാരെ അയച്ചിട്ടുണ്ടോ   (file_31)
+***        ***        കുടിയനായിരുന്നു  (file_31)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+അങ്ങോട്ട് മാറ്റുന്നതാണ്  (file_32)
+***       കൊണ്ടുവരാൻ     (file_32)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അച്ഛനും അമ്മയും എല്ലാവരും പോയി  (file_33)
+അച്ഛനും അമ്മയും എല്ലാവരും പോയി  (file_33)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അച്ഛനും അമ്മയുമെവിടെ  (file_34)
+അച്ഛനും അമ്മയുമെവിടെ  (file_34)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അച്ഛന്‍ തിരിച്ച് വരില്ല അച്ഛന്‍ ഒരിക്കലും തിരിച്ച് വരില്ല  (file_35)
+അച്ഛന്‍ തിരിച്ച് വരില്ല ***     ഒരിക്കലും തിരിച്ച് വരില്ല  (file_35)
+Words: 7 Correct: 6 Errors: 1 Percent correct = 85.71% Error = 14.29% Accuracy = 85.71%
+Insertions: 0 Deletions: 1 Substitutions: 0
+അച്ഛന്‍ പറഞ്ഞു അത്       ഉച്ചയ്ക് സ്വപ്നം  (file_36)
+***     ***    അച്ഛനോടും ഉച്ചയ്ക് സ്വപ്നം  (file_36)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+അച്ഛന് മിഠായികട ഉണ്ടാവുമ്പോൾ  (file_37)
+അച്ഛന് മിഠായികട ഉണ്ടാവുമ്പോൾ  (file_37)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***   അച്ഛാ  (file_38)
+ഞാന്‍ സോണാൽ  (file_38)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അച്ഛാ എന്നെ വിജയിയുടെ വീട്ടിനുമുമ്പിൽ    ഇറക്കണം  (file_39)
+അച്ഛാ ***   ഞാന്‍     പേടിയുണ്ടായിരുന്നു കയറണം    (file_39)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+അച്ഛന്‍ അമ്മാ    (file_40)
+അത്     ശാന്തമോ  (file_40)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അച്ഛന്‍ അദ്ദേഹത്തിന്‍റെ മിഠായിക്കടയാണ് വധു  (file_41)
+അച്ഛന്‍ അദ്ദേഹത്തിന്‍റെ മിഠായിക്കടയാണ് വധു  (file_41)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അച്ഛന്‍  ഇന്ത്യക്കാരനും  (file_42)
+അച്ഛന്റെ കാരണം           (file_42)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അച്ഛന്‍ കടയില്‍ നിന്ന്  വന്നുയെന്നാണ് തോന്നുന്നത്  (file_43)
+***     ***     അച്ഛനും കരയുകയാണോ     വരെ          (file_43)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+അച്ഛന്‍ വിജയിയോട്  സംസാരിച്ചോളും  (file_44)
+അച്ഛന്‍ ഭംഗിയുണ്ട് സംസാരിച്ചോളും  (file_44)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അഞ്ചുദിവസം കൊണ്ട്   നിനക്ക് സുഹൃത്തുക്കളൊക്കെയായോ  (file_45)
+അഞ്ചു      രസമുണ്ട് നമുക്ക് സുഹൃത്തുക്കൾ           (file_45)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+അഞ്ചുദിവസമായി നിന്നെ തിരഞ്ഞുകൊണ്ടിരിക്കുകയായിരുന്നു  (file_46)
+അഞ്ചുദിവസമായി ***    ഞെരുങ്ങുകയും                    (file_46)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അഞ്ചു മണിക്ക് പണി   തുടങ്ങാനുള്ളതാണ്  (file_47)
+***   ഞാനതു   കണ്ടു വരും              (file_47)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+അഞ്ച് പ്രധാന എൻജിൻ സ്റ്റാർട്ട്‌ ചെയ്തിരിക്കുന്നു നാല് ***  (file_48)
+അഞ്ച് പ്രധാന എൻജിൻ സ്റ്റാർട്ട്‌ ചെയ്തിരിക്കുന്നു നാല് ആണ്  (file_48)
+Words: 6 Correct: 6 Errors: 1 Percent correct = 100.00% Error = 16.67% Accuracy = 83.33%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അഞ്ഞൂറ് മീറ്റർ    (file_49)
+***     ഞങ്ങളുടെ  (file_49)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അടക്കിയിരിക്കുന്നത്  (file_50)
+കഴിയും               (file_50)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***    അടങ്ങ്‌ സഹോദര ***    (file_51)
+അച്ഛനെ അടങ്ങ്‌ സഹോദര തന്നെ  (file_51)
+Words: 2 Correct: 2 Errors: 2 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 0
+അടിത്തറ      ഇളക്കുകയായിരുന്നു  (file_52)
+കണ്ടുപോകരുത് വേണം               (file_52)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അടിപൊളി  (file_53)
+കിട്ടും  (file_53)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അടിസ്ഥാനത്തിന്റെ ഉറപ്പ്    (file_54)
+കണ്ടതാണ്         കേടുവന്ന  (file_54)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അടിസ്ഥാനപരമായി ആ             വികാരമാണ്  (file_55)
+***            അടിസ്ഥാനപരമായ വികാരമാണ്  (file_55)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അടുത്തു നിന്നും മോഷ്ടിക്കുന്നത് കൊച്ചുകള്ളാ ***  (file_56)
+***     അതിനു   മോഷ്ടിക്കുന്നത് കൊച്ചുകള്ളാ ഉം   (file_56)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 1 Substitutions: 1
+***    അടുത്തെത്തിക്കൊണ്ടിരിക്കുന്നു  (file_57)
+അടുത്ത കുട്ടിയും                      (file_57)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അടുത്ത തവണ       നിങ്ങളുടെ റെക്കോർഡ്‌ ചെയ്ത      (file_58)
+***    ത്രത്തോളം നിങ്ങളുടെ ***        ഓക്സിജന്‍  (file_58)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+അടുത്ത വര്‍ഷം ഞാന്‍ നെല്‍സന്റെ ഭൂമിയില്‍  (file_59)
+അടുത്ത വര്‍ഷം ഞാന്‍ നെല്‍സന്റെ ഭൂമിയില്‍  (file_59)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അടുത്ത വർഷം     (file_60)
+***    സന്തോഷം  (file_60)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+*** അതങ്ങനെയല്ലായിരുന്നു  (file_61)
+അത് അമ്മയോടും             (file_61)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതത്ര ശാസ്ത്രിയമല്ല  (file_62)
+അതത്ര ശാസ്ത്രിയമല്ല  (file_62)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** അതദ്ദേഹത്തിനും അറിയാമായിരുന്നു  (file_63)
+അതെ ശാന്തമായ       മരണം             (file_63)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***      അതര്‍ഥമാക്കുന്നത് നീയവിടെ വന്നതും ചിലതൊക്കെ ചെയ്യാനാണ്  (file_64)
+അച്ഛനോട് അത്               നീയവിടെ വന്നതും ചിലതൊക്കെ ചെയ്യാനാണ്  (file_64)
+Words: 5 Correct: 4 Errors: 2 Percent correct = 80.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***    അതല്ലമമ്മ അവന്‍  (file_65)
+അതല്ലാ മംഓഹ്     അവന്   (file_65)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+അതല്ല മറ്റേത് ***  (file_66)
+അതല്ല മറ്റേത് ന്   (file_66)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അതവിടെയാണ്  (file_67)
+അതറിയാം     (file_67)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതവിടെ കിടപ്പു തുടങ്ങിയിട്ട്  (file_68)
+അതവിടെ കിടപ്പു തുടങ്ങിയിട്ട്  (file_68)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതാകും അതുകൊണ്ടാ പോയി കിടക്ക്‌   (file_69)
+അതാകും അതുകൊണ്ടാ ***  ഇവിടുന്ന്  (file_69)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതാണെന്റെ അച്ഛന്‍ ചെയ്തു കൊണ്ടിരുന്നത്             (file_70)
+അതാണെന്റെ അച്ഛന്‍ ***    ചെയ്തുകൊണ്ടിരിക്കുന്നതും  (file_70)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതാണ് അദ്ദേഹം ചെയ്തുകൊണ്ടിരിക്കുന്നതും  (file_71)
+അതാണ് അദ്ദേഹം ചെയ്തുകൊണ്ടിരിക്കുന്നതും  (file_71)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതാണ് ആ   ലോംഗ് ഷോട്ട്  (file_72)
+അതാണ് ആ   ലോംഗ് ഷോട്ട്  (file_72)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതാണ് എനിക്ക് ഇഷ്ടമായത്      (file_73)
+അതാണ് ***     നിമിഷമാണെന്ന്  (file_73)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതാണ് എന്നെയും നയിച്ചത് നമ്മളെ എല്ലാവരേയും നയിക്കുന്നത്  (file_74)
+അതാണ് വേണ്ടി   നയിച്ചത് നമ്മളെ എല്ലാവരേയും നയിക്കുന്നത്  (file_74)
+Words: 6 Correct: 5 Errors: 1 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതാണ് എന്നെ അങ്ങോട്ട് ആകര്‍ഷിക്കുന്നത്  (file_75)
+അതാണ് ***   പ്രണയമോ   രക്ഷിക്കുമെന്ന്   (file_75)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതാണ് നല്ലത്     (file_76)
+അതാണ് കാലത്തിന്  (file_76)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതാണ് *** നാം        വിളിക്കുന്ന ബ്ലാക്ക്‌ഹോൾ  (file_77)
+അതാണ് ആ   വിവരങ്ങള്‍ ബാഗ്        ഹോൾ           (file_77)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+അതാണ് ഭരണകൂടം ഞങ്ങക്കായി തന്നത്  (file_78)
+അതാണ് ഭരണകൂടം ഞങ്ങക്കായി തമ്മിൽ  (file_78)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതാണ് ഒരുപാട് ഡ്രാമാമൈൻ ഉണ്ട് ***    (file_79)
+അതാണ് ഒരുപാട് ഡ്രാമാമൈൻ ഉണ്ട് എന്ന്  (file_79)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അതാദ്യം തന്നെ എടുത്തതാണ്  (file_80)
+***     സ്ഥലം ചെയ്തോളാം   (file_80)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതാരാണ് പ്രൊഫസര്‍ ഈ   അവന്‍  (file_81)
+അതാരാണ് പ്രൊഫസര്‍ ഈ   അവനെ   (file_81)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതാ ഉയരുന്നു ഇതാ  (file_82)
+അതാ ഉയരുന്നു ഇതാ  (file_82)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതാ ട്രാക്കില്‍ ഒരു കുട്ടി   (file_83)
+അതാ ട്രാക്കില്‍ *** വധുവിനെ  (file_83)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതിഗംഭീരം  (file_84)
+അതിനിയും   (file_84)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***     അതിഗംഭീര സ്ഥലം അല്ലേ  (file_85)
+അതിന്റെ പുതിയ    സ്ഥലം അല്ലേ  (file_85)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതിജീവനത്തിനുവേണ്ടി ശ്രമിക്കും  (file_86)
+അതിജീവനത്തിനുവേണ്ടി ശ്രമിക്കും  (file_86)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിനനുവാദമുണ്ടല്ലോ  (file_87)
+അതിനനുവാദമുണ്ടല്ലോ  (file_87)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിനനുസരിച്ച് നീ  പണിയെടുക്കണം  (file_88)
+അതിനനുസരിച്ച് *** എനിക്കറിയണം   (file_88)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതിനര്‍ത്ഥം  (file_89)
+അതിനര്‍ത്ഥം  (file_89)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിനര്‍ത്ഥം ഞാന്‍ തെറ്റാണെന്നല്ല  (file_90)
+അതിനര്‍ത്ഥം ഞാന്‍ തെറ്റാണെന്നല്ല  (file_90)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിനല്ലേ ഞാന്‍ ഇവിടെയുള്ളത് ***  (file_91)
+അതിനല്ലേ ഞാന്‍ ഇവിടെയുള്ളത് ഉം   (file_91)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അതിനായി അവിടെ ആരെങ്കിലും  (file_92)
+അതിനായി അവിടെ ആരെങ്കിലും  (file_92)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിനാലാണ് ഞാന്‍ നിന്നെ കൊണ്ട്     പോകാത്തത്  (file_93)
+അതിനാലാണ് ഞാന്‍ ***    ഗന്ധമുണ്ടോ അതും       (file_93)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതിനാൽ നിങ്ങള്ക്ക് ഈ         ഷോട്ട്കട്ടിലൂടെ കടക്കാം  (file_94)
+അതിനാൽ ***         നിങ്ങളുടെ ഷോട്ട്കട്ടിലൂടെ കടക്കാം  (file_94)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതിനുള്ളിലെ മുത്താണ് ഏകത്വം   (file_95)
+അതിനുള്ളിലെ മുത്താണ് കിട്ടും  (file_95)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതിനു നിങ്ങള്‍ തമോഗര്‍ത്തം കടക്കേണ്ടതുണ്ട് ***  (file_96)
+അത്   നിങ്ങള്‍ തമോഗര്‍ത്തം കടക്കേണ്ടതുണ്ട് ഉം   (file_96)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതിനു പണചെലവ് വരും   (file_97)
+അതെ   നാസ     ഒന്ന്  (file_97)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+അതിനു ശേഷം ഞങ്ങൾ ഈ   സ്റ്റേഷൻ ഉണ്ടാക്കാൻ തുടങ്ങി      (file_98)
+അതിനു ശേഷം ഞങ്ങൾ *** ***      ***        വിശേഷങ്ങളും  (file_98)
+Words: 7 Correct: 3 Errors: 4 Percent correct = 42.86% Error = 57.14% Accuracy = 42.86%
+Insertions: 0 Deletions: 3 Substitutions: 1
+അതിനു ശേഷം ഗര്‍ഭപാത്ത്രത്തോടെ കൂടെ  (file_99)
+അതിനു ശേഷം ഗര്‍ഭപാത്ത്രത്തോടെ കൂടെ  (file_99)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിനെക്കുറിച്ച് അവര്‍ പറഞ്ഞുതരും  (file_100)
+അതിനെക്കുറിച്ച് അവര്‍ പറഞ്ഞുതരും  (file_100)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിനെയാണ് നമ്മള്‍ ശാന്തമായ ഏകത്വം എന്ന് പറയുന്നത്  (file_101)
+അതിനെയാണ് നമ്മള്‍ ശാന്തമായ ഏകത്വം ***   പറയണം      (file_101)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതിനെയാർക്കും തടയാനാവില്ല  (file_102)
+പുതിയവ        തയ്യാറല്ലേ   (file_102)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതിനെ ചേര്‍ക്കാന്‍   അവനറിയില്ല  (file_103)
+***   പഠിപ്പിച്ചതാണ് കാണാറില്ലേ  (file_103)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതിനെ ശ്വാസം മുട്ടിക്കുന്നു  (file_104)
+***   അത്    അവശ്വസനിയമാണ്   (file_104)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതിനൊപ്പം  (file_105)
+പറഞ്ഞു     (file_105)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതിനോട് അതിന്‍റെ അമ്മ ചോദിച്ചു എന്താണ് നിനക്കിത്രേം സൗന്ദര്യമെന്ന്  (file_106)
+അതിനോട് അതിന്‍റെ അമ്മ ചോദിച്ചു എന്താണ് നിനക്കിത്രേം സൗന്ദര്യമെന്ന്  (file_106)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിന്റെ   (file_107)
+അതിന്‍റെ  (file_107)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതിന്റെ ഏകത്വം നാം  (file_108)
+അതിന്റെ ഏകത്വം നാം  (file_108)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിന്റെ കറക്കവുമായി ഒത്തിണക്കൂ  (file_109)
+അതിന്റെ കറക്കവുമായി ഒത്തിണക്കൂ  (file_109)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിന്റെ കുറുകെ ഒരു പാറ കുടുങ്ങിക്കിടന്ന്  (file_110)
+അതിന്റെ കുറുകെ ഒരു പാറ കുടുങ്ങിക്കിടന്ന്  (file_110)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിന്റെ കൂട് നനഞ്ഞ      പുല്‍തുമ്പത്തും  (file_111)
+***     അത്  എന്‍റെകൂടെ അടവുകളും         (file_111)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+അതിന്‌ ശേഷം അവർ ഒരു സിഗ്നൽ അയക്കുക  (file_112)
+അതിനു  ശേഷം അവർ ഒരു സിഗ്നൽ അവന്     (file_112)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതിന്‍റെ അർഥം അതിലൊന്നും താല്പര്യമുണ്ടന്നല്ലാ  (file_113)
+അതിന്‍റെ അർഥം അതിലൊന്നും താല്പര്യമുണ്ടന്നല്ലാ  (file_113)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിന്‍റെ ടിന്നിൽ തന്നെ അത് എഴുതിയിട്ടുണ്ട്  (file_114)
+അതിന്‍റെ ടിന്നിൽ തന്നെ അത് എഴുതിയിട്ടുണ്ട്  (file_114)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** അതിന് അതിന് സുഗന്ധമുണ്ടോ  (file_115)
+അത് അവള്‍ അതിന് സുഗന്ധമുണ്ടോ  (file_115)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതിന് കുറച്ച് എരിവ് കൂടിപോയെന്നാണ് തോന്നുന്നത്  (file_116)
+അതിന് കുറച്ച് എരിവ് കൂടിപോയെന്നാണ് പോവും        (file_116)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതിന് ചില അര്‍ത്ഥങ്ങളുമുണ്ട്  (file_117)
+അതിന് ചില അര്‍ത്ഥങ്ങളുമുണ്ട്  (file_117)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിന് നമുക്കെന്തെങ്കിലും കാരണമുണ്ടായേക്കാം  (file_118)
+അതിന് നമുക്കെന്തെങ്കിലും കാരണമുണ്ടായേക്കാം  (file_118)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിന് നിങ്ങള്‍ ഒരുതവണ പോലും ഫോണ്‍ വിളിച്ചിട്ടില്ലല്ലോ  (file_119)
+അത്   നിങ്ങള്‍ ഒരുതവണ പോലും ഫോണ്‍ വിളിച്ചിട്ടില്ലല്ലോ  (file_119)
+Words: 6 Correct: 5 Errors: 1 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതിന് നേരെ   (file_120)
+***   കരയും  (file_120)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതിന് മര്‍ഫിയുടെ നിയമം പറയുന്നത്  (file_121)
+അതിന് മര്‍ഫിയുടെ നിയമം പറയുന്നു   (file_121)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതിന് ശേഷമോ ***    (file_122)
+അതിന് ശേഷമോ അല്ലെ  (file_122)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അതിലും തണുത്ത മണിക്കൂര്‍  (file_123)
+അതിലും തണുത്ത മണിക്കൂര്‍  (file_123)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിലുണ്ടായിരുന്നവ എടുക്കുകയും ചെയ്തു    (file_124)
+തരുകയാണോ          ക്ലോഡ്      മ്യൂസിയം  (file_124)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+അതിലെവിടെയാണ് സാമൂഹ്യനന്മ   (file_125)
+അതിലെവിടെയാണ് സൗകര്യങ്ങളും  (file_125)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതിലേക്കുള്ള വഴികള ചിന്തിക്കു  (file_126)
+അതിലേക്കുള്ള വഴികള ചിന്തിക്കു  (file_126)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതില്‍ ഒരു  ട്രെയിന്‍ സ്റ്റേഷനില്‍ വരുന്നതില്‍ കൂടുതല്‍  (file_127)
+***    അതിൽ കരുതി     സ്റ്റേഷനില്‍ വരുന്നതില്‍ കൂടുതല്‍  (file_127)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+*** അതിൽ   ഒന്നെങ്കിലും നമ്മുടെ കയ്യില്‍ അവശേഷിച്ചിരുന്നെങ്കിൽ  (file_128)
+അത് അല്‍പം മിനിറ്റ്     നമ്മുടെ കയ്യില്‍ അവശേഷിച്ചിരുന്നെങ്കിൽ  (file_128)
+Words: 5 Correct: 3 Errors: 3 Percent correct = 60.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+അതിൽ ഒരു മാറ്റവും ഇല്ലാ  (file_129)
+അതിൽ ഒരു മാറ്റവും ഇല്ലാ  (file_129)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതിൽ നിന്ന് ഉണര്  (file_130)
+അതിൽ ***    വരെ   (file_130)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതും    (file_131)
+പറ്റും  (file_131)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതും ഒരുപാടാളുകൾ നോക്കി നിൽക്കുമ്പോൾ  (file_132)
+അതും ഒരുപാടാളുകൾ നോക്കി നിൽക്കുമ്പോൾ  (file_132)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതും മാറ്റണം  (file_133)
+അതും മാറ്റണം  (file_133)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതുകഴിഞ്ഞ് ദൌത്യം പൂര്‍ത്തിയാക്കുന്നതിനെപ്പറ്റി  (file_134)
+അതുകഴിഞ്ഞ് ദൌത്യം പൂര്‍ത്തിയാക്കുന്നതിനെപ്പറ്റി  (file_134)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതുകൊണ്ടാണ് പ്ലാൻ       ബി         (file_135)
+***          അതുകൊണ്ടാണ് കാലത്തിന്  (file_135)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതുകൊണ്ടാണിത് സാഹസികമാകുന്നത്  (file_136)
+അതുതന്നെ      സാഹസികമാകുന്നത്  (file_136)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതുകൊണ്ടാണോ അതും നമ്മൾ കൂടെ കൊണ്ടുവന്നത്  (file_137)
+അതുകൊണ്ടാണോ അതും നമ്മൾ കൂടെ കൊണ്ടുവന്നത്  (file_137)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതുകൊണ്ടാണ് ഞങ്ങളിങ്ങോട്ട് വന്നത് അവധിയിൽ  (file_138)
+അതുകൊണ്ടാണ് ഞാനിവിടെ       വന്നത് അവധിയിൽ  (file_138)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതുകൊണ്ടാണ് ഞാനിവിടെ എത്തിയ്ത്       (file_139)
+അതുകൊണ്ടാണ് ***      ആരുടെയെങ്കില്‍  (file_139)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതുകൊണ്ടാണ് നമ്മളതിനെ തമോഗര്‍ത്തം എന്ന് വിളിക്കുന്നത്  (file_140)
+അതുകൊണ്ടാണ് നമ്മളതിനെ തമോഗര്‍ത്തം ***   കള്ളനുമാണ്     (file_140)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതുകൊണ്ടാണ് നിങ്ങൾക്ക് ഇതുവരെ വരേണ്ടി     വന്നത്     (file_141)
+അതുകൊണ്ടാണ് ***        ***    നിനക്കെന്ത് വയസ്സനാണ്  (file_141)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+അതുകൊണ്ടെന്താണ്  (file_142)
+കൊണ്ടാവണം        (file_142)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** അതുകൊണ്ട്  (file_143)
+അത് ഉണ്ട്      (file_143)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതുകൊണ്ട് അദ്ദേഹം വളരെ നല്ല താൽപര്യത്തിലാണ്  (file_144)
+അതുകൊണ്ട് അദ്ദേഹം വളരെ ***  സങ്കടത്തിലാണ്    (file_144)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതുകൊണ്ട് അയാള്‍ക്കിനി ക്ലോക്ക്           (file_145)
+***       അത്          ഉണ്ടാക്കിയപ്പോള്‍  (file_145)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതുകൊണ്ട് അവന്‍ അടിച്ചുപൊളിച്ച് ***     പോകുന്നു  (file_146)
+അതുകൊണ്ട് അവന്‍ അടിച്ചുപൊളിച്ച് മരിച്ചു പോവും     (file_146)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതുകൊണ്ട് ഇതാണ്           തിരിച്ചുവരാന്‍ പറ്റിയ ***  (file_147)
+***       അതുകൊണ്ടെന്താണ് തിരിച്ചുവരാന്‍ പറ്റിയ ആണ്  (file_147)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 1 Substitutions: 1
+അതുകൊണ്ട് എനിക്കതിന് കഴിയില്ലാ  (file_148)
+അതുകൊണ്ട് എനിക്കതിന് കഴിയില്ലാ  (file_148)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതുകൊണ്ട് എന്തുകാര്യം  (file_149)
+അതുകൊണ്ട് എന്തുകാര്യം  (file_149)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതുകൊണ്ട് ഞങ്ങള്‍ കരുതി നിങ്ങളെ വിളിച്ചു   വരുത്തി      (file_150)
+അതുകൊണ്ട് ***     ***   ***     എനിക്കതിന് ലഭിച്ചതില്‍  (file_150)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 3 Substitutions: 2
+അതുകൊണ്ട് ഞാന്‍           ലോകത്തെ ഒരു യന്ത്രമായി ചിന്തിച്ചു  (file_151)
+***       അതുകൊണ്ടെന്താണ് ലോകത്തെ ഒരു യന്ത്രമായി ചിന്തിച്ചു  (file_151)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതുകൊണ്ട്   നമുക്ക് കൈകൊണ്ട് പ്രവര്‍ത്തിപ്പിക്കേണ്ടിവരും  (file_152)
+അതുകൊണ്ടാണ് കുറെ    കൈകൊണ്ട് പ്രവര്‍ത്തിപ്പിക്കേണ്ടിവരും  (file_152)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതുകൊണ്ട് നമുക്ക്     തിരഞ്ഞെടുക്കേണ്ടതുണ്ട്  (file_153)
+അതുകൊണ്ട് തമോഗര്‍ത്തം കടക്കേണ്ടതുണ്ട്         (file_153)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതുതന്നെയല്ലേ പ്രൊഫ ബ്രാന്റ് നമ്മളെക്കൊണ്ട്  (file_154)
+പറയല്ലേ       ഡോ    ബ്രാന്റ് നമ്മളെക്കൊണ്ട്  (file_154)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതുതന്നെയാണ് നമ്മളെ    രക്ഷിക്കാന്‍ പോകുന്നതും  (file_155)
+***          പടയാളികളേ രക്ഷിക്കാന്‍ പോവും       (file_155)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+*** അതുതന്നെ  (file_156)
+അത് തന്നെ     (file_156)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതുതന്നെ നീ  മാറിയിട്ടില്ലാ  (file_157)
+അതുതന്നെ *** മാറിയിട്ടില്ലാ  (file_157)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 0
+അതുപോലും അറിയാതെയാണോ നിങ്ങള്‍  (file_158)
+അതുപോലും അറിയാതെയാണോ നിങ്ങള്‍  (file_158)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതുപോലെയൊന്നുമില്ലാ  (file_159)
+അതുപോലെയൊന്നുമില്ലാ  (file_159)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതു കൊണ്ടാവണം കേടുവന്ന യന്ത്രങ്ങള്‍  (file_160)
+അതു കൊണ്ടാവണം കേടുവന്ന യന്ത്രങ്ങള്‍  (file_160)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതു കൊണ്ട്    ഞാനതു    ചെയ്യുന്നു  (file_161)
+*** അതുകൊണ്ട് എന്താണത് ചെയ്യും     (file_161)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+അതു ഡാഡി തന്നെയല്ലേ  (file_162)
+*** അതെ  താരതമ്യേന   (file_162)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതു തന്നെയാണ് മാനിന്റേതിലുമുള്ളത്  (file_163)
+അത് തന്നെയാണ് മാനിന്റേതിലുമുള്ളത്  (file_163)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതു തന്നെ  (file_164)
+അത് തന്നെ  (file_164)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതു നിങ്ങളെ ഭയപ്പെടുത്തും  (file_165)
+*** അതെ     വേണ്ടിവരും     (file_165)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതു സാധ്യത കാണിച്ചു എങ്കില്‍  (file_166)
+അതെ സാധ്യത കാണിച്ചു എങ്കില്‍  (file_166)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെ അതെ പോ  പോ  പോ   (file_167)
+അതെ അതെ പോ  പോ  പോ   (file_167)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** അതെഇതൊരു ഹോസ്റ്റലാണ് മറ്റുള്ളവരുമായി  (file_168)
+അതെ തിര      ഹോസ്റ്റലാണ് മറ്റുള്ളവരുമായി  (file_168)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** അതെങ്ങനെ  (file_169)
+അത് നിങ്ങളെ   (file_169)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതെചിലപ്പോൾ ഒരുദിവസം തവണവരെ സംസാരിക്കും  (file_170)
+അതെചിലപ്പോൾ ഒരുദിവസം തവണവരെ സംസാരിക്കും  (file_170)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെടുത്തോളു      (file_171)
+കാത്തിരുന്നോളും  (file_171)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെത്ര കഠിനമായിരിക്കുമെന്ന് അദ്ദേഹത്തിനറിയാമായിരുന്നു ***              (file_172)
+അതെത്ര കഠിനമായിരിക്കുമെന്ന് അദ്ദേഹത്തിനറിയാമായിരുന്നു അറിയാമായിരുന്നു  (file_172)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അതെനിക്കറിയില്ല  (file_173)
+അധികമില്ല        (file_173)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെനിക്ക് കണ്ടെത്തണം  (file_174)
+അതെനിക്ക് കണ്ടെത്തണം  (file_174)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെനിക്ക് തരൂ      (file_175)
+അതെ       കിട്ടും  (file_175)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതെനിക്ക് നശിപ്പിക്കാന്‍ സാധ്യമല്ലായിരുന്നു  (file_176)
+അതെനിക്ക് നശിപ്പിക്കാന്‍ സാധ്യമല്ലായിരുന്നു  (file_176)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** അതെന്താണ്  (file_177)
+അത് രണ്ടാം     (file_177)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** അതെന്തുകൊണ്ടായിരുന്നുവെന്ന് എനിക്ക് മനസ്സിലാകുന്നില്ല  (file_178)
+അത് അതെന്തുകൊണ്ടായിരുന്നുവെന്ന് എനിക്ക് മനസ്സിലാകുന്നില്ല  (file_178)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** അതെന്നോട് എന്തോ പറയാന്‍    ശ്രമിക്കുകയായിരുന്നു  (file_179)
+അത് നിങ്ങളെ   എന്തോ വയസ്സുണ്ട് വേണം                  (file_179)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+അതെന്‍റെ കോളേജിലേക്ക് പോവും  (file_180)
+അതെന്‍റെ കോളേജിലേക്ക് പോവും  (file_180)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെന്‍റെ സഹോദരിയാണ്  (file_181)
+അതെന്‍റെ സഹോദരിയാണ്  (file_181)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെപ്പോഴും കേടാവും  (file_182)
+അതെപ്പോഴും കേടാവും  (file_182)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെഭക്ഷണത്തിന് നിങ്ങൾക്ക് പണം         വാങ്ങാം  (file_183)
+അതെഭക്ഷണത്തിന് ***        നിനക്കെന്താ പോവാം    (file_183)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതെയോ  (file_184)
+കരയും  (file_184)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെയോ ആരാണീ    അവര്‍     (file_185)
+***   തന്റേയും കാണികള്‍  (file_185)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതെ    (file_186)
+പതിയെ  (file_186)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെ അതിനുള്ള ധൈര്യം നിങ്ങൾക്കുണ്ട് നല്ലത്  (file_187)
+അതെ അതിനുള്ള ധൈര്യം നിങ്ങൾക്കുണ്ട് നല്ലത്  (file_187)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ അത് ഗോര്‍ദനില്‍ നിന്നാണ്  (file_188)
+അതെ അതെ ഗോവയിൽ      കണ്ടതാണ്  (file_188)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+അതെ അദ്ദേഹം സ്റ്റേജിലാണ് തുടങ്ങിയത്  (file_189)
+അതെ അദ്ദേഹം സ്റ്റേജിലാണ് തുടങ്ങിയത്  (file_189)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ അയാളിവിടത്തെ പണിക്കാരനാണ്  (file_190)
+അതെ അയാളിവിടത്തെ പണിക്കാരനാണ്  (file_190)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ അയാളൊരു കുടിയനായിരുന്നു            (file_191)
+*** അദ്ദേഹം തയ്യാറെടുക്കുകയായിരിക്കും  (file_191)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതെ അവനു അതിനുള്ള മിടുക്കുണ്ട്  (file_192)
+അതെ അവനു അതിനുള്ള മിടുക്കുണ്ട്  (file_192)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ അവര്‍ തന്നെ   (file_193)
+അതെ ***   അവസാനം  (file_193)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതെ ആദ്യകാല സിനിമാക്കാര്‍ക്ക് ***    (file_194)
+അതെ ആദ്യകാല സിനിമാക്കാര്‍ക്ക് എന്ന്  (file_194)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അതെ ഇങ്ങോട്ട് വരൂ   (file_195)
+അതെ ഇങ്ങോട്ട് വരും  (file_195)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെ       ഇതാണത്  (file_196)
+അതെനിക്ക് ആണ്     (file_196)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതെ ഇന്ത്യ    (file_197)
+അതെ നിങ്ങള്‍  (file_197)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെ ഇറ്റാലിയൻ ബുദ്ധിശാലി  (file_198)
+അതെ ഇറ്റാലിയൻ ബുദ്ധിശാലി  (file_198)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ എനിക്കറിയാം  (file_199)
+അത് എനിക്കറിയാം  (file_199)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെ എന്‍റെ കയ്യിലുണ്ട്  (file_200)
+അത് എന്‍റെ കയ്യിലുണ്ട്  (file_200)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെ കുടിയനായിരുന്നു  (file_201)
+അതെ കുടിയനായിരുന്നു  (file_201)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ കൂപര്‍    (file_202)
+അതെ കൂപ്പര്‍  (file_202)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെ ഗുസ്താവ് ദസ്തേ അതേ ഓഫീസര്‍ ഒരു അനാഥന്‍ കൂടി  (file_203)
+അതെ ഗുസ്താവ് ദസ്തേ അതേ ഓഫീസര്‍ ഒരു അനാഥന്‍ കൂടി  (file_203)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ ചുണ്ടോട്ചുണ്ട് അല്ലാതെന്താണ് വിചാരിച്ചത്  (file_204)
+അതെ ചുണ്ടോട്ചുണ്ട് അല്ലാതെന്താണ് വിചാരിച്ചത്  (file_204)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ ജോലി തരുകയാണ്‌       (file_205)
+അതെ ***  ജോലിക്കാരിയാണ്  (file_205)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതെ ഞാന്‍   തന്നെ        (file_206)
+*** അദ്ദേഹം പാത്രങ്ങള്‍  (file_206)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതെ ടയര്‍ പഞ്ചറായി ***  (file_207)
+അതെ ടയര്‍ പഞ്ചറായി എസ്  (file_207)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അതെ ഡോയൽ നമുക്ക് ഒരു  (file_208)
+അതെ ഡോയൽ നമുക്ക് ഒരു  (file_208)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ നാസ   (file_209)
+അതെ മാസം  (file_209)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതെ നിങ്ങളുടേതു തന്നെ അവസാന വട്ടത്തേതില്‍  (file_210)
+അതെ നിങ്ങളുടേതു തന്നെ അവസാന വട്ടത്തേതില്‍  (file_210)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ നിങ്ങള്‍ക്ക് ഒരു കാര്യം അറിയാമോ  (file_211)
+അതെ നിങ്ങളുടെ    ഒരു കാര്യം ***      (file_211)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതെ നിനക്ക് പറ്റും നിനക്ക്   പറ്റും      (file_212)
+അതെ ***     ***    നിങ്ങളുടെ പറഞ്ഞുതരും  (file_212)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+അതെ മമ്മ        പ്ലീസ് കാണിച്ചോട്ടെ  (file_213)
+*** കേള്‍ക്കാമോ സിസ്   കാണിച്ചോട്ടെ  (file_213)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അതെ വേണം  (file_214)
+അതെ വേണം  (file_214)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ സിരിഫോർട്ട്‌  (file_215)
+അതെ സിരിഫോർട്ട്‌  (file_215)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതെ സർ     (file_216)
+അതെ സാധനം  (file_216)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതേക്കുറിച്ച് സംസാരിക്കേണ്ട ***   (file_217)
+അതേക്കുറിച്ച് സംസാരിക്കേണ്ട അല്ല  (file_217)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+അതേസമയം  (file_218)
+അതേസമയം  (file_218)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതേ സര്‍   (file_219)
+അതെ സാധനം  (file_219)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതൊക്കെ നിന്‍റെ      ഇഷ്ടമാണ്  (file_220)
+***     കൊടുക്കേണ്ടേ ശതമാനം    (file_220)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+***   അതൊന്നുമല്ലാ  (file_221)
+അതിന് കണ്ടില്ലേ     (file_221)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതൊരിക്കലും ശാന്തമല്ല  (file_222)
+അതൊരിക്കലും ശാന്തമല്ല  (file_222)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതൊരു തെറ്റാണെന്ന് ഞങ്ങള്‍ക്ക് തോന്നിയിട്ടില്ല  (file_223)
+അതൊരു തെറ്റാണെന്ന് ഞങ്ങള്‍ക്ക് തോന്നിയിട്ടില്ല  (file_223)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതൊരു ദീര്‍ഘകാലത്തേക്കുള്ള പരിഹാരമല്ല എന്ന് തോന്നിയപ്പോള്‍  (file_224)
+അതൊരു ദീര്‍ഘകാലത്തേക്കുള്ള പരിഹാരമല്ല എന്ന് തോന്നിയപ്പോള്‍  (file_224)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അതൊരു നല്ല കാര്യമായിരുന്നേനെ കാരണം  (file_225)
+അതൊരു നല്ല അവരുടെ            കാരണം  (file_225)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതൊരു മികച്ച നുണപ്രചരണം മാത്രമായിരുന്നു  (file_226)
+ഒരു   മികച്ച നുണപ്രചരണം മാത്രമായിരുന്നു  (file_226)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അതൊരു വോംഹോളാണോ   (file_227)
+ഒരു   ഇപ്പോളാകും  (file_227)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതൊരു വ്യക്തിയാണെന്ന് തോന്നിയതുകൊണ്ടാണ്  (file_228)
+അതൊരു വൈകിയാണല്ലോ     അതുകൊണ്ടാണ്       (file_228)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതൊരു സമ്മാനമായിരുന്നു  (file_229)
+അതൊരു സമ്മാനമായിരുന്നു  (file_229)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** അതോ   (file_230)
+അത് ടോം  (file_230)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അതോ എഡ്മണ്ടിന്റെ അടുത്തേയ്ക് പോണോയെന്ന്  (file_231)
+അതോ ***          എഡമണ്ടിന്റെ പോണോയെന്ന്  (file_231)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതോ തിരിച്ച് വന്നിട്ട് നമ്മുടെ  (file_232)
+അതോ തിരിച്ച് വരില്ല    മോളെ     (file_232)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അതോ നീയവനെ കണ്ടോ           (file_233)
+അതോ ***    ഇന്ത്യക്കാരനും  (file_233)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+അതോ ***      പേടിച്ചുപ്പോയോ  (file_234)
+അതോ തിരിച്ച് പോണം            (file_234)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അത് അത്   (file_235)
+അതെ അതിൽ  (file_235)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അത് ഞങ്ങള്‍  (file_236)
+അതെ ഞങ്ങൾ    (file_236)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+അത് ഞാന്‍    (file_237)
+അത് എന്നാണ്  (file_237)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അത് ഞാന്‍ കരുതുന്നത്  (file_238)
+*** അതെ   താങ്കളുടെ   (file_238)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അത്ഭുതപ്പെടാറുണ്ടായിരുന്നു  (file_239)
+അതത്യാവശ്യമാണ്              (file_239)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** അത്ഭുതപ്പെടുത്താം ഒരു മാജിക് പോലെ  (file_240)
+അത് പ്രകടനം           ഒരു മാജിക് പോലെ  (file_240)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+അത്ഭുതമെന്ന് പറയാതെ     വയ്യ  (file_241)
+***          നമുക്കതിനെ പഴയ   (file_241)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+അത്യാവശ്യം ശരിയായി  (file_242)
+അത്യാവശ്യം ചെയ്യും  (file_242)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അത്യാഹിതം അഴിമതി പോ   (file_243)
+അത്യാഹിതം അഴിമതി പോ   (file_243)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അത്യാഹിതങ്ങളാണ് പരിണാമത്തിന്റെ  (file_244)
+അത്യാഹിതങ്ങളാണ് പരിണാമത്തിന്റെ  (file_244)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അത്രയേയുള്ളൂ അതിനപ്പുറം ഒന്നുമില്ല  (file_245)
+അത്രയേയുള്ളൂ അതിനപ്പുറം ഒന്നുമില്ല  (file_245)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+അത്    (file_246)
+പതിയെ  (file_246)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അത് അതിശയൊക്തിയല്ല  (file_247)
+അതെ അതിശയൊക്തിയല്ല  (file_247)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അത് അത്ര എളുപ്പമല്ല  (file_248)
+അതെ അവനു അല്ലെ       (file_248)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+അത് അദ്ദേഹമായിരുന്നു  (file_249)
+അതെ അദ്ദേഹമായിരുന്നു  (file_249)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+അത് അബദ്ധമാണ്  (file_250)
+അതെ അബദ്ധമാണ്  (file_250)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+TOTAL Words: 779 Correct: 454 Errors: 364
+TOTAL Percent correct = 58.28% Error = 46.73% Accuracy = 53.27%
+TOTAL Insertions: 39 Deletions: 81 Substitutions: 244
