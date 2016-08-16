@@ -1,0 +1,1003 @@
+*** ***            ***   നില്‍ക്ക്കരയേണ്ട കാര്യമൊന്നുമില്ല  (file_3501)
+നീ  നിൽക്ക്നിൽക്ക് വേണ്ട കാരണം            ഞാനാണ്            (file_3501)
+Words: 2 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 250.00% Accuracy = -150.00%
+Insertions: 3 Deletions: 0 Substitutions: 2
+നില്‍ക്ക്   (file_3502)
+നില്‍ക്കണം  (file_3502)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നിർത്തി  (file_3503)
+നിർദേശം  (file_3503)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** നിർത്ത്    എല്ലാവരോടും നിർത്താനാണ് പറഞ്ഞത്     (file_3504)
+നീ  പേരെന്താണ് ചിലത്       നൃത്തം      തണുത്തതാണ്  (file_3504)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+നിർബന്ധമാണോ  (file_3505)
+നിർബന്ധമാണോ  (file_3505)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** നിൽക്കുക  (file_3506)
+നീ  പിംഗുകൾ   (file_3506)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** നിൽക്കൂ  (file_3507)
+നീ  നൂറ്     (file_3507)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** നീങ്ങ്  (file_3508)
+നീ  ആണ്     (file_3508)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നീങ്ങ് നീങ്ങി നില്‍ക്ക്  (file_3509)
+***    ജീവിതം ജീവിതം     (file_3509)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+*** നീണ്ട ശീതകാലനിദ്രക്കു വേണ്ടി കിടക്ക തയ്യാറാക്കുക *** ***  (file_3510)
+നീ  നീണ്ട ശീതകാലനിദ്രക്കു വേണ്ടി കിടക്ക തയ്യാറാക്കുക നീ  നീ   (file_3510)
+Words: 5 Correct: 5 Errors: 3 Percent correct = 100.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 3 Deletions: 0 Substitutions: 0
+നീനീയൊരു       (file_3511)
+ജീൻസിന്‍റെയും  (file_3511)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീന്താൻ അറിഞ്ഞുകൂടാ ***  (file_3512)
+നീന്താൻ അറിഞ്ഞുകൂടാ നീ   (file_3512)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയത് അയച്ചുകൊടുത്താലും  (file_3513)
+നീയത് അയച്ചുകൊടുത്താലും  (file_3513)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീയത് ***   കണ്ടോ  (file_3514)
+നീയത് ഞാന്‍ ടോം   (file_3514)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നീയത് ധരിച്ചു   (file_3515)
+നീയത് തിരിച്ചു  (file_3515)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീയത് വിശ്വസിക്കണമായിരുന്നു  (file_3516)
+നീയത് വിശ്വസിക്കണമായിരുന്നു  (file_3516)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** നീയവനോട് സംസാരിച്ചോ ***  (file_3517)
+നീ  നീയവനോട് സംസാരിച്ചോ നീ   (file_3517)
+Words: 2 Correct: 2 Errors: 2 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 0
+നീയാണു കള്ളന്‍  (file_3518)
+നീയാണ് കാണണം    (file_3518)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീയാണോ ഈ   ചിത്രം വരച്ചത് ***  (file_3519)
+നീയാണോ ഈ   ചിത്രം വരച്ചത് ആണ്  (file_3519)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയാണോ എല്ലാവരെയും രക്ഷിക്കാന്‍ പോകുന്നത്   (file_3520)
+നീയാണോ എല്ലാവരെയും രക്ഷിക്കാന്‍ പോകുന്നതും  (file_3520)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീയാണ് എന്നെ അവരിലേക്ക് നയിച്ചത് ***  (file_3521)
+നീയാണ് എന്നെ അവരിലേക്ക് നയിച്ചത് നീ   (file_3521)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** ***               നീയാദ്യത്തെ തവണയല്ലല്ലോ എന്‍റെ  (file_3522)
+നീ  കാത്തിരിക്കുന്നത് പോയെന്നു    ചെറ്റേ      നീ      (file_3522)
+Words: 3 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 166.67% Accuracy = -66.67%
+Insertions: 2 Deletions: 0 Substitutions: 3
+നീയാ ഇടതു ഭാഗത്തെ     കയര്‍ ഒന്നു ശരിക്ക് വലിച്ചാല്‍  (file_3523)
+***  ***  നീയാദ്യത്തെ കയര്‍ ഒന്നു ശരിക്ക് വലിച്ചാല്‍  (file_3523)
+Words: 7 Correct: 4 Errors: 3 Percent correct = 57.14% Error = 42.86% Accuracy = 57.14%
+Insertions: 0 Deletions: 2 Substitutions: 1
+നീയിതുകൊണ്ട് എന്താ ചെയ്തിരുന്നത് ***  (file_3524)
+നീയിതുകൊണ്ട് എന്താ ചെയ്തിരുന്നത് തീ   (file_3524)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയിത്       കണ്ടോ  (file_3525)
+നീയിതുകൊണ്ട് ടോം   (file_3525)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീയിത് താഴ്ത്തിയിടണം  (file_3526)
+നീയിത് താഴ്ത്തിയിടണം  (file_3526)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീയിത് വാങ്ങുമ്പോൾ ചെക്ക്‌ ചെയ്തില്ലേ ***  (file_3527)
+നീയിത് വാങ്ങുമ്പോൾ ചെക്ക്‌ ചെയ്തില്ലേ നീ   (file_3527)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയിപ്പോൾ ഈ        വീട്ടിലേക്ക് വന്നില്ലേ ഇനിയെനിക്ക് വിശ്രമിക്കാം  (file_3528)
+നീ        എന്നോട് നീയിവിടെ     റോമിലീ    നിന്റെ      പുസ്തകം       (file_3528)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 6
+*** നീയിപ്പോൾ പോഞാൻ വിളിക്കാം  (file_3529)
+നീ  നീയിപ്പോൾ പോഞാൻ വെളിച്ചം   (file_3529)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നീയിവനെ വീണ്ടും      പ്രവര്‍ത്തിക്കുമ്പോള്‍ എന്ത് സംഭവിക്കും  (file_3530)
+നീ      എന്തെങ്കിലും പ്രവര്‍ത്തിക്കുമ്പോള്‍ എന്ത് സംഭവിക്കും  (file_3530)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീയിവിടുള്ളത് അദ്ദേഹം അറിയരുത് ***  (file_3531)
+നീയിവിടുള്ളത് അദ്ദേഹം അറിയരുത് നീ   (file_3531)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** നീയിവിടെ ഇരിക്ക് ഞാന്‍ ചായ കൊണ്ടുവരാം  (file_3532)
+നീ  വണ്ടിയിൽ കേറ്    ഞാന്‍ ചായ കൊണ്ടുവരാം  (file_3532)
+Words: 5 Correct: 3 Errors: 3 Percent correct = 60.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നീയും ഏമ്പക്കം വിട്          (file_3533)
+നീയും ***      അതുകൊണ്ടാണ്  (file_3533)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നീയും ഞാനുമായിരിക്കില്ല പക്ഷേ മനുഷ്യര്‍  (file_3534)
+നീയും ഞാനുമായിരിക്കില്ല പക്ഷേ മനുഷ്യര്‍  (file_3534)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീയും തുടങ്ങിയതില്‍ സന്തോഷമുണ്ട് ***  (file_3535)
+നീയും തുടങ്ങിയതില്‍ സന്തോഷമുണ്ട് നീ   (file_3535)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** നീയും മാറരുത് ***  (file_3536)
+നീ  നീയും മാറരുത് ആണ്  (file_3536)
+Words: 2 Correct: 2 Errors: 2 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 0
+നീയെങ്ങനെയാണ് പോയത് മോളെ ***  (file_3537)
+നീയെങ്ങനെയാണ് പോയത് മോളെ നീ   (file_3537)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെന്താട സ്റ്റമ്പ് കൊണ്ട് വരാത്തത് ***  (file_3538)
+നീയെന്താട സ്റ്റമ്പ് കൊണ്ട് വരാത്തത് നീ   (file_3538)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെന്താണിവിടെ ചെയ്യുന്നത് ***  (file_3539)
+നീയെന്താണിവിടെ ചെയ്യുന്നത് തീ   (file_3539)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെന്താണ് ചെയ്യുന്നത് ***  (file_3540)
+നീയെന്താണ് ചെയ്യുന്നത് നീ   (file_3540)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെന്താണ് നോക്കുന്നത് ***  (file_3541)
+നീയെന്താണ് നോക്കുന്നത് തീ   (file_3541)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെന്താണ് പറഞ്ഞത്  (file_3542)
+നീയെന്താണ് വൃത്തം   (file_3542)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** നീയെന്താനാണെന്നെ സഹായിക്കുന്നത് ***  (file_3543)
+നീ  വേഗത             സഹായിക്കുന്നത് തീ   (file_3543)
+Words: 2 Correct: 1 Errors: 3 Percent correct = 50.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+*** നീയെന്താ പറയുന്നേ ***  (file_3544)
+നീ  നീയെന്താ പറയുന്നേ നീ   (file_3544)
+Words: 2 Correct: 2 Errors: 2 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 0
+നീയെന്താ പാചകക്കാരനാണോ ഭക്ഷണ കാര്യത്തില്‍  (file_3545)
+നീയെന്താ പാചകക്കാരനാണോ ഭക്ഷണ കാര്യത്തില്‍  (file_3545)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീയെന്തിനാണ് ജോലിക്ക് പോവുന്നത് ***  (file_3546)
+നീയെന്തിനാണ് ജോലിക്ക് പോവുന്നത് നീ   (file_3546)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** നീയെന്തിനാ ഇവിടെ     ഇങ്ങനെ നില്‍ക്കുന്നത്  (file_3547)
+നീ  നിലയില്‍   കണ്ടെത്തി ഒരു    തീ              (file_3547)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+നീയെന്തു ചെയ്യാന്‍ പോകുന്നു  (file_3548)
+നീയിത്   ചെയ്യുമോ  നീ        (file_3548)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നീയെന്നെ കൊല്ലാൻ ശ്രമിക്കുകയാണോ  (file_3549)
+നീ       ഒന്ന്   ശ്രമിക്കുകയാണ്  (file_3549)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നീയെന്റെ ഒരേയൊരു കൂട്ടാളി അല്ല  (file_3550)
+നീയെന്റെ ഒരേയൊരു കൂട്ടാളി അല്ല  (file_3550)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീയെന്റെ കൂടെ വരികയാണ് ***  (file_3551)
+നീയെന്റെ കൂടെ വരികയാണ് നീ   (file_3551)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെന്റെ കൈയ്യീന്ന് രക്ഷപ്പെടാമെന്ന് കരുതിയോ  (file_3552)
+നീയെന്റെ കൈയ്യീന്ന് രക്ഷപ്പെടാമെന്ന് കരയും    (file_3552)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീയെന്‍റെ മോള് തന്നെ ***  (file_3553)
+നീയെന്‍റെ മോള് തന്നെ നീ   (file_3553)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെന്‍റെ പ്രതിച്ഛായയെ കുറിച്ചെങ്കിലും ചിന്തിച്ചോ ***  (file_3554)
+നീയെന്‍റെ പ്രതിച്ഛായയെ കുറിച്ചെങ്കിലും ചിന്തിച്ചോ നീ   (file_3554)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** നീയെവിടെയാണ്  (file_3555)
+നീ  നീയെവിടെയാണ്  (file_3555)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെവിടെയായിരുന്നു ***  (file_3556)
+നീയെവിടെയായിരുന്നു നീ   (file_3556)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയെവിടെയായിരുന്നു ഫേസ്ബുക്കിലും കണ്ടില്ലല്ലോ ***  (file_3557)
+നീയെവിടെയായിരുന്നു ഫേസ്ബുക്കിലും കണ്ടില്ലല്ലോ നീ   (file_3557)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയൊരിക്കല്‍ പറഞ്ഞിരുന്നു ഡോ      മാന്‍  ആണ്  (file_3558)
+നീയൊരിക്കല്‍ പറഞ്ഞിരുന്നു ഇപ്പോൾ ഞാനാണ് നീ   (file_3558)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+*** നീയൊരു കള്ളനും നുണയനുമാണ്  (file_3559)
+നീ  നീയൊരു കള്ളനും നുണയനുമാണ്  (file_3559)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** നീയൊരു പേടിത്തൊണ്ടനാണ്  (file_3560)
+നീ  നീയൊരു പേടിത്തൊണ്ടനാണ്  (file_3560)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയൊരു ശാസ്ത്രജ്ഞയാണ് ബ്രാന്റ് ***  (file_3561)
+നീയൊരു ശാസ്ത്രജ്ഞയാണ് ബ്രാന്റ് നീ   (file_3561)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീയൊരു സിനിമയും   കണ്ടിട്ടില്ലെന്നോ  (file_3562)
+നീ     സിനിമയ്ക്ക എന്തെങ്കിലും       (file_3562)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+*** നീരാശനാകരുത് പ്രൊഫസര്‍  (file_3563)
+നീ  നീരാശനാകരുത് പ്രൊഫസര്‍  (file_3563)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ     (file_3564)
+ജീന്‍  (file_3564)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** നീ  അടച്ചോ  (file_3565)
+നീ  നീ  അടച്ചോ  (file_3565)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  അതിനോട് പ്രാര്‍ത്ഥിച്ച് കഴിഞ്ഞിട്ട് ***  (file_3566)
+നീ  അതിനോട് പ്രാര്‍ത്ഥിച്ച് കഴിഞ്ഞിട്ട് നീ   (file_3566)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  അതിൽ മികച്ചവനാകും  (file_3567)
+നീ  അതിൽ മികച്ചവനാകും  (file_3567)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** നീ  അത് കഴിച്ചിരിക്കണം അല്ലേ     (file_3568)
+നീ  നീ  അത് കഴിച്ചിരിക്കണം ഡൽഹിയിലെ  (file_3568)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നീ  അത്  ഡോയലിനോട് പറഞ്ഞോ ***  (file_3569)
+നീ  അതിൽ ഡോയലിനോട് പറഞ്ഞോ നീ   (file_3569)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നീ  അദ്ദേഹത്തിന്‍റെ അടുത്ത് പോയി നില്‍ക്കണം ***  (file_3570)
+നീ  അദ്ദേഹത്തിന്‍റെ അടുത്ത് പോയി നില്‍ക്കണം നീ   (file_3570)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  അദ്ദേഹത്തെ കുറിച്ച് വളരേയേറെ ചിന്തിക്കുന്നുണ്ടല്ലേ ***  (file_3571)
+നീ  അദ്ദേഹത്തെ കുറിച്ച് വളരേയേറെ ചിന്തിക്കുന്നുണ്ടല്ലേ നീ   (file_3571)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  അധികം സംസാരിക്കണ്ട പ്രവർത്തിക്കണം  (file_3572)
+നീ  അധികം സംസാരിക്കണ്ട പ്രവർത്തിക്കണം  (file_3572)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** നീ  ***        അനാഥാലയത്തിലേക്ക് പോകേണ്ടിവരും  (file_3573)
+നീ  നീ  ഭൂതകാലത്തെ ക്ലോഡ്            എനിക്കീ       (file_3573)
+Words: 3 Correct: 1 Errors: 4 Percent correct = 33.33% Error = 133.33% Accuracy = -33.33%
+Insertions: 2 Deletions: 0 Substitutions: 2
+നീ  അയാളുടെ കുപ്പിയില്‍ എന്ത് തിരയയുകയായിരുന്നു  (file_3574)
+നീ  അയാളുടെ കുപ്പിയില്‍ ***   കുടിയനായിരുന്നു    (file_3574)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+*** നീ  അയാളോട് ക്ഷമിക്കുമോ  (file_3575)
+നീ  നീ  അയാളോട് ക്ഷമിക്കുമോ  (file_3575)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  ആംസ്റ്റർഡാമൊക്കെ ചുറ്റികാണ് ***  (file_3576)
+നീ  ആംസ്റ്റർഡാമൊക്കെ ചുറ്റികാണ് നീ   (file_3576)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  ആണുങ്ങളുടെ കൂടെയാണോ താമസിക്കുന്നത് ***  (file_3577)
+നീ  ആണുങ്ങളുടെ കൂടെയാണോ താമസിക്കുന്നത് നീ   (file_3577)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** നീ  ആരാണ്  (file_3578)
+നീ  നീ  ആരാണ്  (file_3578)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** നീ  ആ   പ്രകടനം ആസ്വദിച്ചോ ***  (file_3579)
+നീ  നീ  നാം പ്രകടനം ആസ്വദിച്ചോ നീ   (file_3579)
+Words: 4 Correct: 3 Errors: 3 Percent correct = 75.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+നീ  ഇങ്ങനെ കഷ്ടപ്പെടുന്നതുകാണാന്‍ എനിക്ക്             വയ്യ  (file_3580)
+നീ  ***    ഉപേക്ഷിക്കുക           സ്ഥാനത്തെക്കുറിച്ച് നീ    (file_3580)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+നീ  ഇങ്ങനെ തന്നെ എന്നോട്    നന്ദി    കാണിക്കണം  (file_3581)
+നീ  ***    ***   നിന്ന്തന്നെ ഓർഗാനിക് മാറ്റടീ    (file_3581)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 2 Substitutions: 3
+നീ  ഇനിയും മുന്നോട്ട്      പോകണം  (file_3582)
+*** നീയും  പങ്കടുത്തുക്കൂട നീ     (file_3582)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+നീ  ***   ഇന്ത്യയിലേക്ക്    വന്നിട്ടുണ്ടോ  (file_3583)
+നീ  ജേന്‍ കേള്‍ക്കുന്നുണ്ടോ നീ             (file_3583)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നീ  ഇവിടെത്തന്നെ  നില്ക്കണം  (file_3584)
+നീ  സ്ത്രീധനത്തിൽ കാണാം      (file_3584)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീ  ഇവിടെ ഇരിക്കൂ     (file_3585)
+നീ  കൂടെ  നില്‍ക്കും  (file_3585)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീ  ഈ   പേടകത്തിന്‍റെ പൈലറ്റ് ആകുമെന്ന് നീ   (file_3586)
+നീ  ഈ   പേടകത്തിന്‍റെ പൈലറ്റ് ആകുമെന്ന് നീ   (file_3586)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  ഉണ്ടാക്കിയ കൊയ്ത്തുയന്ത്രം പണിമുടക്കി  (file_3587)
+നീ  ഉണ്ടാക്കിയ കൊയ്ത്തുയന്ത്രം പണിമുടക്കി  (file_3587)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  ഉദ്ദേശിച്ചത് നിന്‍റെ ട്രക്ക് ആണോ    (file_3588)
+നീ  ഉദ്ദേശിച്ചത് നിന്‍റെ ട്രക്ക് കള്ളീ  (file_3588)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  എടുത്ത ഓരോന്നിനുമുള്ള വില ഞാന്‍ ***      തീരുമാനിക്കും  (file_3589)
+നീ  എടുത്ത ഓരോന്നിനുമുള്ള വില ഞാന്‍ ഹെൽമറ്റ് നീ             (file_3589)
+Words: 6 Correct: 5 Errors: 2 Percent correct = 83.33% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നീ  ***      എന്താണീ    കാണിക്കുന്നത്  (file_3590)
+നീ  എന്നോട് സംസാരിക്കൂ തീ             (file_3590)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+*** നീ  എന്താ ചെയ്തേ  (file_3591)
+നീ  നീ  എന്താ ചെയ്തേ  (file_3591)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  ***        എന്ത് ചെയ്യുവാ  (file_3592)
+നീ  ചിന്തിച്ചോ നീ    നീ        (file_3592)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നീ  എന്നുമുതലാണ് ഈ   റോക്ക്ഷോയുടെയൊക്കെ ആരാധികയായത് ***  (file_3593)
+നീ  എന്നുമുതലാണ് ഈ   റോക്ക്ഷോയുടെയൊക്കെ ആരാധികയായത് നീ   (file_3593)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  എന്നോട് പറഞ്ഞത്     (file_3594)
+നീ  ***      ലോകത്തില്‍  (file_3594)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നീ  എന്നോട് സംസാരിക്കൂ മര്‍ഫ്  (file_3595)
+നീ  എന്നോട് സംസാരിക്കൂ മര്‍ഫ്  (file_3595)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  എന്‍റെ      ഒപ്പമുണ്ടാകില്ലേ  (file_3596)
+നീ  തോന്നുന്നത് വേണം              (file_3596)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീ  എന്‍റെ വീട്       കണ്ടു     (file_3597)
+നീ  ***    എന്‍റെയൊരു കേൾക്കും  (file_3597)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+നീ  ഒന്നിനെ കുറിച്ചും പേടിക്കേണ്ട ***  (file_3598)
+നീ  ഒന്നിനെ കുറിച്ചും പേടിക്കേണ്ട നീ   (file_3598)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  *** ഒന്ന്          വിളിച്ചിട്ടുപോലുമില്ലാ  (file_3599)
+നീ  പോ  കുറിച്ചെന്നോട് നിന്നാണ്                (file_3599)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നീ  ഒന്ന് വെച്ചോ  (file_3600)
+നീ  ഒന്ന് വെച്ചോ  (file_3600)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ       ഒരുപാട്     മാറിപോയല്ലോ  (file_3601)
+നീനീയൊരു പോരുമ്പോള്‍ പോവും        (file_3601)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നീ  ഒരു നിഗമനത്തില്‍ എത്തണം സമ്മതിച്ചോ ***  (file_3602)
+നീ  ഒരു നിഗമനത്തില്‍ എത്തണം സമ്മതിച്ചോ നീ   (file_3602)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ      ഒറ്റയ്കല്ല  (file_3603)
+ജീവന്റെ അല്ലെ       (file_3603)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീ  കണ്ടിട്ടുണ്ടോ     (file_3604)
+നീ  കണ്ടെത്തുമ്പോള്‍  (file_3604)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  കരയുകയാണോ  (file_3605)
+നീ  കരയുകയാണോ  (file_3605)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** നീ  കാണാൻ സുന്ദരിയായിട്ടുണ്ട് ***  (file_3606)
+നീ  നീ  കാണാൻ സുന്ദരിയായിട്ടുണ്ട് തീ   (file_3606)
+Words: 3 Correct: 3 Errors: 2 Percent correct = 100.00% Error = 66.67% Accuracy = 33.33%
+Insertions: 2 Deletions: 0 Substitutions: 0
+നീ  കുടിച്ചാൽ പിന്നെ എനിക്ക് ഭയങ്കര         ഇഷ്ടമാണ്  (file_3607)
+നീ  കുടിച്ചാൽ പിന്നെ ***     കെട്ടുപാടുകള്‍ ഇഷ്ടമാണ്  (file_3607)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നീ  കുടിച്ചിരുന്നു എന്നദ്ദേഹം മനസിലാക്കി ***  (file_3608)
+നീ  കുടിച്ചിരുന്നു എന്നദ്ദേഹം മനസിലാക്കി നീ   (file_3608)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  കുടിച്ചിരുന്നോ    (file_3609)
+നീ  സംഭവിച്ചിരിക്കും  (file_3609)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  കുറച്ച് കഴിഞ്ഞ് വിളിക്ക്          (file_3610)
+*** ***     ***     ജീവിച്ചിരുന്നതിൽ  (file_3610)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 1
+നീ  കൂപ്പ്   അല്ലേ  (file_3611)
+നീ  കൂടുതല്‍ വേണം   (file_3611)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീ  ക്രൂരനാണ്  (file_3612)
+നീ  ക്രൂരനാണ്  (file_3612)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  ഗോവയിലേക്കാവും പോയിട്ടുള്ളത് അല്ലേ ***  (file_3613)
+നീ  ഗോവയിലേക്കാവും പോയിട്ടുള്ളത് അല്ലേ നീ   (file_3613)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  ചിന്‍റുവിനെയും കൂടെ കൊണ്ട് പോവണമായിരുന്നു ***  (file_3614)
+നീ  ചിന്‍റുവിനെയും കൂടെ കൊണ്ട് പോവണമായിരുന്നു നീ   (file_3614)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  ഞങ്ങളോട് ഒന്നും പറഞ്ഞതുമില്ലല്ലോ *** ***  (file_3615)
+നീ  ഞങ്ങളോട് ഒന്നും പറഞ്ഞതുമില്ലല്ലോ നീ  നീ   (file_3615)
+Words: 4 Correct: 4 Errors: 2 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 2 Deletions: 0 Substitutions: 0
+നീ  ടോമിന്‍റെ ഒപ്പം   കിടന്നാൽ   മതി       (file_3616)
+നീ  പോ        നിന്‍റെ ഹോംവർക്ക്‌ ഞാനതില്‍  (file_3616)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+നീ  തയ്യാറാണോ    (file_3617)
+നീ  തീർച്ചയായും  (file_3617)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  തിരിച്ച് വരുമ്പോള്‍ ഒരു കാര്യം ചെയ്യണം  (file_3618)
+നീ  തിരിച്ച് വരുമ്പോള്‍ ഒരു കാര്യം ചെയ്യണം  (file_3618)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  നല്ല തമാശയാവും  (file_3619)
+നീ  നല്ല തമാശയാവും  (file_3619)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  നല്ല സുന്ദരകുട്ടപ്പമാരെയൊക്കെ കണ്ടോ ***  (file_3620)
+നീ  നല്ല സുന്ദരകുട്ടപ്പമാരെയൊക്കെ കണ്ടോ നീ   (file_3620)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  നാളെ തുടങ്ങിക്കോ  (file_3621)
+നീ  നാളെ തുടങ്ങിക്കോ  (file_3621)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  നിന്റെ കുട്ടികളെ കാണുന്നുണ്ടോ  (file_3622)
+നീ  നിന്റെ കുട്ടികളെ കാണുന്നുണ്ടോ  (file_3622)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ    നിന്റെ സ്വപ്നങ്ങള്‍ എവിടുന്നാണ് വരുന്നത്  (file_3623)
+പതിയെ നിന്റെ സ്വപ്നങ്ങള്‍ ക്രൂരനാണ്   വരുന്നത്  (file_3623)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീ  നിന്‍റെ രീതികളെല്ലാം മാറ്റുന്നതാണ് നല്ലത് വിജയലക്ഷ്മി  (file_3624)
+*** ജീവന്റെ രീതികളെല്ലാം മാറ്റുന്നതാണ് നല്ലത് വിജയലക്ഷ്മി  (file_3624)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നീ  നോക്ക് ഇതിന്                (file_3625)
+നീ  ***    പോകുന്നില്ലെങ്കില്‍  (file_3625)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നീ         പറഞ്ഞിട്ടേയില്ലല്ലോ  (file_3626)
+ജീവിതത്തിൽ പ്രേമം               (file_3626)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീ   പറപ്പിച്ച അതേ നാസ ***  (file_3627)
+വേഗം പറപ്പിച്ച അതേ നാസ ഉം   (file_3627)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നീ   പറയുന്നത് മര്‍ഫ്  (file_3628)
+പേര് പറയുന്നത് മര്‍ഫ്  (file_3628)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ        പോകുന്നത് ലോകത്തെ രക്ഷിക്കാനാണെന്ന്  (file_3629)
+കേള്‍ക്കൂ വന്നതാണ്  ലോകത്തെ രക്ഷിക്കാനാണെന്ന്  (file_3629)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നീ   പോകുന്നില്ലെങ്കില്‍ വേണ്ട നിന്റെ കുടുംബം പൊയ്കോട്ടെ  (file_3630)
+വേഗം പോകുന്നില്ലെങ്കില്‍ വേണ്ട നിന്റെ കുടുംബം പൊയ്കോട്ടെ  (file_3630)
+Words: 6 Correct: 5 Errors: 1 Percent correct = 83.33% Error = 16.67% Accuracy = 83.33%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  പോക്കറ്റിലുള്ള സാധനങ്ങള്‍ എടുക്കുന്നോ അതോ  (file_3631)
+നീ  പോക്കറ്റിലുള്ള സാധനങ്ങള്‍ എടുക്കുന്നോ അതോ  (file_3631)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  പോരുന്നതിനുമുമ്പ് പ്രൊഫ ബ്രാന്റ്  (file_3632)
+നീ  പോരുന്നതിനുമുമ്പ് പ്രൊഫ വർഷം      (file_3632)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  ഫേസ്ബുക്കിലുണ്ടോ  (file_3633)
+നീ  ഫേസ്ബുക്കിലുണ്ടോ  (file_3633)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  ബ്രേക്കിലാണ് ചവിട്ടുന്നത്  (file_3634)
+നീ  ബ്രേക്കിലാണ് ചവിട്ടുന്നത്  (file_3634)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ   മാറരുത്  (file_3635)
+പേര് മാറരുത്  (file_3635)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ     മിഠായിയൊക്കെ നോക്ക്       (file_3636)
+പിന്നെ കായം         കൊണ്ടുപോകും  (file_3636)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നീ  രക്ഷപ്പെട്ടോ ***  (file_3637)
+നീ  രക്ഷപ്പെട്ടോ ടീം  (file_3637)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  ***    രാവിലെതൊട്ട് ഇതുവരെ ഒന്നും കഴിച്ചിട്ടില്ലേ  (file_3638)
+നീ  രാവിലെ കുട്ടിക്കു   വരെ    ഒന്നും കഴിച്ചിട്ടില്ലേ  (file_3638)
+Words: 5 Correct: 3 Errors: 3 Percent correct = 60.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നീ  റെഡിയാണോ കേസ്  (file_3639)
+നീ  റെഡിയാണോ കേസ്  (file_3639)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  വളരെ നന്നായി ഏമ്പക്കം വിടുന്നുണ്ട്  (file_3640)
+നീ  വളരെ നന്നായി ഏമ്പക്കം വിടുന്നുണ്ട്  (file_3640)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  വളരെ സുന്ദരിയാണ്  (file_3641)
+നീ  വളരെ സുന്ദരിയാണ്  (file_3641)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നീ  വസ്തുതകള്‍ ശേഖരിച്ച് അപഗ്രഥിച്ച്    (file_3642)
+നീ  വസ്തുതകള്‍ ശേഖരിച്ച് തടാകത്തിന്‍റെ  (file_3642)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ   വാതിൽ തുറക്ക് മോളെ  (file_3643)
+ഹേയ് വാതിൽ തുറക്ക് മോളെ  (file_3643)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  വേഗം പൊയ്ക്കോ ***  (file_3644)
+നീ  വേഗം പൊയ്ക്കോ ഉം   (file_3644)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+നീ  വേണമെങ്കില്‍ ആരുടെയെങ്കില്‍ പേര് പറയ്‌  (file_3645)
+നീ  വേണമെങ്കില്‍ ആരുടെയെങ്കില്‍ പേര് വർഷം   (file_3645)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  വർമ്മ ആന്‍റിയെ കാണാൻ പോയോ   (file_3646)
+നീ  വർമ്മ ആന്‍റിയെ കാണാൻ പോവും  (file_3646)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  ശരിക്കും     ശ്രമിച്ചു മര്‍ഫ്  (file_3647)
+*** ഉപേക്ഷിക്കുക ശ്രമിച്ചു മര്‍ഫ്  (file_3647)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+നീ  സന്തോഷവതിയാവും ***  എനിക്കറിയാം  (file_3648)
+നീ  സന്തോഷവതിയാവും ചിരി കാര്യം       (file_3648)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നീ   സ്റ്റേഷനില്‍ താമസിച്ചോളൂ  (file_3649)
+വേഗം സ്റ്റേഷനില്‍ താമസിച്ചോളൂ  (file_3649)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നീ  സ്വകാര്യമായി ***     ***        കാത്തുസൂക്ഷിച്ചതെല്ലാം പങ്കിടാനുള്ള  (file_3650)
+നീ  സ്വകാര്യമായി നിനക്ക് സൂക്ഷിച്ച് തരാം                   കൊണ്ടാവണം     (file_3650)
+Words: 4 Correct: 2 Errors: 4 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+നുണ  പറയുരുത്  (file_3651)
+പോകു പറയുക     (file_3651)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നൂറുകണക്കിനെണ്ണത്തില്‍ നിന്ന്    ഒന്ന്   (file_3652)
+ഡോറുകൾ                കണ്ടതില്‍ കൊണ്ടു  (file_3652)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നൂറുകണക്കിന് സിനിമകളില്‍  (file_3653)
+നൂറുകണക്കിന് സിനിമകളില്‍  (file_3653)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നൂറ് ശതമാനം    (file_3654)
+പോകു ഇഷ്ടമാണ്  (file_3654)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നെല്‍സണ്‍ അവന്‍റെ മുഴുവന്‍ വിളകളും കത്തിക്കുവാ  (file_3655)
+ദിവസം     അവന്‍റെ മുഴുവന്‍ വിളകളും കത്തിക്കുവാ  (file_3655)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നെല്‍സണ് എന്തുപറ്റി  (file_3656)
+നെല്‍സണ് എന്തുപറ്റി  (file_3656)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** നെവര്‍ലാന്റിനേയും ഓസെഡിനേയും   (file_3657)
+ഒരു കാര്യം            നോക്കിയാല്‍  (file_3657)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+നേരത്തെയോ ജനിക്കേണ്ടവനായിരുന്നു  (file_3658)
+നേരത്തെയോ ജനിക്കേണ്ടവനായിരുന്നു  (file_3658)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നേരിട്ട് സംസാരിച്ചിട്ടില്ല  (file_3659)
+നേരിട്ട് സംസാരിച്ചിട്ടില്ല  (file_3659)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+നേരെ തറച്ചു കയറി  (file_3660)
+നേരെ തറച്ചു കയറി  (file_3660)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***   ***   നേർപാത മറികടക്കക്കുന്നു  (file_3661)
+പേരും പോകാൻ മാറി   കൊണ്ടു            (file_3661)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+നോക്കില്ലേ   (file_3662)
+ജോര്‍ജിന്റെ  (file_3662)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നോക്കി      നടക്കൂ  (file_3663)
+ഡോക്ടര്‍ക്ക് റൂം     (file_3663)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+നോക്കുന്നത്  (file_3664)
+പോകുന്നതും   (file_3664)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നോക്കു ഞാന്‍ നുട്രോണ്‍ നക്ഷത്രങ്ങൾക്ക്  (file_3665)
+പോകൂ   ഞാന്‍ നുട്രോണ്‍ നക്ഷത്രങ്ങൾക്ക്  (file_3665)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നോക്കൂ  (file_3666)
+പോകൂ    (file_3666)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നോക്കൂ അദ്ദേഹം എത്ര സന്തോഷവാനാണെന്ന്  (file_3667)
+നോക്കൂ അദ്ദേഹം എത്ര സന്തോഷവാനാണെന്ന്  (file_3667)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** നോക്കൂ അവര്‍ എന്നോട്    സിനിമയ്ക്ക  (file_3668)
+ഓഹ് റൂം    അവർ   കണ്ട്രോളുകൾ സിനിമകള്‍   (file_3668)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+***  നോക്ക്നോക്ക് ഒരു പെണ്‍കുട്ടി ചർദ്ധിക്കുന്നു  (file_3669)
+പോകു പോകു         ഒരു പെണ്‍കുട്ടി ചർദ്ധിക്കുന്നു  (file_3669)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+നോക്ക്  (file_3670)
+പോകാം   (file_3670)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+നോക്ക് അവൾ അവളുടെ മുടി സ്ട്രേറ്റ് നേരെയാക്കുക ചെയ്തു  (file_3671)
+പോകു   അവൾ അവളുടെ മുടി സ്ട്രേറ്റ് നേരെയാക്കുക ചെയ്തു  (file_3671)
+Words: 7 Correct: 6 Errors: 1 Percent correct = 85.71% Error = 14.29% Accuracy = 85.71%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***  നോക്ക്   കുപെർ എനിക്ക് വിഷമമുണ്ട്  (file_3672)
+പോകു കൂപ്പര്‍ കേറി  കൃഷി    മോണ്ടു      (file_3672)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+നോക്ക് നാം വാം ഹോളിന് അടുത്തെത്തിക്കൊണ്ടിരിക്കുന്നു  (file_3673)
+നോക്കൂ വോം ഹോൾ ഹോളിന് അടുത്തെത്തിക്കൊണ്ടിരിക്കുന്നു  (file_3673)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+നോക്ക് നിനക്ക് രാജോരിയിൽ നിന്ന്  (file_3674)
+പോകു   നിനക്ക് രാജോരിയിൽ നിന്ന്  (file_3674)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***  നോണ്‍വെജ്  (file_3675)
+പോയി വെച്ചാൽ    (file_3675)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** ന്യൂട്ടന്റെ മൂന്നാം  നിയമം  (file_3676)
+ഒരു രണ്ട്       എന്നോട് നിയമം  (file_3676)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പകരം ഒരെണ്ണം വേണമെങ്കില്‍ തരാം  (file_3677)
+പകരം ഒരെണ്ണം വേണമെങ്കില്‍ തരാം  (file_3677)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പകലിന്റെ അവസാനത്തിൽ ആണ്  (file_3678)
+പകലിന്റെ അവസാനത്തിൽ ആണ്  (file_3678)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പകല്‍ മണിക്കൂര്‍ തണുത്തതാണ്  (file_3679)
+പകല്‍ മണിക്കൂര്‍ തണുത്തതാണ്  (file_3679)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***   പകുതിപകുതി  (file_3680)
+അവിടെ ടുവിൽ       (file_3680)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പക്ഷെകുടി കുറച്ച്  (file_3681)
+പക്ഷെകുടി കുറച്ച്  (file_3681)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ അതിപ്പോൾ ഒഴിവാക്കി  (file_3682)
+പക്ഷെ അതിപ്പോൾ ഒഴിവാക്കി  (file_3682)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ അത്  ഒരു കാറിന്‍റെ ഡിക്കിയില്‍ ഇട്ടിട്ട് അല്ലെന്ന്  (file_3683)
+പക്ഷേ അതിൽ ഒരു കാറിന്‍റെ ഡിക്കിയില്‍ നിന്റെ    തലമാണ്     (file_3683)
+Words: 7 Correct: 3 Errors: 4 Percent correct = 42.86% Error = 57.14% Accuracy = 42.86%
+Insertions: 0 Deletions: 0 Substitutions: 4
+പക്ഷെ അത്  ശാസ്ത്രീയമല്ല  (file_3684)
+പക്ഷേ അതിൽ ശാസ്ത്രിയമല്ല  (file_3684)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പക്ഷെ അവരാണെല്ലാം *** തുടങ്ങിയത്     (file_3685)
+പക്ഷെ അവരാണെല്ലാം നീ  തുടങ്ങിയതില്‍  (file_3685)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പക്ഷെ അവരൊക്കെ നല്ല നിഷ്‌കളങ്കരാണ്  (file_3686)
+പക്ഷെ അവരൊക്കെ നല്ല നിഷ്‌കളങ്കരാണ്  (file_3686)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ അവള്‍ അതിന് വന്നിരുന്നു  (file_3687)
+പക്ഷെ അവള്‍ അതിന് വന്നിരുന്നു  (file_3687)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ അവൻ     സുന്ദരനായിരുന്നു  (file_3688)
+പക്ഷെ ഇപ്പോൾ സുന്ദരനായിരുന്നു  (file_3688)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** പക്ഷെ ആഹ്    ഏറ്റവും കൂടുതല്‍ ഉണ്ടായിരുന്നത് ***     പൊടിയാണ്  (file_3689)
+നീ  പക്ഷേ എല്ലാം ചെറു    കൂടുതല്‍ ഉണ്ടായിരുന്നത് വാതില്‍ കൂടെയാണ്  (file_3689)
+Words: 6 Correct: 2 Errors: 6 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 4
+പക്ഷെ ഇതുവരെ മാറ്റിയിട്ടില്ല  (file_3690)
+പക്ഷെ ഇതുവരെ മാറ്റിയിട്ടില്ല  (file_3690)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ ഇപ്പോൾ നമ്മള്‍ താഴേക്ക് നോക്കി ഈ   പൊടിയിലെ  (file_3691)
+പക്ഷെ ഇപ്പോൾ നമ്മള്‍ താഴേക്ക് നോക്കി ഈ   പൊടിയിലെ  (file_3691)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ ഇപ്പോൾ അതിനെ കുറിച്ചാലോചിക്കുന്നത് നിർത്ത്  (file_3692)
+പക്ഷെ ഇപ്പോൾ അതിനെ കുറിച്ചാലോചിക്കുന്നത് നിർത്ത്  (file_3692)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***   പക്ഷെ  ഇറ്റാലിയൻ ചുംബനമാണ് ഏറ്റവും മികച്ചത്    (file_3693)
+പക്ഷേ എന്‍റെ ഇറ്റാലിയൻ ചുംബനമാണ് റൂം     മികച്ചതാണ്  (file_3693)
+Words: 5 Correct: 2 Errors: 4 Percent correct = 40.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+പക്ഷെ ഇവിടെ ഭൂമിയില്‍ അകപ്പെട്ടുകിടക്കുന്നു  (file_3694)
+പക്ഷെ ഇവിടെ ഭൂമിയില്‍ അകപ്പെട്ടുകിടക്കുന്നു  (file_3694)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ ഈ   ജോലിക്കിവിടെ  (file_3695)
+പക്ഷെ ഈ   ജോലിക്കിവിടെ  (file_3695)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ ഈ   റോക്ക്ഷോയുടെ കാര്യം ഞങ്ങൾ ഒരുപാട് മുമ്പ്തന്നെ തീരുമാനിച്ചതാണ്  (file_3696)
+പക്ഷെ ഈ   റോക്ക്ഷോയുടെ കാര്യം ഞങ്ങൾ ഒരുപാട് മുമ്പ്തന്നെ തീരുമാനിച്ചതാണ്  (file_3696)
+Words: 8 Correct: 8 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ എനിക്കതിനെ പേടിയില്ലായിരുന്നു  (file_3697)
+പക്ഷെ എനിക്കതിനെ പേടിയില്ലായിരുന്നു  (file_3697)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ എനിക്കിതുവരെ ഈ   ഗോൽഗപ്പാ കിട്ടിയിട്ടില്ലാ  (file_3698)
+പക്ഷെ എനിക്കിതുവരെ ഒരു പോകു     തോന്നിയിട്ടില്ല   (file_3698)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+പക്ഷെ എന്താണ് കണ്ടുപിടിക്കാന്‍ ***  (file_3699)
+പക്ഷെ എന്താണ് കണ്ടുപിടിക്കാന്‍ നീ   (file_3699)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+പക്ഷെ എന്‍റെ  സുഹൃത്തുക്കള്‍  (file_3700)
+പക്ഷെ നിന്‍റെ സുഹൃത്തുക്കൾ    (file_3700)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പക്ഷെ ഞങ്ങൾ തിരികെ വരുമ്പോൾ  (file_3701)
+പക്ഷെ ഞങ്ങൾ തിരികെ വരുമ്പോൾ  (file_3701)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ ഞാനത്   വായിച്ചിട്ടില്ലാ  (file_3702)
+പക്ഷെ വാതില്‍ വായിച്ചിട്ടില്ലാ  (file_3702)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷെ ഞാനെന്‍റെ ബാഗ്    വിട്ടു കൊടുത്തില്ലാ  (file_3703)
+പക്ഷെ പാന്‍റ്   എന്താണ് വിട്ടു കൊടുത്തില്ലാ  (file_3703)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പക്ഷെ ഞാന്‍ തിരികെ            വരുമ്പോഴേക്കും  (file_3704)
+***   പക്ഷേ നെവര്‍ലാന്റിനേയും കേൾക്കും        (file_3704)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പക്ഷെ നാളെയെല്ലാം ശരിയാവും  (file_3705)
+പക്ഷെ നാളെയെല്ലാം ശരിയാവും  (file_3705)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ നിങ്ങളെ കണ്ടതില്‍ ***     സന്തോഷമുണ്ട്  (file_3706)
+പക്ഷെ നിങ്ങളെ കണ്ടതില്‍ സന്തോഷം തോന്നി        (file_3706)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പക്ഷെ നിങ്ങൾക്കെന്‍റെ ഭക്ഷണം ഇഷ്ടമായില്ല  (file_3707)
+പക്ഷെ നിങ്ങൾക്കെന്‍റെ ഭക്ഷണം ഇഷ്ടമായില്ല  (file_3707)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ നിനക്കൊരിക്കലും നിന്‍റെ കഴിവ് ഉപയോഗിച്ച്  (file_3708)
+പക്ഷെ നിനക്കൊരിക്കലും നിന്‍റെ കഴിവ് ഉപയോഗിച്ച്  (file_3708)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ നിന്നെയൊരു പുല്ലുവെട്ട്  (file_3709)
+പക്ഷെ നിന്നെയൊരു പുല്ലുവെട്ട്  (file_3709)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ പോവുന്നില്ല  (file_3710)
+പക്ഷെ കൂടുതലാണ്    (file_3710)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷെ മറ്റുള്ളവരെല്ലാം അങ്ങനെ പറഞ്ഞിരുന്നു  (file_3711)
+പക്ഷെ മറ്റുള്ളവരെല്ലാം അങ്ങനെ പറഞ്ഞിരുന്നു  (file_3711)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ രജോരിയിൽ സ്ത്രീകൾക്ക് ഒന്നിനും  (file_3712)
+പക്ഷെ രജോരിയിൽ കേള്‍ക്കൂ    വരും      (file_3712)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പക്ഷെ ലൂയിസ് പറഞ്ഞു ആഹ് അടുത്തവട്ടം ആകട്ടെ എന്ന്  (file_3713)
+പക്ഷെ ലൂയിസ് പറഞ്ഞു ആഹ് അടുത്തവട്ടം ആകട്ടെ കണ്ടു  (file_3713)
+Words: 7 Correct: 6 Errors: 1 Percent correct = 85.71% Error = 14.29% Accuracy = 85.71%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷെ സത്യമാണ്മനസ്സിലാക്ക്  (file_3714)
+പക്ഷെ സത്യമാണ്മനസ്സിലാക്ക്  (file_3714)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷെ നിങ്ങള്‍ വരുമെന്ന് പറഞ്ഞിട്ടില്ലായിരുന്നല്ലോ  (file_3715)
+പക്ഷേ നിങ്ങള്‍ വരുമെന്ന് പറഞ്ഞിട്ടില്ലായിരുന്നല്ലോ  (file_3715)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷേ  (file_3716)
+പക്ഷെ  (file_3716)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷേ അടുത്ത വര്‍ഷം   (file_3717)
+***   പക്ഷെ  സന്തോഷം  (file_3717)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പക്ഷേ അതിവിടെ ഉണ്ടെന്ന് എല്ലാവരും മറന്നു  (file_3718)
+പക്ഷേ അതിവിടെ ഉണ്ടെന്ന് എല്ലാവരും മറന്നു  (file_3718)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ അത്   നടക്കില്ലല്ലോ   (file_3719)
+***   പക്ഷെ അതുകൊണ്ടൊന്നും  (file_3719)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പക്ഷേ അത് നമ്മുടെ ***      ***    കാഴ്ചയ്കപ്പുറത്തേയ്ക്  (file_3720)
+പക്ഷെ അത് നമ്മുടെ കാണിച്ചു കുറുകെ വരും                   (file_3720)
+Words: 4 Correct: 2 Errors: 4 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+പക്ഷേ അദ്ദേഹമെന്തിനാ സിനിമ നിര്‍ത്തിയത്  (file_3721)
+പക്ഷേ അദ്ദേഹമെന്തിനാ സിനിമ ഹൃദയത്തിൽ     (file_3721)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷേ അവരവനെ പ്രദര്‍ശിപ്പിച്ചില്ല  (file_3722)
+പക്ഷേ അവരവനെ പ്രദര്‍ശിപ്പിച്ചില്ല  (file_3722)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ അവസാനം അവനെ നശിപ്പിക്കേണ്ടിവന്നു  (file_3723)
+പക്ഷേ അവസാനം അവനെ നശിപ്പിക്കേണ്ടിവന്നു  (file_3723)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ ഇതിനെന്റെ  (file_3724)
+പക്ഷേ ഇതിന്‍റെ   (file_3724)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷേ ഇത്രയ്ക് സങ്കീര്‍ണ്ണമായ വിവരങ്ങള്‍ ഒരു കുട്ടിക്കോ  (file_3725)
+പക്ഷേ ഇത്രയ്ക് സങ്കീര്‍ണ്ണമായ വിവരങ്ങള്‍ ഒരു കുട്ടിക്കോ  (file_3725)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ ഇത് എന്‍റെ അച്ഛന്റെ  (file_3726)
+പക്ഷേ *** നിന്റെ അച്ഛന്റെ  (file_3726)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+പക്ഷേ ***    ഇന്നെന്റെ പിറന്നാളാണ്  (file_3727)
+പക്ഷേ എന്‍റെ ഒരു       പോവാം        (file_3727)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+പക്ഷേ ഇപ്പോളദ്ദേഹത്തിന്റെ അവസ്ഥ വളരെ ദുര്‍ബലമാണ്  (file_3728)
+പക്ഷേ ഇപ്പോളദ്ദേഹത്തിന്റെ അവസ്ഥ വളരെ ദുര്‍ബലമാണ്  (file_3728)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ ഇപ്പോൾ ഞാന്‍    കരുതുന്നു    ഇത്      (file_3729)
+പക്ഷേ ***     നിന്നോട് ഉപകാരപ്പെടും കിട്ടും  (file_3729)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+പക്ഷേ ഈ     യാത്ര നമ്മള്‍ പ്രതീക്ഷിച്ചതിലും  (file_3730)
+***   പക്ഷെ യാത്ര നമ്മള്‍ പ്രതീക്ഷിച്ചതിലും  (file_3730)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+പക്ഷേ എങ്ങനെ       (file_3731)
+പക്ഷെ ചിന്തിക്കണം  (file_3731)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പക്ഷേ എനിക്കറിയാമായിരുന്നു  (file_3732)
+പക്ഷേ എനിക്കറിയാമായിരുന്നു  (file_3732)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ ***     എനിക്കാവുമ്പോഴൊക്കെ ഞാന്‍  വരാം   (file_3733)
+പക്ഷേ എനിക്ക് ഓരോ                 എന്‍റെ കാണാം  (file_3733)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+പക്ഷേ എന്തിന്   (file_3734)
+പക്ഷേ നിന്നാണ്  (file_3734)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷേ എന്നെയല്ല അവളെയാണ് തിരഞ്ഞെടുത്തത്  (file_3735)
+പക്ഷേ എന്നെയല്ല അവളെയാണ് തിരഞ്ഞെടുത്തത്  (file_3735)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ എന്‍റെ കണ്ണില്‍ അത്   (file_3736)
+പക്ഷേ എന്‍റെ കണ്ണില്‍ അതും  (file_3736)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷേ എന്‍റെ ക്ലോക്ക്ഷോപ്പിലേയും  (file_3737)
+പക്ഷേ എന്‍റെ ക്ലോക്ക്ഷോപ്പിലേയും  (file_3737)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ ഒരു കാര്യം ഞാന്‍ പറയാം  (file_3738)
+പക്ഷെ ഒരു കാര്യം ***   പറയും  (file_3738)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+പക്ഷേ ഒരു ദിവസം  (file_3739)
+പക്ഷേ ഒരു ദിവസം  (file_3739)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ ഒരു വെളിവില്ല അല്ലേ  (file_3740)
+പക്ഷേ ഒരു വെളിവില്ല ന്റെ   (file_3740)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷേ കാലത്തിന് പഴയ സിനിമകളോട് ദയയുണ്ടായിരുന്നില്ല  (file_3741)
+പക്ഷേ കാലത്തിന് പഴയ സിനിമകളോട് ദയയുണ്ടായിരുന്നില്ല  (file_3741)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ ഞങ്ങള്‍ രസിച്ചിരുന്നു  (file_3742)
+പക്ഷേ ഞങ്ങള്‍ രസിച്ചിരുന്നു  (file_3742)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ ***   ഞാനതിനനുസരിച്ച് മാറിയിരുന്നില്ല  (file_3743)
+പക്ഷേ എന്താ അതിനനുസരിച്ച്   മാറിയിരുന്നില്ല  (file_3743)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+പക്ഷേ ഞാനൊരിക്കലും   അവരുമായി  (file_3744)
+പക്ഷെ മറ്റാരെങ്കിലും അവരുമായി  (file_3744)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+പക്ഷേ ഞാന്‍ കരുതുന്നു ഇതാണ്      (file_3745)
+***   ***   പക്ഷെ     നടുവിലാണ്  (file_3745)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+പക്ഷേ ഞാന്‍ യന്ത്രങ്ങളോടെപ്പമായിരുന്നു  (file_3746)
+പക്ഷേ ഞാന്‍ യന്ത്രങ്ങളോടെപ്പമായിരുന്നു  (file_3746)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ നമുക്കെന്തെങ്കിലും ചെയ്തേ പറ്റൂ  (file_3747)
+പക്ഷേ നമുക്കെന്തെങ്കിലും ചെയ്തേ പെടും  (file_3747)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+പക്ഷേ നമ്മള്‍ കണ്ടുമുട്ടിയത് ഇന്നുമാത്രമാണ്  (file_3748)
+പക്ഷേ നമ്മള്‍ കണ്ടുമുട്ടിയത് ഇന്നുമാത്രമാണ്  (file_3748)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ നമ്മള്‍ തിരഞ്ഞു  (file_3749)
+പക്ഷേ നമ്മള്‍ തിരഞ്ഞു  (file_3749)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+പക്ഷേ നിങ്ങളെ ***       കണ്ടെത്തിയെന്ന് അറിഞ്ഞപ്പോള്‍  (file_3750)
+പക്ഷെ നിങ്ങളെ കണ്ടതില്‍ അതിന്റെ         റൂം            (file_3750)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+TOTAL Words: 853 Correct: 587 Errors: 372
+TOTAL Percent correct = 68.82% Error = 43.61% Accuracy = 56.39%
+TOTAL Insertions: 106 Deletions: 27 Substitutions: 239
