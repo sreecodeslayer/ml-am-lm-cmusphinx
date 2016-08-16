@@ -1,0 +1,1003 @@
+ഞാന്‍ തിരിച്ചു പോട്ടെ  (file_2501)
+ഞാന്‍ തിരിച്ചു ഓക്കേ   (file_2501)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ തുടങ്ങിയതല്ല  (file_2502)
+ഞാന്‍ തുടങ്ങിയതല്ല  (file_2502)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നമ്മളെ  നിര്‍ണ്ണായകമായ  (file_2503)
+ഞാന്‍ നമ്മുടെ മാത്രമല്ല       (file_2503)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ നിങ്ങളുടെ ഭര്‍ത്താവിനോട്  (file_2504)
+ഞാന്‍ നിന്‍റെ   പരിപാടിയുടെ     (file_2504)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ നിങ്ങളെ  (file_2505)
+ഞാന്‍ എങ്ങനെ   (file_2505)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ നിങ്ങളെ എങ്ങനെ വിശ്വസിക്കും  (file_2506)
+ഞാന്‍ നിങ്ങളെ എങ്ങനെ വിശ്വസിക്കും  (file_2506)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിങ്ങളെ എല്ലാവരെയും നിരാശപ്പെടുത്തി  (file_2507)
+ഞാന്‍ നിങ്ങളെ എല്ലാവരെയും നിരാശപ്പെടുത്തി  (file_2507)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിങ്ങളെ നിങ്ങളുടെ ലോകത്തില്‍ വിടുന്നു  (file_2508)
+ഞാന്‍ നിങ്ങളെ നിങ്ങളുടെ ലോകത്തില്‍ വിടുന്നു  (file_2508)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍   നിങ്ങളെ പര്യവേഷണസ്ഥലത്തേയ്ക്  (file_2509)
+വാങ്ങാൻ സന്ദേശം ജോര്‍ജിനെ             (file_2509)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഞാന്‍ നിങ്ങളെ മറക്കണമെന്ന്  (file_2510)
+ഞാന്‍ നിന്നെ  കാണാനാണ്      (file_2510)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ നിങ്ങളെ വഞ്ചിക്കാനൊന്നും  (file_2511)
+ഞാന്‍ നിങ്ങളെ വഞ്ചിക്കാനൊന്നും  (file_2511)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിനക്കുതന്ന ചാവി  (file_2512)
+ഞാന്‍ നിനക്കുതന്ന ചാവി  (file_2512)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിന്നെ  വിശ്വസിച്ചു  (file_2513)
+***   വാങ്ങാൻ വിശ്വസിച്ചു  (file_2513)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ നിന്നോട് നുണ     പറഞ്ഞു  (file_2514)
+***   ***      വാങ്ങാൻ അവസാനം  (file_2514)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ നിന്റെ പുസ്തകം കത്തിക്കാതെ നോക്കിക്കൊള്ളാം  (file_2515)
+ഞാന്‍ നിന്റെ പുസ്തകം കത്തിക്കാതെ നോക്കിക്കൊള്ളാം  (file_2515)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിന്റെ പുസ്തകം കത്തിക്കാന്‍ പോകുകയാണ്  (file_2516)
+ഞാന്‍ നിന്റെ പുസ്തകം കത്തിക്കാന്‍ പോകുകയാണ്  (file_2516)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍   നുണപറഞ്ഞു മര്‍ഫ്    (file_2517)
+ഞങ്ങള്‍ ഭാഗങ്ങള്‍ ടാര്‍‌സ്  (file_2517)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഞാന്‍ *** നോക്കാം  (file_2518)
+ഞാന്‍ നാം വാം      (file_2518)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഞാന്‍ നോക്കാം            എനിക്കാണുയരം കൂടുതല്‍  (file_2519)
+***   ഭാഗമാകാതിരിക്കാന്‍ കാര്യം       കൂപ്പര്‍  (file_2519)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ നോക്കിക്കോളാം  (file_2520)
+ഞാന്‍ നോക്കിക്കോളാം  (file_2520)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ പറഞ്ഞപോലെ ചെയ്യ്‌     (file_2521)
+ഞാന്‍ ധാരണ      ഗാലക്സിയിൽ  (file_2521)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ പറയുന്നത് അവിടുത്തെ  (file_2522)
+ഞാന്‍ പറയുന്നത് അവിടുത്തെ  (file_2522)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ പല  പരിശോധനകളും നടത്തിയിട്ടുണ്ട്  (file_2523)
+ഞാന്‍ പല  പരിശോധനകളും പറഞ്ഞു            (file_2523)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ പോകുന്നതിനു മുമ്പേ ഇത് ശരിയാക്കി തരാം  (file_2524)
+ഞാന്‍ പോകുന്നതിനു മുമ്പേ ഇത് ശരിയാക്കി തരാം  (file_2524)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ പോട്ടെ ഞാന്‍  പോട്ടെ     (file_2525)
+ഞാന്‍ ***    കാര്യം പോവുകയാണ്  (file_2525)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ പോട്ടേ  (file_2526)
+ഞാന്‍ മോനേ    (file_2526)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ ഭുമിയില്‍ നിന്നും  പോരുമ്പോള്‍  (file_2527)
+***   റാണി      ഭൂമിയിലെ പോരുമ്പോള്‍  (file_2527)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ മരിക്കുന്നതിനു മുമ്പ് നമ്മള്‍  (file_2528)
+ഞാന്‍ മരിക്കുന്നതിനു ***    അവളെ     (file_2528)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ മര്‍ഫിന് വേണ്ടി ചെയ്യുന്നത്     (file_2529)
+ഞാന്‍ ***      ***    അവസാനിച്ചെന്നു  (file_2529)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍   മറ്റൊന്നും ഉദ്ദേശിച്ചില്ല  (file_2530)
+വാങ്ങാം കാണുമോ     ഉദ്ദേശിച്ചില്ല  (file_2530)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍  മറ്റൊരു വ്യക്തിയായിരുന്നു  (file_2531)
+ബാഗാണ് ഇത്     ഇല്ലായിരുന്നു      (file_2531)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഞാന്‍ മോഷ്ടിച്ചിട്ടില്ല  (file_2532)
+ഞാന്‍ മോഷ്ടിച്ചിട്ടില്ല  (file_2532)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ റേഡിയോയില്‍ വിളിച്ചോളാം എന്ന്  (file_2533)
+ഞാന്‍ റേഡിയോയില്‍ വിളിച്ചോളാം ഞാന്‍  (file_2533)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ ലൂമിയര്‍ സഹോദരന്മാരോട് ഒരു ക്യാമറ *** ആവശ്യപ്പെട്ടു  (file_2534)
+ഞാന്‍ ലൂമിയര്‍ സഹോദരന്മാരോട് ഒരു ക്യാമറ ആ   ശബ്ദം          (file_2534)
+Words: 6 Correct: 5 Errors: 2 Percent correct = 83.33% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഞാന്‍ വരാന്‍ ശ്രമിക്കാം  (file_2535)
+***   കാണാൻ  ഞാനെന്നും   (file_2535)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ വിചാരിച്ചു  (file_2536)
+ഞാന്‍ വിചാരിച്ചു  (file_2536)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ വിശ്വസിക്കുന്നു  (file_2537)
+റാണി  വിശ്വസിക്കണം     (file_2537)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ വീട്ടില്‍ പോവുകയാണ് റോം    (file_2538)
+***   വാതില്‍   ക്ലോറിന്‍ കാണാം  (file_2538)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ വേരെയൊരു പെണ്ണിനെ കണ്ടുമുട്ടി     ഡാഡ്        (file_2539)
+ഞാന്‍ ***      ***      മാറിയിരുന്നില്ല തണുത്തതാണ്  (file_2539)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ ശരിയായ       കാര്യങ്ങള്‍ ചെയ്യാനാണ് ശ്രമിച്ചത്  (file_2540)
+***   പാരിസിലേക്ക് ആ           വ്യത്യാസം  സാധനം       (file_2540)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+ഞാന്‍ സ്റ്റേഷന്‍ ഇന്‍സ്പെക്ടറെ വിളിക്കണോ  (file_2541)
+ഞാന്‍ സ്റ്റേഷന്‍ ഇന്‍സ്പെക്ടറെ കാണാം      (file_2541)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ സ്വാഗതം ചെയ്യുന്നു  (file_2542)
+ഞാന്‍ സാധ്യത  എന്തോ       (file_2542)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ ഹ്യൂഗോ കാബെററ്റിനെ നിങ്ങള്‍ക്ക്  (file_2543)
+ഞാന്‍ ഹ്യൂഗോ കാബറെറ്റ്   വിജയിയുടെ     (file_2543)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ അങ്ങനെയുള്ള ഒന്നും     ചെയ്തിട്ടില്ലാ  (file_2544)
+***   ധാരണ        ദയവുചെയ്ത് എന്താണ്         (file_2544)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ അങ്ങനെയൊന്നും പറഞ്ഞിട്ടില്ലായിരുന്നു  (file_2545)
+***   കാരണമാണ്      ഉറക്കത്തിലായിരുന്നു     (file_2545)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ അടുത്ത തവണ വീണ്ടും   ശ്രമിക്കാം     (file_2546)
+ഞാന്‍ ***    *** വരച്ചതാണ് ചിന്തിച്ചതാണ്  (file_2546)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ അത് കുപെറിനു അയച്ചു   കൊടുക്കാം    (file_2547)
+***   ഇത് ഞാന്‍    അതുതന്നെ ചുമർകൊള്ളാം  (file_2547)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+ഞാന്‍ അത് ചെയ്യാൻ പോകുന്നു  (file_2548)
+ഞാന്‍ അത് ചെയ്യാൻ പോകുന്നു  (file_2548)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ അത്     വരക്കും  (file_2549)
+ഞാന്‍ നിങ്ങളെ ഇതില്‍   (file_2549)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ അന്തരീക്ഷം കടന്നുപോയിട്ടില്ല  (file_2550)
+ഞാന്‍ അന്തരീക്ഷം കടന്നുപോയിട്ടില്ല  (file_2550)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ അയാളോട് അതൊന്നും    പറഞ്ഞിട്ടില്ല  (file_2551)
+ഞാന്‍ ***     സാവധാനത്തിൽ ആണ്            (file_2551)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ അവനെ പാകിസ്ഥാനിൽ വെച്ച് പിരിഞ്ഞു  (file_2552)
+ഞാന്‍ അവനെ പാകിസ്ഥാനിൽ വെച്ച് പിരിഞ്ഞു  (file_2552)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ അവനോട്   പറഞ്ഞു അത്      ചെറുതാണെന്ന്  (file_2553)
+***   കാരണമാണ് പണം    ലഭിച്ചത് ചാർജാണ്       (file_2553)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+ഞാന്‍ അവനോട് സംസാരിക്കാൻ ശ്രമിച്ചതാണ്  (file_2554)
+ഞാന്‍ അവനോട് സംസാരിക്കാൻ ശ്രമിച്ചതാണ്  (file_2554)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ അവരുടെ കമ്പനിയിൽ ജോലി     ചെയ്യണമെന്നാണ്  (file_2555)
+ഞാന്‍ ***    ലണ്ടനിൽ   ജോലിയാണ് ആണ്             (file_2555)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ അവളുടെ ജ്വാലയെ പ്രോത്സാഹിപ്പിച്ചു  (file_2556)
+ഞാന്‍ വഴി    സാധ്യത  സംഭവിച്ചു           (file_2556)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഞാന്‍ അവിടം വിട്ടുവരുന്നതിനു മുൻപ് എനിക്കവളെ  (file_2557)
+ഞാന്‍ അവിടം വിട്ടുവരുന്നതിനു മുൻപ് എനിക്കവളെ  (file_2557)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ അവിടെ നിന്നാണ് എന്നും            കഴിക്കാറ്  (file_2558)
+ഞാന്‍ ***   ***      കാരണമുണ്ടായേക്കാം കഴിക്കാറ്  (file_2558)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ അവിടെ ഹൈപെർ സ്ലീപിൽ ആയിരിക്കുമ്പോൾ അല്ലെങ്കില്‍  (file_2559)
+ഞാന്‍ അവിടെ ഹൈപെർ സ്ലീപിൽ ആയിരിക്കുമ്പോൾ അല്ലെങ്കില്‍  (file_2559)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ ആംസ്റ്റർഡാമിൽ വെച്ച് വാങ്ങിയതാണ് മൈഡ് ഇൻ  ഇന്ത്യ    (file_2560)
+ഞാന്‍ ആംസ്റ്റർഡാമിൽ വെച്ച് വാങ്ങിയതാണ് ***  *** ജേനിനോട്  (file_2560)
+Words: 7 Correct: 4 Errors: 3 Percent correct = 57.14% Error = 42.86% Accuracy = 57.14%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ ആകെ     മാറിപ്പോയി  (file_2561)
+***   കാണാത്ത മാറിപ്പോയി  (file_2561)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ ആക്സലേറ്റർ ചവിട്ടുന്നുണ്ട്  (file_2562)
+ഞാന്‍ ആക്സലേറ്റർ തോന്നുന്നു       (file_2562)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ ആദ്യംതന്നെ എന്‍റെ ഹൃദയത്തിൽ ചെയ്തിട്ടുണ്ട്  (file_2563)
+ഞാന്‍ ആദ്യംതന്നെ എന്‍റെ ***       ഇതെന്താണ്       (file_2563)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ ആ   പെണ്ണുങ്ങളെയാണോ വിവാഹം   കഴിക്കുന്നത്  (file_2564)
+ഞാന്‍ *** ***             കാരണമാണ് മാനിന്റെ      (file_2564)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ ഇതിനു  താഴെ ചുഴി സൃഷ്ടിക്കാൻ  (file_2565)
+ഞാന്‍ നിന്നെ താഴെ ചുഴി സൃഷ്ടിക്കാൻ  (file_2565)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ ഇതുകൊണ്ട്  ചില സാമുഹ്യമായ  (file_2566)
+ഞാന്‍ നില്‍ക്കണേ ചില സാമുഹ്യമായ  (file_2566)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ ഇത്  സ്വന്തമാക്കും  (file_2567)
+***   റാണി അവസാനമാവും     (file_2567)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ ഇനി രാത്രി വിളിക്കാം          (file_2568)
+ഞാന്‍ *** ***    വിദ്യാർത്ഥിനിയാണ്  (file_2568)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ ഇന്ത്യനാണ് പകുതി ഇന്ത്യൻ              (file_2569)
+ഞാന്‍ ***        ***   കണികാതന്ത്രത്തിന്റെ  (file_2569)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ ഇന്ത്യയിലേക്ക് വരും      (file_2570)
+ഞാന്‍ നിന്നെ         ചേർക്കാം  (file_2570)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ ഇന്ത്യയിൽ നിന്നാണ്  (file_2571)
+***   കാണില്ലേ  നിന്നാണ്  (file_2571)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ ഇന്ന്   രാത്രി പറയാം  (file_2572)
+ഞാന്‍ നിങ്ങളെ രാത്രി കാണാം  (file_2572)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ ഇപ്പോഴും എന്‍റെ      നികുതി അടക്കുന്നുണ്ട്  (file_2573)
+***   ബ്രാന്റ് ഫോഴ്സിന്‍റെ നികുതി അടക്കുന്നുണ്ട്  (file_2573)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ ഇവിടെ നിയന്ത്രിച്ചുകൊണ്ട് ഇരിക്കുകയാണ്            (file_2574)
+ഞാന്‍ ***   നിറയെ               പഠിച്ചോണ്ടിരിക്കുകയാണ്  (file_2574)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ ഈഫൽ ടവറും  കണ്ടു         (file_2575)
+ഞാന്‍ *** വിജയ്‌ രണ്ടാള്ക്കും  (file_2575)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ ഉണ്ടാവണമെന്നില്ല  (file_2576)
+ഞാന്‍ ഉണ്ടാവണമെന്നില്ല  (file_2576)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ ഉറങ്ങാൻ പോവുകയാണ്  (file_2577)
+ഞാന്‍ ഉറങ്ങാൻ പോവുകയാണ്  (file_2577)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ എങ്ങനെയാ  നിങ്ങള്‍ പറയുക  (file_2578)
+ഞാന്‍ നിങ്ങളാണ് നിങ്ങള്‍ പറയാം  (file_2578)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ എഞ്ചിനീയറിംഗ് ആണ്      പഠിക്കുന്നത്  (file_2579)
+***   റാണി          ചേരില്ലാ വന്നതാണ്      (file_2579)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ എത്രത്തോളം ദൂരം സഞ്ചരിക്കണം  (file_2580)
+ഞാന്‍ എത്രത്തോളം ദൂരം സഞ്ചരിക്കണം  (file_2580)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ എന്തെങ്കിലും കഴിക്കാൻ പോവുകയാണ്  (file_2581)
+ഞാന്‍ എന്തെങ്കിലും കഴിക്കാൻ പോവുകയാണ്  (file_2581)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ എന്നാല്‍ ഒന്നും നിന്റെ പിതാവിന്       അയച്ചില്ല  (file_2582)
+ഞാന്‍ ***      ***    നാല്   കണ്ടെത്തിയതാണ് അയച്ചതാണ്  (file_2582)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 2 Substitutions: 3
+ഞാന്‍ എന്നെ ഉപേക്ഷിക്കാൻ പറഞ്ഞില്ലേ        എന്തുകൊണ്ട്     ചെയ്തില്ല  (file_2583)
+ഞാന്‍ ***   റാണി         ഉപേക്ഷിക്കപ്പെട്ട കടക്കേണ്ടതുണ്ട് ചേരില്ലാ   (file_2583)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 1 Substitutions: 4
+ഞാന്‍ എല്ലാം ഒറ്റക്കാണ് ചെയ്യുന്നത്       (file_2584)
+ഞാന്‍ ***    ***        നിങ്ങൾക്കെന്താണ്  (file_2584)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ ***    ഒന്നുമിട്ടിട്ടില്ലാ  (file_2585)
+ഞാന്‍ നിന്റെ ജീവന്‍               (file_2585)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഞാന്‍ ഒരിക്കലും വിട്ടുതരില്ല  (file_2586)
+***   റാണി      നിന്നാണ്      (file_2586)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ ഒരു കാര്യം       തീരുമാനിച്ചു  (file_2587)
+***   *** പാപ്പരായതിന് മരിച്ചു       (file_2587)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ ഒരു ക്യൂ      വെളിച്ചം ഉപയോഗിക്കും  (file_2588)
+ഞാന്‍ *** കരുതുന്നു വെളിച്ചം ഉപയോഗിക്കും  (file_2588)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ ഒരു മിനിട്ടിനകം അവിടെ         എത്തിയേക്കാം  (file_2589)
+ഞാന്‍ *** ***         അപരിചിതരുമായി യുറേക്കാ      (file_2589)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ ഒരു സെക്കെന്റുകൊണ്ട് വരാം  (file_2590)
+ഞാന്‍ ഒരു സെക്കെന്റുകൊണ്ട് വരാം  (file_2590)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ കുട്ടിയായിരുന്നപ്പോള്‍  (file_2591)
+ഞാന്‍ കുട്ടിയായിരുന്നപ്പോള്‍  (file_2591)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ കൊണ്ടുപോവാം ചർച്ചിലേക്ക് ***    (file_2592)
+ഞാന്‍ കൊണ്ടുപോവാം ചർച്ചിലേക്ക് എന്ന്  (file_2592)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഞാന്‍ ***  കൊല്ലങ്ങളായി കാത്തിരിക്കുന്നു  (file_2593)
+ഞാന്‍ കണ്ട നാളായി       കാത്തുനിൽക്കണോ    (file_2593)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഞാന്‍    ക്ലബ്ബിലുണ്ട്  (file_2594)
+കാണികള്‍ തന്നെ          (file_2594)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ ക്ഷമ ചോദിക്കുന്നു      (file_2595)
+ഞാന്‍ ***  ക്ഷമചോദിക്കുന്നു  (file_2595)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ ഗോൽഗപ്പാ കഴിച്ചു നോക്കാൻ പോവുകയാണ്  (file_2596)
+ഞാന്‍ ഗോൽഗപ്പാ കഴിച്ചു നോക്കാൻ പോകാൻ      (file_2596)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ ചായ കൊണ്ട്     വന്നിട്ടുണ്ട്  (file_2597)
+***   *** ഇല്ലാതാകും അവനെന്നെ       (file_2597)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ ചിന്തിക്കുന്നത് എന്‍റെ കുടുംബത്തെക്കുറിച്ചും  (file_2598)
+***   ബാഗ്            നിന്റെ കുടുംബത്തെക്കുറിച്ചു   (file_2598)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ ചെയ്യാം  (file_2599)
+***   ഭാഗ്യം   (file_2599)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ ചർച്ചിലേക്ക് പോവുകയാണ്  (file_2600)
+ഞാന്‍ ചർച്ചിലേക്ക് പോവുകയാണ്  (file_2600)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ ജനിച്ചത് അതിന് വേണ്ടിയാണ് എന്നാണ്  (file_2601)
+ഞാന്‍ ജനിച്ചത് അതിന് വേണ്ടിയാണ് എന്നാണ്  (file_2601)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ ടിംഫ്രാൻസിൽ നിന്നാണ്        (file_2602)
+***   നാം         കൊണ്ടാണെന്നാണ്  (file_2602)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ ടോമിനെ വഴിയില്‍ ഇറക്കിട്ട്           (file_2603)
+ഞാന്‍ ***    ***      കണികാതന്ത്രത്തിന്റെ  (file_2603)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ ഡാൻസും കളിക്കാം കൂടുതല്‍ പണം കിട്ടും  (file_2604)
+ഞാന്‍ ഡാൻസും കളിക്കാം കൂടുതല്‍ *** പറഞ്ഞു   (file_2604)
+Words: 6 Correct: 4 Errors: 2 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ ഡ്രൈവ് ചെയ്യേണ്ടി വരും   (file_2605)
+***   ***    കാണാൻ      തേനിൽ  (file_2605)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ ഡൽഹിയിൽ നിന്ന് ഈ   ബാഗിൽ              (file_2606)
+***   ***     ***    *** കാണിക്കുന്നതിനായി  (file_2606)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 4 Substitutions: 1
+ഞാന്‍ താഴെ ഇറക്കുന്ന ഏക           സമയം  (file_2607)
+ഞാന്‍ ***  താഴേക്ക്  ഉപേക്ഷിച്ചാൽ വേണം  (file_2607)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ തിരിച്ചു കയറാൻ നിന്നോട്    പറഞ്ഞതല്ലേ  (file_2608)
+ഞാന്‍ തിരിച്ചു കാണാൻ എങ്ങോട്ടാണ് തന്നെ       (file_2608)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഞാന്‍ തിരിച്ചു വരും  (file_2609)
+ഞാന്‍ തിരിച്ചു വരും  (file_2609)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നാല് തവണ    (file_2610)
+ഞാന്‍ നാല് കാണാം  (file_2610)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ നാളെ അവളെ കളി    കാണാൻ കൊണ്ടുപോകും  (file_2611)
+ഞാന്‍ ***  ***  നാളായി കാണാൻ കൊണ്ടുപോകും  (file_2611)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ നിങ്ങളെ എയര്‍ ലോക്കിനു  പുറതെതിച്ച ശേഷം  (file_2612)
+ഞാന്‍ ***     ***   നിങ്ങളാണോ പുറതെതിച്ച ശേഷം  (file_2612)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ നിങ്ങളെ സ്നേഹിക്കുന്നു  (file_2613)
+ഞാന്‍ നിങ്ങളെ സ്നേഹിക്കുന്നു  (file_2613)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിങ്ങൾക്ക് കുറച്ച് പുതിയ വിവരങ്ങള്‍ തരാൻ പോകുന്നു  (file_2614)
+ഞാന്‍ നിങ്ങൾക്ക് കുറച്ച് പുതിയ നല്ല       തരാൻ പോകുന്നു  (file_2614)
+Words: 7 Correct: 6 Errors: 1 Percent correct = 85.71% Error = 14.29% Accuracy = 85.71%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ നിങ്ങൾക്ക് വേണ്ടി ഭക്ഷണമുണ്ടാക്കിയിട്ടുണ്ട്  (file_2615)
+ഞാന്‍ നിങ്ങൾക്ക് വേണ്ടി ഭക്ഷണമുണ്ടാക്കിയിട്ടുണ്ട്  (file_2615)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിങ്ങള്‍ വരുമെന്ന      പ്രതീക്ഷ അവസാനിപ്പിച്ചു  (file_2616)
+***   ***      കാണാനാണെങ്കിൽ ഷാറ്റ്സി ആര്‍ജ്ജിച്ചു    (file_2616)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+ഞാന്‍ നിനക്കുവേണ്ടി ഒരു ഭ്രാന്തനെപോലെ തെരയുകയായിരുന്നു  (file_2617)
+ഞാന്‍ നിനക്കുവേണ്ടി ഒരു ഭ്രാന്തനെപോലെ തെരയുകയായിരുന്നു  (file_2617)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിനക്ക് വാക്ക് തരുന്നു        (file_2618)
+***   ***     ***    ശാന്തമാകുന്നു  (file_2618)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 1
+ഞാന്‍ നിന്നെ ഉപേക്ഷിച്ചു പോവുകയല്ലാ  (file_2619)
+ഞാന്‍ നിന്നെ ഉപേക്ഷിച്ചു പോവുകയല്ലാ  (file_2619)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിന്നെ ചേർക്കാം  (file_2620)
+ഞാന്‍ നിന്നെ ചേർക്കാം  (file_2620)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിന്നെ മിസ്സ്‌ ചെയ്യും  (file_2621)
+***   ***    വാങ്ങാൻ സമയം     (file_2621)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഞാന്‍ നിന്നെ മിസ്സ്‌ ചെയ്യുന്നുണ്ട്  (file_2622)
+ഞാന്‍ നിന്നെ മിസ്സ്‌ വേണ്ട           (file_2622)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ നിന്നെ വല്ലാതെ മിസ്സ്‌ ചെയ്യും  (file_2623)
+***   ***    ***     ഞങ്ങളെ  ആവശ്യം   (file_2623)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 2
+ഞാന്‍ നിന്നെ ഷോപ്പിംഗ്‌ ചെയ്യാൻ കൊണ്ട് പോവുകയാണ്  (file_2624)
+ഞാന്‍ നിന്നെ ഷോപ്പിംഗ്‌ ചെയ്യാൻ കൊണ്ട് പോവുകയാണ്  (file_2624)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിന്നെ സ്നേഹിക്കുന്നുണ്ട് റാണി      (file_2625)
+***   റാണി   മേശയില്‍           നിന്നാണ്  (file_2625)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ നിന്നെ ഹണിമൂണിന് അങ്ങോട്ട് കൊണ്ട്  പോവും  (file_2626)
+***   ***    ***       വാങ്ങാൻ   പോയതാണോ പോവും  (file_2626)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 3 Substitutions: 2
+ഞാന്‍ നിന്നോട് ഒരു           കാര്യം ചോദിക്കട്ടേ  (file_2627)
+***   ***      പാനിയല്ലാറാണി കാര്യം ചോദിക്കട്ടേ  (file_2627)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ നിന്നോട് ക്ഷമ ചോദിക്കാനാണ്  (file_2628)
+ഞാന്‍ നിന്നോട് ക്ഷമ ചോദിക്കാനാണ്  (file_2628)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിന്നോട്    മലഞ്ചെരിവിലൂടെ ഓടിക്കാൻ പറഞ്ഞിരുന്നെങ്കിൽ  (file_2629)
+***   വാങ്ങുന്നത് മലഞ്ചെരിവിലൂടെ ഓടിക്കാൻ പറഞ്ഞിരുന്നെങ്കിൽ  (file_2629)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ നിന്‍റെ കാലുപിടിക്കണോ  (file_2630)
+ഞാന്‍ നിന്‍റെ കാലുപിടിക്കണോ  (file_2630)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ നിന്‍റെ ഭാവിവരനല്ലേ ***  (file_2631)
+ഞാന്‍ നിന്‍റെ ഭാവിവരനല്ലേ ഈ    (file_2631)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഞാന്‍ പഠിച്ചത് പട്ടേൽ ഫ്രഞ്ച് ടൂട്ടോറിയിലാണ്  (file_2632)
+ഞാന്‍ പഠിച്ചത് പട്ടേൽ ഫ്രഞ്ച് ടൂട്ടോറിയിലാണ്  (file_2632)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ പണം തിരിച്ചു തരുകയാണ്‌ കാരണം ഇഷ്ടപെടാത്ത  (file_2633)
+ഞാന്‍ പണം തിരിച്ചു തരുകയാണ്‌ കാരണം ഇഷ്ടപെടാത്ത  (file_2633)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ പറഞ്ഞില്ലേ ആരും വരില്ലാ  (file_2634)
+ഞാന്‍ പറഞ്ഞില്ലേ ആരും വരില്ലാ  (file_2634)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ പറഞ്ഞില്ലേ ആംസ്റ്റർഡാം മുഴുവൻ ബുക്ക്‌ടാണ്  (file_2635)
+ഞാന്‍ പറഞ്ഞില്ലേ ആംസ്റ്റർഡാം മുഴുവൻ ബുക്ക്‌ടാണ്  (file_2635)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ പറയാൻ മറന്നു ഇതെന്‍റെ       (file_2636)
+ഞാന്‍ ***   ***    തടാകത്തിന്‍റെ  (file_2636)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഞാന്‍ പറയുന്നത് കേൾക്ക്    (file_2637)
+നാം   പറയുന്നത് കേള്‍ക്കൂ  (file_2637)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ പറയ്യുന്നത് കേൾക്ക്    (file_2638)
+ഞാന്‍ പറയുന്നത്   കേള്‍ക്കൂ  (file_2638)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ പാടും പണം കിട്ടും ബോട്ടിൽ പോവുകയും ചെയ്യാം  (file_2639)
+ഞാന്‍ പാടും പണം കിട്ടും ബോട്ടിൽ പോവുകയും ചെയ്യാം  (file_2639)
+Words: 7 Correct: 7 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ പാരിസിലുണ്ട്       (file_2640)
+***   ഫയര്‍ബാങ്ക്സിന്റെ  (file_2640)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍   പാരിസ് മുഴുവനും കണ്ടു    (file_2641)
+ചിന്‍റു പാരിസ് വരരുത്   ബുക്ക്‌  (file_2641)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഞാന്‍ പിന്നീട് സംസാരിച്ചോളാം  (file_2642)
+റാണി  പോയി     സംസാരിച്ചോളാം  (file_2642)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ പോയി അത് എടുത്തിട്ട് വരാം   (file_2643)
+ഞാന്‍ പോയി *** തേനിൽ       കാണാം  (file_2643)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ പോയി പോട്ടി ***     കഴുകട്ടെ  (file_2644)
+റാണി  പോയി പോട്ടി കഴിച്ച് എത്രെ     (file_2644)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഞാന്‍ പോവട്ടെ  (file_2645)
+നാം   പോവട്ടെ  (file_2645)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ *** പോവണോ എന്നാല്‍ വാടാ  (file_2646)
+ഞാന്‍ ഡോ  മാന്‍ എന്നാല്‍ വാടാ  (file_2646)
+Words: 4 Correct: 3 Errors: 2 Percent correct = 75.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഞാന്‍  പോവുകയാണ്  (file_2647)
+ചാമ്പ് പോവുകയാണ്  (file_2647)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ പ്രായോഗികമായി ചിന്തിച്ചതാണ് ***    (file_2648)
+ഞാന്‍ പ്രായോഗികമായി ചിന്തിച്ചതാണ് പോകാം  (file_2648)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഞാന്‍ ഫ്രാൻസിൽ നിന്നാണ്   (file_2649)
+ഞാന്‍ റാണി     സത്യമായതു  (file_2649)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ ബ്ലാക്ക്   ഹോളിലെ പലതും പഠിച്ചു  (file_2650)
+ഞാന്‍ അറ്റാക്ക്‌ ഹോളിലെ പലതും പഠിച്ചു  (file_2650)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ മാറിപ്പോയിമനസ്സിലാക്കാൻ ശ്രമിക്ക്  (file_2651)
+ഞാന്‍ മാറിപ്പോയിമനസ്സിലാക്കാൻ സമിതി      (file_2651)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഞാന്‍ മോഴ്സ് ശ്രമിച്ചു നോക്കി ***   (file_2652)
+ഞാന്‍ മോഴ്സ് ശ്രമിച്ചു നോക്കി ഗുഡ്  (file_2652)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഞാന്‍ മർഫിനൊട്      ഹായ് പറയാൻ പറഞ്ഞു   (file_2653)
+ഞാന്‍ മാര്‍ച്ചിലാണോ ഹായ് ***   ഡാഡിയും  (file_2653)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഞാന്‍ യാചിക്കുയാണ് എന്നെ    വിവാഹം    ചെയ്യൂ  (file_2654)
+***   ***          ഡാഡിക്ക് ആണെന്നാണോ ചെയ്തു  (file_2654)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+ഞാന്‍ രക്ഷിച്ചില്ലെങ്കിൽ പിന്നെയാരാണ്  (file_2655)
+ഡാഡി  ചിന്തിക്കൂ         ആരാണ്         (file_2655)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഞാന്‍ രജോരിയിൽ  നിന്നാണ്      ഇന്ത്യ  (file_2656)
+ഡാഡി  സോവിയറ്റ് എന്താണിതിന്റെ ആണ്     (file_2656)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഞാന്‍ റാണി ഇന്ത്യയിൽ നിന്നാണ്  (file_2657)
+ഞാന്‍ റാണി ***       നിന്നാണ്  (file_2657)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 1 Substitutions: 0
+ഞാന്‍  റാണി      (file_2658)
+ചാമ്പ് ഡാർലിംഗ്  (file_2658)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ റാണി എന്‍റെ റൂം ഇവിടെയാണ്‌  (file_2659)
+ഞാന്‍ റാണി എന്‍റെ *** കൂടെ        (file_2659)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ റുക്സാർ ഇവിടെ  റോക്സ്ട്ടേ എന്നാണ്  (file_2660)
+ഞാന്‍ അതു     സാധ്യത റോക്സ്ട്ടേ എന്നാണ്  (file_2660)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** ഞാന്‍ റെഞ്ചർ   വായു ചലനത്തിനൊപ്പം  (file_2661)
+ഡോ  മാന്‍ റേഞ്ചര്‍ വായു ചലനത്തിനൊപ്പം  (file_2661)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഞാന്‍ ലണ്ടനിൽ അല്ലായിരുന്നോ  (file_2662)
+ഞാന്‍ റാണി    നന്നായിരുന്നു  (file_2662)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** ഞാന്‍ വരില്ലാ എനിക്ക്  വിജയിയെ കാണണം  (file_2663)
+ഡോ  മാന്‍ അതിനായി കുറിച്ച് യ്ക്    ആണ്    (file_2663)
+Words: 5 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 120.00% Accuracy = -20.00%
+Insertions: 1 Deletions: 0 Substitutions: 5
+ഞാന്‍   വരുമ്പോൾ             ജോലിക്കാർ    അലങ്കാരപണികൾ  (file_2664)
+കാണരുത് ഓടിച്ചോണ്ടിരിക്കാന്‍ അലങ്കാരപണികൾ ഗുഡ്          (file_2664)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഞാന്‍ വളരെ നല്ല മിഠായികളുണ്ടാക്കും  (file_2665)
+ഞാന്‍ വളരെ നല്ല മിഠായികളുണ്ടാക്കും  (file_2665)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍    വിചാരിച്ചു ഞാന്‍ തയ്യാറാണെന്ന്  (file_2666)
+കാണിച്ച് കാണിച്ചു   താ    തയ്യാറാണ്      (file_2666)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഞാന്‍    വിജയലക്ഷ്മി   (file_2667)
+ബ്രാന്റ് സ്റ്റേഷനില്‍  (file_2667)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍ വിജയിയോട് സംസാരിക്കാ  (file_2668)
+ഞാന്‍ വിജയിയോട് സംസാരിക്കാ  (file_2668)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍    വിജയുടെ കൂടെ ദർശനത്തിന് വരാമെ  (file_2669)
+കാണിച്ച് യാത്ര   കൂടെ ദർശനത്തിന് വരാമെ  (file_2669)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഞാന്‍    വിടവുകള്‍ എണ്ണി  (file_2670)
+കാണികള്‍ ഉറക്കെ    നീ     (file_2670)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ഞാന്‍ വിളിക്കാംപോ  (file_2671)
+ഞാന്‍ വിളിക്കാംപോ  (file_2671)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഞാന്‍ വിളിക്കാം    (file_2672)
+***   ഭാവിക്കാന്‍  (file_2672)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഞാന്‍ വിളിക്കാം ഇപ്പോൾ നീ    പോ    (file_2673)
+***   റാണി      റാണി    കോളനി പോകു  (file_2673)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+ഞാന്‍ ശരിക്കും നിന്നെ സ്നേഹിക്കുന്നുണ്ട്  (file_2674)
+***   ബാസിൽ    നാസയിൽ കൊണ്ടാണ്            (file_2674)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഞാന്‍ സിക്കന്ധർ എന്നെ വിളിക്കു         (file_2675)
+***   ***       ***   രസകരമായിരിക്കും  (file_2675)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 1
+*** ഞാന്‍ പറഞ്ഞതെല്ലാം അനുസരിചിട്ടുണ്ട്  (file_2676)
+ആ   ബാഗ്  തരാനാണ്      സിക്കന്ദർ         (file_2676)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+ടബാര്‍ഡ് അത് ആര്‍ക്കും അറിയില്ല  (file_2677)
+ആരാണത്   അത് ആര്‍ക്കും അറിയില്ല  (file_2677)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ടബാര്‍ഡ് അദ്ദേഹം ഏകദേശം  (file_2678)
+ടബാര്‍ഡ് അദ്ദേഹം ഏകദേശം  (file_2678)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ടബാര്‍ഡ് ബഹുമാനപ്പെട്ട അതിഥികളെ  (file_2679)
+കാണാൻ    ബഹുമാനപ്പെട്ട അതിഥികളെ  (file_2679)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ടാക്ക    അവിടെ    നിൽക്ക്നിൽക്ക്  (file_2680)
+ടാര്‍‌സ് ഡാഡിക്ക് നിൽക്ക്നിൽക്ക്  (file_2680)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ടാക്കക്ക് വേറെയാരുമില്ലേ  (file_2681)
+ഡാഡി      ഡാഡിയും         (file_2681)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***  ടാക്കജപ്പാനിൽ നിന്നാണ്  (file_2682)
+ഡാഡി സർക്കാർ       നാലു      (file_2682)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***  ടാക്ക   (file_2683)
+ഡാഡി മര്‍ഫ്  (file_2683)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ടാക്ക  ഒറ്റയ്ക്കാണോ  (file_2684)
+കോഡുകൾ റേഡിയോയിൽ     (file_2684)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ടാക്ക നമുക്ക് പോവാം  (file_2685)
+ഡാഡി  നമുക്ക് പോവാം  (file_2685)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***  ടാക്സി  (file_2686)
+ഡാഡ് സ്ലൈഡ്  (file_2686)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** ടാക്സി അവിടെയുണ്ട്  (file_2687)
+നീ  ഡാഡ്   സന്ദേശം      (file_2687)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ടാര്‍‌സ് ***   (file_2688)
+ടാര്‍‌സ് ഗുഡ്  (file_2688)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ടാര്‍‌സ് അത്   പ്രവര്‍ത്തനരഹിതമാക്കി  (file_2689)
+ചായ      സ്ഥലം പ്രവര്‍ത്തനരഹിതമാക്കി  (file_2689)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ടാര്‍‌സ് ആണ്         അതിന് പറ്റിയ ആള്‍  (file_2690)
+***      പാകിസ്ഥാനിൽ അതിന് പറ്റിയ ആള്‍  (file_2690)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ടാര്‍‌സ് ആ   വിവരങ്ങള്‍  മോര്‍സിലേയ്ക് വിവര്‍ത്തനം  (file_2691)
+ടാര്‍‌സ് *** കാര്യങ്ങള്‍ മോഴ്സ്        നേടിയതാണ്    (file_2691)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ടാര്‍‌സ് കേറി  (file_2692)
+ടാര്‍‌സ് കേറി  (file_2692)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ടാര്‍‌സ് ചേര്‍ക്കാന്‍ തയ്യാറെടുത്തോളൂ  (file_2693)
+ടാര്‍‌സ് ചേര്‍ക്കാന്‍ തയ്യാറെടുത്തോളൂ  (file_2693)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ടാര്‍‌സ് ടാര്‍‌സ്      വലത്തോട്ട്  (file_2694)
+ടാര്‍‌സ് ബാസ്കെറ്റ്ബോൾ പോലെ        (file_2694)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***      ടാര്‍‌സ് ഡോമാനിന്റടുത്തേയ്ക് പോകാന്‍ തയ്യാറെടുത്തോളൂ  (file_2695)
+പാർസലാണ് മാനിന്റെ ചിരി                പോകാന്‍ തയ്യാറെടുത്തോളൂ  (file_2695)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ടാര്‍‌സ് നമ്മുടെ  ആവശ്യത്തിനനുസരിച്ച്  (file_2696)
+ആ        സര്‍മാഡം വിശ്വസിച്ചു          (file_2696)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ടാര്‍‌സ് നാസയ്കുള്ള വിവരങ്ങള്‍ എനിക്ക്  (file_2697)
+ടാര്‍‌സ് നാസയ്കുള്ള നിങ്ങളുടെ  ഗ്രേഡ്   (file_2697)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ടാര്‍‌സ് നിനക്ക്      കേള്‍ക്കാമോ  (file_2698)
+***      പാരിസിലേക്ക് കേള്‍ക്കാമോ  (file_2698)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+*** ടാര്‍‌സ് നീ    കേള്‍ക്കുന്നുണ്ടോ  (file_2699)
+ആ   സ്ഥിതി   കണ്ടോ ഗുഡ്               (file_2699)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+***  ***        ടാര്‍‌സ് വേര്‍പെടും  (file_2700)
+ഡാഷ് സ്ട്രേറ്റ് കാരണം    ഗുഡ്        (file_2700)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+ടാര്‍‌സ് എന്താണിത്ര താമസം ***   (file_2701)
+ടാര്‍‌സ് എന്താണിത്ര താമസം ഗുഡ്  (file_2701)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** ടാര്‍‌സ്   കേറിക്കഴിയുമ്പോള്‍ എന്നോട് പറയണം   (file_2702)
+ഡോ  ആക്സലേറ്റർ കഴിയുമോ            അവനോട്   പറഞ്ഞു  (file_2702)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+ടാര്‍‌സ് മണിക്കൂര്‍   കേട്ടോ  (file_2703)
+പോ       ആസ്വദിച്ചോളു കേട്ടോ  (file_2703)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ടാര്‍‌സ് ഒരു          സഹായമാണിവിടെ  (file_2704)
+***      പാസ്പോർട്ട്‌ സഹായമാണിവിടെ  (file_2704)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ടാര്‍‌സ് ദയവായി തിരിച്ചു പോകൂ ***   (file_2705)
+ടാര്‍‌സ് ദയവായി തിരിച്ചു പോകൂ ഗുഡ്  (file_2705)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ടാര്‍‌സ് രണ്ടാം ഘട്ട വിഭജനം      (file_2706)
+ടാര്‍‌സ് രണ്ടാം ഘട്ട ദിവസങ്ങളിൽ  (file_2706)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ടാര്‍‌സ് രണ്ടാള്ക്കും വേണ്ടി ഒത്തിരി സംസാരിക്കുന്നു  (file_2707)
+ടാര്‍‌സ് രണ്ടാള്ക്കും വേണ്ടി അത്     സംസാരിക്കണം     (file_2707)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ടെല്ലി കാണാനാണെങ്കിൽ നീ   (file_2708)
+പോയി   കാണാനാണെങ്കിൽ നീ   (file_2708)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ടെല്ലി കാണുകയാണ്  (file_2709)
+ദി     റാണിയാണ്   (file_2709)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ടോം കളപ്പുരയിൽ ഇന്ന് മണിക്ക് നീ      കാണണം       (file_2710)
+***  പോണം       കാര്‍ ഒരേ     നിങ്ങളെ ചുറ്റികാണ്  (file_2710)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 5
+ടോപ്‌ എനിക്കിഷ്ട്ടായി പക്ഷെ പാന്‍റ് കുറച്ചുക്കൂടി  (file_2711)
+ടോപ്‌ എനിക്കിഷ്ട്ടായി പക്ഷെ പാന്‍റ് കുറച്ചുക്കൂടി  (file_2711)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***     ടോമിന്‍റെ കാര്യമെല്ലാം ശരിയായിക്കോളും  (file_2712)
+പോവേണ്ട ഡാഡി      ആ            ശരിയായിക്കോളും  (file_2712)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ടോമിന്‍റെ മാർക്ക്‌ കിട്ടി  (file_2713)
+പോവേണ്ട   മാർക്കു  ഇതിനു   (file_2713)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ടൌണിലേക്ക് പോകു൦  (file_2714)
+ടൌണിലേക്ക് പോകു൦  (file_2714)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ട്രാക്കിലൊരു കുട്ടി         (file_2715)
+ഡാഡി         കരുതിയിരുന്നു  (file_2715)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ട്രാക്കില്‍ ഒരു കുട്ടി  (file_2716)
+ഡിക്കിയില്‍ ഒരു തികഞ്ഞ  (file_2716)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ട്രാക്ടര്‍ ഓണ്‍   ആക്കിയ ഉടനെ      (file_2717)
+***        ഡിയര്‍ ആളാണ്‌ ക്ലോഡിനെ  (file_2717)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ട്രെയിന്‍ നിര്‍ത്ത്  (file_2718)
+***       റേഞ്ചറുകൾ  (file_2718)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ട്രെയിന്‍ മറ്റൊരു  സ്ഥലത്തെത്തിക്കും  (file_2719)
+***       കേടുവന്ന സ്ഥലത്തെത്തിക്കും  (file_2719)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ട്രെഷര്‍ ദീപിനേയും ഒളിപ്പിക്കുന്ന സ്ഥലം ***   (file_2720)
+കേസ്     അതിനിയും  ഒളിപ്പിക്കുന്ന സ്ഥലം ഗുഡ്  (file_2720)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഡഗ്ലസ് ***  ***    ഫയര്‍ബാങ്ക്സിന്റെ  (file_2721)
+ഡഗ്ലസ് ഡാഡി സ്നേഹം ഗുഡ്               (file_2721)
+Words: 2 Correct: 1 Errors: 3 Percent correct = 50.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+***  *** ഡയമൻഷനു ഉടനീളം പോകുന്നത് സമയം ***  (file_2722)
+ഡാഡി ശരി ഒരു     കാര്യം പോകുന്നത് സമയം ഡോ   (file_2722)
+Words: 4 Correct: 2 Errors: 5 Percent correct = 50.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 3 Deletions: 0 Substitutions: 2
+ഡാഡിക്ക് ചെയ്യാന്‍ പറ്റാത്തതുകാരണം ***   (file_2723)
+ഡിഗ്രി   സിഡി      പറ്റാത്തതുകാരണം ഗുഡ്  (file_2723)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഡാഡിക്ക് തോന്നുന്നത്  (file_2724)
+ഡിഗ്രി   തോന്നുന്നു   (file_2724)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഡാഡിയല്ല എന്നെ  വളര്‍ത്തിയത് മുത്തച്ഛനാണ്   (file_2725)
+***      ഡിയര്‍ നിങ്ങളാണ്    ചിന്തിച്ചതാണ്  (file_2725)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഡാഡി      (file_2726)
+ഡാർലിംഗ്  (file_2726)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഡാഡി അതിന്  ശ്രമിച്ചിട്ടില്ല  (file_2727)
+***  ഡിയര്‍ പ്രശസ്തരാണ്       (file_2727)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഡാഡി കരുതിയത് ഞാനതിനെ   പ്രോതം          എന്ന്    വിളിക്കുന്നത്  (file_2728)
+***  ***      പാട്ടല്ലേ പറ്റാത്തതുകാരണം തിരിച്ചു വരും           (file_2728)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 4
+ഡാഡി നമ്മളെ രക്ഷിക്കും  (file_2729)
+ഡാഡി നമ്മളെ രക്ഷിക്കും  (file_2729)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഡാഡി വന്ന് നമ്മളെ രക്ഷിക്കുമെന്ന് പ്രാര്‍ത്ഥിക്കണം  (file_2730)
+ഡാഡി വന്ന് നമ്മളെ രക്ഷിക്കുമെന്ന് പ്രാര്‍ത്ഥിക്കണം  (file_2730)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഡാഡ്      (file_2731)
+ഡാർലിംഗ്  (file_2731)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഡാഡ് ഇത് ശെരിയാക്കി  തരുമോ        (file_2732)
+***  *** ഡിക്കിയില്‍ കെട്ടടങ്ങും  (file_2732)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഡാഡ് എന്തിനാ മമ്മിയും ഡാഡിയും  (file_2733)
+ഡാഡി കാണാൻ   പോയോ     കാര്യം   (file_2733)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഡാറ്റാ ട്രാൻസ്മിഷൻ തിരികെ വരുന്നത്  (file_2734)
+ഡാഡി   ടാര്‍‌സ്    ശരി    വന്നതാണ്  (file_2734)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ഡാഷ്ഡാഷ്ഡാഷ് ***   (file_2735)
+ഡാഷ്ഡാഷ്ഡാഷ് ഗുഡ്  (file_2735)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+***   ഡാഷ്ഡാഷ്  (file_2736)
+ഞാന്‍ ഡാഷ്ഡാഷ്  (file_2736)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഡാഷ്ഡോട്ട് ***     (file_2737)
+ഡാഷ്ഡോട്ട് ഇതില്‍  (file_2737)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** ഡാഷ്  (file_2738)
+ഇത് ഡാഷ്  (file_2738)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഡാഷ് ഡാഷ് ഡാഷ്          (file_2739)
+***  ***  ഡാഷ്ഡാഷ്ഡാഷ്  (file_2739)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഡാൻസ് കളിക്കാറുണ്ടന്ന് ***       (file_2740)
+ഡാൻസ് കളിക്കാറുണ്ടന്ന് ബ്രാൻഡ്‌  (file_2740)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഡാൻസ് കളിച്ചതാണ്  (file_2741)
+ഡാൻസ് കളിച്ചതാണ്  (file_2741)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഡാർലിംഗ് ഞാനാണ്    റോക്സ്ട്ടേ  (file_2742)
+ഡാഡ്     നിങ്ങളാണോ റോക്സ്ട്ടേ  (file_2742)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഡിമെന്‍ഷനുകള്‍ക്കപ്പുറത്തെത്താനാകും  (file_2743)
+ഡിമെന്‍ഷനുകള്‍ക്കപ്പുറത്തെത്താനാകും  (file_2743)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഡൊണാൾഡ് ഈ      ലോകം പോരാ എപ്പോഴും  (file_2744)
+നാളെ     രാത്രി ലോകം പോരാ എപ്പോഴും  (file_2744)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഡൊണാൾഡ് ഞാന്‍     അങ്ങനെ     വിചാരിക്കുന്നില്ല  (file_2745)
+***      സുപ്രഭാതം ഗാലക്സിയിൽ തരാം               (file_2745)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഡോക്ടർ ബ്രാൻഡും എഡ്മംഡ്സും  (file_2746)
+ഡോക്ടർ ബ്രാൻഡും എഡ്മംഡ്സും  (file_2746)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഡോമാന് ഈ        വിചാരം ഇല്ലായിരുന്നു  (file_2747)
+***     ഞാനുമായി വിചാരം ഇല്ലായിരുന്നു  (file_2747)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഡോയൽ നിങ്ങള്‍ നന്നായിരിക്കുന്നോ ***  (file_2748)
+ഡോയൽ നിങ്ങള്‍ നന്നായിരിക്കുന്നോ ഒരു  (file_2748)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഡോറുകൾ ചാർജിംഗിലല്ല പ്രകടനം പക്ഷേ കാര്യമാക്കേണ്ടതില്ല ***   (file_2749)
+ഡോറുകൾ ചാർജിംഗിലല്ല പ്രകടനം പക്ഷേ കാര്യമാക്കേണ്ടതില്ല ഡാഡ്  (file_2749)
+Words: 5 Correct: 5 Errors: 1 Percent correct = 100.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** ഡോ   മാൻനോട്‌ എന്‍റെ അന്വേഷണം പറയണം ***   (file_2750)
+ഡോ  കാണാൻ വേണ്ടി   എന്താ  അന്വേഷണം പറയണം ഗുഡ്  (file_2750)
+Words: 5 Correct: 2 Errors: 5 Percent correct = 40.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 3
+TOTAL Words: 912 Correct: 435 Errors: 519
+TOTAL Percent correct = 47.70% Error = 56.91% Accuracy = 43.09%
+TOTAL Insertions: 42 Deletions: 121 Substitutions: 356
