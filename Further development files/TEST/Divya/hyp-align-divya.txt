@@ -1,0 +1,975 @@
+ശാന്തമായി  (file_4751)
+ശാന്തമായി  (file_4751)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** ശാന്തമായി പോകരുത്  (file_4752)
+ഇത് ശാന്തമായി പോകരുത്  (file_4752)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ശാന്തമോ  (file_4753)
+ശാന്തമോ  (file_4753)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശാസ്ത്രജ്ഞന്മാർ പര്യവേക്ഷകർ  (file_4754)
+ശാസ്ത്രജ്ഞന്മാർ അന്വേഷകർ     (file_4754)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശേഷം തിരിച്ചുവരും  (file_4755)
+ശേഷം തിരിച്ചുവരും  (file_4755)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശേഷവും നിലനില്ക്കുന്നു  (file_4756)
+ശേഷവും നിലനില്ക്കുന്നു  (file_4756)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശ്രദ്ധിക്കൂ എന്തായാലും നീ  അത് എങ്ങനെ       (file_4757)
+ശ്രദ്ധിക്കൂ എന്തായാലും *** ബൂം കാര്യങ്ങളിൽ  (file_4757)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ശ്രദ്ധിക്ക്      എന്താണിത്ര പ്രധാനപ്പെട്ട കാര്യം  (file_4758)
+സാധിച്ചിട്ടുണ്ട് ആളുകള്‍    പണത്തിന്‍റെ   കാര്യം  (file_4758)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ശ്രദ്ധിച്ച്  (file_4759)
+ശ്രമിച്ചു    (file_4759)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശ്രദ്ധേയനായ ഡോ മാൻന്റെ നേതൃത്വത്തിൽ  (file_4760)
+ശ്രദ്ധേയനായ ഡോ മാൻന്റെ നേതൃത്വത്തിൽ  (file_4760)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശ്രമിക്കുന്നു എന്ന്  ഞാന്‍  വിചാരിക്കുന്നില്ല  (file_4761)
+ഫ്രഞ്ച്       നോക്ക് അങ്ങനെ വിചാരിക്കുന്നില്ല  (file_4761)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***       ശ്രമിക്കൂ  (file_4762)
+ശ്രമിച്ചു ഹിംഗ്      (file_4762)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ശ്രമിച്ചുകൊണ്ടിരുന്നത്  (file_4763)
+ശ്രമിച്ചുകൊണ്ടിരുന്നത്  (file_4763)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***    ശ്വാസംമുട്ടിമരിക്കാന്‍  (file_4764)
+ശ്വാസം കുടിക്കാനും             (file_4764)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ശ്വാസം കിട്ടുന്നില്ല  (file_4765)
+ശ്വാസം പിറകിലാണ്      (file_4765)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശ്വാസം കുറച്ചെടുക്കുക    (file_4766)
+വെച്ചോ സംഭവിച്ചിരിക്കും  (file_4766)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ശ്വാസം വലിച്ചു വിടൂ  (file_4767)
+ശ്വാസം വലിച്ചു ***   (file_4767)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 0
+ശ്വാസമെടുക്കരുത്  (file_4768)
+ശ്വാസമെടുക്കരുത്  (file_4768)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** ഷാംപെയിന്‍  (file_4769)
+ശരി ബൂം         (file_4769)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഷാംപെയിന്‍ വീഞ്ഞ്‌ മാത്രെമാണ്     കുടിച്ചത് ***    (file_4770)
+ഇത്        ശക്തി   നിങ്ങൾക്കുണ്ട് കുടിച്ചത് പോവും  (file_4770)
+Words: 4 Correct: 1 Errors: 4 Percent correct = 25.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 3
+ഷാറ്റ്സി അദ്ദേഹമെന്താ കൊണ്ടുവന്നിരിക്കുന്നത് ***   (file_4771)
+ഷാറ്റ്സി അദ്ദേഹമെന്താ കൊണ്ടുവന്നിരിക്കുന്നത് ഗുഡ്  (file_4771)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഷാറ്റ്സി നിര്‍ത്ത്  (file_4772)
+ഷാറ്റ്സി ഇന്ധനം     (file_4772)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സംഭവചക്രവാളത്തിലേയ്ക് പ്രവേശിക്കുന്നു  (file_4773)
+സംഭവചക്രവാളത്തിലേയ്ക് പ്രവേശിക്കുന്നു  (file_4773)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സംഭവിക്കാന്‍ സാധ്യതയുള്ളതൊക്കെ  (file_4774)
+സമ്മതിച്ചു   ആസാമികളുടെ         (file_4774)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സംഭവിക്കും എന്നാണ്  അത്  പറയുന്നത്  (file_4775)
+സമ്മതിച്ചു എന്താണത് പറയൂ മര്‍ഫ്     (file_4775)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+സംഭവിക്കുന്നതെല്ലാം എനിക്ക്      ദൃശ്യമാകുന്നു  (file_4776)
+***                 സംഭവിച്ചാലും നഷ്ട്മാകും     (file_4776)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+***           സംഭവിക്കേണ്ടതെല്ലാം സംഭവിച്ചിരിക്കും ***   (file_4777)
+സമ്മതിക്കേണ്ട നാം                 സംഭവിച്ചിരിക്കും ഗുഡ്  (file_4777)
+Words: 2 Correct: 1 Errors: 3 Percent correct = 50.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+സംഭാഷണം അവൻ സാറ്റ്ണ്‍ യാത്രയിൽ കേൾക്കും  (file_4778)
+സംഭാഷണം അവൻ സാറ്റ്ണ്‍ യാത്രയിൽ കുഞ്ഞ്    (file_4778)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***        സംശയിച്ചുപ്പോയി  (file_4779)
+സൂക്ഷിച്ച് പോണം             (file_4779)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+സംസാരിച്ചു മോളെ ***   (file_4780)
+സംസാരിച്ചു മോളെ ബാഗ്  (file_4780)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സങ്കടമുണ്ടോ ***   (file_4781)
+സങ്കടമുണ്ടോ ഗുഡ്  (file_4781)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സങ്കല്‍പ്പിക്കും  (file_4782)
+സങ്കല്‍പ്പിക്കും  (file_4782)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** സജ്ജീകരണങ്ങള്‍  (file_4783)
+ഇത് സന്ദേശങ്ങൾ      (file_4783)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+സത്യം  അങ്ങനെയൊന്നുമില്ലാ  (file_4784)
+സങ്കടം കണ്ടിട്ടില്ല        (file_4784)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** സത്യം    (file_4785)
+ഇത് ഇസബെല്‍  (file_4785)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***  സത്യം ഞാന്‍        വിളിക്കാം  (file_4786)
+സര്‍ പണം   വീട്ടിലേക്ക് ഗുഡ്       (file_4786)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+സത്യത്തില്‍ അത്  അവിടേക്ക്  (file_4787)
+സത്യത്തില്‍ റാണി ഹിംഗ്      (file_4787)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സത്യത്തില്‍ അമേലിയ ***  (file_4788)
+സത്യത്തില്‍ അമേലിയ ആണ്  (file_4788)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സത്യത്തില്‍ ഈ   പുസ്തകം പറയുന്നനത് അതാണ്        (file_4789)
+***         *** സര്‍    നിരിക്ഷക   ഉണ്ടായതാകണം  (file_4789)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+സത്യത്തില്‍ നിങ്ങള്‍ അത് സ്വയം നേരിട്ടിരുന്നു  (file_4790)
+സത്യത്തില്‍ നിങ്ങള്‍ അത് സ്വയം നേരിട്ടിരുന്നു  (file_4790)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സത്യത്തിൽ റോക്ക്ഷോ അത്രേ പ്രധാനപെട്ടതൊന്നുമല്ലാ  (file_4791)
+സത്യത്തിൽ റോക്ക്ഷോ ***   അതര്‍ഥമാക്കുന്നത്       (file_4791)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സത്യമല്ലേ അത് പറ        (file_4792)
+ഇസബെല്‍   അത് ബ്രാൻഡ്‌  (file_4792)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** ***  സത്യമെന്താന്നുവെച്ചാല്‍  (file_4793)
+ഇത് സര്‍ എന്താന്നുവച്ചാൽ          (file_4793)
+Words: 1 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 300.00% Accuracy = -200.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+*** സന്തോഷമാണോ   (file_4794)
+ഇത് സന്തോഷമാകും  (file_4794)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** സന്തോഷ പര്യവസാനങ്ങള്‍  (file_4795)
+ഇത് സന്തോഷ പര്യവസാനങ്ങള്‍  (file_4795)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സന്ദേശം    ലഭിക്കുന്നതിനായി നടത്തിയ  (file_4796)
+സന്ദേശമായി വിവരങ്ങള്‍       ഇല്ല     (file_4796)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+സന്ദേശങ്ങളുടെ നീളം              വര്‍ഷം  (file_4797)
+***           കാലദേശങ്ങളിലേയ്ക് തമാശ    (file_4797)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+സന്ദേശങ്ങൾ   പരാജയപെട്ടോ  (file_4798)
+സന്ദേശങ്ങള്‍ അടച്ചിടും    (file_4798)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സന്ദേശമായിരിക്കുമെന്ന് ഞാന്‍      കരുതുന്നു   (file_4799)
+***                    സന്ദേശമായി കുറവുകാരണം  (file_4799)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+സമയംസമയംസമയം  (file_4800)
+സമയംസമയംസമയം  (file_4800)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സമയം     (file_4801)
+ഇറങ്ങാം  (file_4801)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സമയം ഇവിടെ പ്രതിനിധാനം ചെയ്യുന്നത്  (file_4802)
+സമയം ഇവിടെ പ്രതിനിധാനം ചെയ്യുന്നത്  (file_4802)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സമയം   ഉൾപ്പെടെ  (file_4803)
+ഇനിയും ഇതുവരെ    (file_4803)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സമയം പരസ്പ്പരം ബന്ധപ്പെട്ടിരിക്കുന്നു ഓക്കേ  (file_4804)
+സമയം പരസ്പ്പരം ബന്ധപ്പെട്ടിരിക്കുന്നു ഇത്    (file_4804)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** സമയത്തെപ്പറ്റിയുള്ള അടിസ്ഥാനപരമായ  (file_4805)
+ഇനി എന്തിനാ             പഞ്ചറായി       (file_4805)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+സമയമാണിത്  (file_4806)
+ഇങ്ങനെ     (file_4806)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സമയമാണ് എല്ലാം      (file_4807)
+***     ഇന്ത്യനാണ്  (file_4807)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+*** സമയമില്ല ഡോ  ബ്രാന്റ്  (file_4808)
+ഇത് അമേലിയ   ഡോ  ബ്രാന്റ്  (file_4808)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+സമയ വ്യതിയാനം ഉൾപ്പെടെ  (file_4809)
+ഇത് അറിയിയാം  പ്രൊഫസർ   (file_4809)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+സമയ വ്യതിയാനം കാരണം  (file_4810)
+ഇത് വ്യതിയാനം കാരണം  (file_4810)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സമര്‍പ്പിച്ചത് പ്ലാന്‍ യ്ക് വേണ്ടിയാണ്             (file_4811)
+***            ***     ഇനി  ആംസ്റ്റർഡാമിലെത്തിയാൽ  (file_4811)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+സമവാക്യം തെളിയിക്കാന്‍ ശ്രമിക്കുകയായിരുന്നു  (file_4812)
+***      അമ്മക്ക്      ഇവിടത്തെ              (file_4812)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+സമ്മതിക്കാതെ എനിക്ക് നിന്നോടൊന്നും പറയാൻ കഴിയില്ല        (file_4813)
+സമ്മതിക്കാതെ ***     ***           ***   നിങ്ങളുടേതില്‍  (file_4813)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 3 Substitutions: 1
+*** സമ്മതിച്ചു  (file_4814)
+ഇത് സമ്മതിച്ചോ  (file_4814)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+സമ്മതിച്ചു പക്ഷേ എഡ്മണ്ടിന്റെ വിവരങ്ങള്‍  (file_4815)
+സമ്മതിച്ചു പക്ഷേ എഡ്മണ്ടിന്റെ വിവരങ്ങള്‍  (file_4815)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സമ്മതിച്ചോ  (file_4816)
+സമ്മതിച്ചു  (file_4816)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സയന്‍സ് എന്നല്ലേ നിങ്ങള്    പറഞ്ഞത്  (file_4817)
+***     സമയം     സ്ഥലങ്ങള്‍ പണിതത്   (file_4817)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+***     സര്‍നീങ്ങൂ  (file_4818)
+ഇസബെല്‍ നിന്നും     (file_4818)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+സര്‍മാഡം ഉള്ളില്‍ വരൂ ഞങ്ങളുടെ കയ്യില്‍  (file_4819)
+സര്‍മാഡം ഉള്ളില്‍ *** ഒരു      വണ്ടിയിൽ  (file_4819)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+*** സര്‍  (file_4820)
+ഇത് സര്‍  (file_4820)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സര്‍ ഈ   സ്റ്റേഷന്  നിങ്ങളുടെയല്ല  (file_4821)
+സര്‍ ഇത് സ്റ്റേഷന്‍ ഞങ്ങളെല്ലാം    (file_4821)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+സര്‍ ഞാന്‍ നിങ്ങള്‍ക്ക് ഉറപ്പുതരാം  (file_4822)
+സര്‍ ഞാന്‍ നിങ്ങള്‍ക്ക് ഉറപ്പുതരാം  (file_4822)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സര്‍ വളരെ പതുക്കെ  (file_4823)
+സര്‍ വളരെ പതുക്കെ  (file_4823)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** സസ്യശാസ്ത്രം തുടരാനാണ് അത് നിരാശപ്പെടുത്തുന്നു  (file_4824)
+ഇത് സസ്യശാസ്ത്രം തുടരാനാണ് *** നശിപ്പിച്ചു          (file_4824)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 1 Substitutions: 1
+സഹായം  (file_4825)
+സഹായം  (file_4825)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സഹായിക്കൂ സഹായിക്കൂ  (file_4826)
+സഹായിക്കൂ സഹായിക്കൂ  (file_4826)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സഹിഷ്ണുത കാണിച്ചു ***  (file_4827)
+സഹിഷ്ണുത കാണിച്ചു ഇത്  (file_4827)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** സാങ്കല്പിക ലോകം  (file_4828)
+ഇത് സാങ്കല്പിക ലോകം  (file_4828)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സാധനങ്ങളൊന്നുമില്ല പക്ഷേ  (file_4829)
+സാന്‍റബാന്‍റ       പക്ഷേ  (file_4829)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സാധനങ്ങള്‍ അവർ  തന്നെയാണോ കൊണ്ടുവരുന്നത്  (file_4830)
+***        സാധു അതിഥിയാണോ കൊണ്ട്          (file_4830)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+സാധു ***  (file_4831)
+സാധു ഇത്  (file_4831)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സാധ്യത വളരെ കുറവാണ്  (file_4832)
+സാധ്യത വളരെ കുറവാണ്  (file_4832)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സാന്‍റബാന്‍റ അറിയില്ലേ  (file_4833)
+സാന്‍റബാന്‍റ ആയി        (file_4833)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** സാന്‍റബാന്‍റ ഇന്ത്യക്കാരാണ് ***   (file_4834)
+ഇത് സാന്‍റബാന്‍റ ഇന്ത്യക്കാരാണ് ഗുഡ്  (file_4834)
+Words: 2 Correct: 2 Errors: 2 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 0
+സാന്‍റബാന്‍റ എന്നാ രണ്ടു പേരുണ്ടായിരുന്നു  (file_4835)
+സാന്‍റബാന്‍റ എന്നാ രണ്ടു പേരുണ്ടായിരുന്നു  (file_4835)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സാന്‍റബാന്‍റ പ്രശസ്തരാണ്  (file_4836)
+സാന്‍റബാന്‍റ പ്രശസ്തരാണ്  (file_4836)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സാന്‍റ ബാന്‍റയോട് പറഞ്ഞു  (file_4837)
+സാന്‍റ ബാന്‍റയോട് പറഞ്ഞു  (file_4837)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സാന്‍റ ബാന്‍റ        (file_4838)
+***    സാന്‍റബാന്‍റ  (file_4838)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സാമൂഹ്യനന്മയ്കു കെട്ടുപാടുകള്‍ കുട്ടികള്‍  (file_4839)
+സാമൂഹ്യനന്മയ്കു കെട്ടുപാടുകള്‍ കുട്ടികള്‍  (file_4839)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സായന്തനത്തില്‍ വാര്‍ദ്ധക്യം ജ്വലിക്കണം   (file_4840)
+***            സാന്‍റബാന്‍റ ചിന്തിക്കണം  (file_4840)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+സാരമില്ല     (file_4841)
+സുന്ദരിയാണ്  (file_4841)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സാർനിങ്ങളുടെ വാടക  (file_4842)
+സാർനിങ്ങളുടെ വാടക  (file_4842)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സിക്കന്ദർ എഴുന്നേൽക്ക്  (file_4843)
+സിക്കന്ധർ വിളിക്കാം     (file_4843)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സിക്കന്ദർ തെറ്റായ അഡ്രെസ്സാണ്  (file_4844)
+സിക്കന്ദർ തെറ്റായ അഡ്രെസ്സാണ്  (file_4844)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സിക്കന്ധർ  (file_4845)
+സിക്കന്ദർ  (file_4845)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സിക്കന്ധർ എന്ന് വിളിക്കാം  (file_4846)
+സിക്കന്ധർ എന്ന് വിളിക്കാം  (file_4846)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സിഗരറ്റ് വലിച്ചിട്ടില്ലായിരുന്നു  (file_4847)
+സിഗരറ്റ് വലിച്ചിട്ടില്ലായിരുന്നു  (file_4847)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സിഗ്നലുകൾ ഇവിടെനിന്നാണ്  (file_4848)
+സിഗ്നലുകൾ കുട്ടിയാണ്     (file_4848)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സിഡ്നി കാര്‍ട്ടനും ഹീത്ത്ക്ലിഫും കരയും        (file_4849)
+സിഡ്നി കാര്‍ട്ടനും ***           വിൽക്കുകയും  (file_4849)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സിദ്ധാന്തങ്ങള്‍ കൊണ്ട്         (file_4850)
+ശരി             ബന്ധമുണ്ടാവും  (file_4850)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സിനിമകള്‍  (file_4851)
+സിനിമകള്‍  (file_4851)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സിനിമകള്‍ നിര്‍മ്മിച്ചു  (file_4852)
+സിനിമ     ലഭിച്ചു        (file_4852)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സിനിമകള്‍ വിറ്റുകിട്ടിയ ഇത്തിരി     പണം        കൊണ്ട്   (file_4853)
+***       ***           സിനിമകളില്‍ ചിന്തിക്കു നമ്മുടെ  (file_4853)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+സിനിമയിലേ സംഭവിക്കൂ   (file_4854)
+സിനിമയിലേ സമ്മതിച്ചു  (file_4854)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** സിനിമയ്ക്ക് കൊണ്ടുപോകുമായിരുന്നു  (file_4855)
+ഇത് സിനിമയ്ക്ക് കൊണ്ടുപോകുമായിരുന്നു  (file_4855)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സിനിമാ ലോകത്തെ ആ         മഹാന്‍     മഹായുദ്ധകാലത്ത്  (file_4856)
+***    ***     സിനിമയിലോ അദ്ദേഹമാണ് മഹായുദ്ധകാലത്ത്  (file_4856)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+സിനിമ കാണാനും താല്പര്യമുണ്ടായിരുന്നില്ല  (file_4857)
+സിനിമ കാണാനും താല്പര്യമുണ്ടായിരുന്നില്ല  (file_4857)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സിനിമ കാണാറില്ലേ  (file_4858)
+സിനിമ കാണാറില്ലേ  (file_4858)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സിനിമ തീയറ്റര്‍ ഞങ്ങള്‍ക്കൊരു പ്രത്യേക     സ്ഥലമായിരുന്നു  (file_4859)
+***   ***       ***           സിമുലേറ്റര്‍ തൃപ്തികരമാണ്    (file_4859)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 2
+സിനിമ നിര്‍മിച്ചത് ജോര്‍ജസ് മെലിയസ്  (file_4860)
+സിനിമ നിര്‍മിച്ചത് ജോര്‍ജസ് ദിവസം    (file_4860)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സിന്മകളുടെ കാര്യത്തിലൊഴിച്ച് അവര്‍             നല്ലവരാണ്     (file_4861)
+***        ***               സിനിമാക്കാര്‍ക്ക് ശതമാനമാക്കാം  (file_4861)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+സിരിഫോർട്ട്‌ അല്ലേ  (file_4862)
+സിരിഫോർട്ട്‌ ഫലിതം  (file_4862)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സിസ്റ്റത്തിന് കുഴപ്പമില്ല  (file_4863)
+അസിസ്റ്റന്റ്  അതിലും       (file_4863)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സീന്‍ കരയിലോ    (file_4864)
+***   സിനിമയും  (file_4864)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സുഖം നന്ദി  (file_4865)
+സുഖം നന്ദി  (file_4865)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സുഖമല്ലേ  (file_4866)
+സുഖമല്ലേ  (file_4866)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സുഖമല്ലേ മോനെ  (file_4867)
+സുഖമല്ലേ മോളെ  (file_4867)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സുനാമി  (file_4868)
+സുനാമി  (file_4868)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സുന്ദരനായ കോമാളി നിന്നെ കാത്തിരിക്കുന്നുണ്ടാവും ***      (file_4869)
+സുന്ദരനായ കോമാളി നിന്നെ കാത്തിരിക്കുന്നുണ്ടാവും കിട്ടും  (file_4869)
+Words: 4 Correct: 4 Errors: 1 Percent correct = 100.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സുന്ദരഭവനം  (file_4870)
+സുന്ദരനാണ്  (file_4870)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സുപ്രഭാതം  (file_4871)
+സുപ്രഭാതം  (file_4871)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സുപ്രഭാതം മിസ്റ്റര്‍ ലബ്ബെയ്സ്  (file_4872)
+സുപ്രഭാതം മിസ്റ്റര്‍ പാരിസ്     (file_4872)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സുപ്രഭാതം സര്‍  (file_4873)
+സുപ്രഭാതം സര്‍  (file_4873)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സുരക്ഷയാണ് പ്രധാനം കൂപ്പര്‍  (file_4874)
+സുരക്ഷയാണ് അത്     ടാങ്കുകൾ  (file_4874)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സുരക്ഷയാണ് പ്രധാനം അത് മറക്കരുത്  (file_4875)
+സുരക്ഷയാണ് പ്രധാനം അത് മർഫിന്റെ   (file_4875)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സുരക്ഷാകാരണങ്ങളാല്‍ ഒരു മനുഷ്യനേ ഇനി       (file_4876)
+സുരക്ഷാകാരണങ്ങളാല്‍ ഒരു ***      മേശയില്‍  (file_4876)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സുരക്ഷാ ***  സജ്ജീകരണങ്ങള്‍  (file_4877)
+സുരക്ഷാ സര്‍ ചിത്രങ്ങൾ       (file_4877)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+സുഹൃത്തിനെ കാണാൻ വന്നതാണോ  (file_4878)
+സമിതി      കാണാൻ ബന്ധവും   (file_4878)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സൂക്ഷിക്കണം  (file_4879)
+സൂക്ഷിക്കും  (file_4879)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സൂപ്പ് നല്ലതല്ലേ  (file_4880)
+സൂപ്പ് വളരെ       (file_4880)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സെക്കണ്ടുകൾ മാത്രം മതി  (file_4881)
+സെക്കണ്ടുകൾ മാത്രം മതി  (file_4881)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സെക്കന്‍റ് ഗിയറിലെക്കിട്     (file_4882)
+***        സിനിമയിലെങ്കിലും  (file_4882)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+*** സെക്ഷന്‍  (file_4883)
+ഇത് സെക്ഷന്‍  (file_4883)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+*** ഏർപ്പെട്ടകാര്യം പറയുമോ  (file_4884)
+ഇത് യാത്രക്കാരേ     ഉപയോഗം  (file_4884)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***  ഏർപ്പെട്ടിരുന്നുവെന്നാണ്  (file_4885)
+ഇല്ല നിന്നാണ്                  (file_4885)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** സെക്സ്  (file_4886)
+നീ  ഫ്രീസ്  (file_4886)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+സെറ്റില്‍ അഭിനേതാക്കള്‍ മാത്രം  (file_4887)
+സെറ്റില്‍ അഭിനേതാക്കള്‍ മാത്രം  (file_4887)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സൈഫ് അലിഖാൻ കരീനക്ക് വേണ്ടി ചെയ്തില്ലേ      (file_4888)
+സൈഫ് അലിഖാൻ കരീനക്ക് ***    പിടിച്ചിരിക്കു  (file_4888)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സോണാൽ അത് തുറന്നുകൊണ്ടാണ്  (file_4889)
+സോണാൽ അത് തുറന്നുകൊണ്ടാണ്  (file_4889)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സോണാൽ എവിടെയാണ്   (file_4890)
+സോണാൽ കുട്ടിയാണ്  (file_4890)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സോണാൽ വിളിക്കുന്നുണ്ട്  (file_4891)
+സോണാൽ വിജയുടെ           (file_4891)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+സോവിയറ്റ് യൂണിയനെ പാപ്പരാക്കാന്‍ വേണ്ടി അപ്പോളോ      (file_4892)
+സോവിയറ്റ് യൂണിയനെ പാപ്പരാക്കാന്‍ ***    അവളിപ്പോളും  (file_4892)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സോവിയറ്റ് യൂണിയന്‍ പാപ്പരായതിന് കാരണം അവര്‍  (file_4893)
+സോവിയറ്റ് യൂണിയന്‍ പാപ്പരായതിന് കാരണം അവള്‍  (file_4893)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** സോസ്  (file_4894)
+നീ  സോസ്  (file_4894)
+Words: 1 Correct: 1 Errors: 1 Percent correct = 100.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സ്കൂളിലെ മീറ്റിംഗ് നല്ലതുപോലെ  (file_4895)
+സ്കൂളിലെ മീറ്റിംഗ് നല്ലതുപോലെ  (file_4895)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്കൂളില്‍ നിന്നും ജയിച്ചു  (file_4896)
+സ്കൂളില്‍ നിന്നും ജയിച്ചു  (file_4896)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്കൂളില്‍ പോകാൻ ആവില്ല  (file_4897)
+സ്കൂളില്‍ പോകാൻ ആവില്ല  (file_4897)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്കൂളിൽ ഇന്ന് മീറ്റിംഗ് ഉണ്ട്  രക്ഷിതാക്കളുടെ  (file_4898)
+സ്കൂളിൽ ***   ***       നിന്റെ രക്ഷിതാക്കള്‍   (file_4898)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+സ്കൂളിൽ നല്ലൊരു ദിവസം ആശംസിക്കുന്നു  (file_4899)
+സ്കൂളിൽ നല്ലൊരു ദിവസം ആശംസിക്കുന്നു  (file_4899)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്കൂളിൽ നിന്ന് പറയുന്നത് നീ   (file_4900)
+സ്കൂളിൽ ***    മരണത്തിൽ  ഇത്  (file_4900)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+സ്ത്രീ ഇസബെല്‍  (file_4901)
+സ്ഥിതി സമയം     (file_4901)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സ്ത്രീ വേണ്ടവേണ്ട  (file_4902)
+സ്ത്രീ വേണ്ടവേണ്ട  (file_4902)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** സ്ത്രീ ശരി   (file_4903)
+ഇത് സ്വയം  ശേഷം  (file_4903)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+സ്ത്രീ ഹലോ സുഖമല്ലേ  (file_4904)
+സ്ത്രീ ഹലോ സുഖമല്ലേ  (file_4904)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്ഥലത്ത് വെച്ച് കാണാം  (file_4905)
+സ്ഥലത്ത് വെച്ച് കാണാം  (file_4905)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്ഥലത്ത് ഹണിമൂണ്‍ പോവുകയെന്നത്  (file_4906)
+സ്ഥലത്ത് ഹണിമൂണ്‍ പോവുകയെന്നത്  (file_4906)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്ഥാനംകോര്‍ഡിനേറ്റ്സ്  (file_4907)
+സ്ഥാനംകോര്‍ഡിനേറ്റ്സ്  (file_4907)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്ഥിരമായ പൊടിക്കാറ്റ്  (file_4908)
+സ്ഥിരമായ പൊടിക്കാറ്റ്  (file_4908)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്നേഹം അര്‍ത്ഥവത്താണ് സമ്മതിച്ചു  (file_4909)
+സ്നേഹം അര്‍ത്ഥവത്താണ് സമ്മതിച്ചു  (file_4909)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്നേഹം ടാര്‍‌സ് സ്നേഹം  (file_4910)
+സ്നേഹം ടാര്‍‌സ് സ്നേഹം  (file_4910)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്നേഹം നമുക്ക്   അനുഭവവേദ്യമാകും  (file_4911)
+സ്നേഹം നമുക്കിത് ആയിരിക്കും       (file_4911)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** സ്നേഹം നമ്മള്‍ കണ്ടുപിടിച്ചതല്ല  (file_4912)
+ഇത് സ്നേഹം നമ്മള്‍ കണ്ടുപിടിച്ചതല്ല  (file_4912)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സ്പിയർ ആണ് റോം    (file_4913)
+സ്പിയർ *** കാണണം  (file_4913)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സ്പേസ്ഷിപ്പിന്‍റെ അവസാനത്തെ ഭാഗം  (file_4914)
+സ്പേസ്ഷിപ്പിന്‍റെ അവസാനത്തെ ഭാഗം  (file_4914)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്റ്റെപ്പിനി എടുത്തോണ്ട് വാ      (file_4915)
+***          സിനിമ       പണമാണ്  (file_4915)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+സ്റ്റേഷനില്‍ തീവണ്ടി വരുന്ന ഒന്ന്    (file_4916)
+സ്റ്റേഷനില്‍ ***     വേണ്ട  ഏറ്റവും  (file_4916)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+സ്റ്റേഷനില്‍ വേണ്ട ***  (file_4917)
+സ്റ്റേഷനില്‍ വേണ്ട ആണ്  (file_4917)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+സ്റ്റേഷന്‍ ഇന്‍സ്പെക്റ്റര്‍ ആ            കുട്ടി  ഉണ്ടാക്കിയതാണ്  (file_4918)
+***        ***              സ്റ്റേഷനില്‍ സർക്കാർ ഭരണകൂടം         (file_4918)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+സ്റ്റേഷന്‍ ഇന്‍സ്പെക്റ്റര്‍ സുപ്രഭാതം  (file_4919)
+സ്റ്റേഷന്  മിസ്റ്റര്‍       സുപ്രഭാതം  (file_4919)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+സ്ലൈഡ് പ്രദര്‍ശനങ്ങള്‍ നടത്തുന്ന കൂടാരത്തിനടുത്തു കൂടെ പോയപ്പോള്‍  (file_4920)
+സ്ലൈഡ് പ്രദര്‍ശനങ്ങള്‍ നടത്തുന്ന കൂടാരത്തിനടുത്തു കൂടെ പോയപ്പോള്‍  (file_4920)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്വകാര്യ ശേഖരണങ്ങളിലും  (file_4921)
+സ്വകാര്യ ശേഖരണങ്ങളിലും  (file_4921)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്വന്തം കാര്യം നോക്കിയാല്‍ പോരെ        കിളവാ      (file_4922)
+***     ***    ***         സാവധാനത്തിൽ ഒരിക്കലും  (file_4922)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 2
+സ്വന്തം കുഞ്ഞ് മരിക്കുന്നത് കാണാന്‍   (file_4923)
+***     ***    സാന്‍റ       വന്നതാണ്  (file_4923)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+***  സ്വപ്നങ്ങളുടെ നിര്‍മ്മാണം  (file_4924)
+സര്‍ ഞാന്‍         വ്യക്തമാണ്‌  (file_4924)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+***  സ്വപ്നങ്ങളെ പകര്‍ത്താനുള്ള ശക്തി  (file_4925)
+സര്‍ ജോലി        പകര്‍ത്താനുള്ള ശക്തി  (file_4925)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+സ്വപ്നലോകം പോലിരുന്നു  (file_4926)
+സ്വപ്നലോകം പോലിരുന്നു  (file_4926)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്വയം നശിപ്പിക്കല്‍  (file_4927)
+സ്വയം നശിപ്പിക്കല്‍  (file_4927)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്വയരക്ഷയ്കായോ സ്വന്തം കുട്ടികള്‍ക്കായോ അല്ലാതെ  (file_4928)
+സ്വയരക്ഷയ്കായോ സ്വന്തം കുട്ടികള്‍ക്കായോ അല്ലാതെ  (file_4928)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+സ്വാഭാവികമായി ഉണ്ടാകുന്നൊരു പ്രതിഭാസമല്ല  (file_4929)
+സ്വാഭാവികമായി ഉണ്ടാകുന്നൊരു പ്രതിഭാസമല്ല  (file_4929)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** സ്വീറ്റ് ക്രോണ്‍  (file_4930)
+ഇത് സിപ്     റൂം      (file_4930)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+സ്വർണനിറത്തിൽ നല്ല   ഭംഗിയുണ്ടായിരുന്നു  (file_4931)
+സത്യത്തില്‍   തലമാണ് വിമാനം              (file_4931)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+സൗരയുഥത്തിൽ നമ്മുടെ ജീവിതം  (file_4932)
+സൗരയുഥത്തിൽ ***     ബിയർ    (file_4932)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+സർവകലാശാല വളരെ കുറച്ചുപേരെ മാത്രമേ എടുക്കുന്നുള്ളൂ  (file_4933)
+സർവകലാശാല വളരെ കുറച്ചുപേരെ മാത്രമേ കിട്ടും          (file_4933)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** ഹണിമൂണിന് ചെയ്തോ  (file_4934)
+ഇത് ഹണിമൂണിന് ചിത്രം  (file_4934)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഹണിമൂണിന് പോവാണ് പോവാണെന്ന്‍  (file_4935)
+ഹണിമൂണിന് പോവാണ് പോവാണെന്ന്‍  (file_4935)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹണിമൂണ്‍  (file_4936)
+ഇന്ധനം    (file_4936)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** ഹലോ    (file_4937)
+ഇത് കാലും  (file_4937)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഹലോ ഇന്നത്തെ ദിവസം എങ്ങനിരുന്നു  (file_4938)
+ഹലോ ***      ഇത്   വികാസത്തിനും  (file_4938)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഹലോ ഈ   ഹിംഗിന് ഇംഗ്ലീഷിലെന്താണ് പറയുക ***  (file_4939)
+ഹലോ *** ***     ഇംഗ്ലീഷിലെന്താണ് പറയുക ആണ്  (file_4939)
+Words: 5 Correct: 3 Errors: 3 Percent correct = 60.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 1 Deletions: 2 Substitutions: 0
+ഹലോ എനിക്ക് നിങ്ങളെ സഹായിക്കാൻ കഴിയുമോ  (file_4940)
+ഹലോ ***     ചില     സഹായിക്കൂ  കഴിയും   (file_4940)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഹലോ ചിന്‍റു  (file_4941)
+ഹലോ ചുറ്റും  (file_4941)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഹലോ ഞാന്‍ നിന്നെ കാത്തുനിൽക്കുകയാണ്  (file_4942)
+ഹലോ ഞാന്‍ നിന്നെ കാത്തുനിൽക്കുകയാണ്  (file_4942)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹലോ നിങ്ങളുടെയെടുത്ത് എന്താണുള്ളത്  (file_4943)
+ഹലോ ജനലിന്‍റെ         കാണണം         (file_4943)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഹലോ മാഡം  (file_4944)
+ഹലോ മാഡം  (file_4944)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** ഹലോ മിസ്‌  (file_4945)
+ഇത് ഹലോ മിസ്‌  (file_4945)
+Words: 2 Correct: 2 Errors: 1 Percent correct = 100.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഹലോ മുത്തശ്ശി  (file_4946)
+ഹലോ മുത്തശ്ശി  (file_4946)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹലോ റാണിമോളെ ഹിംഗിന് ഇംഗ്ലീഷിൽ ഹിംഗ്  (file_4947)
+ഹലോ റാണിമോളെ ***     ഇംഗ്ലീഷിൽ ഹിംഗ്  (file_4947)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 1 Substitutions: 0
+ഹലോ സുന്ദരി  (file_4948)
+ഹലോ സുന്ദരി  (file_4948)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹാങ്ങ്‌ഓവറാണ് ചക്കരേ  (file_4949)
+ഹാങ്ങ്‌ഓവറാണ് സത്യം   (file_4949)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഹായ്   (file_4950)
+ഹാളിൽ  (file_4950)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഹായ് ചേച്ചി  (file_4951)
+ഹായ് ചേച്ചി  (file_4951)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹായ് പറയൂ    (file_4952)
+***  സമിപനം  (file_4952)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഹിംഗ്  (file_4953)
+ഇതിനെ  (file_4953)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഹിംഗ് കായം  (file_4954)
+ഇതിനു കായം  (file_4954)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഹിന്ദി സംസാരിക്കുന്നു  (file_4955)
+ഇനി    സംസാരിക്കും     (file_4955)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഹൃദയാഘാതമുണ്ടാവും  (file_4956)
+ഹൃദയാഘാതമുണ്ടാവും  (file_4956)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹെർബിസൈഡ് റെസിസ്റ്റൻസ് തളിക്കാനുണ്ട്  (file_4957)
+ഹെർബിസൈഡ് റെസിസ്റ്റൻസ് തളിക്കാനുണ്ട്  (file_4957)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹേ  അവനെ വേദനിപ്പിക്കല്ലേ  (file_4958)
+*** ഹേയ് കോക്ക്ട്ടൈലിലെ    (file_4958)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഹേ  നിൽക്ക് നിൽക്ക് പറയുന്നത് കേൾക്ക്  (file_4959)
+ഹേ  ***     നിൽക്ക് ***       വളയധികം  (file_4959)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ഹേയ് ഇവിടെ വാടാ   (file_4960)
+***  ചില   കാണാം  (file_4960)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഹേയ്ശാന്തമാകൂ  (file_4961)
+ഹേയ്ശാന്തമാകൂ  (file_4961)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹേയ്ഹലോ ഇനിയിങ്ങോട്ട് വരരുത്       (file_4962)
+ഹേയ്ഹലോ ***           ന്യൂട്ടന്റെ  (file_4962)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഹേയ്     (file_4963)
+ഇത്രയും  (file_4963)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഹേയ് ആരാണ് നീ       (file_4964)
+ഹേയ് ***   കാണാനും  (file_4964)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഹേയ് ഇതാരാണ്  (file_4965)
+പോയി ആരാണ്    (file_4965)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ഹേയ് ഈ   ഹിംഗിന് ഇംഗ്ലീഷിലെന്താണ് പറയുക           (file_4966)
+***  *** കേസ്    ഇംഗ്ലീഷ്         പന്തലുപണിക്കാർ  (file_4966)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+ഹേയ് എടാ     (file_4967)
+***  കേടാണ്  (file_4967)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഹേയ് കുറച്ച് കുപ്പികൾ പൊട്ടിച്ച് ഇങ്ങോട്ടും കൊണ്ട്      വാ   (file_4968)
+ഹേയ് കുറച്ച് കുപ്പികൾ പൊട്ടിച്ച് ***        എന്തുകൊണ്ട് ആണ്  (file_4968)
+Words: 7 Correct: 4 Errors: 3 Percent correct = 57.14% Error = 42.86% Accuracy = 57.14%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഹേയ് ചിന്‍റു വേണ്ട പോട്ടെ  (file_4969)
+ഹേയ് ചിന്‍റു വേണ്ട പോട്ടെ  (file_4969)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹേയ് ഞങ്ങൾക്ക് ഒരു കിലോ മിഠായി       കിട്ടുമോ    (file_4970)
+***  ***       *** ***  വേണമെങ്കിലും ആയിരിക്കും  (file_4970)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 4 Substitutions: 2
+ഹേയ് ടാക്ക    ഞാനെന്താണ് ഉണ്ടാക്കുക  (file_4971)
+***  ബഹിരാകാശ എന്താണാ    പോവാം       (file_4971)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ഹേയ് നിങ്ങള്‍ ചെയ്തുകൊണ്ടിരുന്നത് ***  (file_4972)
+ഹേയ് നിങ്ങള്‍ ചെയ്തുകൊണ്ടിരുന്നത് ആണ്  (file_4972)
+Words: 3 Correct: 3 Errors: 1 Percent correct = 100.00% Error = 33.33% Accuracy = 66.67%
+Insertions: 1 Deletions: 0 Substitutions: 0
+ഹേയ് നിങ്ങള്‍ പോയിക്കഴിയുമ്പോൾ നിങ്ങളുടെ ട്രക്ക് ഞാന്‍        ഉപയോഗിക്കട്ടേ  (file_4973)
+ഹേയ് നിങ്ങള്‍ പോയിക്കഴിയുമ്പോൾ ***       ***     നടക്കാറുണ്ട് യുദ്ധത്തിന്റെ  (file_4973)
+Words: 7 Correct: 3 Errors: 4 Percent correct = 42.86% Error = 57.14% Accuracy = 42.86%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഹേയ് നീ  അവളേം കൂട്ടിയാണോ പോവുന്നത്  (file_4974)
+ഹേയ് *** ***   ഹണിമൂണ്‍   ഭരണകൂടം    (file_4974)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ഹേയ് പ്രേമമൊന്നുമല്ലാ എന്‍റെ അച്ഛനമ്മരാണെ സത്യം  (file_4975)
+ഹേയ് പ്രേമമൊന്നുമല്ലാ എന്‍റെ അച്ഛനമ്മരാണെ സത്യം  (file_4975)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹേയ് മാറി നില്‍ക്ക്   (file_4976)
+ഹേയ് മാറി നില്‍ക്കണം  (file_4976)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ഹേയ് സോണൽ ഇത് റാണിയാണ്  (file_4977)
+ഹേയ് സോണൽ ഇത് റാണിയാണ്  (file_4977)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹേയ് ഹണിമൂണ്‍ രാജകുമാരി  (file_4978)
+ഹേയ് ഹണിമൂണ്‍ രാജകുമാരി  (file_4978)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹേയ് ഹിന്ദി പാട്ട്  (file_4979)
+ഹേയ് ഹിന്ദി പാട്ട്  (file_4979)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹേയ് ഹോം സയൻസ്  (file_4980)
+ഹേയ് ഹോം സയൻസ്  (file_4980)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹേയ് നിന്റെ സത്യസന്ധത പരാമീറ്റർ എത്രയാണ്  (file_4981)
+***  വേണ്ട  സത്യസന്ധത പരാമീറ്റർ എത്രയാണ്  (file_4981)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ഹൈഡ്രോകാര്‍ബണ്‍ ***     ഓര്‍ഗാനിക്സ്  (file_4982)
+ഹൈഡ്രോകാര്‍ബണ്‍ കോഡില്‍ എസ്           (file_4982)
+Words: 2 Correct: 1 Errors: 2 Percent correct = 50.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഹോട്ടൽ ജോലിക്കാരിയാണ്  (file_4983)
+ഹോട്ടൽ ജോലിക്കാരിയാണ്  (file_4983)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ഹ്യൂഗോ ഹ്യൂഗോ കാബറെറ്റ്  (file_4984)
+***    ഹ്യൂഗോ ലോകത്തെ    (file_4984)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+***   ഹ്യൂഗോ  (file_4985)
+ഇതിനു ബോംബ്  (file_4985)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ഹ്യൂഗോ എന്താ നിന്നെ  പപ്പ  ജോര്‍ജ് സിനിമയ്ക് വിടാത്തത്  (file_4986)
+***    ***   ഇരിക്കൂ ഇതിന് അധികം   മരവിച്ച   കിടക്കാം   (file_4986)
+Words: 7 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 5
+ഹ്യൂഗോ എന്‍റെയൊപ്പം നിന്നില്ലെങ്കില്‍  (file_4987)
+ഹ്യൂഗോ ഇറങ്ങിയ      കമ്പനിയിൽ          (file_4987)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+*** ഹ്യൂഗോ   കാബറെറ്റ്  (file_4988)
+ഇത് ഇല്ലല്ലോ ഡാർലിംഗ്   (file_4988)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ഹ്യൂഗോ നീ   എവിടെയാ         താമസിക്കുന്നത്  (file_4989)
+***    ഇല്ല തോന്നിയിട്ടില്ല താമസിക്കുന്നത്  (file_4989)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ഹ്യൂഗോ നോക്ക്നോക്ക് ഇതിന്‍റെ പണി        തീര്‍ന്നിട്ടില്ല  (file_4990)
+***    ഇത്          ഹ്യൂഗോ   ബുക്കുകള്‍ കിട്ടിയിട്ടില്ലാ  (file_4990)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+*** ഹ്യൂഗോ റോബിന്‍ ഹുഡ്  (file_4991)
+ഇത് ഹ്യൂഗോ റോബിന്‍ കൂടി  (file_4991)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** ഹ്യൂഗോ ലാണ് ***     ആദ്യമായി  (file_4992)
+ഇത് ഹ്യൂഗോ ലാണ് അതിവിടെ ഗുഡ്      (file_4992)
+Words: 3 Correct: 2 Errors: 3 Percent correct = 66.67% Error = 100.00% Accuracy = 0.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+ഹ   അതു നോക്ക്     (file_4993)
+*** ഫാം അടുത്താണ്  (file_4993)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+TOTAL Words: 667 Correct: 342 Errors: 380
+TOTAL Percent correct = 51.27% Error = 56.97% Accuracy = 43.03%
+TOTAL Insertions: 55 Deletions: 82 Substitutions: 243
