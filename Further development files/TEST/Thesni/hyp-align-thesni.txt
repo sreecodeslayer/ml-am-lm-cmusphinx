@@ -1,0 +1,1003 @@
+വളരെ കുറച്ചുപേര്‍ക്കേ എന്‍റെ അവസ്ഥ ഉണ്ടായിട്ടുള്ളൂ  (file_4501)
+വളരെ കുറച്ചുപേര്‍ക്കേ ***    ***   വാസ്തവത്തിൽ      (file_4501)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+വളരെ നന്ദി  (file_4502)
+***  പറയണം  (file_4502)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വളരെ നല്ല കടയായിരുന്നു  (file_4503)
+***  ***  കാര്യങ്ങളിൽ   (file_4503)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+വളരെ നല്ല സമിപനം ഒരു     കള്ളനോട്   (file_4504)
+***  ***  ***    പറയാന്‍ സിനിമകള്‍  (file_4504)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 2
+വളരെ പെട്ടന്ന്  (file_4505)
+വളരെ വേഗം       (file_4505)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വളരെ ഭംഗിയുള്ള സ്ഥലമാണ്      (file_4506)
+വളരെ ***       വിന്യസിക്കും  (file_4506)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വളരെ മികച്ച സോളാർ ബാറ്ററികൾ  (file_4507)
+***  അവിടെ  സോളാർ ബാറ്ററികൾ  (file_4507)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വളരെ മോശമാണ്  (file_4508)
+വളരെ മോശമാണ്  (file_4508)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** വളരെ  ലളിതമായി  (file_4509)
+അത് ഏഴിന് മാറ്      (file_4509)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+വളരെ     വെത്യസ്തമല്ലേ സ്പേസിനേക്കാളും  (file_4510)
+കാലാവസ്ഥ മിസിസ്        നിന്നാണ്         (file_4510)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വളരെ വേഗത്തിലുള്ളതെന്തിനും അവിടം കടന്ന്  (file_4511)
+വളരെ വേഗത്തിലുള്ളതെന്തിനും അവിടം ***     (file_4511)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 1 Substitutions: 0
+വളരെ ശാന്തമായ മരണം  (file_4512)
+വളരെ ശാന്തമായ മരണം  (file_4512)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വളരെ സമർത്ഥയും  (file_4513)
+വളരെ സമർത്ഥയും  (file_4513)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വളരെ സമർഥമായി  (file_4514)
+വളരെ സമർഥമായി  (file_4514)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വളരെ    സുന്ദരനായിട്ടുണ്ട്  (file_4515)
+ജയിച്ചു വേണമായിരുന്നു       (file_4515)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വഴികള എനിക്ക്  ഇപ്പോഴും മനസ്സിലാകുന്നില്ല  (file_4516)
+***   വഴിയില്‍ ഒരൊഴിവ്  അവസാനം             (file_4516)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വഴിമാറ്  (file_4517)
+വഴിമാറ്  (file_4517)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വഴിമാറ് മോനേ  (file_4518)
+വഴിമാറ് മോളെ  (file_4518)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** *** വഴിയില്‍നിന്നും മാറ്  (file_4519)
+ഇത് വഴി നിന്ന്          മാറ്  (file_4519)
+Words: 2 Correct: 1 Errors: 3 Percent correct = 50.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 2 Deletions: 0 Substitutions: 1
+വഴിയില്‍ നിന്നും മാറെടോ  (file_4520)
+***      കഴിഞ്ഞ  ആറ്     (file_4520)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വഴിയില്‍ നിന്ന് മാറ് നീങ്ങ്  (file_4521)
+***      കഴിയും മാറ് ***     (file_4521)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+വഴി മാറ്     (file_4522)
+*** വഴിമാറ്  (file_4522)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വസ്തുവകകളൊക്കെ കൂട്ടിവയ്ക്കാം  (file_4523)
+വസ്തുവകകളൊക്കെ ഭൂരിഭാഗം        (file_4523)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വാംഹോളിൽ നിന്നുള്ള നിരീക്ഷണത്തിൽ  (file_4524)
+ബോംബ്   ആണെന്നാണ് നിമിഷത്തില്‍   (file_4524)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വാക്വം ക്ലീനര്‍ ആക്കും  (file_4525)
+***    കാഹളം    കയറ്    (file_4525)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വാഗ്ദാനങ്ങള്‍ നല്‍കരുത് നിനക്കത്   പൂര്‍ത്തിയാക്കാന്‍  (file_4526)
+***           ഇതാണ്     സാങ്കല്പിക പൂജ്യം              (file_4526)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വാടാ   (file_4527)
+കാരണം  (file_4527)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വാടാ ചെറു  കീടമേ    (file_4528)
+***  കാരണം ചെയ്യണം  (file_4528)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വാതിലിനുള്ളിൽ കയറ്  (file_4529)
+കാരണം         കേറ്  (file_4529)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വാതിലുകൾ     അടക്കുന്നു  (file_4530)
+പാരിസിലേക്ക് വന്നു       (file_4530)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വാതില്‍ ഇനി       തുറക്കാം  (file_4531)
+***     വായുവില്‍ വരും      (file_4531)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വാതില്‍   തുറക്കരുത്  (file_4532)
+ഇക്കാര്യം അദ്ദേഹത്തെ  (file_4532)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വാതില്‍ തുറക്കരുത് ഞാന്‍        (file_4533)
+***     ***        ജാർഗണ്ടിലും  (file_4533)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+വാതില്‍ തുറക്കാനാവില്ല  (file_4534)
+പാടില്ല പാടില്ല         (file_4534)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വാതില്‍ തുറന്നാല്‍  (file_4535)
+വാതില്‍ കളറാണ്      (file_4535)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വാതിൽ തുറക്ക്     (file_4536)
+നീ    ആദ്യംതന്നെ  (file_4536)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വാതിൽ തുറക്ക് മോളെ  (file_4537)
+***   ജീവന്റെ അവളെ  (file_4537)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വാനീ  തയ്യാറല്ലേ  (file_4538)
+ഞാന്‍ ഇവിടെയാണ്‌  (file_4538)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വായയടക്കെടാ പുല്ലേ       (file_4539)
+***         ജാർഗണ്ടിലും  (file_4539)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വായയിൽ രുചിയുടെ ഒരു സുനാമി     തന്നെയുണ്ടാവും  (file_4540)
+വായയിൽ രുചിയുടെ *** അവസരമുണ്ട് എന്നാണു         (file_4540)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വായുവില്‍ അമോണിയ വളരെ കൂടുതലാണ്  (file_4541)
+വായുവില്‍ അമോണിയ വളരെ കൂടുതലാണ്  (file_4541)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വായു സമ്മര്‍ദ്ദം ഇല്ലാതാകും     (file_4542)
+***  വിജയ്‌      സങ്കടത്തിലാണ്  (file_4542)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വാവാ നമുക്ക് പോവാം        (file_4543)
+നീ   നല്ല    ഞാനിപ്പോള്‍  (file_4543)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വാസയോഗ്യമായ ഗ്രഹമാണ് നാം കണ്ടുപിടിക്കേണ്ടത്  (file_4544)
+വാസയോഗ്യമായ ഗ്രഹമാണ് നാം കണ്ടതില്‍           (file_4544)
+Words: 4 Correct: 3 Errors: 1 Percent correct = 75.00% Error = 25.00% Accuracy = 75.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   വാസ്തവത്തിൽ പന്ത്രണ്ട്  (file_4545)
+ഞാന്‍ അവരുടെ      കഴുകട്ടെ    (file_4545)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+വാ     (file_4546)
+നാള്‍  (file_4546)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വാ  ഇവിടെ     (file_4547)
+*** ഞാനിവിടെ  (file_4547)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വാ  കുറച്ച് പഴയ   കാര്യങ്ങള്‍ പറയാം   (file_4548)
+നീ  മാറ്    വച്ച് കഴിക്കാതെ   കാര്യം  (file_4548)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 5
+വികസിക്കാത്ത വോം ഹോൾ വഴി ആണ്  (file_4549)
+വികസിക്കാത്ത വോം ഹോൾ വഴി ആണ്  (file_4549)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വികാസത്തിനും ആ   ചെറിയ    (file_4550)
+വികാസത്തിനും ആ   ചെയ്യാം  (file_4550)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വിചാരിക്കുന്നത് അത് ഒരു      സ്പിയർ  ആണെന്നാണോ  (file_4551)
+***             *** നീയെന്താ കസിനാണ് വാം        (file_4551)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+വിജയത്തിനരികെ  (file_4552)
+ജെസ്സിയുടെയും  (file_4552)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വിജയലക്ഷ്മിഓഹ് നിങ്ങള്‍ രാജകുമാരിറാണി  (file_4553)
+വിജയലക്ഷ്മിഓഹ് ***      കിടക്കുകയാണ്   (file_4553)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വിജയലക്ഷ്മി അയച്ചതാണ്       (file_4554)
+നിന്‍റെ     നിഷ്‌കളങ്കരാണ്  (file_4554)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വിജയിയാണ് സംസാരിക്കുന്നത്  (file_4555)
+നിധിയാണ്‌ സംസാരിക്കണം      (file_4555)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വിജയിയുടെ ഫോണ്‍  വന്നിരുന്നോ  (file_4556)
+ഫിസ്സി    അപ്പോൾ വരും         (file_4556)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വിജയിയോട് ഞാന്‍             സംസാരിക്കാം  (file_4557)
+***       വിദ്യാർത്ഥിനിയാണ് സംസാരിക്കാം  (file_4557)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വിജയ്‌ അവർ നമ്മുടെ പാട്ട്         നിർത്തി  (file_4558)
+***    *** ***     വിദേശികള്‍ക്ക് പാർട്ടി  (file_4558)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 2
+***    വിജയ്‌ചന്ദാ അങ്കിൾ അച്ഛനോട് പറയുന്നത്  (file_4559)
+നീങ്ങി റേഞ്ചര്‍    ആ      കുറച്ച്  കഴിഞ്ഞ്    (file_4559)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+വിജയ്‌ നമ്മുക്ക് നാളെ    സംസാരിക്കാം  (file_4560)
+വിജയ്‌ വിജയ്‌    നമുക്ക് പാർസലാണ്     (file_4560)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വിജയ്‌ മോനെ        ഇവിടെ വാ     (file_4561)
+***    ജോര്‍ജിന്റെ കാരണം വിടാം  (file_4561)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വിജയ്‌ലക്ഷ്മിയാണ് റിസർവേഷൻ     ചെയ്തത്    (file_4562)
+ഞാന്‍             പേടിയാണെന്ന് സമർത്ഥയും  (file_4562)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+***   വിജയ്‌  വിജയ്‌  (file_4563)
+ഞാന്‍ വിജയുടെ ചേരും   (file_4563)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+വിജയ്‌ വിജയ്‌     എന്ത്  (file_4564)
+***    ഞാനിതിന്റെ വേണം   (file_4564)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വിജയ്‌ വേറെയെന്തെങ്കിലും ചെയ്യാൻ കഴിയുമോ  (file_4565)
+വിജയ്‌ വേറെയെന്തെങ്കിലും ചില     കഴിയും   (file_4565)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വിട ടാര്‍‌സ്  (file_4566)
+നഗർ ടാര്‍‌സ്  (file_4566)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വിട   ഡോ      ബ്രാന്റ്  (file_4567)
+വേണ്ട നമ്മള്‍ ടാര്‍‌സ്  (file_4567)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വിദേശികള്‍ക്ക് ലാജ്പത് നഗര്‍ എന്ന് കേട്ടാലേ ചിരി       വരും   (file_4568)
+വിദേശികള്‍ക്ക് ***     ***   ***   എന്താ    സങ്കടകരമായ സംഭവം  (file_4568)
+Words: 7 Correct: 1 Errors: 6 Percent correct = 14.29% Error = 85.71% Accuracy = 14.29%
+Insertions: 0 Deletions: 3 Substitutions: 3
+***   വിദ്യാഭ്യാസമില്ലാത്ത കർഷകൻ     (file_4569)
+ഞാന്‍ ഗസ്റ്റ്              നക്ഷത്രം  (file_4569)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+വിപുലമായ കൃഷി ഒരു വർഷം മുൻപേ തുടങ്ങണമെന്ന്  (file_4570)
+വിപുലമായ കൃഷി *** വർഷം ***   ഞാനെന്താണ്     (file_4570)
+Words: 6 Correct: 3 Errors: 3 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+വിമാനങ്ങള്‍ക്കും ടിവി       സെറ്റിനും ഒന്നുമല്ല നമുക്ക്    ക്ഷാമം  (file_4571)
+***              വിവരങ്ങള്‍ മുടി      സ്റ്റെപ്  പറയാനുണ്ട് ക്ഷാമം  (file_4571)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 1 Substitutions: 4
+വിരസമായ ഇരുട്ട്    (file_4572)
+വിരസമായ നിര്‍ത്ത്  (file_4572)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   വിലകല്പ്പിക്കുന്നു കുപെർ  (file_4573)
+ഞാന്‍ കണ്ടെത്താന്‍       പോവാം  (file_4573)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+വിളിക്കാൻ പറഞ്ഞതല്ലേ  (file_4574)
+വിവാഹം    പാർലറിൽ     (file_4574)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വിവരങ്ങളെല്ലാം ഇമെയിൽ ചെയ്യണം  (file_4575)
+വ്യതിയാനം      തീരെ   ചിലത്    (file_4575)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വിവരങ്ങള്‍ മോര്‍സിലേയ്ക് മാറ്റുന്നു  (file_4576)
+വിവരങ്ങള്‍ മോര്‍സിലേയ്ക് മാറ്        (file_4576)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വിവരങ്ങള്‍ ആവർത്തിച്ച്‌ പറയുന്നു       (file_4577)
+***        വേഗത         പാര്‍ട്സുകള്‍  (file_4577)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+***    വിവാഹം  (file_4578)
+വിജയ്‌ വാം     (file_4578)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+വിവാഹം കഴിക്കാതെ കുട്ടിയോ  (file_4579)
+വിവാഹം കഴിക്കാതെ പുതിയവ    (file_4579)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വിവാഹം കഴിഞ്ഞ് അടുത്ത ദിവസം  (file_4580)
+വിവാഹം കഴിഞ്ഞ് അടുത്ത ദിവസം  (file_4580)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വിവാഹം നടക്കേണ്ടതായിരുന്നു  (file_4581)
+വിവാഹം നടക്കേണ്ടതായിരുന്നു  (file_4581)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വിവാഹത്തിന്‍റെയെല്ലാം മുമ്പ്          ഞങ്ങളെപ്പോളും  (file_4582)
+നാം                   കടക്കേണ്ടതുണ്ട് പറഞ്ഞോളു       (file_4582)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വിശന്നുമരിക്കാന്‍  (file_4583)
+വിശന്നുമരിക്കാന്‍  (file_4583)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വിശ്വസിച്ചു  (file_4584)
+വിശ്വസിച്ചു  (file_4584)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** വിശ്വാസിക്കണമെന്നാണ് ഞാന്‍ നിന്നോട് ആവശ്യപ്പെട്ടതും  (file_4585)
+നാം വിശ്വസിക്കണം         കണ്ടു പക്ഷെ    ഡോ               (file_4585)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+വിഷമമില്ലെന്ന് തോന്നുന്നു          (file_4586)
+***            വിഷമമുണ്ടായിരുന്നു  (file_4586)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വിഷമമുണ്ടായിരുന്നു  (file_4587)
+വിഷമമുണ്ടായിരുന്നു  (file_4587)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***  ***   വീട്ടിലെല്ലാവരും അന്വേഷിക്കുകയാണ്  (file_4588)
+സിഡി ആദ്യം കണ്ട             ശരിയാണ്           (file_4588)
+Words: 2 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 2 Deletions: 0 Substitutions: 2
+വീട്ടില്‍ പോകൂ   (file_4589)
+ചില       പോവും  (file_4589)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വീട്ടിൽവെച്ച് കണ്ടാൽ   മതി    (file_4590)
+***           തിരിച്ചു കാണണം  (file_4590)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വീട്ടിൽ എല്ലാവരുമെന്നോട് ദേഷ്യത്തിലാണ്   (file_4591)
+വിട്ടു  റാണി             ഉദ്ദേശിച്ചില്ല  (file_4591)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വീട്ടിൽ പോയി അച്ഛനോടും അമ്മയോടും എന്തുപറയും      (file_4592)
+***     ***  വിട       കഴിക്കലും കണ്ടുപിടിക്കണം  (file_4592)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+***    വീട്ടിൽ വിവാഹത്തിനുള്ളയെല്ലാ ഒരുക്കങ്ങളും കഴിഞ്ഞു  (file_4593)
+സ്ഥിതി വിവാഹം  പഴയ                  ഒരുക്കങ്ങളും കഴിഞ്ഞു  (file_4593)
+Words: 4 Correct: 2 Errors: 3 Percent correct = 50.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+വീട്ടുകാർക്കും സുഹൃത്തുക്കള്‍ക്കും  (file_4594)
+കിടക്കാം       സുഹൃത്തുക്കള്‍ക്കും  (file_4594)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വീട് പോയി       (file_4595)
+***  വേണംപോലും  (file_4595)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വീഡിയോഗെയിമും എല്ലാമുണ്ട്  (file_4596)
+വിളിക്കുക     നമുക്ക്      (file_4596)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വീണ്ടും ആ   കാലം   നീട്ടാന്‍ കഴിയും       (file_4597)
+***     *** സ്പിയർ ആർക്കാണ്  വിവര്‍ത്തനം  (file_4597)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+***  വീണ്ടും   എടുക്കാംഡ്രാഗണിനെ സെറ്റ് ചെയ്യ്‌    (file_4598)
+ഹേയ് നല്‍കരുത് ആഹ്               റാണി   കുടിച്ചാൽ  (file_4598)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+വീണ്ടും എന്നെ      ബുദ്ധിമുട്ടിക്കാതെ  (file_4599)
+***     വേണ്ടവേണ്ട ബുദ്ധിമുട്ടിക്കാതെ  (file_4599)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വീണ്ടും ഒരനാഥന്‍     കൂടി  (file_4600)
+***     വികൃതമാകട്ടെ കൂടി  (file_4600)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വീണ്ടും കാണാം       കൂപ്പ്  (file_4601)
+***     പിറന്നാളാണ് റൂം     (file_4601)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വീണ്ടും പറയുന്നു  (file_4602)
+ജേനും   പറയണം     (file_4602)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വീണ്ടും പറയുന്നു ആ       ചെറിയ         (file_4603)
+***     വേഗം     കാര്യമോ വാര്‍ദ്ധക്യം  (file_4603)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വീണ്ടും പോകും     തിരിച്ചു വരും  (file_4604)
+***     വേണംപോലും തിരിച്ചു വരും  (file_4604)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വീണ്ടും പ്രവര്‍ത്തനം  (file_4605)
+വേഗം    കണ്ടെത്തണം    (file_4605)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വീണ്ടും പ്രവര്‍ത്തിക്കാന്‍  (file_4606)
+വേഗം    പ്രാര്‍ത്ഥിക്കണം    (file_4606)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***   വൂഹൂ  (file_4607)
+ഫോണ്‍ നൂറ്  (file_4607)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+വെക്കണം     (file_4608)
+നില്‍ക്കണം  (file_4608)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വെച്ചോളു ആവശ്യം വരും  (file_4609)
+വെച്ചോളു ആവശ്യം വരും  (file_4609)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വെടിമരുന്ന് വരട്ടെ      (file_4610)
+***         വിമാനത്തിൽ  (file_4610)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വെടി വെക്കരുത് എന്‍റെ കയ്യില്‍ ആയുധമൊന്നും ഇല്ല              (file_4611)
+***  ***       ***    ***      വളരെ        വേണ്ടിയായിരുന്നു  (file_4611)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 4 Substitutions: 2
+വെറും അഞ്ച് മിനിട്ട്  (file_4612)
+***   വേഗം  കണ്ണില്‍  (file_4612)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വെറും പത്തിൽ  താഴെ കിലോ തൂക്കം  (file_4613)
+***   അവന്‍റെ താഴെ കിലോ തൂക്കം  (file_4613)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വെറുതെ    (file_4614)
+ഞാനിവിടെ  (file_4614)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വെറുമൊരു കുട്ടിയല്ല  (file_4615)
+വേണ്ട    കുപ്പികൾ    (file_4615)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***    വെളിച്ചമല്ലാതെ  (file_4616)
+പിന്നെ ശരിയാക്കാം      (file_4616)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+*** വെളുത്തുള്ളിയും ഇഞ്ചിയും ചുട്ടത്  (file_4617)
+ഒരു കഴിയും          നശിച്ചു  സര്‍     (file_4617)
+Words: 3 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 133.33% Accuracy = -33.33%
+Insertions: 1 Deletions: 0 Substitutions: 3
+വെള്ളം  (file_4618)
+ഞങ്ങൾ   (file_4618)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വെള്ളം മാത്രമോ അമ്മാ റാണി വന്നിട്ടുണ്ട്  (file_4619)
+ഞാന്‍  മാത്രമോ അമ്മാ റാണി അതിന്‍റെ       (file_4619)
+Words: 5 Correct: 3 Errors: 2 Percent correct = 60.00% Error = 40.00% Accuracy = 60.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***   വേഗംപോപോ  (file_4620)
+വേണ്ട പോവും     (file_4620)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+വേഗം   (file_4621)
+ജേനും  (file_4621)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വേഗം അതെനിക്ക് തരൂ         (file_4622)
+***  വേഗത      ടിക്കറ്റും  (file_4622)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വേഗം  എടുക്കെടി  (file_4623)
+ജേന്‍ കടകളില്‍   (file_4623)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വേഗം       നിന്റെ പോക്കറ്റിലുള്ളതൊക്കെ എടുക്ക്  (file_4624)
+സ്റ്റേഷന്‍ ഇവിടെ  അകിടുള്ള             തിരികെ   (file_4624)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+വേഗം പറയൂ ഡാഡി   (file_4625)
+വേഗം ***  കാരണം  (file_4625)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വേഗം പറയ്    (file_4626)
+വേഗം കഴിയും  (file_4626)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വേഗം പറ  ഹിംഗിന് കായം ഇംഗ്ലീഷിലെന്താണ് പറയുക  (file_4627)
+വേഗം പറ  ഹിംഗിന് കായം ഇംഗ്ലീഷിലെന്താണ് പറയുക  (file_4627)
+Words: 6 Correct: 6 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേഗം വേഗം മര്‍ഫ് വേഗം  (file_4628)
+വേഗം വേഗം മര്‍ഫ് വേഗം  (file_4628)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേഗം വേഗം വേഗം  (file_4629)
+വേഗം വേഗം വേഗം  (file_4629)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേഗം  വേണേ  (file_4630)
+വേണ്ട വേണം  (file_4630)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വേഗം സ്ഥലം   വിട്       (file_4631)
+***  അദ്ദേഹം കണ്ടില്ലേ  (file_4631)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വേഗത     കുറയ്കുന്നതാണ് നല്ലത്  (file_4632)
+ദേവതകള്‍ കണ്ടതാണ്       മതി     (file_4632)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വേഗത കൂട്ടൂ    (file_4633)
+***  വേരെയൊരു  (file_4633)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വേഗമാവട്ടെ  (file_4634)
+വേഗമാവട്ടെ  (file_4634)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേഗമാവട്ടെ ടാര്‍‌സ്  (file_4635)
+വേഗമാവട്ടെ ടാര്‍‌സ്  (file_4635)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേഗമാവട്ടെ മുത്തെ  (file_4636)
+വേഗമാവട്ടെ മുത്തെ  (file_4636)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേഗം എനിക്ക് അതിനെ നഷ്ട്മാകുന്നു    (file_4637)
+***  ***     പേടകം മിണ്ടാതിരിക്കുക  (file_4637)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+വേണം   (file_4638)
+ജേനും  (file_4638)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വേണ്ട ഒന്നും വേണ്ട  (file_4639)
+വേണ്ട ഒന്നും വേഗം   (file_4639)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വേണ്ട നിങ്ങൾക്കിവിടെ കിടക്കാം   (file_4640)
+വേണ്ട ബിയർ           കുടിക്കും  (file_4640)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വേണ്ടപ്പെട്ടവര്‍ക്കായി നമ്മള്‍  എന്തും         ചെയ്യും  (file_4641)
+***                    ദേവതകള്‍ കളിക്കുന്നതിന് ഡൽഹിയിൽ  (file_4641)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വേണ്ട റാണി      (file_4642)
+വേണ്ട ആർക്കാണ്  (file_4642)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വേണ്ടവേണ്ട നിങ്ങളിത് ഇവിടെനിന്നും കൊണ്ടു പൊയ്ക്കോ      (file_4643)
+വേണ്ടവേണ്ട നിങ്ങളിത് ***          അതിൽ   ഒന്നെങ്കിലും  (file_4643)
+Words: 5 Correct: 2 Errors: 3 Percent correct = 40.00% Error = 60.00% Accuracy = 40.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+വേണ്ടാ  (file_4644)
+പേരാണ്  (file_4644)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വേണ്ടാ മോനേ     (file_4645)
+ജേന്‍  അവളില്‍  (file_4645)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വേണ്ടിയായിരുന്നു വഴക്ക്  (file_4646)
+വേണ്ടിയായിരുന്നു വഴക്ക്  (file_4646)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***   വേണ്ട  (file_4647)
+ജേന്‍ കാണാം  (file_4647)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+വേണ്ട അതിനൊരു മനുഷ്യകരം  തന്നെ    വേണം   (file_4648)
+***   ***     വേഗമാവട്ടെ ശക്തമാണ് കണ്ടു  (file_4648)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+വേണ്ട ആവുന്നത്ര ഇവള്‍      (file_4649)
+വേണ്ട ആർക്കാണ്  കഴിക്കലും  (file_4649)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വേണ്ട എനിക്കവിടെ പറ്റില്ല       (file_4650)
+വേണ്ട ***        ഗിയറിലെക്കിട്  (file_4650)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വേണ്ട എനിക്ക് നിങ്ങളുടെ പണം വേണ്ട  (file_4651)
+വേണ്ട എനിക്ക് നിങ്ങളുടെ പണം വേണ്ട  (file_4651)
+Words: 5 Correct: 5 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേണ്ട എനിക്ക് പവര്‍ കൂട്ടികിട്ടണം  (file_4652)
+വേണ്ട എനിക്ക് പവര്‍ കൂട്ടികിട്ടണം  (file_4652)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേണ്ട എനിക്ക് മതി   (file_4653)
+വേണ്ട എനിക്ക് വരും  (file_4653)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വേണ്ട കല്യാണത്തിന്‍റെ തലേന്നെന്താണ്  (file_4654)
+വേണ്ട കല്യാണത്തിന്‍റെ തലേന്നെന്താണ്  (file_4654)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേണ്ട ഞങ്ങൾ ഗോൽഗപ്പാ കഴിക്കാൻ     പോവുകയാണ്  (file_4655)
+വേണ്ട ***   ഹഹ       കൊൽക്കത്തയിൽ പോലെയാണ്   (file_4655)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വേണ്ട ഞാനിവിടെ   നിൽക്കുകയാണ്  (file_4656)
+***   വേഗമാവട്ടെ നിൽക്കുകയാണ്  (file_4656)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വേണ്ട ***      ഞാനെന്തായാലും ഉറക്കമായിരിക്കും  (file_4657)
+വേണ്ട അഹങ്കാരം അവർ           തമ്മിൽ            (file_4657)
+Words: 3 Correct: 1 Errors: 3 Percent correct = 33.33% Error = 100.00% Accuracy = 0.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+വേണ്ട നമുക്ക് അവരെ ഇത്         കാണിച്ച്  (file_4658)
+വേണ്ട ***     ***  മുകളിലേക്ക് കാണിച്ചു  (file_4658)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+വേണ്ട  മതി  (file_4659)
+പേരാണ് മതി  (file_4659)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വേണ്ട വേണ്ടവേണ്ട  (file_4660)
+വേണ്ട വേണ്ടവേണ്ട  (file_4660)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേണ്ട വേണ്ടാ കള്ളന്‍ കള്ളന്‍  (file_4661)
+വേഗം  വേണേ   കാഹളം   കണ്ടു    (file_4661)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+വേണ്ട      വേണ്ട  (file_4662)
+വേണ്ടവേണ്ട ആണ്    (file_4662)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വേദനയില്ലാത്ത മരണം       (file_4663)
+ഹേയ്          ആര്‍ക്കും  (file_4663)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വേര്‍പെടുത്തൂ  (file_4664)
+വേര്‍പെടും     (file_4664)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+***   വേര്‍പെടൂ  (file_4665)
+ജേനും ഹും        (file_4665)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***   വേറെന്തോപോലത്തെ സ്ഥലമാണെന്ന് തോന്നുന്നു  (file_4666)
+വേണ്ട കൊണ്ട്          സ്ഥലമാണെന്ന് തോന്നുന്നു  (file_4666)
+Words: 3 Correct: 2 Errors: 2 Percent correct = 66.67% Error = 66.67% Accuracy = 33.33%
+Insertions: 1 Deletions: 0 Substitutions: 1
+***            വേറെയാരുമില്ലാ  (file_4667)
+വേറെയാരുമില്ലേ ആണ്             (file_4667)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+വേറെയെന്തെങ്കിലും കിട്ടുകയാണെങ്കിൽ ഞാനത്     ചെയ്യും  (file_4668)
+***               പാരിസിൽ          കിട്ടിയാൽ പാർസൽ    (file_4668)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+***   വേറെയെന്തെങ്കിലും വേണോ  (file_4669)
+വേണ്ട യുപിയിലും         വേണം  (file_4669)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+വേറെ ഏതിലൂടെ വരാനാണ്  (file_4670)
+വേറെ ഏതിലൂടെ വരാനാണ്  (file_4670)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേറെ പെണ്‍കുട്ടികളെല്ലാം ഡാൻസ് കളിക്കുന്നുണ്ടല്ലോ  (file_4671)
+***  ചാർജിംഗിലല്ല        ഫൈസൽ  കണ്ടു               (file_4671)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+വേലിയുടെ പുറത്ത് വച്ച് ഞങ്ങളെ   വിട്ടിരുന്നെങ്കില്‍  (file_4672)
+***      ***     വേണ്ട തിരിച്ചു കണ്ടുപിടിക്കും       (file_4672)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 3
+വേശ്യ    (file_4673)
+ഉദ്ദേശം  (file_4673)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വോൾഫ് ഒരു ഭൗതിക ശാസ്ത്രജ്ഞനാണ്  (file_4674)
+വോൾഫ് ഒരു ഭൗതിക ശാസ്ത്രജ്ഞനാണ്  (file_4674)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വേർപെടുത്തുക  (file_4675)
+വേര്‍പെടും    (file_4675)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വൈകിയാണല്ലോ വരവ് കൂപര്‍    (file_4676)
+പേടിയായത്   അവൾ  കൂപ്പര്‍  (file_4676)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+വൈൻ   (file_4677)
+വേഗം  (file_4677)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വൊവ്മിയ  ബെല്ലാ    (file_4678)
+ജോലിയാണ് നിന്നാണ്  (file_4678)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വോള്‍ഫിനെ കാണാനുള്ള ചെറിയ സാധ്യതപോലും  (file_4679)
+വോള്‍ഫിനെ കാണാനുള്ള ചെറിയ സാധ്യതപോലും  (file_4679)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വോവ് റാണി നിന്‍റെ അച്ഛന്‍ ഇത്രേ  സുന്ദരനാണെന്ന്  (file_4680)
+***  ***  വാവാ    നിരാശ   എന്‍റെ ഡൊണാൾഡ്        (file_4680)
+Words: 6 Correct: 0 Errors: 6 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 4
+വ്യക്തമായി   (file_4681)
+ചെക്കൻമാരും  (file_4681)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വ്യക്തമായ സന്ദേശങ്ങള്‍ അയക്കുന്നു  (file_4682)
+ദൈവമേ     സന്ദേശങ്ങള്‍ കണ്ടു       (file_4682)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+വ്യക്തിപരമായ ഒരു    തീരുമാനം         നിങ്ങള്‍ക്കെടുക്കേണ്ടിവരും  (file_4683)
+വിചിത്രമായ   സ്ഫടിക പ്രാര്‍ത്ഥിക്കണം കണ്ടുപിടിക്കും              (file_4683)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+വൗ  ഓ          (file_4684)
+*** താക്കോല്‍  (file_4684)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+വർമ്മയുടെ വീടാണ്വീട്   മുഴുവൻ പിങ്ക് കളറാണ്   (file_4685)
+***       സമാഹരിക്കാന് എവിടെ  ഒഴികെ  കിട്ടും  (file_4685)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+വർമ്മ ആന്‍റിയെ പാരിസിൽ വെച്ച് കാണണം  (file_4686)
+വർമ്മ ആന്‍റിയെ പാരിസിൽ വെച്ച് കാണാം  (file_4686)
+Words: 5 Correct: 4 Errors: 1 Percent correct = 80.00% Error = 20.00% Accuracy = 80.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+വർഷം  (file_4687)
+വർഷം  (file_4687)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+വർഷം മുൻപാണ്‌ ഇത്          കാണപ്പെട്ടത്  (file_4688)
+***  ***      സംഭാഷണങ്ങള്‍ കിടപ്പു       (file_4688)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+വർഷങ്ങൾ പുറകോട്ട്  (file_4689)
+പക്ഷെ   അവരൊക്കെ   (file_4689)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***   വർഷത്തിനുള്ളിൽ  (file_4690)
+പക്ഷെ കിട്ടും         (file_4690)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ശക്തമായ ഗുരുത്വബലം ഉണ്ട്      (file_4691)
+ശക്തമായ ***        ഒരിക്കലും  (file_4691)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ശതമാനം  (file_4692)
+ശതമാനം  (file_4692)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശതമാനം നിനക്ക് അറിയില്ല എന്നാണോ          (file_4693)
+***    ***     സംശയമാണ് പിന്നതാരുടേതാണ്  (file_4693)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ശതമാനം നിനക്ക് അറിയില്ല എന്നോ     (file_4694)
+ശതമാനം ***     ***      അധികനേരം  (file_4694)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 2 Substitutions: 1
+ശതമാനമാക്കിയിരിക്കുന്നു  (file_4695)
+ശതമാനമാക്കിയിരിക്കുന്നു  (file_4695)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശനിയിലേക്ക് പതിനാല് മാസം  (file_4696)
+ശനിയിലേക്ക് പതിനാല് മാസം  (file_4696)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശനിയുടെ അടുത്തുനിന്നും കണ്ടെത്തിയതാണത്  (file_4697)
+***     ശരിയാണെങ്കില്‍ കണ്ടെത്തിയതാണ്   (file_4697)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ശനിയുടെ സമീപത്ത്   (file_4698)
+ചില     സിക്കന്ദർ  (file_4698)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***        ശമ്പളം കൊടുക്കാനോ  (file_4699)
+ക്ഷമിക്കണം ഒരു    കാര്യം      (file_4699)
+Words: 2 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 150.00% Accuracy = -50.00%
+Insertions: 1 Deletions: 0 Substitutions: 2
+ശരി അപ്പോൾ നീ  പാരിസിലെന്താണ് ചെയ്യുന്നത്  (file_4700)
+ശരി ***    *** പൊടിക്കാറ്റാണ് ചെയ്തു       (file_4700)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ശരി കൂട്ടരേ  (file_4701)
+ശരി വരും     (file_4701)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശരിക്കും  (file_4702)
+ചിന്‍റു   (file_4702)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+*** ശരിക്കും ഇപ്പോൾ നിങ്ങള്‍ക്ക് വയസ്സുണ്ട്  (file_4703)
+ശരി നന്ദി    പണികള്‍ ഫോഴ്സ്       അത്         (file_4703)
+Words: 4 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 125.00% Accuracy = -25.00%
+Insertions: 1 Deletions: 0 Substitutions: 4
+ശരിക്കും ഇല്ല     (file_4704)
+ശരിക്കും കിട്ടും  (file_4704)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശരിക്കും പേടിച്ചു  (file_4705)
+ശരിക്കും പേടിച്ചു  (file_4705)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+*** ശരിയല്ലേ        (file_4706)
+ഓഹ് ശരിയാണെങ്കില്‍  (file_4706)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ശരിയാക്കുക എന്നത്  (file_4707)
+ശരി        അതായതു  (file_4707)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+***     ശരിയാക്കുന്നതിന്ന്  (file_4708)
+ശരിയാണ് വരും                (file_4708)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ശരിയാണെങ്കില്‍ എനിക്കൊരു സൂചന            തരിക    (file_4709)
+***            ശരിയാണ്   തെറ്റിദ്ധരിച്ചു കുക്കർ  (file_4709)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ശരിയാണ്  (file_4710)
+ശരിയാണ്  (file_4710)
+Words: 1 Correct: 1 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശരിയാണ് അത് ആദ്യം മരിച്ചിരുന്നു  (file_4711)
+ശരിയാണ് *** റാണി  മരിച്ചു        (file_4711)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ശരിയാണ് ആരോടും ഒരു ബന്ധവും ഇല്ല എന്‍റെ അച്ഛന്‍ ഒഴികെ      (file_4712)
+ശരിയാണ് ആരോടും ഒരു ബന്ധവും ***  ***    ***     കുടിച്ചാൽ  (file_4712)
+Words: 8 Correct: 4 Errors: 4 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 3 Substitutions: 1
+ശരിയാണ് പക്ഷേ ജീവനില്ല തരിശാണ്  (file_4713)
+ശരിയാണ് പക്ഷേ ചിരി     ആവശ്യം   (file_4713)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ശരിയായിട്ടില്ലേ  (file_4714)
+ശരിയാണെങ്കില്‍   (file_4714)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശരിയായി അതിനു നേരെ ലക്ഷ്യം വെക്ക്      (file_4715)
+ശരിയാണ് അത്   നേരെ ***     ക്ഷമിക്കണം  (file_4715)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ശരിയായ അഡ്രെസ്സ് തന്നെയാവും  (file_4716)
+ശരിയായ അഡ്രെസ്സ് തന്നെയാവും  (file_4716)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശരിയായ കാര്യം വിശ്വസിക്കരുത്  (file_4717)
+ശരിയായ കാര്യം വിശ്വസിക്കരുത്  (file_4717)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശരിയായ രീതിയിലാണ്‌  (file_4718)
+ശരിയായ രീതിയിലാണ്‌  (file_4718)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+***    ശരിശരി  (file_4719)
+ഭക്ഷണം ശരി     (file_4719)
+Words: 1 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 200.00% Accuracy = -100.00%
+Insertions: 1 Deletions: 0 Substitutions: 1
+ശരി      (file_4720)
+ചെയ്യും  (file_4720)
+Words: 1 Correct: 0 Errors: 1 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശരി   അങ്ങനെ  (file_4721)
+ഹിംഗ് അവളെ    (file_4721)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ശരി അടുത്ത വർഷവും ഒന്നും നടന്നില്ലെങ്ങിൽ നമ്മൾ  വീണ്ടും   കാത്തിരിക്കുന്നു  (file_4722)
+*** ***    ***    ചിരി   സന്തോഷംകൊണ്ട്   നിന്റെ കണ്ടതില്‍ ആര്‍ക്കും         (file_4722)
+Words: 8 Correct: 0 Errors: 8 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 3 Substitutions: 5
+ശരി അതായതു ഇവിടെ       (file_4723)
+ശരി ***    എന്താണവിടെ  (file_4723)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ശരി അതിനിയും  സംഭവിച്ചാല്‍ ഉറക്കെ   (file_4724)
+ശരി സത്യസന്ധത ഞാന്‍        അവന്‍റെ  (file_4724)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 0 Substitutions: 3
+ശരി അവർക്ക് കഴിയുമെങ്കിൽ  (file_4725)
+ശരി ***     അതുകഴിഞ്ഞ്    (file_4725)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ശരി ആസ്വദിച്ചോളു  (file_4726)
+ശരി ആസ്വദിച്ചോളു  (file_4726)
+Words: 2 Correct: 2 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശരി കുപെർ    പറഞ്ഞതാണ്‌ ശരി  (file_4727)
+ശരി കൂപ്പര്‍ അവരാണ്     ശരി  (file_4727)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ശരി കൂപ്പര്‍  (file_4728)
+ശരി പോവണം     (file_4728)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശരി ഞങ്ങൾ എല്ലാം തയ്യാറായിരിക്കുന്നു  (file_4729)
+ശരി ***   ഞാന്‍  ബട്ടണമര്‍ത്തിയാല്‍   (file_4729)
+Words: 4 Correct: 1 Errors: 3 Percent correct = 25.00% Error = 75.00% Accuracy = 25.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ശരി ഞാനൊന്ന്    നോക്കെട്ടെ  (file_4730)
+*** ചിരിക്കാന്‍ നോക്കി     (file_4730)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ശരി ഞാന്‍ പിന്നെ തിരിച്ചു വിളിക്കാം       (file_4731)
+ശരി ***   ***    പണം      കണ്ടുപിടിക്കും  (file_4731)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ശരി ഞാന്‍ പോകട്ട്  ഡാഡ്‌     നിങ്ങള്‍  (file_4732)
+*** ***   സൂചിയുടെ പോകുകയാണ് നിങ്ങള്‍  (file_4732)
+Words: 5 Correct: 1 Errors: 4 Percent correct = 20.00% Error = 80.00% Accuracy = 20.00%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ശരി ഞാന്‍ ശ്രദ്ധിച്ചില്ലനീ ശ്രദ്ധിക്കണം ഞാന്‍    നിന്നോട്  (file_4733)
+ശരി ***   വര്‍ഷത്തില്‍     ക്ഷമിക്കണം   കാണുന്നു കണ്ടു     (file_4733)
+Words: 6 Correct: 1 Errors: 5 Percent correct = 16.67% Error = 83.33% Accuracy = 16.67%
+Insertions: 0 Deletions: 1 Substitutions: 4
+ശരി തന്നെ ടോം എന്നാല്‍ നിങ്ങള്‍ മർഫിന്റെ  (file_4734)
+*** ചില   നേരം നിങ്ങള്‍ നിങ്ങള്‍ മർഫിന്റെ  (file_4734)
+Words: 6 Correct: 2 Errors: 4 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 3
+ശരി നന്ദി     (file_4735)
+*** ചേർക്കണം  (file_4735)
+Words: 2 Correct: 0 Errors: 2 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ശരി നന്ദി സർ        (file_4736)
+ശരി ***   പാരിസാണ്  (file_4736)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ശരി നമുക്കൊരുമിച്ച് ചെയ്യാം    (file_4737)
+ശരി നമുക്ക്         അടച്ചിടും  (file_4737)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ശരി നമുക്ക് അത് ഉപേക്ഷിക്കാം  (file_4738)
+ശരി നമുക്ക് അത് ഉപേക്ഷിക്കാം  (file_4738)
+Words: 4 Correct: 4 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശരി നമുക്ക് ഈ   കാര്യങ്ങള്‍ നേരത്തെ ബുദ്ധിയിൽ ഉദിച്ചു        (file_4739)
+*** ***     *** ***         വേഗം    കൈകാര്യം  അതേക്കുറിച്ച്  (file_4739)
+Words: 7 Correct: 0 Errors: 7 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 4 Substitutions: 3
+ശരി നിയന്ത്രണം ഏറ്റെടുക്കുന്നു  (file_4740)
+ശരി ഇവിടെ      രണ്ടുപേരും       (file_4740)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 0 Substitutions: 2
+ശരി പക്ഷേ അത് പ്രവര്‍ത്തിക്കുന്നില്ല  (file_4741)
+ശരി പക്ഷേ *** ആവര്‍ത്തിക്കുന്നു       (file_4741)
+Words: 4 Correct: 2 Errors: 2 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 1 Substitutions: 1
+ശരി പക്ഷേ നീ  ഒരു കാര്യം    അറിഞ്ഞിരിക്കണം  (file_4742)
+ശരി പക്ഷേ *** *** ജോലിക്കാർ കാണിക്കാം       (file_4742)
+Words: 6 Correct: 2 Errors: 4 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 2 Substitutions: 2
+ശരി മുര്‍ഫ്  (file_4743)
+ശരി മര്‍ഫ്   (file_4743)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശരി മോര്‍സ് ഡോട്ട്ഡോട്ട്ഡാഷ്ഡോട്ട്  (file_4744)
+ശരി മോര്‍സ് ***                     (file_4744)
+Words: 3 Correct: 2 Errors: 1 Percent correct = 66.67% Error = 33.33% Accuracy = 66.67%
+Insertions: 0 Deletions: 1 Substitutions: 0
+ശരി വിവരങ്ങള്‍ കൈമാറുന്നു  (file_4745)
+ശരി വിവരങ്ങള്‍ കൈമാറുന്നു  (file_4745)
+Words: 3 Correct: 3 Errors: 0 Percent correct = 100.00% Error = 0.00% Accuracy = 100.00%
+Insertions: 0 Deletions: 0 Substitutions: 0
+ശരി ശരി    എല്ലാരും മാസ്ക് ഇട്      (file_4746)
+*** ശരിശരി നാലു     മാസം   കേൾക്ക്  (file_4746)
+Words: 5 Correct: 0 Errors: 5 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 4
+ശരി        എല്ലാവരും ഹെൽമറ്റ് ധരിക്കുക  (file_4747)
+സംശയമുണ്ട് അയാളുടെ   എന്‍റെ   പോകണം     (file_4747)
+Words: 4 Correct: 0 Errors: 4 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 0 Substitutions: 4
+ശരി ചെയ്യാം  (file_4748)
+ശരി കിട്ടും  (file_4748)
+Words: 2 Correct: 1 Errors: 1 Percent correct = 50.00% Error = 50.00% Accuracy = 50.00%
+Insertions: 0 Deletions: 0 Substitutions: 1
+ശര  ഏതു വേണം    (file_4749)
+*** ശരി കേടാണ്  (file_4749)
+Words: 3 Correct: 0 Errors: 3 Percent correct = 0.00% Error = 100.00% Accuracy = 0.00%
+Insertions: 0 Deletions: 1 Substitutions: 2
+ശവസംസ്കാരത്തിന് മുര്‍ഫ് വന്നിരുന്നു             (file_4750)
+ശവസംസ്കാരത്തിന് ***     കൊണ്ടുവന്നിരിക്കുന്നത്  (file_4750)
+Words: 3 Correct: 1 Errors: 2 Percent correct = 33.33% Error = 66.67% Accuracy = 33.33%
+Insertions: 0 Deletions: 1 Substitutions: 1
+TOTAL Words: 736 Correct: 213 Errors: 553
+TOTAL Percent correct = 28.94% Error = 75.14% Accuracy = 24.86%
+TOTAL Insertions: 30 Deletions: 127 Substitutions: 396
