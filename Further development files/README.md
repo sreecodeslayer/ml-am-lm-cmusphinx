@@ -1,6 +1,11 @@
 # About this directory
 
-This is the Base folder for the Google Summer of Code 2016
+This is the Base folder for the Google Summer of Code 2016.<br>
+<i>The project aims in creating a Language Model and Acoustic Model for Malayalam language for using the same with CMU Sphinx Speech Recognition System.</i> The project was started from scratch collecting the text data from various film subtitles in Malayalam, preparing corpus file out of it.
+For those who are new to CMU Sphinx can take a look at here for familiarization : http://cmusphinx.sourceforge.net/ <br>
+For those who wats to develop your own and you need a reference, read on. If you want to know how I completed this, you can read my blog posts on Medium here: http://www.medium.com/@imsreenadh
+
+Let me walk you through the project directory setup now.
 
 ### ```AM``` and ```LM``` are the training folders.
   These folders can be used to train your own models after adding more data respectively. 
