@@ -1,7 +1,9 @@
 # About this directory
 
 This is the Base folder for the Google Summer of Code 2016.<br>
-<i>The project aims in creating a Language Model and Acoustic Model for Malayalam language for using the same with CMU Sphinx Speech Recognition System.</i> The project was started from scratch collecting the text data from various film subtitles in Malayalam, preparing corpus file out of it.
+<i>The project aims in creating a Language Model and Acoustic Model for Malayalam language for using the same with CMU Sphinx Speech Recognition System.</i> The project was started from scratch collecting the text data from various film subtitles in Malayalam, preparing corpus file out of it.<br>
+#### Reason for film subtitles : 
+The reason film sutitles from [here](http://www.malayalamsubtitles.com/) were used is because, snce these are dialogues. This means most of the natural way of speaking is bound to be present, which makes sorting out the required words for constructing the dictionary becomes a litlle bit easier.<br>
 For those who are new to CMU Sphinx can take a look at here for familiarization : http://cmusphinx.sourceforge.net/ <br>
 For those who wats to develop your own and you need a reference, read on. If you want to know how I completed this, you can read my blog posts on Medium here: http://www.medium.com/@imsreenadh
 
